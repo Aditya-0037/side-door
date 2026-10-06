@@ -1,12 +1,13 @@
 import logging
 import traceback
 from datetime import date
+from pathlib import Path
 
 import httpx
 import pytest
 import respx
 
-from backend.qloo.cache import DiskCache, MemoryCache
+from backend.qloo.cache import DiskCache, MemoryCache, prime_from_fixtures
 from backend.qloo.client import (
     BASE_URL, BudgetExceeded, BudgetGuard, QlooClient, QlooError, QlooHTTPError, QlooRateLimited, TokenBucket,
 )
@@ -184,6 +185,18 @@ def test_api_key_never_leaks(caplog):
     assert FAKE_KEY not in repr(client)
     assert FAKE_KEY not in caplog.text
     assert all(FAKE_KEY not in k for k in client.cache.keys())
+
+
+def test_fixtures_prime_the_cache_so_no_call_is_made():
+    clock = FakeClock()
+    fixtures = Path(__file__).parent / "fixtures"
+    with respx.mock(base_url=BASE_URL, assert_all_called=False) as mock:
+        route = mock.get("/search").mock(return_value=httpx.Response(500))
+        client = make_client(clock)
+        assert prime_from_fixtures(client.cache, [fixtures / "k1-max-verstappen.json"], "/search", 60) == 1
+        hits = client.search("Max Verstappen", types="urn:entity:person", take=5)
+    assert hits[0].disambiguation == "1997-09-30"
+    assert route.call_count == 0
 
 
 def test_missing_key_is_a_clear_error(monkeypatch):

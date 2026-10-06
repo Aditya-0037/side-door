@@ -1,0 +1,2101 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Mohamed Salah",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Mohamed Salah",
+        "entity_id": "C5E59A12-DB26-438F-90D8-565F45D02596",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "u",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "m",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "k",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "r",
+              "value": "Салах, Мохаммед"
+            },
+            {
+              "language": "u",
+              "value": "Салах, Мохаммед"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Möhämmäd Salah"
+            },
+            {
+              "language": "t",
+              "value": "Möhämmäd Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "f",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "o",
+              "value": "ମହମ୍ମଦ ସଲାହ"
+            },
+            {
+              "language": "r",
+              "value": "ମହମ୍ମଦ ସଲାହ"
+            },
+            {
+              "language": "n",
+              "value": "मोहम्मद सलहा"
+            },
+            {
+              "language": "e",
+              "value": "मोहम्मद सलहा"
+            },
+            {
+              "language": "d",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah Haamid Ghaly"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah Haamid Ghaly"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "The Pharaoh"
+            },
+            {
+              "language": "d",
+              "value": "The Pharaoh"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "k",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "p",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "j",
+              "value": "モハメド・サラー"
+            },
+            {
+              "language": "a",
+              "value": "モハメド・サラー"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "u",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "q",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "h",
+              "value": "Muhammad Salah"
+            },
+            {
+              "language": "a",
+              "value": "Muhammad Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohameds Salāhs"
+            },
+            {
+              "language": "v",
+              "value": "Mohameds Salāhs"
+            },
+            {
+              "language": "s",
+              "value": "Laacibka liverpool"
+            },
+            {
+              "language": "o",
+              "value": "Laacibka liverpool"
+            },
+            {
+              "language": "g",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "k",
+              "value": "마함마드 살라흐"
+            },
+            {
+              "language": "o",
+              "value": "마함마드 살라흐"
+            },
+            {
+              "language": "r",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "u",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "p",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "h",
+              "value": "Mohamed Szaláh"
+            },
+            {
+              "language": "u",
+              "value": "Mohamed Szaláh"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "k",
+              "value": "მოჰამედ სალაჰი"
+            },
+            {
+              "language": "a",
+              "value": "მოჰამედ სალაჰი"
+            },
+            {
+              "language": "g",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "l",
+              "value": "Mahometus Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mahometus Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "h",
+              "value": "मोहम्मद सलाह"
+            },
+            {
+              "language": "i",
+              "value": "मोहम्मद सलाह"
+            },
+            {
+              "language": "s",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "r",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "c",
+              "value": "Мохьмад Салехь"
+            },
+            {
+              "language": "e",
+              "value": "Мохьмад Салехь"
+            },
+            {
+              "language": "u",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "k",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "j",
+              "value": "Mohaméd Salah"
+            },
+            {
+              "language": "v",
+              "value": "Mohaméd Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "w",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "n",
+              "value": "محمد صلاح حامد غالي"
+            },
+            {
+              "language": "l",
+              "value": "محمد صلاح حامد غالي"
+            },
+            {
+              "language": "h",
+              "value": "Մուհամեդ Սալահ"
+            },
+            {
+              "language": "y",
+              "value": "Մուհամեդ Սալահ"
+            },
+            {
+              "language": "a",
+              "value": "Məhəmməd Salah"
+            },
+            {
+              "language": "z",
+              "value": "Məhəmməd Salah"
+            },
+            {
+              "language": "h",
+              "value": "מוחמד סלאח"
+            },
+            {
+              "language": "e",
+              "value": "מוחמד סלאח"
+            },
+            {
+              "language": "p",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "m",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "o",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "ໂມຮາເມັດ ຊາລາ"
+            },
+            {
+              "language": "o",
+              "value": "ໂມຮາເມັດ ຊາລາ"
+            },
+            {
+              "language": "k",
+              "value": "무함마드 살라흐"
+            },
+            {
+              "language": "o",
+              "value": "무함마드 살라흐"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "o",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "m",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "r",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "f",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "a",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "f",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "b",
+              "value": "Махамед Салах"
+            },
+            {
+              "language": "e",
+              "value": "Махамед Салах"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "z",
+              "value": "穆罕默德·薩拉赫"
+            },
+            {
+              "language": "h",
+              "value": "穆罕默德·薩拉赫"
+            },
+            {
+              "language": "a",
+              "value": "مو صلاح"
+            },
+            {
+              "language": "r",
+              "value": "مو صلاح"
+            },
+            {
+              "language": "i",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "t",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "q",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "u",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "f",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "มุฮัมมัด เศาะลาห์"
+            },
+            {
+              "language": "h",
+              "value": "มุฮัมมัด เศาะลาห์"
+            },
+            {
+              "language": "g",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "o",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "o",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "b",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "g",
+              "value": "Мохамед Салах"
+            },
+            {
+              "language": "s",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "w",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "u",
+              "value": "Muhammad Salah"
+            },
+            {
+              "language": "z",
+              "value": "Muhammad Salah"
+            },
+            {
+              "language": "p",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "b",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "g",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "h",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "m",
+              "value": "മുഹമ്മദ് സലാ"
+            },
+            {
+              "language": "l",
+              "value": "മുഹമ്മദ് സലാ"
+            },
+            {
+              "language": "r",
+              "value": "Мохаммед Салах"
+            },
+            {
+              "language": "u",
+              "value": "Мохаммед Салах"
+            },
+            {
+              "language": "k",
+              "value": "모하메드 살라"
+            },
+            {
+              "language": "o",
+              "value": "모하메드 살라"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "t",
+              "value": "Muhammed Salah Hamid Mahrus Gali"
+            },
+            {
+              "language": "r",
+              "value": "Muhammed Salah Hamid Mahrus Gali"
+            },
+            {
+              "language": "s",
+              "value": "Maxamed Saalax"
+            },
+            {
+              "language": "o",
+              "value": "Maxamed Saalax"
+            },
+            {
+              "language": "z",
+              "value": "穆罕默德·沙拿"
+            },
+            {
+              "language": "h",
+              "value": "穆罕默德·沙拿"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "w",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "k",
+              "value": "Мохаммед Салах"
+            },
+            {
+              "language": "k",
+              "value": "Мохаммед Салах"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah Ghaly"
+            },
+            {
+              "language": "u",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "r",
+              "value": "محمد صلاح"
+            },
+            {
+              "language": "p",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "z",
+              "value": "穆罕默德·萨拉赫"
+            },
+            {
+              "language": "h",
+              "value": "穆罕默德·萨拉赫"
+            },
+            {
+              "language": "e",
+              "value": "Μοχάμεντ Σαλάχ"
+            },
+            {
+              "language": "l",
+              "value": "Μοχάμεντ Σαλάχ"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Maxamed saalax"
+            },
+            {
+              "language": "o",
+              "value": "Maxamed saalax"
+            },
+            {
+              "language": "r",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "o",
+              "value": "Mohamed Salah Hamed Mahrous Ghaly"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "q",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Muhammed Salah"
+            },
+            {
+              "language": "r",
+              "value": "Muhammed Salah"
+            },
+            {
+              "language": "b",
+              "value": "মোহাম্মদ সালাহ"
+            },
+            {
+              "language": "n",
+              "value": "মোহাম্মদ সালাহ"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "b",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "p",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "f",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "h",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "u",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "t",
+              "value": "முகமது சாலா"
+            },
+            {
+              "language": "a",
+              "value": "முகமது சாலா"
+            },
+            {
+              "language": "t",
+              "value": "Муҳаммад Салоҳ"
+            },
+            {
+              "language": "g",
+              "value": "Муҳаммад Салоҳ"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "c",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "y",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "d",
+              "value": "Mo Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mosalah"
+            },
+            {
+              "language": "o",
+              "value": "Mosalah"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "mosalah"
+            },
+            "twitter": {
+              "id": "MoSalah"
+            },
+            "library_of_congress": {
+              "id": "n2019007296"
+            }
+          },
+          "citizenship": [
+            "Egypt"
+          ],
+          "date_of_birth": "1992-06-15",
+          "image": {
+            "url": "https://images.qloo.com/i/C5E59A12-DB26-438F-90D8-565F45D02596-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "spouse": [
+            "Magy Mohammed Sadek"
+          ],
+          "member_of_sports_team": [
+            "Chelsea F.C.",
+            "FC Basel",
+            "A.S. Roma",
+            "Liverpool F.C.",
+            "Al Mokawloon Al Arab SC",
+            "Egypt national football team",
+            "ACF Fiorentina"
+          ],
+          "work_period_start": "2010-05-03",
+          "short_description": "Egyptian association football player"
+        },
+        "popularity": 0.9996140507278677,
+        "disambiguation": "1992-06-15",
+        "tags": [
+          {
+            "name": "Egyptian Muslims",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_muslims",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_muslims"
+          },
+          {
+            "name": "Egypt Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egypt_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egypt_mens_youth_international_footballers"
+          },
+          {
+            "name": "Footballers At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics"
+          },
+          {
+            "name": "Egyptian Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_premier_league_players"
+          },
+          {
+            "name": "Egyptian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "African Footballer Of The Year Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_footballer_year_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_footballer_year_winners"
+          },
+          {
+            "name": "Egyptian Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "As Roma Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:as_roma_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:as_roma_players"
+          },
+          {
+            "name": "First Division/premier League Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers"
+          },
+          {
+            "name": "Egyptian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_mens_footballers"
+          },
+          {
+            "name": "2017 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2017_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2017_africa_cup_nations_players"
+          },
+          {
+            "name": "2021 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2021_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2021_africa_cup_nations_players"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Fc Basel Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_basel_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_basel_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Egypt Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egypt_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egypt_mens_international_footballers"
+          },
+          {
+            "name": "Olympic Footballers For Egypt",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_egypt",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_egypt"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_switzerland"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy"
+          },
+          {
+            "name": "2023 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2023_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2023_africa_cup_nations_players"
+          },
+          {
+            "name": "Serie A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serie_a_players"
+          },
+          {
+            "name": "Al Mokawloon Al Arab Sc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mokawloon_arab_sc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mokawloon_arab_sc_players"
+          },
+          {
+            "name": "2019 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_africa_cup_nations_players"
+          },
+          {
+            "name": "Liverpool F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players"
+          },
+          {
+            "name": "Egyptian Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Fifa Mens Century Club",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club"
+          },
+          {
+            "name": "Egyptian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Mens Association Football Wingers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers"
+          },
+          {
+            "name": "Engvarb From January 2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2024"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Acf Fiorentina Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:acf_fiorentina_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:acf_fiorentina_players"
+          },
+          {
+            "name": "People From Gharbia Governorate",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_gharbia_governorate",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_gharbia_governorate"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Swiss Super League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swiss_super_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swiss_super_league_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          }
+        ]
+      },
+      {
+        "name": "César Huerto",
+        "entity_id": "B0FC755E-791E-4E3D-86ED-BEF50F96F6BC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "César Huerta"
+            },
+            {
+              "language": "a",
+              "value": "César Huerta"
+            },
+            {
+              "language": "e",
+              "value": "César Huerta"
+            },
+            {
+              "language": "s",
+              "value": "César Huerta"
+            },
+            {
+              "language": "p",
+              "value": "César Huerta"
+            },
+            {
+              "language": "l",
+              "value": "César Huerta"
+            },
+            {
+              "language": "s",
+              "value": "César Huerta"
+            },
+            {
+              "language": "l",
+              "value": "César Huerta"
+            },
+            {
+              "language": "n",
+              "value": "César Huerta"
+            },
+            {
+              "language": "l",
+              "value": "César Huerta"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah mexicano,"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah mexicano,"
+            },
+            {
+              "language": "i",
+              "value": "César Huerta"
+            },
+            {
+              "language": "t",
+              "value": "César Huerta"
+            },
+            {
+              "language": "e",
+              "value": "chino huerta"
+            },
+            {
+              "language": "s",
+              "value": "chino huerta"
+            },
+            {
+              "language": "p",
+              "value": "César Huerta"
+            },
+            {
+              "language": "t",
+              "value": "César Huerta"
+            },
+            {
+              "language": "c",
+              "value": "César Huerta"
+            },
+            {
+              "language": "a",
+              "value": "César Huerta"
+            },
+            {
+              "language": "r",
+              "value": "Сесар Уэрта"
+            },
+            {
+              "language": "u",
+              "value": "Сесар Уэрта"
+            },
+            {
+              "language": "d",
+              "value": "César Huerta"
+            },
+            {
+              "language": "e",
+              "value": "César Huerta"
+            },
+            {
+              "language": "a",
+              "value": "سيزار هويرتا"
+            },
+            {
+              "language": "r",
+              "value": "سيزار هويرتا"
+            },
+            {
+              "language": "e",
+              "value": "Chino Huerta"
+            },
+            {
+              "language": "n",
+              "value": "Chino Huerta"
+            },
+            {
+              "language": "f",
+              "value": "César Huerta"
+            },
+            {
+              "language": "r",
+              "value": "César Huerta"
+            },
+            {
+              "language": "r",
+              "value": "Уэрта, Сесар"
+            },
+            {
+              "language": "u",
+              "value": "Уэрта, Сесар"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Mexico"
+          ],
+          "date_of_birth": "2000-12-03",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "C.D. Guadalajara"
+          ],
+          "work_period_start": "2018-01-01",
+          "short_description": "Mexican association football player"
+        },
+        "popularity": 0.6450843108902926,
+        "disambiguation": "2000-12-03",
+        "tags": [
+          {
+            "name": "Liga De Expansión Mx Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_expansion_mx_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_expansion_mx_players"
+          },
+          {
+            "name": "C.d. Guadalajara Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_d_guadalajara_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_d_guadalajara_footballers"
+          },
+          {
+            "name": "Mexico Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexico_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexico_mens_international_footballers"
+          },
+          {
+            "name": "Atlético Zacatepec Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atletico_zacatepec_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atletico_zacatepec_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Ascenso Mx Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ascenso_mx_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ascenso_mx_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "2024 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players"
+          },
+          {
+            "name": "Mexico Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexico_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexico_mens_youth_international_footballers"
+          },
+          {
+            "name": "Mexican Football Midfielder Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_football_midfielder_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_football_midfielder_stubs"
+          },
+          {
+            "name": "Atlético Morelia Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atletico_morelia_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atletico_morelia_players"
+          },
+          {
+            "name": "Liga Mx Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_mx_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_mx_players"
+          },
+          {
+            "name": "Mexican Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_mens_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Ahmad Elsakka",
+        "entity_id": "F7A95961-0706-4607-805D-EA1EAFA4AE63",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "أحمد السقا"
+            },
+            {
+              "language": "r",
+              "value": "أحمد السقا"
+            },
+            {
+              "language": "n",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "l",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "p",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "t",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "k",
+              "value": "아흐메드 엘사카"
+            },
+            {
+              "language": "o",
+              "value": "아흐메드 엘사카"
+            },
+            {
+              "language": "f",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "i",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "d",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "e",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "z",
+              "value": "艾哈迈德·萨卡"
+            },
+            {
+              "language": "h",
+              "value": "艾哈迈德·萨卡"
+            },
+            {
+              "language": "e",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "s",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "e",
+              "value": "Ahmed Mohamed Salah El Din El Sakka"
+            },
+            {
+              "language": "n",
+              "value": "Ahmed Mohamed Salah El Din El Sakka"
+            },
+            {
+              "language": "i",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "g",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "s",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "l",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "g",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "a",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "i",
+              "value": "Ahmed El-Sakka"
+            },
+            {
+              "language": "t",
+              "value": "Ahmed El-Sakka"
+            },
+            {
+              "language": "s",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "q",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "f",
+              "value": "احمد السقا"
+            },
+            {
+              "language": "a",
+              "value": "احمد السقا"
+            },
+            {
+              "language": "e",
+              "value": "Ahmad Mohamad Salah El-Din Al-Saqa"
+            },
+            {
+              "language": "s",
+              "value": "Ahmad Mohamad Salah El-Din Al-Saqa"
+            },
+            {
+              "language": "f",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "r",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "c",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "a",
+              "value": "Ahmed El Sakka"
+            },
+            {
+              "language": "a",
+              "value": "أحمد محمد صلاح الدين السقا"
+            },
+            {
+              "language": "r",
+              "value": "أحمد محمد صلاح الدين السقا"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "ahmedelsakaeg"
+            },
+            "twitter": {
+              "id": "ElSaka"
+            },
+            "imdb": {
+              "id": "nm1012570"
+            }
+          },
+          "citizenship": [
+            "Egypt"
+          ],
+          "date_of_birth": "1973-03-01",
+          "image": {
+            "url": "https://images.qloo.com/i/F7A95961-0706-4607-805D-EA1EAFA4AE63-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "short_description": "Egyptian actor"
+        },
+        "popularity": 0.9925799893456257,
+        "disambiguation": "1973-03-01",
+        "tags": [
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "21st-century Egyptian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_egyptian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_egyptian_male_actors"
+          },
+          {
+            "name": "Egyptian Muslims",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_muslims",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_muslims"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Egyptian Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_comedians"
+          },
+          {
+            "name": "Male Actors From Cairo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_cairo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_cairo"
+          },
+          {
+            "name": "Egyptian Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_male_television_actors"
+          },
+          {
+            "name": "History",
+            "tag_id": "urn:tag:genre:media:media:history",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:history"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Egyptian Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_male_film_actors"
+          },
+          {
+            "name": "20th-century Egyptian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_egyptian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_egyptian_male_actors"
+          },
+          {
+            "name": "Film Director",
+            "tag_id": "urn:tag:occupation:person:film_director",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_director"
+          },
+          {
+            "name": "African Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_comedians"
+          },
+          {
+            "name": "Egyptian Male Stage Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:egyptian_male_stage_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:egyptian_male_stage_actors"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          }
+        ]
+      },
+      {
+        "name": "Mohamed Salah",
+        "entity_id": "C8FD336F-7AAA-4007-AC5C-A989F65FB7D0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "q",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "r",
+              "value": "Мухамед Салах"
+            },
+            {
+              "language": "u",
+              "value": "Мухамед Салах"
+            },
+            {
+              "language": "r",
+              "value": "Мухамед Сала"
+            },
+            {
+              "language": "u",
+              "value": "Мухамед Сала"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah (cầu thủ bóng đá người Ấn Độ)"
+            },
+            {
+              "language": "i",
+              "value": "Mohamed Salah (cầu thủ bóng đá người Ấn Độ)"
+            },
+            {
+              "language": "m",
+              "value": "മുഹമദ് സലാ"
+            },
+            {
+              "language": "l",
+              "value": "മുഹമദ് സലാ"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            }
+          ],
+          "external": {},
+          "date_of_birth": "1994-11-07",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "DSK Shivajians F.C."
+          ],
+          "short_description": "association football player"
+        },
+        "disambiguation": "1994-11-07",
+        "tags": [
+          {
+            "name": "I-league Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:i_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:i_league_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Footballers From Kerala",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_kerala",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_kerala"
+          },
+          {
+            "name": "People From Malappuram District",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_malappuram_district",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_malappuram_district"
+          },
+          {
+            "name": "Mens Association Football Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders"
+          },
+          {
+            "name": "Sreenidi Deccan Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sreenidi_deccan_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sreenidi_deccan_fc_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Dsk Shivajians Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dsk_shivajians_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dsk_shivajians_fc_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Gokulam Kerala Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gokulam_kerala_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gokulam_kerala_fc_players"
+          },
+          {
+            "name": "Punjab Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:punjab_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:punjab_fc_players"
+          },
+          {
+            "name": "Indian Football Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_football_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_football_biography_stubs"
+          },
+          {
+            "name": "Indian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_mens_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Mohamed Salah",
+        "entity_id": "20A00137-3D43-41D0-85C1-EC168D004380",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "v",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "d",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "q",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "g",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "a",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "n",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "l",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "e",
+              "value": "Mohamed Salah"
+            },
+            {
+              "language": "s",
+              "value": "Mohamed Salah"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Egypt"
+          ],
+          "gender": [
+            "male"
+          ],
+          "short_description": "Egyptian entomologist"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Entomologist",
+            "tag_id": "urn:tag:occupation:person:entomologist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:entomologist"
+          }
+        ]
+      }
+    ]
+  }
+}

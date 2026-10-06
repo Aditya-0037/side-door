@@ -5,7 +5,7 @@ from __future__ import annotations
 import hashlib
 import json
 import time
-from collections.abc import Callable
+from collections.abc import Callable, Iterable
 from pathlib import Path
 from typing import Any, Protocol
 
@@ -21,6 +21,21 @@ class Cache(Protocol):
 def cache_key(path: str, params: dict[str, str]) -> str:
     """Endpoint + params sorted by name. The API key travels in a header, so it is never part of this."""
     return path + "?" + "&".join(f"{k}={params[k]}" for k in sorted(params))
+
+
+def prime_from_fixtures(cache: Cache, paths: Iterable[Path], endpoint: str, ttl: float) -> int:
+    """Load saved Day-1 responses ({"status", "params", "body"}) into the cache, so identical
+    requests are served without spending quota. Returns how many entries were added."""
+    added = 0
+    for path in paths:
+        fixture = json.loads(Path(path).read_text(encoding="utf-8"))
+        if fixture.get("status") != 200:
+            continue
+        key = cache_key(endpoint, {k: str(v) for k, v in fixture["params"].items()})
+        if cache.get(key) is None:
+            cache.set(key, fixture["body"], ttl)
+            added += 1
+    return added
 
 
 class MemoryCache:

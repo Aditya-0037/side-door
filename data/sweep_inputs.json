@@ -1,0 +1,4217 @@
+{
+ "generated_on": "2026-10-06",
+ "sport": "f1",
+ "qloo_calls": 27,
+ "roster": [
+  {
+   "entity_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
+   "name": "Franco Colapinto",
+   "team": "Alpine F1 Team"
+  },
+  {
+   "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+   "name": "Pierre Gasly",
+   "team": "Alpine F1 Team"
+  },
+  {
+   "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+   "name": "Fernando Alonso",
+   "team": "Aston Martin"
+  },
+  {
+   "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+   "name": "Lance Stroll",
+   "team": "Aston Martin"
+  },
+  {
+   "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+   "name": "Gabriel Bortoleto",
+   "team": "Audi"
+  },
+  {
+   "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+   "name": "Nico Hülkenberg",
+   "team": "Audi"
+  },
+  {
+   "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+   "name": "Sergio Pérez",
+   "team": "Cadillac F1 Team"
+  },
+  {
+   "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+   "name": "Valtteri Bottas",
+   "team": "Cadillac F1 Team"
+  },
+  {
+   "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+   "name": "Charles Leclerc",
+   "team": "Ferrari"
+  },
+  {
+   "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+   "name": "Lewis Hamilton",
+   "team": "Ferrari"
+  },
+  {
+   "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+   "name": "Esteban Ocon",
+   "team": "Haas F1 Team"
+  },
+  {
+   "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+   "name": "Oliver Bearman",
+   "team": "Haas F1 Team"
+  },
+  {
+   "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+   "name": "Lando Norris",
+   "team": "McLaren"
+  },
+  {
+   "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+   "name": "Oscar Piastri",
+   "team": "McLaren"
+  },
+  {
+   "entity_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
+   "name": "Andrea Kimi Antonelli",
+   "team": "Mercedes"
+  },
+  {
+   "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+   "name": "George Russell",
+   "team": "Mercedes"
+  },
+  {
+   "entity_id": "7C71E983-52BB-4273-91A1-570068448979",
+   "name": "Arvid Lindblad",
+   "team": "RB F1 Team"
+  },
+  {
+   "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+   "name": "Liam Lawson",
+   "team": "RB F1 Team"
+  },
+  {
+   "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+   "name": "Isack Hadjar",
+   "team": "Red Bull"
+  },
+  {
+   "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+   "name": "Max Verstappen",
+   "team": "Red Bull"
+  },
+  {
+   "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+   "name": "Alexander Albon",
+   "team": "Williams"
+  },
+  {
+   "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+   "name": "Carlos Sainz",
+   "team": "Williams"
+  }
+ ],
+ "seeds": {
+  "desi-anime-gamer": [
+   {
+    "entity_id": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595",
+    "name": "Spirited Away"
+   },
+   {
+    "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+    "name": "Arijit Singh"
+   },
+   {
+    "entity_id": "38AE774E-F217-4C96-BE77-B3B40A6344E4",
+    "name": "Valorant"
+   }
+  ],
+  "cozy-romantic": [
+   {
+    "entity_id": "A1407445-5676-4874-B796-3D81FDA62468",
+    "name": "Pride & Prejudice"
+   },
+   {
+    "entity_id": "4BBEF799-A0C4-4110-AB01-39216993C312",
+    "name": "Taylor Swift"
+   },
+   {
+    "entity_id": "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB",
+    "name": "The Sims 4"
+   }
+  ],
+  "space-dreamer": [
+   {
+    "entity_id": "057DA9D9-399B-437E-8BCA-A80E499125EF",
+    "name": "Interstellar"
+   },
+   {
+    "entity_id": "B6FA456F-B729-4700-B01F-E82AD3AC8ADA",
+    "name": "Coldplay"
+   },
+   {
+    "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+    "name": "Minecraft"
+   }
+  ],
+  "dark-hiphop": [
+   {
+    "entity_id": "3432C364-C883-4A0D-A76B-99A57E5361E5",
+    "name": "The Dark Knight"
+   },
+   {
+    "entity_id": "B2A31C73-792E-4400-B279-8D43E5B1367B",
+    "name": "Eminem"
+   },
+   {
+    "entity_id": "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD",
+    "name": "Grand Theft Auto V"
+   }
+  ],
+  "gym-rock": [
+   {
+    "entity_id": "94485CC8-A992-4136-B3EC-848E4B6912F9",
+    "name": "Rocky"
+   },
+   {
+    "entity_id": "4C4C1DF8-36F0-4210-B4E8-8CF966A93262",
+    "name": "AC/DC"
+   },
+   {
+    "entity_id": "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002",
+    "name": "Call of Duty"
+   }
+  ],
+  "bollywood-romantic-mobile": [
+   {
+    "entity_id": "661E4E6A-0024-48A0-90D2-5A12E902D4FD",
+    "name": "Dilwale Dulhania Le Jayenge"
+   },
+   {
+    "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+    "name": "Arijit Singh"
+   },
+   {
+    "entity_id": "B75FDF68-3EC7-4018-918E-213A83BF757B",
+    "name": "Garena Free Fire: Rampage"
+   }
+  ],
+  "punjabi-pop-bgmi": [
+   {
+    "entity_id": "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915",
+    "name": "3 Idiots"
+   },
+   {
+    "entity_id": "61861B05-D7E8-454F-B3DB-124A13052808",
+    "name": "AP Dhillon"
+   },
+   {
+    "entity_id": "7CF8323E-7B00-4522-A516-24BAA196F339",
+    "name": "PUBG MOBILE"
+   }
+  ],
+  "indie-cozy": [
+   {
+    "entity_id": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595",
+    "name": "Spirited Away"
+   },
+   {
+    "entity_id": "871AE4FF-0D03-45CE-A6E1-B255607FA3DD",
+    "name": "Prateek Kuhad"
+   },
+   {
+    "entity_id": "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB",
+    "name": "The Sims 4"
+   }
+  ],
+  "horror-hiphop": [
+   {
+    "entity_id": "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD",
+    "name": "The Conjuring"
+   },
+   {
+    "entity_id": "B2A31C73-792E-4400-B279-8D43E5B1367B",
+    "name": "Eminem"
+   },
+   {
+    "entity_id": "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002",
+    "name": "Call of Duty"
+   }
+  ],
+  "horror-rock": [
+   {
+    "entity_id": "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD",
+    "name": "The Conjuring"
+   },
+   {
+    "entity_id": "4C4C1DF8-36F0-4210-B4E8-8CF966A93262",
+    "name": "AC/DC"
+   },
+   {
+    "entity_id": "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD",
+    "name": "Grand Theft Auto V"
+   }
+  ],
+  "classical-romantic": [
+   {
+    "entity_id": "A1407445-5676-4874-B796-3D81FDA62468",
+    "name": "Pride & Prejudice"
+   },
+   {
+    "entity_id": "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1",
+    "name": "Ludovico Einaudi"
+   },
+   {
+    "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+    "name": "Minecraft"
+   }
+  ],
+  "classical-scifi": [
+   {
+    "entity_id": "057DA9D9-399B-437E-8BCA-A80E499125EF",
+    "name": "Interstellar"
+   },
+   {
+    "entity_id": "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1",
+    "name": "Ludovico Einaudi"
+   },
+   {
+    "entity_id": "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB",
+    "name": "The Sims 4"
+   }
+  ],
+  "sporty-mainstream": [
+   {
+    "entity_id": "94485CC8-A992-4136-B3EC-848E4B6912F9",
+    "name": "Rocky"
+   },
+   {
+    "entity_id": "B6FA456F-B729-4700-B01F-E82AD3AC8ADA",
+    "name": "Coldplay"
+   },
+   {
+    "entity_id": "2108A362-6EF1-4A64-8404-FDEB9FFA517F",
+    "name": "EA Sports FC 24"
+   }
+  ],
+  "desi-football-gamer": [
+   {
+    "entity_id": "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915",
+    "name": "3 Idiots"
+   },
+   {
+    "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+    "name": "Arijit Singh"
+   },
+   {
+    "entity_id": "2108A362-6EF1-4A64-8404-FDEB9FFA517F",
+    "name": "EA Sports FC 24"
+   }
+  ],
+  "bollywood-swiftie": [
+   {
+    "entity_id": "661E4E6A-0024-48A0-90D2-5A12E902D4FD",
+    "name": "Dilwale Dulhania Le Jayenge"
+   },
+   {
+    "entity_id": "4BBEF799-A0C4-4110-AB01-39216993C312",
+    "name": "Taylor Swift"
+   },
+   {
+    "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+    "name": "Minecraft"
+   }
+  ],
+  "dark-desi-mobile": [
+   {
+    "entity_id": "3432C364-C883-4A0D-A76B-99A57E5361E5",
+    "name": "The Dark Knight"
+   },
+   {
+    "entity_id": "61861B05-D7E8-454F-B3DB-124A13052808",
+    "name": "AP Dhillon"
+   },
+   {
+    "entity_id": "B75FDF68-3EC7-4018-918E-213A83BF757B",
+    "name": "Garena Free Fire: Rampage"
+   }
+  ],
+  "anime-rap-mobile": [
+   {
+    "entity_id": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595",
+    "name": "Spirited Away"
+   },
+   {
+    "entity_id": "B2A31C73-792E-4400-B279-8D43E5B1367B",
+    "name": "Eminem"
+   },
+   {
+    "entity_id": "B75FDF68-3EC7-4018-918E-213A83BF757B",
+    "name": "Garena Free Fire: Rampage"
+   }
+  ],
+  "soft-indie-student": [
+   {
+    "entity_id": "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915",
+    "name": "3 Idiots"
+   },
+   {
+    "entity_id": "871AE4FF-0D03-45CE-A6E1-B255607FA3DD",
+    "name": "Prateek Kuhad"
+   },
+   {
+    "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+    "name": "Minecraft"
+   }
+  ],
+  "desi-gym-gta": [
+   {
+    "entity_id": "94485CC8-A992-4136-B3EC-848E4B6912F9",
+    "name": "Rocky"
+   },
+   {
+    "entity_id": "61861B05-D7E8-454F-B3DB-124A13052808",
+    "name": "AP Dhillon"
+   },
+   {
+    "entity_id": "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD",
+    "name": "Grand Theft Auto V"
+   }
+  ],
+  "horror-indie-valorant": [
+   {
+    "entity_id": "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD",
+    "name": "The Conjuring"
+   },
+   {
+    "entity_id": "871AE4FF-0D03-45CE-A6E1-B255607FA3DD",
+    "name": "Prateek Kuhad"
+   },
+   {
+    "entity_id": "38AE774E-F217-4C96-BE77-B3B40A6344E4",
+    "name": "Valorant"
+   }
+  ]
+ },
+ "baseline": [
+  {
+   "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+   "name": "Lewis Hamilton",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9977658429458258
+  },
+  {
+   "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+   "name": "Max Verstappen",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.994379273980496
+  },
+  {
+   "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+   "name": "Fernando Alonso",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.991079679499027
+  },
+  {
+   "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+   "name": "Sergio Pérez",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9874865461345278
+  },
+  {
+   "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+   "name": "Charles Leclerc",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9871875713462563
+  },
+  {
+   "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+   "name": "Lando Norris",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9867635707374349
+  },
+  {
+   "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+   "name": "Pierre Gasly",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9796968939237451
+  },
+  {
+   "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+   "name": "George Russell",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9706569835074635
+  },
+  {
+   "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+   "name": "Carlos Sainz Jr.",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9693741098705168
+  },
+  {
+   "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+   "name": "Valtteri Bottas",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9671236451006187
+  },
+  {
+   "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+   "name": "Nico Hülkenberg",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9634381013470174
+  },
+  {
+   "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+   "name": "Esteban Ocon",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9527511116426218
+  },
+  {
+   "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+   "name": "Alexander Albon",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9305400028266707
+  },
+  {
+   "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+   "name": "Lance Stroll",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.9027951424750764
+  },
+  {
+   "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+   "name": "Oscar Piastri",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.6985083876017874
+  },
+  {
+   "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+   "name": "Liam Lawson",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.5493199682543134
+  },
+  {
+   "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+   "name": "Gabriel Bortoleto",
+   "affinity": null,
+   "explainability": {},
+   "popularity": 0.23781541840162643
+  }
+ ],
+ "personal": {
+  "desi-anime-gamer": [
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7486458168894589,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3686567924154608,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3429889591807773,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.28835424840376184
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.737093563968113,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.379537295535496,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.33740949423525957,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2830532102292444
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7344451784744013,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.36818997961151684,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.32983163050426173,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.30197838988422143
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7317899655429249,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3576598441001997,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.34802423546768835,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2943159204321119
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7301552231095225,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3757715628092247,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3525719337467576,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.27165650344401776
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7240036184293241,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.34524423359603235,
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.32847978575825904,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.3262759806457087
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7220416270735184,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.37390383119434223,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3385996651290184,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2874965036766393
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7209690195436841,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.35029232114054315,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.335443221446509,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.3142644574129478
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7130511815612622,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.38978605465491706,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.33647663855890514,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.27373730678617786
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7063030778944842,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.37558653785272506,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3423048886984798,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2821085734487952
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.70255788383135,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3595680297614186,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35253685411372465,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.28789511612485663
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.697776162378327,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.36592843579513024,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3386669388542979,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2954046253505718
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6934580932862233,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3645208868881258,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3550299940902325,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.2804491190216417
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6920829267476946,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3692925510065418,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.34636189486253405,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.28434555413092416
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6872269908884703,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3797249551433013,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3244667145274697,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.295808330329229
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.679945553974724,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3624044539041613,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3499932057957122,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.28760234030012655
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.639527601057929,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.35564657223404234,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3385982547803678,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.3057551729855899
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "cozy-romantic": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6940536685847027,
+    "explainability": {
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.38053164847096044,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.316176431838449,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.30329191969059055
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.6776650681393809,
+    "explainability": {
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.34922640082565365,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3319290403834405,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31884455879090584
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.6665706994958234,
+    "explainability": {
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.33619325127116295,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.33390567094226653,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3299010777865706
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6553087575467994,
+    "explainability": {
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3434970613253196,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.33370183525677194,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.32280110341790846
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.65245840826176,
+    "explainability": {
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.33631823764910324,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.33485022043970425,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3288315419111925
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.649010485182141,
+    "explainability": {
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3573668582191754,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.32821719968846497,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3144159420923596
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.6341341883255392,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.33967416478276274,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3317159340110724,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3286099012061649
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.6338769831031811,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3525162158188777,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3392225185913351,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.30826126558978717
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.6314182245809737,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3388408745587644,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3309560977676005,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.330203027673635
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6169429413123064,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3402691270128911,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3318133519999527,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3279175209871562
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6115849678657723,
+    "explainability": {
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3419178151953792,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3349033283505422,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3231788564540786
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6102342740401263,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3546277811273971,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3260469928015568,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.31932522607104596
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6053584913244688,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.35540115073702416,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3262722431741796,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3183266060887962
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.5954281332800356,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3532434872157148,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.32641188943013183,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3203446233541533
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.5800791993440799,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3423921075038828,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.33395225399419415,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3236556385019231
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.5662353237798363,
+    "explainability": {
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3530900505322521,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3405975760609058,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.30631237340684214
+    },
+    "popularity": 0.23781541840162643
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.5546671506502503,
+    "explainability": {
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.36293528116697155,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3265721803569039,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3104925384761247
+    },
+    "popularity": 0.5493199682543134
+   }
+  ],
+  "space-dreamer": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7853124518845883,
+    "explainability": {
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.34141071317990496,
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.33598124885542274,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.32260803796467225
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7712661715489012,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3782763807523558,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3268765880642183,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.29484703118342587
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7561617796851233,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3619446729966,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.327630994098802,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.31042433290459803
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7545748606183527,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3636479524966676,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.33721027765276645,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.2991417698505659
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7383394875923102,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3565458444922344,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3244419099015421,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.3190122456062236
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7364039762687297,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3673817903320528,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.32821047099397144,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.30440773867397575
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7330823867961973,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.365044877000241,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3205157906756826,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.3144393323240764
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7301011308791747,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3809203989033301,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.32749412582060067,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.2915854752760692
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.728155105415338,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.37554769990400627,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3319241419236191,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.29252815817237454
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7253454412506956,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.36999183295729515,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3320992813222724,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.2979088857204325
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7238361485055296,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3530828753793615,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.32507651443742214,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.3218406101832163
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7234853852491885,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.34278156151698896,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3301498579020697,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.32706858058094146
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7232803249023094,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.37993012648908253,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.32933233755836616,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.29073753595255125
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7188374301073447,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3667803072926795,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.33204668727105185,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.30117300543626874
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7057897331182649,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3825155188623874,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3409730131365541,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.2765114680010586
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6807916564934656,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.38245475461245415,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3508057841886244,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.2667394611989214
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6683789879392744,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.36415976170100994,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3604187069094615,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.27542153138952863
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "dark-hiphop": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.8098410637388725,
+    "explainability": {
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3452776956338368,
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3279640892627293,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.32675821510343395
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7739150806222478,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3589620848357112,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34491743435178507,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.29612048081250375
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7721945140563983,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3671392573231596,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3351453921870679,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2977153504897724
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7709531737119841,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.37142709067742535,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3324528319459749,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.29612007737659984
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7696040738180675,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3600374964001786,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34756071947327033,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.29240178412655105
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7660499394753209,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3528307156017824,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.33977275163309517,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3073965327651224
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7645247440084821,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3571881876935709,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3330010380513226,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.30981077425510656
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7622801837463007,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3636374733456527,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.33429658752599395,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3020659391283532
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7586640450197083,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.35137236387140186,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3378216132445414,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3108060228840568
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7568209200981969,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3710276865957752,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3386762986942426,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2902960147099823
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7519454186084235,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3634247489562696,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.336334355842748,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.30024089520098235
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7518658199937183,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.35106632611611643,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3345380935648039,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3143955803190796
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7419180939757682,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.35957774714606755,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34190557528049803,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2985166775734346
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.740140104201686,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3576633007998233,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34582846636370035,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.29650823283647637
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7013200460080098,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3808694672867991,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34352971274722577,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.275600819965975
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6724273215555201,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.37397767903096074,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.34621662407970794,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2798056968893314
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.637558595484345,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.36189028579256344,
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.3391911277731109,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2989185864343256
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "gym-rock": [
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7884221112890325,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3492483446675948,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32817236411114464,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3225792912212605
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7875190194018828,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35301850249694683,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3282567928989434,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3187247046041098
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.783720508783968,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3516489899987911,
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.33678630222998474,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3115647077712242
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7667759709022126,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.34033345069727095,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3360323309983487,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32363421830438033
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.757870909177097,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3498180790915551,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32947941669472813,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3207025042137166
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7572337519647482,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3607562026560926,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3211082657334048,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.31813553161050256
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.753126569610663,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3534357553193183,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.32580600195187437,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3207582427288072
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7526846481590657,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.34265997890994837,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3324034363723943,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32493658471765724
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7485840896475077,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3751179218846108,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3141171055709392,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.31076497254444996
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7404739656609824,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.36542361876079904,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.321191767417247,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.31338461382195404
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7352625407534672,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35079766018864095,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3309517467545925,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3182505930567667
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7326257666682673,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3557777907587312,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32891115025029427,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3153110589909744
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.731581242974839,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.36574915686336884,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32182049767423493,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3124303454623963
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7218405883343505,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3693287677228175,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.31793492814128443,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3127363041358981
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7033343663570595,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.36948256334628193,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3204951012322232,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3100223354214949
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6475662581086556,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3830496963721775,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3218014041131958,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.2951488995146267
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6445251375614973,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.357408045671281,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3544780248864972,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.28811392944222186
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "bollywood-romantic-mobile": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6414045144590053,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5189882617100404,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.4810117382899596
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.6032070890071123,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5144970015119001,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.48550299848809986
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.6006969332451864,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5289334459894603,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.47106655401053954
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.5919687556355027,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5134502351235396,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.48654976487646046
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.5750787860891569,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5249282468360793,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.47507175316392075
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.5695538393481775,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5075583335091426,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.4924416664908574
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.5608548295881403,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5227993432881173,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.47720065671188266
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.558632975269992,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5233355748311928,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.47666442516880736
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.557069255229897,
+    "explainability": {
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.5002078449137132,
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.4997921550862869
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.5533378077737592,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5282623623511126,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.4717376376488875
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.548100249692687,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5096848327647844,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.49031516723521545
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.5473859722493979,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5280014862249741,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.47199851377502583
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.5447350980620568,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5110919696846402,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.48890803031535984
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.5445294648343026,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5083675698825619,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.49163243011743823
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.5369465658468546,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5228609550318192,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.4771390449681808
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.5286567287128718,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5181637724501565,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.48183622754984357
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.527364739480272,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5372195651271294,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.46278043487287046
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "punjabi-pop-bgmi": [
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7189076009804246,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.3935899354543291,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3237963476462796,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.28261371689939135
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7147863696273807,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.3760632043943804,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3310541852916281,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.29288261031399154
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.6969734892456092,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.4104463067153724,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3032335704171983,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2863201228674292
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6914151877548711,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.41932197798371945,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.31000172454350716,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.27067629747277333
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.6852523241719665,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.39200089724875914,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3205472512556815,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.28745185149555935
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6797999762220126,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.4210228412080254,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3111224874976585,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2678546712943161
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.6763398184872244,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.41440079255153844,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3116830088933943,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2739161985550673
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.6746356278620882,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.44009903941391654,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2998015919335773,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.26009936865250616
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.6699054737334171,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.4290708515504389,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2947170537939494,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.27621209465561175
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6671795071526487,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.41003498705761976,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3162022010814692,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.273762811860911
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6621201641875399,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.41159983177812537,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3100479273792811,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2783522408425936
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6615090991397882,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.4255791330191451,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3067610919979802,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.26765977498287474
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6533450188132175,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.43128007310381894,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.30940804972324243,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.25931187717293874
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6521976248068171,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.41856099499726107,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3051912720512474,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2762477329514915
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6480752445712035,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.40992222927075994,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3185224341313348,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2715553365979052
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.642206452875641,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.40485471775057075,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2999835764414102,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.29516170580801915
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.5988146303231936,
+    "explainability": {
+     "7CF8323E-7B00-4522-A516-24BAA196F339": 0.404648248469139,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3156261720353764,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.27972557949548454
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "indie-cozy": [
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7171739529131942,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35950097956954846,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.32950705096140204,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31099196946904956
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.707363055308466,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.36406359699834695,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3251682813497849,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.310768121651868
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7067185869377309,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35547063661299744,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3327812229058564,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31174814048114624
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7058605610902083,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.346665220284064,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3395286950195206,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3138060846964154
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7042836084347217,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.36580839870320125,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.32427326326901756,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30991833802778124
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.698946764248148,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35025014715811,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.33457166593799126,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3151781869038988
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6936223708209439,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3556614829267551,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.34152148438508706,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30281703268815774
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6902299746932571,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35372430691372336,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.32336813919964746,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3229075538866292
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6899028770423172,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3681924397162771,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.32253856532850306,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30926899495522
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6874690875013287,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3568531258440425,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3269764200652429,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3161704540907146
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6843259820784002,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35004035919438214,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.33456621584277807,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3153934249628399
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.6764750390708609,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3688780597884039,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3238729483157348,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30724899189586136
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6761012225960545,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3681243131610607,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.331545734857319,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3003299519816204
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.675173039591657,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.35625785965002976,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.33942432957675506,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30431781077321524
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.6716905712255136,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3583105098714649,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.32771065217109524,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3139788379574398
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6518015793727179,
+    "explainability": {
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.34473549718469604,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.34128367300752943,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31398082980777453
+    },
+    "popularity": 0.23781541840162643
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6516485647084604,
+    "explainability": {
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3665893999038802,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.3468448578236715,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.2865657422724484
+    },
+    "popularity": 0.5493199682543134
+   }
+  ],
+  "horror-hiphop": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7862394460668586,
+    "explainability": {
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3675944482961061,
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3403304488772487,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.2920751028266452
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7548558540776921,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.37369545987812236,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32016671309185063,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.30613782703002707
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7536657348066652,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.36762194759480044,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3246033352373783,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3077747171678211
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7514390490957861,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35786710134445027,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3337197187571502,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3084131798983995
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.747137394284562,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3552215309710948,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3238679744592571,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3209104945696482
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7470180116553702,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.36428008810806356,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.331053152080072,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3046667598118645
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7434820850510161,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3663256659133004,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3195393291393712,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.31413500494732843
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.742812583562302,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3643290416442499,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3245964981755199,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.31107446018023016
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.741373168396875,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3491711762846309,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3263133496634735,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.32451547405189574
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7411867430930268,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35163222416270035,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32733144610682574,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.32103632973047397
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7345988154334437,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3655956229852092,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32429535132209725,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.31010902569269344
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7298072969789675,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3739014734033494,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3233674364722568,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.3027310901243938
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7242950745356489,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35646541675976134,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3381706453522969,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.30536393788794175
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7227709433603847,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3609173899016384,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3302473214327322,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.30883528866562937
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6884160964986613,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.3765192121200168,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3422945172912187,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2811862705887645
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6734603216107587,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.37144846725744257,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.34649853363176125,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.28205299911079607
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.651361896478819,
+    "explainability": {
+     "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002": 0.35366959101208334,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3526697579046835,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.2936606510832331
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "horror-rock": [
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7983889753322487,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.366335331072496,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3203582838241773,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3133063851033266
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7966204673531214,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3629499262255773,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3303684010216457,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.306681672752777
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7935946192875243,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.36214341370458353,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32325808650574384,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3145984997896725
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7874301310206558,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3654979154692154,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32254465025131274,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.31195743427947187
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7867594676995217,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3775421138359213,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.31478850345844983,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.307669382705629
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7836418934167689,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.35873558731572947,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32584303367711437,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3154213790071563
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7832546853481489,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3709347061179124,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.31905830574716904,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3100069881349186
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7785345453683342,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3532222882321132,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3242863246801644,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3224913870877223
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7764338693153688,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.354207435425963,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3263350953999735,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3194574691740634
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7728509657486643,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.35910891008048906,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.32209399270282635,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3187970972166844
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.772401375170424,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.36752283591059537,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.31751627645209807,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.31496088763730656
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7673058920432319,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3553341929829041,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3246851767541324,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3199806302629636
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7553420050988342,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3652013116032855,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3293064681197198,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.30549222027699474
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7549072029147467,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3746319605057451,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.31396361428036185,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.31140442521389305
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7495612622223053,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.36746579576853067,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3236883722175283,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3088458320139411
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.7172281238500353,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3640449840945575,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.33460821657779954,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.301346799327643
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.7165231941731045,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3357285654664955,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.33303260268738677,
+     "4C4C1DF8-36F0-4210-B4E8-8CF966A93262": 0.3312388318461178
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "classical-romantic": [
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7816545441202152,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40162326817395755,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.31648152193442103,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2818952098916213
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7782970954665146,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3794929145073353,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33464704636926096,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2858600391234038
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.77107161510354,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3757133023082971,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32771546552498837,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2965712321667146
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7705636494432432,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3784341969900514,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.31211184554741783,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.30945395746253074
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7682353464352631,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.39234819244616514,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3182016474264424,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.28945016012739233
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7658877902083929,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3430249427490339,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3308670488103961,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3261080084405699
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7465461345192826,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.38737987522770245,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32054253227108015,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2920775925012174
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.741863366747563,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.36841679457848986,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3376693359885904,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.29391386943291975
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7405651859783663,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40096320393755536,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3214301394778513,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.27760665658459327
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7391323734094785,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3976697369301651,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3229496731810908,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2793805898887441
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7372468600820911,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.37648605645277244,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32156513120548486,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.30194881234174276
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7329812511773394,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3855223936728827,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32828510982474884,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2861924965023684
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7303415965552525,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3897037309261693,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3275341009083911,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.28276216816543964
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7297479316611023,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3697568712184762,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32337518404490656,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.3068679447366172
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7226119450489397,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4081266702181711,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3054168187991394,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2864565109826896
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.7090994628346268,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40064862645854327,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.301489225251723,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.2978621482897337
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6900143823989343,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.38114356911470754,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3222290702674453,
+     "A1407445-5676-4874-B796-3D81FDA62468": 0.2966273606178473
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "classical-scifi": [
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7364714979126162,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.35937073641097744,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.34174831192843214,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.2988809516605904
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7134784772278526,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3634350530899029,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33142229015998476,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30514265675011243
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7127315091463712,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.35452474373306286,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33840643444512625,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3070688218218109
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.709930398149566,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3546156912057794,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3417082966033576,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3036760121908631
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.704673881599515,
+    "explainability": {
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3450166188100976,
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3445131943128224,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31047018687707995
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7033065258086479,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.353074348985118,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3259501898443521,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3209754611705298
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7008306857955439,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3530461571669036,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3320778601017624,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.314875982731334
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6979458827454479,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.35090408930992134,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3293721790300957,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.319723731659983
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6965613032204261,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3598346184816871,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33062943551596335,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3095359460023496
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.696351383690529,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.34455890464059924,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.32982400791138683,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.32561708744801393
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6942353101820546,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3550439735012891,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3283473971914587,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.31660862930725225
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6942213921640498,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3592863975015451,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33121773714745806,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30949586535099666
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6908947782220316,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3592197239680146,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3388610547753143,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30191922125667114
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6777096060410919,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3746191157335769,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3200005230078319,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.3053803612585912
+    },
+    "popularity": 0.23781541840162643
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6719488343446256,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.3778137206890778,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.31717923772919016,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.30500704158173203
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.6715085349797254,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.35543900545914775,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.33763431635993824,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.306926678180914
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.644587669654794,
+    "explainability": {
+     "057DA9D9-399B-437E-8BCA-A80E499125EF": 0.39235412894823923,
+     "C9FB5AB7-7509-41C5-B7DD-1309C9C6CFB1": 0.3180117783121299,
+     "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB": 0.289634092739631
+    },
+    "popularity": 0.5493199682543134
+   }
+  ],
+  "sporty-mainstream": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7826175882229207,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5043537833790441,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.49564621662095587
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7007969669579979,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5088552688454993,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.49114473115450075
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.699325820087021,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5181112703135842,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.48188872968641594
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.6922887508767023,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5159798838308866,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.4840201161691134
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6884200987459518,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5015021868713014,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.4984978131286986
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.6866324741827972,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.525763055384686,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.47423694461531396
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.6767783074405953,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5143392264695867,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.48566077353041326
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.67375832645309,
+    "explainability": {
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.5146353912444122,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.48536460875558785
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.6659435529031554,
+    "explainability": {
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.5014486642757914,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.49855133572420873
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.644966119039202,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5111915884128432,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.48880841158715665
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6431016459222687,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5240790709010885,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.4759209290989114
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6421198475553009,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5082934143883273,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.49170658561167263
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6370331461093244,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5129662381334132,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.48703376186658665
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6356082939338459,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5094087042244306,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.49059129577556937
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.5910469063653842,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5178088332232794,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.4821911667767206
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.537512893929117,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.5045198648082128,
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.49548013519178735
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.5374365760409403,
+    "explainability": {
+     "B6FA456F-B729-4700-B01F-E82AD3AC8ADA": 0.5060722327385231,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.4939277672614769
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "desi-football-gamer": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6312042821590325,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5341860512266946,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4658139487733055
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.5989982283297524,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5252129147740455,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4747870852259545
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.5963676215156327,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5166461461752635,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.48335385382473656
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.5882706194409371,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5495823656248355,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4504176343751644
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.5749351411990835,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5092228004911427,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.49077719950885745
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.5740560057135549,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5352934268638896,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.46470657313611047
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.5594015206307419,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5025718570816453,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4974281429183546
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.55631859296165,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5308793788342347,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4691206211657652
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.5537051574308313,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5325942271405576,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.46740577285944235
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.5504344051777855,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5159541533506119,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.48404584664938805
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.5464504571689465,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.542582011680627,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4574179883193729
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.5428988926197806,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5137880148674615,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4862119851325384
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.5421026536189361,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.534858225381471,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.465141774618529
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.5414493372640529,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5211078985837018,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4788921014162983
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.5314443963689278,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5221551508810238,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4778448491189762
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.5280088871912567,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5393840420672346,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.4606159579327656
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.5246729554577284,
+    "explainability": {
+     "924C8504-4BD8-4615-AB2D-1C16880A8A62": 0.5392190030149041,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.46078099698509584
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "bollywood-swiftie": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7712710669496852,
+    "explainability": {
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.353376847828295,
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3530429059655852,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.29358024620611983
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7161322457032435,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.401990595740121,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3021178143868938,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.29589158987298525
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7147098609732873,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3981587512234405,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3156665362487611,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2861747125277982
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7111668427774914,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.42950386684163777,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.30431376488253276,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.26618236827582953
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7074842837977063,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3759565240959006,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3397236920851203,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.28431978381897904
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7070489325287812,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.39324684749593625,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.31399136613128026,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2927617863727835
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7017086964436242,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40298042428914904,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.32335855823101256,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2736610174798385
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6976349833902239,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3911306248937024,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.33380609838154207,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2750632767247556
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6899983037584241,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4184969476853258,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.29697838466062565,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.28452466765404855
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6884494588193413,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4248710916139158,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.2962651245903053,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.27886378379577886
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.6837346285428849,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3725656034925695,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.33664851481897806,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2907858816884524
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6833371615295415,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4118008737359069,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.3068451147408202,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.28135401152327294
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6657989304295985,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.42829113478316455,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.29530054115851534,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2764083240583201
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6626432242193805,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.41294300216947893,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.30022840117258004,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2868285966579411
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6582294234525342,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.43148979768526063,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.29351685941912814,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2749933428956113
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6356803406012981,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.43258688453183297,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.28892705259341867,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.2784860628747484
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6021799775190387,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4198006129247829,
+     "4BBEF799-A0C4-4110-AB01-39216993C312": 0.29382494719257235,
+     "661E4E6A-0024-48A0-90D2-5A12E902D4FD": 0.2863744398826446
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "dark-desi-mobile": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7409496756117883,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5337219665743311,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.46627803342566887
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7165690831869603,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.528386843031772,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4716131569682279
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7149454509082009,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5599166128321135,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4400833871678866
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7136323852587368,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5595403161657957,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.44045968383420425
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7005751535700093,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5403932066767139,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4596067933232861
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6995930991677639,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5471975883968552,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.45280241160314477
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6965300594821155,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5483005897456811,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4516994102543188
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.6944570533179875,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5486284902332372,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.45137150976676277
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6858527272324071,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5612230884083993,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.43877691159160065
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.6840565514577935,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5605836501410287,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4394163498589713
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6788213779164162,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5552602570110727,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4447397429889272
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6732924738668247,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5601088366711816,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4398911633288184
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.6707942979039718,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5685209132701611,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4314790867298389
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6635724369223093,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5450554814549724,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4549445185450277
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6626161984651391,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5318814399129125,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.46811856008708747
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.6437396895371936,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5702593576473203,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4297406423526798
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6149523647826339,
+    "explainability": {
+     "3432C364-C883-4A0D-A76B-99A57E5361E5": 0.5305048928002344,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.4694951071997657
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "anime-rap-mobile": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.7975291547277261,
+    "explainability": {
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.5297810217268573,
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.47021897827314274
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7188106168428817,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5255565518611578,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.47444344813884215
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7149215242891234,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5214636666981527,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4785363333018473
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7149167079658785,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5092858243478173,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4907141756521826
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7123936924830294,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5005040537257952,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4994959462742047
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7117480722823666,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5129729072329401,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4870270927670599
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7091107928157239,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.503022453085348,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.49697754691465207
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.6967059180234401,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5191278465632997,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4808721534367002
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.6957863773084123,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5359510237829562,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.46404897621704366
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.6933997995459297,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5112514139681316,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.48874858603186855
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.6857314918592358,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.519094367278904,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.48090563272109604
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6854755173504876,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5165480830907656,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4834519169092345
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6746562140254935,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5190507990532444,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4809492009467557
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6683415449823484,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5190626081084777,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4809373918915222
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6292859065254888,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5494116718799169,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.45058832812008315
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.594611960829895,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5393867174313424,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.46061328256865747
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.5927260684733355,
+    "explainability": {
+     "9B33A620-68CA-49B3-BFCF-F09CCF8AD595": 0.5356146552940396,
+     "B2A31C73-792E-4400-B279-8D43E5B1367B": 0.4643853447059604
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "soft-indie-student": [
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7242600639483642,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3937683853263062,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.328572454992737,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.27765915968095684
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7135860727943637,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40466708953974906,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3314245461104901,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.26390836434976084
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7132565474989983,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.42381075593331397,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.32822950506159787,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.24795973900508814
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.710527812434132,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4086011513060957,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.33299459773527346,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2584042509586308
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.6984149572729232,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.39556776144353856,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31368666617786267,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.29074557237859877
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.6980444128646471,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4025306250048537,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3312281684227844,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2662412065723619
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.693428220815628,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3974632640618814,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.34427918145615494,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2582575544819636
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6928547321205405,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4115502616684832,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3303250946876366,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.25812464364388016
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.6927300953904436,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4029599482770723,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3305074134217889,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.26653263830113866
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.6843473507863189,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.41009343290179234,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31831669553042213,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.27158987156778547
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.6816096731829833,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3862087356144007,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3236568439325439,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.29013442045305543
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6799663883215884,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.38762135637686723,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30910906737634697,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.3032695762467858
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.6785691806155246,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.41837150019922703,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.328956995259289,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.25267150454148396
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.6763954391526703,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.4038993667995815,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3265828571172767,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2695177760831418
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.6541174084337172,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3841025449263769,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31942191551386256,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.29647553955976064
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.6533817035887168,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.40997034050005976,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30790422903387255,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.2821254304660677
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6470196050036061,
+    "explainability": {
+     "CDBDE254-71F0-4640-8D04-5373BEAE5278": 0.3902393492856002,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.34568494726638277,
+     "CE300FA0-0752-4DD3-B28F-FC4CFD2D8915": 0.26407570344801695
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "desi-gym-gta": [
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.795964057404356,
+    "explainability": {
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.35237912563673685,
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3462430974358268,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.30137777692743634
+    },
+    "popularity": 0.9977658429458258
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.7775344783355391,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.368289749673953,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3295155380332096,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.3021947122928374
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7550098360331114,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3604500237628044,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3448083685635732,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.29474160767362245
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.750976361274213,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3855851831502656,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3472765706136551,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.26713824623607924
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7505332749389836,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.38350546403885816,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.32681714593174865,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2896773900293933
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7505250964895606,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.37896506721218703,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3343924705912255,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.28664246219658746
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7364590008738103,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3858753927099905,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3213444361897546,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.29278017110025484
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7363223581670607,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.398750309575655,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.32148475652891934,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2797649338954257
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7318945046332989,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3792185818284673,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3352722825896396,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2855091355818931
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7247235556966758,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.38589607267033166,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.31811555918782775,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2959883681418406
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7222531506710319,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.37389925430444587,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.32826846442551744,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2978322812700367
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7178773594671721,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.38861659956483696,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3233204324307045,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2880629680044585
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7119902835308163,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3769527535780729,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3523540555725158,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.27069319084941124
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.7088306644692707,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3836403971583799,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3298689079325769,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.28649069490904333
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.6984327657515721,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.3897334077300344,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3168575405282518,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.2934090517417137
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.6566893000071197,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.38850032593973305,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.31654440925392574,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.29495526480634116
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.6096126007309288,
+    "explainability": {
+     "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD": 0.38002576885288086,
+     "61861B05-D7E8-454F-B3DB-124A13052808": 0.31522618184282486,
+     "94485CC8-A992-4136-B3EC-848E4B6912F9": 0.3047480493042942
+    },
+    "popularity": 0.23781541840162643
+   }
+  ],
+  "horror-indie-valorant": [
+   {
+    "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+    "name": "Charles Leclerc",
+    "affinity": 0.7683090067095313,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3566286374140496,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3304733802347154,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31289798235123506
+    },
+    "popularity": 0.9871875713462563
+   },
+   {
+    "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+    "name": "George Russell",
+    "affinity": 0.7647345191758594,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.35955775661836864,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3277792613615436,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3126629820200878
+    },
+    "popularity": 0.9706569835074635
+   },
+   {
+    "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+    "name": "Lando Norris",
+    "affinity": 0.7638513167245662,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3712663221309238,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.31974435158143377,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3089893262876425
+    },
+    "popularity": 0.9867635707374349
+   },
+   {
+    "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+    "name": "Alexander Albon",
+    "affinity": 0.7557709813732255,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.36856551048012903,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.317139666907518,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31429482261235314
+    },
+    "popularity": 0.9305400028266707
+   },
+   {
+    "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+    "name": "Oscar Piastri",
+    "affinity": 0.7527778745831158,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3725414054286252,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3210635884891474,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3063950060822274
+    },
+    "popularity": 0.6985083876017874
+   },
+   {
+    "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+    "name": "Liam Lawson",
+    "affinity": 0.7454253474076336,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3572024464572331,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.32259681793167355,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32020073561109336
+    },
+    "popularity": 0.5493199682543134
+   },
+   {
+    "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+    "name": "Carlos Sainz Jr.",
+    "affinity": 0.7412115792212091,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3719916006845176,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.33230891807352936,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.29569948124195305
+    },
+    "popularity": 0.9693741098705168
+   },
+   {
+    "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+    "name": "Lance Stroll",
+    "affinity": 0.7394126985457432,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.35282862347054306,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.33506372430495424,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.31210765222450276
+    },
+    "popularity": 0.9027951424750764
+   },
+   {
+    "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+    "name": "Pierre Gasly",
+    "affinity": 0.7359148856283071,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.36669012534404277,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32709292328960315,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.306216951366354
+    },
+    "popularity": 0.9796968939237451
+   },
+   {
+    "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+    "name": "Esteban Ocon",
+    "affinity": 0.725449037739309,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3588437714419863,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3334776255694606,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30767860298855315
+    },
+    "popularity": 0.9527511116426218
+   },
+   {
+    "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+    "name": "Sergio Pérez",
+    "affinity": 0.7233040037839668,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3558802460548722,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3377688357100836,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3063509182350442
+    },
+    "popularity": 0.9874865461345278
+   },
+   {
+    "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+    "name": "Valtteri Bottas",
+    "affinity": 0.722070413980007,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3651059371683781,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.33163247284013375,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3032615899914882
+    },
+    "popularity": 0.9671236451006187
+   },
+   {
+    "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+    "name": "Max Verstappen",
+    "affinity": 0.7199583413501154,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3544299172354367,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3242123908203314,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.32135769194423197
+    },
+    "popularity": 0.994379273980496
+   },
+   {
+    "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+    "name": "Nico Hülkenberg",
+    "affinity": 0.7036095217204461,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3647382539592446,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.34544192326306966,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.28981982277768575
+    },
+    "popularity": 0.9634381013470174
+   },
+   {
+    "entity_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
+    "name": "Fernando Alonso",
+    "affinity": 0.7022631598599837,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.35518760450533676,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.34422918466450014,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.30058321083016315
+    },
+    "popularity": 0.991079679499027
+   },
+   {
+    "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+    "name": "Gabriel Bortoleto",
+    "affinity": 0.69272022913102,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3386369570995237,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3356981574439405,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3256648854565359
+    },
+    "popularity": 0.23781541840162643
+   },
+   {
+    "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+    "name": "Lewis Hamilton",
+    "affinity": 0.6775517360776934,
+    "explainability": {
+     "38AE774E-F217-4C96-BE77-B3B40A6344E4": 0.3541419873455378,
+     "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD": 0.3332092449838425,
+     "871AE4FF-0D03-45CE-A6E1-B255607FA3DD": 0.3126487676706197
+    },
+    "popularity": 0.9977658429458258
+   }
+  ]
+ }
+}

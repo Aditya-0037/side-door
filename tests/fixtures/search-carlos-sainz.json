@@ -1,0 +1,2245 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Carlos Sainz",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Carlos Sainz Jr.",
+        "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "q",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Карлос Сайнс-младший"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс-младший"
+            },
+            {
+              "language": "z",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Karlos Sayns"
+            },
+            {
+              "language": "z",
+              "value": "Karlos Sayns"
+            },
+            {
+              "language": "e",
+              "value": "Κάρλος Σάινθ Jr"
+            },
+            {
+              "language": "l",
+              "value": "Κάρλος Σάινθ Jr"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс (молодший)"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Сайнс (молодший)"
+            },
+            {
+              "language": "l",
+              "value": "Karloss Sainss jaunākais"
+            },
+            {
+              "language": "v",
+              "value": "Karloss Sainss jaunākais"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس ساینز جونیور"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس ساینز جونیور"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס סאינס"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס סאינס"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz juunior"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz juunior"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・サインツJr."
+            },
+            {
+              "language": "a",
+              "value": "カルロス・サインツJr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "k",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz jr"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz jr"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц (младши)"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц (младши)"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "m",
+              "value": "Карлос Сайнц йуниор"
+            },
+            {
+              "language": "n",
+              "value": "Карлос Сайнц йуниор"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц младши"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц младши"
+            },
+            {
+              "language": "t",
+              "value": "การ์โลส ไซนซ์ จูเนียร์"
+            },
+            {
+              "language": "h",
+              "value": "การ์โลส ไซนซ์ จูเนียร์"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Саинс јр."
+            },
+            {
+              "language": "r",
+              "value": "Карлос Саинс јр."
+            },
+            {
+              "language": "a",
+              "value": "كارلوس ساينز جونيور"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس ساينز جونيور"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Jr"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Jr"
+            },
+            {
+              "language": "z",
+              "value": "小卡洛斯·塞恩斯"
+            },
+            {
+              "language": "h",
+              "value": "小卡洛斯·塞恩斯"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "r",
+              "value": "Сайнс, Карлос (младший)"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс, Карлос (младший)"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Jr."
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "carlossainz55"
+            },
+            "twitter": {
+              "id": "Carlossainz55"
+            }
+          },
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "1994-09-01",
+          "image": {
+            "url": "https://images.qloo.com/i/1A6309AB-011E-4835-AAB1-A25F4B67CCC2-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula One",
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "Scuderia Ferrari",
+            "Renault F1 Team",
+            "Scuderia Toro Rosso",
+            "McLaren"
+          ],
+          "short_description": "Spanish racing driver"
+        },
+        "popularity": 0.9693741098705168,
+        "disambiguation": "1994-09-01",
+        "tags": [
+          {
+            "name": "Ferrari Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers"
+          },
+          {
+            "name": "Dams Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dams_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dams_drivers"
+          },
+          {
+            "name": "Formula Bmw Pacific Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_bmw_pacific_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_bmw_pacific_drivers"
+          },
+          {
+            "name": "Euroformula Open Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Spanish Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_gp3_series_drivers"
+          },
+          {
+            "name": "Formula Bmw Europe Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_bmw_europe_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_bmw_europe_drivers"
+          },
+          {
+            "name": "Engvarb From September 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2022"
+          },
+          {
+            "name": "Toro Rosso Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers"
+          },
+          {
+            "name": "Spanish Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Tech 1 Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers"
+          },
+          {
+            "name": "Arden International Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arden_international_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arden_international_drivers"
+          },
+          {
+            "name": "Renault Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "World Series Formula V8 3.5 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Formula 3 Euro Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Racing Drivers From Madrid",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid"
+          },
+          {
+            "name": "De Villota Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:villota_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:villota_motorsport_drivers"
+          },
+          {
+            "name": "British Formula Three Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers"
+          },
+          {
+            "name": "Zeta Corse Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:zeta_corse_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:zeta_corse_drivers"
+          },
+          {
+            "name": "Spanish Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers"
+          },
+          {
+            "name": "Koiranen Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Signature Team Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:signature_team_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:signature_team_drivers"
+          },
+          {
+            "name": "British Formula Renault 2.0 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers"
+          },
+          {
+            "name": "Eurointernational Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eurointernational_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eurointernational_drivers"
+          },
+          {
+            "name": "Epsilon Euskadi Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:epsilon_euskadi_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:epsilon_euskadi_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Sainz",
+        "entity_id": "B2D088F0-1C6C-4951-98C4-669038B777D0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "z",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Сайнс, Карлос"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс, Карлос"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "k",
+              "value": "카를로스 사인스"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 사인스"
+            },
+            {
+              "language": "w",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "z",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Сайнс"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс"
+            },
+            {
+              "language": "a",
+              "value": "كارلوس ساينز"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس ساينز"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "l",
+              "value": "Sainss"
+            },
+            {
+              "language": "v",
+              "value": "Sainss"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "q",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・サインツ"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・サインツ"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Сайнс"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس ساینز"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس ساینز"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Саинз"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Саинз"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・サインス"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・サインス"
+            },
+            {
+              "language": "s",
+              "value": "Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "w",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "k",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "z",
+              "value": "老卡洛斯·塞恩斯"
+            },
+            {
+              "language": "h",
+              "value": "老卡洛斯·塞恩斯"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס סאינס (נהג ראלי)"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס סאינס (נהג ראלי)"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "k",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Κάρλος Σάινθ"
+            },
+            {
+              "language": "l",
+              "value": "Κάρλος Σάινθ"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz (1962)"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Sainz (1962)"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "l",
+              "value": "Karloss Sainss"
+            },
+            {
+              "language": "v",
+              "value": "Karloss Sainss"
+            },
+            {
+              "language": "w",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Сайнс Карлос"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс Карлос"
+            },
+            {
+              "language": "j",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Carlos sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·塞恩斯"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·塞恩斯"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·赛恩斯"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·赛恩斯"
+            },
+            {
+              "language": "k",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Саинц"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Саинц"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "k",
+              "value": "카를로스 사인츠"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 사인츠"
+            },
+            {
+              "language": "z",
+              "value": "塞恩斯"
+            },
+            {
+              "language": "h",
+              "value": "塞恩斯"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "e",
+              "value": "Κάρλο Σάινθ"
+            },
+            {
+              "language": "l",
+              "value": "Κάρλο Σάινθ"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Saínz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Saínz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Сайнс"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Cenamor"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Cenamor"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "carlossainzoficial"
+            },
+            "twitter": {
+              "id": "CSainz_oficial"
+            },
+            "imdb": {
+              "id": "nm2298126"
+            },
+            "library_of_congress": {
+              "id": "n2011021150"
+            }
+          },
+          "child": [
+            "Carlos Sainz Jr."
+          ],
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "1962-04-12",
+          "image": {
+            "url": "https://images.qloo.com/i/B2D088F0-1C6C-4951-98C4-669038B777D0-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "squash",
+            "rally raid",
+            "rallying"
+          ],
+          "short_description": "Spanish racing driver"
+        },
+        "popularity": 0.8713701742751221,
+        "disambiguation": "1962-04-12",
+        "tags": [
+          {
+            "name": "World Rally Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_rally_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_rally_champions"
+          },
+          {
+            "name": "Rally Driver",
+            "tag_id": "urn:tag:occupation:person:rally_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rally_driver"
+          },
+          {
+            "name": "Volkswagen Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:volkswagen_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:volkswagen_motorsport_drivers"
+          },
+          {
+            "name": "Nürburgring 24 Hours Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nurburgring_24_hours_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nurburgring_24_hours_drivers"
+          },
+          {
+            "name": "Spanish Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Citroën Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:citroen_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:citroen_racing_drivers"
+          },
+          {
+            "name": "World Rally Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_rally_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_rally_championship_drivers"
+          },
+          {
+            "name": "Extreme E Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:extreme_e_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:extreme_e_drivers"
+          },
+          {
+            "name": "Dakar Rally Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dakar_rally_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dakar_rally_drivers"
+          },
+          {
+            "name": "Racing Drivers From Madrid",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid"
+          },
+          {
+            "name": "Spanish Rally Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_rally_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_rally_drivers"
+          },
+          {
+            "name": "Spanish Male Squash Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_male_squash_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_male_squash_players"
+          },
+          {
+            "name": "Audi Sport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:audi_sport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:audi_sport_drivers"
+          },
+          {
+            "name": "Peugeot Sport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:peugeot_sport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:peugeot_sport_drivers"
+          },
+          {
+            "name": "Squash Player",
+            "tag_id": "urn:tag:occupation:person:squash_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:squash_player"
+          },
+          {
+            "name": "Toyota Gazoo Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toyota_gazoo_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toyota_gazoo_racing_drivers"
+          },
+          {
+            "name": "Dakar Rally Winning Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dakar_rally_winning_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dakar_rally_winning_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Alberto Sainz",
+        "entity_id": "BA3B1B94-090C-443B-9624-04413A940617",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Alberto Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Alberto Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Альберто Сайнс"
+            },
+            {
+              "language": "k",
+              "value": "Альберто Сайнс"
+            },
+            {
+              "language": "n",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "y",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "p",
+              "value": "Alberto Carlos Sáinz"
+            },
+            {
+              "language": "l",
+              "value": "Alberto Carlos Sáinz"
+            },
+            {
+              "language": "e",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "p",
+              "value": "Alberto Sáinz"
+            },
+            {
+              "language": "t",
+              "value": "Alberto Sáinz"
+            },
+            {
+              "language": "c",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Альберто Сайнс"
+            },
+            {
+              "language": "u",
+              "value": "Альберто Сайнс"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Alberto Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Alberto Sainz"
+            },
+            {
+              "language": "a",
+              "value": "ألبرتو ساينز"
+            },
+            {
+              "language": "r",
+              "value": "ألبرتو ساينز"
+            },
+            {
+              "language": "d",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "h",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "f",
+              "value": "آلبرتو ساینز"
+            },
+            {
+              "language": "a",
+              "value": "آلبرتو ساینز"
+            },
+            {
+              "language": "d",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Алберто Саинс"
+            },
+            {
+              "language": "g",
+              "value": "Алберто Саинс"
+            },
+            {
+              "language": "r",
+              "value": "Сайнс, Альберто"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс, Альберто"
+            },
+            {
+              "language": "i",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "t",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Alberto Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Alberto Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "i",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "q",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "c",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sáinz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sáinz"
+            },
+            {
+              "language": "g",
+              "value": "Alberto Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Alberto Sainz"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Argentina"
+          ],
+          "date_of_birth": "1937-12-13",
+          "date_of_death": "2016-01-16",
+          "image": {
+            "url": "https://images.qloo.com/i/BA3B1B94-090C-443B-9624-04413A940617-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Argentinos Juniors",
+            "Argentina national association football team",
+            "Club Atlético River Plate"
+          ],
+          "work_period_start": "1958-01-01",
+          "short_description": "Argentine footballer"
+        },
+        "disambiguation": "1937-12-13",
+        "tags": [
+          {
+            "name": "Argentine Football Defender Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_football_defender_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_football_defender_stubs"
+          },
+          {
+            "name": "Mens Association Football Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders"
+          },
+          {
+            "name": "Argentine Primera División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players"
+          },
+          {
+            "name": "Argentina Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentina_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentina_mens_international_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Argentine Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_mens_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "1962 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:1962_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:1962_fifa_world_cup_players"
+          },
+          {
+            "name": "Argentinos Juniors Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentinos_juniors_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentinos_juniors_footballers"
+          },
+          {
+            "name": "Footballers From Buenos Aires",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_buenos_aires",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_buenos_aires"
+          },
+          {
+            "name": "Club Atlético River Plate Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:club_atletico_river_plate_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:club_atletico_river_plate_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Sainz Fernández",
+        "entity_id": "451994EF-5A29-4655-9C9A-B11F89EFED06",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Carlos Sainz Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Fernández"
+            }
+          ],
+          "external": {},
+          "short_description": "researcher"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          },
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Sainz Angulo",
+        "entity_id": "048D30B1-B4A9-4321-934A-642CAD3FE18F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Carlos Sainz Angulo"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Angulo"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Angulo"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Angulo"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Angulo"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Angulo"
+            }
+          ],
+          "external": {},
+          "gender": [
+            "male"
+          ],
+          "short_description": "basque politician"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

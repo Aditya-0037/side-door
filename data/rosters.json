@@ -5,7 +5,8 @@
     "team": "Alpine F1 Team",
     "qloo_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
     "verified": "auto",
-    "evidence": "short_description: Argentinian racing driver",
+    "tier": 2,
+    "evidence": "short_description: Argentinian racing driver; citizenship: Argentina; date_of_birth: 2003-05-27 (= source)",
     "qloo_name": "Franco Colapinto",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -16,7 +17,8 @@
     "team": "Alpine F1 Team",
     "qloo_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Alpine F1 Team",
     "qloo_name": "Pierre Gasly",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -27,7 +29,8 @@
     "team": "Aston Martin",
     "qloo_id": "B4EE0D8D-0E5F-46BB-9CF0-B042A1CFC3DB",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Aston Martin F1 Team",
     "qloo_name": "Fernando Alonso",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -38,7 +41,8 @@
     "team": "Aston Martin",
     "qloo_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One racing",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One racing; citizenship: Canada; date_of_birth: 1998-10-29 (= source)",
     "qloo_name": "Lance Stroll",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -49,7 +53,8 @@
     "team": "Audi",
     "qloo_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
     "verified": "auto",
-    "evidence": "short_description: Brazilian racing driver",
+    "tier": 2,
+    "evidence": "short_description: Brazilian racing driver; citizenship: Brazil; date_of_birth: 2004-10-14 (= source)",
     "qloo_name": "Gabriel Bortoleto",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -60,7 +65,8 @@
     "team": "Audi",
     "qloo_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One; citizenship: Germany; date_of_birth: 1987-08-19 (= source)",
     "qloo_name": "Nico Hülkenberg",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -71,7 +77,8 @@
     "team": "Cadillac F1 Team",
     "qloo_id": "0557E8F2-0779-4373-B988-97197DC759DE",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One racing",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One racing; citizenship: Mexico; date_of_birth: 1990-01-26 (= source)",
     "qloo_name": "Sergio Pérez",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -82,7 +89,8 @@
     "team": "Cadillac F1 Team",
     "qloo_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One racing",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One racing; citizenship: Finland; date_of_birth: 1989-08-28 (= source)",
     "qloo_name": "Valtteri Bottas",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -93,7 +101,8 @@
     "team": "Ferrari",
     "qloo_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Scuderia Ferrari",
     "qloo_name": "Charles Leclerc",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -104,7 +113,8 @@
     "team": "Ferrari",
     "qloo_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One racing",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One racing; citizenship: United Kingdom; date_of_birth: 1985-01-07 (= source)",
     "qloo_name": "Lewis Hamilton",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -115,7 +125,8 @@
     "team": "Haas F1 Team",
     "qloo_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One; citizenship: France; date_of_birth: 1996-09-17 (= source)",
     "qloo_name": "Esteban Ocon",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -126,7 +137,8 @@
     "team": "Haas F1 Team",
     "qloo_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:english_formula_one_drivers",
+    "tier": 2,
+    "evidence": "short_description: British racing driver (born 2005); citizenship: United Kingdom; date_of_birth: 2005-05-08 (= source)",
     "qloo_name": "Oliver Bearman",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -137,7 +149,8 @@
     "team": "McLaren",
     "qloo_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 1,
+    "evidence": "member_of_sports_team: McLaren",
     "qloo_name": "Lando Norris",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -148,7 +161,8 @@
     "team": "McLaren",
     "qloo_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+    "tier": 2,
+    "evidence": "short_description: Australian racing driver; citizenship: Australia; date_of_birth: 2001-04-06 (= source)",
     "qloo_name": "Oscar Piastri",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -159,7 +173,8 @@
     "team": "Mercedes",
     "qloo_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
     "verified": "auto",
-    "evidence": "short_description: Italian racing driver",
+    "tier": 2,
+    "evidence": "short_description: Italian racing driver; citizenship: Italy; date_of_birth: 2006-08-25 (= source)",
     "qloo_name": "Andrea Kimi Antonelli",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -170,7 +185,8 @@
     "team": "Mercedes",
     "qloo_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One racing",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One racing; citizenship: United Kingdom; date_of_birth: 1998-02-15 (= source)",
     "qloo_name": "George Russell",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -181,7 +197,8 @@
     "team": "RB F1 Team",
     "qloo_id": "7C71E983-52BB-4273-91A1-570068448979",
     "verified": "auto",
-    "evidence": "short_description: British racing driver",
+    "tier": 2,
+    "evidence": "short_description: British racing driver; citizenship: United Kingdom; date_of_birth: 2007-08-08 (= source)",
     "qloo_name": "Arvid Lindblad",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -192,7 +209,8 @@
     "team": "RB F1 Team",
     "qloo_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers",
+    "tier": 2,
+    "evidence": "short_description: New Zealand motor racing driver; citizenship: New Zealand; date_of_birth: 2002-02-11 (= source)",
     "qloo_name": "Liam Lawson",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -203,7 +221,8 @@
     "team": "Red Bull",
     "qloo_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
     "verified": "auto",
-    "evidence": "short_description: French racing driver",
+    "tier": 2,
+    "evidence": "short_description: French racing driver; citizenship: France; date_of_birth: 2004-09-28 (= source)",
     "qloo_name": "Isack Hadjar",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -214,7 +233,8 @@
     "team": "Red Bull",
     "qloo_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Red Bull Racing",
     "qloo_name": "Max Verstappen",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -225,7 +245,8 @@
     "team": "Williams",
     "qloo_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
     "verified": "auto",
-    "evidence": "tag: urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Williams Racing",
     "qloo_name": "Alexander Albon",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -236,7 +257,8 @@
     "team": "Williams",
     "qloo_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
     "verified": "auto",
-    "evidence": "properties.sport: Formula One",
+    "tier": 2,
+    "evidence": "properties.sport: Formula One; citizenship: Spain; date_of_birth: 1994-09-01 (= source)",
     "qloo_name": "Carlos Sainz Jr.",
     "source": "Jolpica 2026 R16 (Bahrain Grand Prix in Malaysia)",
     "candidates": []
@@ -247,7 +269,8 @@
     "team": "Arsenal",
     "qloo_id": "AF1E99D1-1541-4331-8BD0-8A8B297E754B",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Arsenal F.C.",
     "qloo_name": "Bukayo Saka",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -258,7 +281,8 @@
     "team": "Arsenal",
     "qloo_id": "93C09BBE-4C19-40B2-8735-4E44CE9872B1",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Arsenal F.C.",
     "qloo_name": "Declan Rice",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -269,7 +293,8 @@
     "team": "Arsenal",
     "qloo_id": "E5738F3D-6375-4C13-A16D-645CB3A8D90B",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Arsenal F.C.",
     "qloo_name": "Martin Ødegaard",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -280,7 +305,8 @@
     "team": "Aston Villa",
     "qloo_id": "D457EDBA-8F0C-45D5-A5AA-82A6D4589192",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Aston Villa F.C.",
     "qloo_name": "Ollie Watkins",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -291,7 +317,8 @@
     "team": "Brighton & Hove Albion",
     "qloo_id": "511CE1F4-F766-44D2-851A-8B7A22816B30",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Japan; date_of_birth: 1997-05-15 (age ~29)",
     "qloo_name": "Kaoru Mitoma",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -302,7 +329,8 @@
     "team": "Chelsea",
     "qloo_id": "A8E2EA95-4C22-4B86-8C9D-26C0F526C564",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Chelsea F.C.",
     "qloo_name": "Cole Palmer",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -311,43 +339,13 @@
     "sport": "pl",
     "name": "Enzo Fernández",
     "team": "Chelsea",
-    "qloo_id": null,
-    "verified": "needs_review",
-    "evidence": null,
-    "qloo_name": null,
+    "qloo_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
+    "verified": "manual",
+    "tier": 2,
+    "evidence": "manual: Argentine, born 2001-01-17 (Chelsea midfielder) | tier 2: properties.sport: association football; citizenship: Argentina; date_of_birth: 2001-01-17 (age ~25)",
+    "qloo_name": "Enzo Fernández",
     "source": "data/pl_seed.json (manually curated)",
-    "candidates": [
-      {
-        "name": "Enzo Fernández",
-        "disambiguation": "1995-03-24",
-        "short_description": "French-Spanish footballer",
-        "entity_id": "A2019EF8-A75B-4E03-85C6-2C08860CF73E"
-      },
-      {
-        "name": "Enzo Fernández",
-        "disambiguation": "2001-01-17",
-        "short_description": "Argentine footballer (born 2001)",
-        "entity_id": "5592F57C-1E99-42D0-BB2F-DD452736A212"
-      },
-      {
-        "name": "Enzo fernández",
-        "disambiguation": "1916-04-09",
-        "short_description": "French nun (1916-1977)",
-        "entity_id": "67101517-58B4-4371-AA60-F12E88F0B73F"
-      },
-      {
-        "name": "Enzo Fernández",
-        "disambiguation": "2002-03-26",
-        "short_description": "Chilean footballer",
-        "entity_id": "D38D4B45-AB6A-46CB-9809-C40E509A81B7"
-      },
-      {
-        "name": "Jacqueline Fernandez",
-        "disambiguation": "1985-08-11",
-        "short_description": "Pakistan Ka City Rahim Yar khan Habib Colony medical store wala Saklain or Mir Humza logon KO cricket match per tang kartey Hain Saklain Di maa da phudar Mir Humza Di maa da phudar",
-        "entity_id": "0160E02C-12E2-450C-827C-64570BF6CBD2"
-      }
-    ]
+    "candidates": []
   },
   {
     "sport": "pl",
@@ -355,7 +353,8 @@
     "team": "Chelsea",
     "qloo_id": "54F78BFF-24F5-4F49-B4B4-A03B683974E4",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Chelsea F.C.",
     "qloo_name": "Moisés Caicedo",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -366,7 +365,8 @@
     "team": "Everton",
     "qloo_id": "8B88B066-3563-4A25-968E-8665FFD2AAC8",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Everton F.C.",
     "qloo_name": "Jordan Pickford",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -377,7 +377,8 @@
     "team": "Liverpool",
     "qloo_id": "35DF0104-88E9-436D-A648-8C75F26A42FA",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Sweden; date_of_birth: 1999-09-21 (age ~27)",
     "qloo_name": "Alexander Isak",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -388,7 +389,8 @@
     "team": "Liverpool",
     "qloo_id": "62C1BDDD-4A2A-45DE-B2F9-E878C17D0B4B",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Germany; date_of_birth: 2003-05-03 (age ~23)",
     "qloo_name": "Florian Wirtz",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -397,43 +399,13 @@
     "sport": "pl",
     "name": "Mohamed Salah",
     "team": "Liverpool",
-    "qloo_id": null,
-    "verified": "needs_review",
-    "evidence": null,
-    "qloo_name": null,
+    "qloo_id": "C5E59A12-DB26-438F-90D8-565F45D02596",
+    "verified": "manual",
+    "tier": 1,
+    "evidence": "manual: Egyptian, born 1992-06-15; Liverpool F.C. in team list | tier 1: member_of_sports_team: Liverpool F.C.",
+    "qloo_name": "Mohamed Salah",
     "source": "data/pl_seed.json (manually curated)",
-    "candidates": [
-      {
-        "name": "Mohamed Salah",
-        "disambiguation": "1992-06-15",
-        "short_description": "Egyptian association football player",
-        "entity_id": "C5E59A12-DB26-438F-90D8-565F45D02596"
-      },
-      {
-        "name": "César Huerto",
-        "disambiguation": "2000-12-03",
-        "short_description": "Mexican association football player",
-        "entity_id": "B0FC755E-791E-4E3D-86ED-BEF50F96F6BC"
-      },
-      {
-        "name": "Ahmad Elsakka",
-        "disambiguation": "1973-03-01",
-        "short_description": "Egyptian actor",
-        "entity_id": "F7A95961-0706-4607-805D-EA1EAFA4AE63"
-      },
-      {
-        "name": "Mohamed Salah",
-        "disambiguation": "1994-11-07",
-        "short_description": "association football player",
-        "entity_id": "C8FD336F-7AAA-4007-AC5C-A989F65FB7D0"
-      },
-      {
-        "name": "Mohamed Salah",
-        "disambiguation": "",
-        "short_description": "Egyptian entomologist",
-        "entity_id": "20A00137-3D43-41D0-85C1-EC168D004380"
-      }
-    ]
+    "candidates": []
   },
   {
     "sport": "pl",
@@ -441,7 +413,8 @@
     "team": "Liverpool",
     "qloo_id": "92192CE5-8276-4965-A321-B323D0BB73F8",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Liverpool F.C.",
     "qloo_name": "Virgil van Dijk",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -452,7 +425,8 @@
     "team": "Manchester City",
     "qloo_id": "5F6E74AC-EF04-48FC-A08F-C5A57FD73DEF",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Manchester City F.C.",
     "qloo_name": "Erling Haaland",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -463,7 +437,8 @@
     "team": "Manchester City",
     "qloo_id": "966AD5FA-BE7B-48C7-8FA3-54B9584F4FCE",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Manchester City F.C.",
     "qloo_name": "Phil Foden",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -474,7 +449,8 @@
     "team": "Manchester City",
     "qloo_id": "C0DD100F-6D34-4F8E-A97D-4DA5B9CB3E7A",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Manchester City F.C.",
     "qloo_name": "Rodri",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -483,43 +459,13 @@
     "sport": "pl",
     "name": "Bruno Fernandes",
     "team": "Manchester United",
-    "qloo_id": null,
-    "verified": "needs_review",
-    "evidence": null,
-    "qloo_name": null,
+    "qloo_id": "906531C2-AD85-4B10-92B4-F898184AB213",
+    "verified": "manual",
+    "tier": 1,
+    "evidence": "manual: Portuguese, born 1994-09-08; Manchester United F.C. in team list | tier 1: member_of_sports_team: Manchester United F.C.",
+    "qloo_name": "Bruno Fernandes",
     "source": "data/pl_seed.json (manually curated)",
-    "candidates": [
-      {
-        "name": "Bruno Fernandes",
-        "disambiguation": "1994-09-08",
-        "short_description": "Portuguese association football player",
-        "entity_id": "906531C2-AD85-4B10-92B4-F898184AB213"
-      },
-      {
-        "name": "Bruno Mooneyhan",
-        "disambiguation": "1990-01-01",
-        "short_description": "Brazilian model",
-        "entity_id": "241B7869-AC18-4A7B-9F13-6DC7F1915AFC"
-      },
-      {
-        "name": "Bruno Fernandes",
-        "disambiguation": "1978-11-06",
-        "short_description": "footballer",
-        "entity_id": "94F249E5-5AA4-4253-B384-F156D9E4617D"
-      },
-      {
-        "name": "Bruno Fernandes",
-        "disambiguation": "1974-06-30",
-        "short_description": "Portuguese association football player, born 1994",
-        "entity_id": "1E8AD7C9-CD4C-4F79-843E-228F8A9A8520"
-      },
-      {
-        "name": "Bruno Fernandes",
-        "disambiguation": "",
-        "short_description": "researcher ORCID ID = 0000-0002-8333-6655",
-        "entity_id": "FE1EE12F-8FC2-4265-BE3E-CDDA0A45B7FF"
-      }
-    ]
+    "candidates": []
   },
   {
     "sport": "pl",
@@ -527,7 +473,8 @@
     "team": "Manchester United",
     "qloo_id": "01A07DF0-B4A3-4A23-9C62-424A80EC6FC4",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Cameroon; date_of_birth: 1999-08-07 (age ~27)",
     "qloo_name": "Bryan Mbeumo",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -538,7 +485,8 @@
     "team": "Newcastle United",
     "qloo_id": "D810F0A2-4DD6-4B34-948D-44F4483696C2",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Newcastle United F.C.",
     "qloo_name": "Anthony Gordon",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
@@ -549,7 +497,8 @@
     "team": "Newcastle United",
     "qloo_id": "F2F44A11-0CC6-411B-8FAC-7D6735643164",
     "verified": "auto",
-    "evidence": "properties.sport: association football",
+    "tier": 1,
+    "evidence": "member_of_sports_team: Newcastle United F.C.",
     "qloo_name": "Bruno Guimarães",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []

@@ -1,24 +1,28 @@
 """Taste Lift: rank the same athletes with and without the user's taste signal, and score the jump.
 
 Pure functions, no I/O. Raw affinity is normalized per query, so it is never compared across two
-requests -- only ranks and percentiles are. Missing data is UNKNOWN, never zero.
+requests -- only ranks and percentiles are. "Crowd" is the no-signal baseline: Qloo popularity,
+not real-world fame. Athletes without data are returned as `unknown`, never given a fake rank.
 """
 
 from __future__ import annotations
 
 from collections.abc import Iterable, Mapping, Sequence
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass, replace
+from typing import Any
 
 from backend.qloo.models import InsightEntity
 
-DEFAULT_ALPHA = 0.3
-# Popularity-bias penalty, decided from data (scripts/bias_check.py, Task 5). In the Day-1 K3
-# fixtures, 2 of 5 very different personas (space-pop, dark-hiphop) got Lewis Hamilton -- the
-# no-signal baseline #1 -- as their top-1 pick. Rule: >= 2 personas with top-1 inside the baseline
-# top-3 means personal affinity leaks popularity -> beta = 0.15 (else 0.0).
-DEFAULT_BETA = 0.15
+# Chosen by the parameter sweep (scripts/param_sweep.py -> data/sweep_results.json): 20 personas over
+# the verified 2026 F1 roster, grid alpha {0, .15, .3, .5} x beta {0, .15, .3}. Uncorrected (0, 0),
+# Lewis Hamilton -- the crowd #1 -- is the #1 pick for 55% of personas. At (0.5, 0.3) the #1 is
+# spread over 7 drivers (the most among rows keeping mean personal percentile >= 0.75; max share
+# 30%), none from the crowd top-3, and still at the 92nd personal percentile on average.
+DEFAULT_ALPHA = 0.5
+DEFAULT_BETA = 0.3
 MAX_PER_TEAM_IN_TOP3 = 1
 TOP_K = 3
+NO_DATA_TITLE = "New on the grid — not enough taste data yet"
 
 
 @dataclass(frozen=True)
@@ -28,12 +32,13 @@ class LiftedAthlete:
     entity_id: str
     team: str | None
     personal_rank: int
-    baseline_rank: int
-    lift: int  # baseline_rank - personal_rank; positive = your taste pulled them up
+    crowd_rank: int  # rank in the no-signal baseline (Qloo popularity)
+    lift: int  # crowd_rank - personal_rank; positive = your taste pulled them up
     pct_personal: float
-    fame: float
+    crowd_pct: float  # 1.0 = the crowd's favourite
     final: float
-    top_seed: str | None
+    distinctive_seed: str | None  # the seed that pulls this athlete up more than it pulls the others
+    seed_shares: dict[str, float]  # each seed's share of this athlete's explainability (sums to 1)
     explainability: dict[str, float]
 
 
@@ -50,6 +55,12 @@ class TasteLiftResult:
     ranked: list[LiftedAthlete]
     unknown: list[UnknownAthlete]
     n: int  # size of the scored intersection
+
+    def to_payload(self, no_data_title: str = NO_DATA_TITLE) -> dict[str, Any]:
+        """JSON-ready result for the UI: the ranking, plus the no-data athletes as their own
+        section (they have no rank, on purpose)."""
+        return {"n": self.n, "ranked": [asdict(a) for a in self.ranked],
+                "no_data": {"title": no_data_title, "athletes": [asdict(u) for u in self.unknown]}}
 
 
 def score(entity: InsightEntity) -> float | None:
@@ -82,10 +93,28 @@ def percentiles(entities: Sequence[InsightEntity]) -> dict[str, float]:
             for k, s in scores.items()}
 
 
-def top_seed(explainability: Mapping[str, float]) -> str | None:
-    if not explainability:
+def seed_means(entities: Iterable[InsightEntity]) -> dict[str, float]:
+    """Mean explainability score of each seed across the returned athletes that carry
+    explainability (a seed missing from one athlete's breakdown counts as 0 there)."""
+    with_expl = [e.explainability for e in entities if e.explainability]
+    seeds = {s for expl in with_expl for s in expl}
+    return {s: sum(expl.get(s, 0.0) for expl in with_expl) / len(with_expl) for s in seeds}
+
+
+def distinctive_seed(explainability: Mapping[str, float], means: Mapping[str, float]) -> str | None:
+    """argmax over seeds of score / mean score of that seed. A seed that lifts everyone (say,
+    Valorant for every driver) stops winning by default. Ties -> smallest seed id."""
+    ratios = {s: v / means[s] for s, v in explainability.items() if means.get(s, 0.0) > 0}
+    if not ratios:
         return None
-    return min(explainability, key=lambda seed: (-explainability[seed], seed))
+    return min(ratios, key=lambda s: (-ratios[s], s))
+
+
+def seed_shares(explainability: Mapping[str, float]) -> dict[str, float]:
+    total = sum(explainability.values())
+    if total <= 0:
+        return {}
+    return {s: v / total for s, v in explainability.items()}
 
 
 def _apply_diversity(ordered: list[LiftedAthlete], max_per_team: int) -> list[LiftedAthlete]:
@@ -121,7 +150,7 @@ def compute_taste_lift(personal: Sequence[InsightEntity], baseline: Sequence[Ins
     `teams` maps entity_id -> team for the whole candidate set (the roster). `exclude_ids` is the
     repair path ("I already know him"): those athletes are dropped before anything is ranked.
 
-    final = pct_personal + alpha * lift / N - beta * fame
+    final = pct_personal + alpha * lift / N - beta * crowd_pct
     """
     teams = teams or {}
     excluded = set(exclude_ids)
@@ -129,26 +158,28 @@ def compute_taste_lift(personal: Sequence[InsightEntity], baseline: Sequence[Ins
     base = _scored(baseline, excluded)
 
     pct_personal = percentiles(list(pers.values()))
-    fame = percentiles(list(base.values()))
+    crowd_pct = percentiles(list(base.values()))
+    means = seed_means(pers.values())
 
     both = [eid for eid in pers if eid in base]
     n = len(both)
     personal_rank = ranks(pers[eid] for eid in both)
-    baseline_rank = ranks(base[eid] for eid in both)
+    crowd_rank = ranks(base[eid] for eid in both)
 
     scored: list[LiftedAthlete] = []
     for eid in both:
-        lift = baseline_rank[eid] - personal_rank[eid]
-        final = pct_personal[eid] + alpha * lift / n - beta * fame[eid]
+        expl = pers[eid].explainability
+        lift = crowd_rank[eid] - personal_rank[eid]
         scored.append(LiftedAthlete(
             rank=0, name=pers[eid].name, entity_id=eid, team=teams.get(eid),
-            personal_rank=personal_rank[eid], baseline_rank=baseline_rank[eid], lift=lift,
-            pct_personal=pct_personal[eid], fame=fame[eid], final=final,
-            top_seed=top_seed(pers[eid].explainability),
-            explainability=dict(pers[eid].explainability)))
+            personal_rank=personal_rank[eid], crowd_rank=crowd_rank[eid], lift=lift,
+            pct_personal=pct_personal[eid], crowd_pct=crowd_pct[eid],
+            final=pct_personal[eid] + alpha * lift / n - beta * crowd_pct[eid],
+            distinctive_seed=distinctive_seed(expl, means), seed_shares=seed_shares(expl),
+            explainability=dict(expl)))
     scored.sort(key=lambda a: (-a.final, a.entity_id))
     ordered = _apply_diversity(scored, max_per_team_in_top3)
-    ranked = [LiftedAthlete(**{**a.__dict__, "rank": i}) for i, a in enumerate(ordered, 1)]
+    ranked = [replace(a, rank=i) for i, a in enumerate(ordered, 1)]
 
     names = {e.entity_id: e.name for e in [*personal, *baseline]}
     in_personal = {e.entity_id for e in personal}

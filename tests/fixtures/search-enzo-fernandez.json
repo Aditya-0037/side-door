@@ -1,0 +1,1735 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Enzo Fernández",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Enzo Fernández",
+        "entity_id": "A2019EF8-A75B-4E03-85C6-2C08860CF73E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Энцо Зидан"
+            },
+            {
+              "language": "u",
+              "value": "Энцо Зидан"
+            },
+            {
+              "language": "e",
+              "value": "Έντζο Φερνάντες"
+            },
+            {
+              "language": "l",
+              "value": "Έντζο Φερνάντες"
+            },
+            {
+              "language": "c",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "d",
+              "value": "Enzo"
+            },
+            {
+              "language": "e",
+              "value": "Enzo"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Zidane Fernandez"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane Fernandez"
+            },
+            {
+              "language": "h",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "t",
+              "value": "เอนโซ เฟร์นันเดซ"
+            },
+            {
+              "language": "h",
+              "value": "เอนโซ เฟร์นันเดซ"
+            },
+            {
+              "language": "u",
+              "value": "Зідан, Енцо"
+            },
+            {
+              "language": "k",
+              "value": "Зідан, Енцо"
+            },
+            {
+              "language": "d",
+              "value": "Enzo  Zidane"
+            },
+            {
+              "language": "e",
+              "value": "Enzo  Zidane"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Фернандес, Энсо"
+            },
+            {
+              "language": "u",
+              "value": "Фернандес, Энсо"
+            },
+            {
+              "language": "r",
+              "value": "Энцо Фернандес"
+            },
+            {
+              "language": "u",
+              "value": "Энцо Фернандес"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "z",
+              "value": "恩佐·費南迪斯"
+            },
+            {
+              "language": "h",
+              "value": "恩佐·費南迪斯"
+            },
+            {
+              "language": "r",
+              "value": "Зидан, Энцо"
+            },
+            {
+              "language": "u",
+              "value": "Зидан, Энцо"
+            },
+            {
+              "language": "z",
+              "value": "恩佐·齊達內"
+            },
+            {
+              "language": "h",
+              "value": "恩佐·齊達內"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "v",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "f",
+              "value": "انزو زیدان"
+            },
+            {
+              "language": "a",
+              "value": "انزو زیدان"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "h",
+              "value": "Էնցո Զիդան"
+            },
+            {
+              "language": "y",
+              "value": "Էնցո Զիդան"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "b",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "y",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "o",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "a",
+              "value": "إنزو زيدان"
+            },
+            {
+              "language": "r",
+              "value": "إنزو زيدان"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "g",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "m",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "g",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "a",
+              "value": "إنزو فرنانديز"
+            },
+            {
+              "language": "r",
+              "value": "إنزو فرنانديز"
+            },
+            {
+              "language": "c",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Alan Zidane Fernández"
+            },
+            {
+              "language": "k",
+              "value": "엔조 지단"
+            },
+            {
+              "language": "o",
+              "value": "엔조 지단"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Zidane Fernández"
+            },
+            {
+              "language": "j",
+              "value": "エンツォ・フェルナンデス"
+            },
+            {
+              "language": "a",
+              "value": "エンツォ・フェルナンデス"
+            },
+            {
+              "language": "p",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "p",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Zidane"
+            },
+            {
+              "language": "r",
+              "value": "Энсо Зидан"
+            },
+            {
+              "language": "u",
+              "value": "Энсо Зидан"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernandez"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "enzo"
+            },
+            "imdb": {
+              "id": "nm11814744"
+            }
+          },
+          "citizenship": [
+            "Algeria",
+            "France",
+            "Spain"
+          ],
+          "date_of_birth": "1995-03-24",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Deportivo Alavés",
+            "FC Lausanne-Sport",
+            "Spain national association football team",
+            "France national under-19 association football team",
+            "Rodez AF",
+            "Real Madrid CF",
+            "Juventus FC",
+            "Real Madrid C",
+            "Real Madrid Castilla",
+            "Wydad Athletic Club"
+          ],
+          "work_period_start": "2014-01-01",
+          "short_description": "French-Spanish footballer"
+        },
+        "popularity": 0.877099618399452,
+        "disambiguation": "1995-03-24",
+        "tags": [
+          {
+            "name": "French People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent"
+          },
+          {
+            "name": "France Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:france_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:france_mens_youth_international_footballers"
+          },
+          {
+            "name": "Sportspeople Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent"
+          },
+          {
+            "name": "French People Of Kabyle Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_kabyle_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_kabyle_descent"
+          },
+          {
+            "name": "Spanish People Of Kabyle Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_people_kabyle_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_people_kabyle_descent"
+          },
+          {
+            "name": "Rodez Af Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rodez_af_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rodez_af_players"
+          },
+          {
+            "name": "C.d. Aves Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_d_aves_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_d_aves_players"
+          },
+          {
+            "name": "Footballers From Bordeaux",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_bordeaux",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_bordeaux"
+          },
+          {
+            "name": "Emlyon Business School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:emlyon_business_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:emlyon_business_school_alumni"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_portugal"
+          },
+          {
+            "name": "French Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_mens_footballers"
+          },
+          {
+            "name": "Spanish People Of Algerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_people_algerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_people_algerian_descent"
+          },
+          {
+            "name": "French Sportspeople Of Algerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_sportspeople_algerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_sportspeople_algerian_descent"
+          },
+          {
+            "name": "Segunda División B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players"
+          },
+          {
+            "name": "Swiss Super League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swiss_super_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swiss_super_league_players"
+          },
+          {
+            "name": "Ligue 2 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ligue_2_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ligue_2_players"
+          },
+          {
+            "name": "Cf Fuenlabrada Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cf_fuenlabrada_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cf_fuenlabrada_footballers"
+          },
+          {
+            "name": "Cf Rayo Majadahonda Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cf_rayo_majadahonda_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cf_rayo_majadahonda_players"
+          },
+          {
+            "name": "French Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_mens_footballers"
+          },
+          {
+            "name": "Fc Lausanne-sport Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_lausanne_sport_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_lausanne_sport_players"
+          },
+          {
+            "name": "Primera Federación Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primera_federacion_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primera_federacion_players"
+          },
+          {
+            "name": "Spain Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spain_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spain_mens_youth_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_switzerland"
+          },
+          {
+            "name": "Juventus Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:juventus_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:juventus_fc_players"
+          },
+          {
+            "name": "Tercera División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tercera_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tercera_division_players"
+          },
+          {
+            "name": "Kabyle People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kabyle_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kabyle_people"
+          },
+          {
+            "name": "La Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:la_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:la_liga_players"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Zidane Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:zidane_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:zidane_family"
+          },
+          {
+            "name": "Real Madrid C Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_madrid_c_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_madrid_c_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Segunda División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal"
+          },
+          {
+            "name": "Spanish Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers"
+          },
+          {
+            "name": "Deportivo Alavés Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deportivo_alaves_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deportivo_alaves_players"
+          },
+          {
+            "name": "Real Madrid Castilla Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_madrid_castilla_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_madrid_castilla_footballers"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Championnat National 3 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:championnat_national_3_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:championnat_national_3_players"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Ud Almería Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ud_almeria_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ud_almeria_players"
+          },
+          {
+            "name": "Sportsperson",
+            "tag_id": "urn:tag:occupation:person:sportsperson",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:sportsperson"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Enzo Fernández",
+        "entity_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "z",
+              "value": "恩佐·费尔南德斯"
+            },
+            {
+              "language": "h",
+              "value": "恩佐·费尔南德斯"
+            },
+            {
+              "language": "c",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "p",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enso Fernandess"
+            },
+            {
+              "language": "v",
+              "value": "Enso Fernandess"
+            },
+            {
+              "language": "e",
+              "value": "Έντσο Φερνάντες"
+            },
+            {
+              "language": "l",
+              "value": "Έντσο Φερνάντες"
+            },
+            {
+              "language": "h",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Енцо Фернандес"
+            },
+            {
+              "language": "k",
+              "value": "Енцо Фернандес"
+            },
+            {
+              "language": "h",
+              "value": "एंज़ो फर्नांडीज़"
+            },
+            {
+              "language": "i",
+              "value": "एंज़ो फर्नांडीज़"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "o",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "เอนโซ เฟร์นันเดซ"
+            },
+            {
+              "language": "h",
+              "value": "เอนโซ เฟร์นันเดซ"
+            },
+            {
+              "language": "m",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "b",
+              "value": "Енцо Фернандес"
+            },
+            {
+              "language": "g",
+              "value": "Енцо Фернандес"
+            },
+            {
+              "language": "c",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "h",
+              "value": "אנסו פרננדס"
+            },
+            {
+              "language": "e",
+              "value": "אנסו פרננדס"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "w",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "j",
+              "value": "エンソ・フェルナンデス"
+            },
+            {
+              "language": "a",
+              "value": "エンソ・フェルナンデス"
+            },
+            {
+              "language": "p",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "o",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "p",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Енцо Фернандез"
+            },
+            {
+              "language": "r",
+              "value": "Енцо Фернандез"
+            },
+            {
+              "language": "h",
+              "value": "Էնցո Ֆեռնանդես"
+            },
+            {
+              "language": "y",
+              "value": "Էնցո Ֆեռնանդես"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "v",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "a",
+              "value": "اينزو فرنانديز"
+            },
+            {
+              "language": "r",
+              "value": "اينزو فرنانديز"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "z",
+              "value": "恩佐·費南德斯"
+            },
+            {
+              "language": "h",
+              "value": "恩佐·費南德斯"
+            },
+            {
+              "language": "v",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Фернандес, Энцо Херемиас"
+            },
+            {
+              "language": "u",
+              "value": "Фернандес, Энцо Херемиас"
+            },
+            {
+              "language": "z",
+              "value": "安素·費南迪斯"
+            },
+            {
+              "language": "h",
+              "value": "安素·費南迪斯"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "w",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "b",
+              "value": "এনসো ফের্নান্দেস"
+            },
+            {
+              "language": "n",
+              "value": "এনসো ফের্নান্দেস"
+            },
+            {
+              "language": "u",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "z",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "h",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "k",
+              "value": "Энцо Фернандес"
+            },
+            {
+              "language": "k",
+              "value": "Энцо Фернандес"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "b",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "k",
+              "value": "엔소 페르난데스"
+            },
+            {
+              "language": "o",
+              "value": "엔소 페르난데스"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "f",
+              "value": "انزو فرناندز"
+            },
+            {
+              "language": "a",
+              "value": "انزو فرناندز"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Enzo Jeremías Fernández"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "h",
+              "value": "Enzo Fernandez"
+            },
+            {
+              "language": "a",
+              "value": "Enzo Fernandez"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "enzojfernandez"
+            }
+          },
+          "citizenship": [
+            "Argentina"
+          ],
+          "date_of_birth": "2001-01-17",
+          "image": {
+            "url": "https://images.qloo.com/i/5592F57C-1E99-42D0-BB2F-DD452736A212-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Club Atlético River Plate"
+          ],
+          "short_description": "Argentine footballer (born 2001)"
+        },
+        "popularity": 0.5566693121405508,
+        "disambiguation": "2001-01-17",
+        "tags": [
+          {
+            "name": "Argentina Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentina_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentina_mens_international_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Argentine Primera División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players"
+          },
+          {
+            "name": "Argentine Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_mens_footballers"
+          },
+          {
+            "name": "Argentine Expatriate Sportspeople In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_sportspeople_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_sportspeople_in_portugal"
+          },
+          {
+            "name": "Defensa Y Justicia Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:defensa_y_justicia_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:defensa_y_justicia_footballers"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "S.l. Benfica Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Club Atlético River Plate Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:club_atletico_river_plate_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:club_atletico_river_plate_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Fifa World Cup-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_world_cup_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_world_cup_winning_players"
+          },
+          {
+            "name": "2024 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players"
+          },
+          {
+            "name": "Copa Sudamericana-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_sudamericana_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_sudamericana_winning_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Argentina Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentina_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentina_mens_youth_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Argentine Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Argentine Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_mens_footballers"
+          },
+          {
+            "name": "Copa América-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_america_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_america_winning_players"
+          }
+        ]
+      },
+      {
+        "name": "Enzo fernández",
+        "entity_id": "67101517-58B4-4371-AA60-F12E88F0B73F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "j",
+              "value": "レオニー・デュケ"
+            },
+            {
+              "language": "a",
+              "value": "レオニー・デュケ"
+            },
+            {
+              "language": "e",
+              "value": "Monjas francesas"
+            },
+            {
+              "language": "s",
+              "value": "Monjas francesas"
+            },
+            {
+              "language": "e",
+              "value": "Léonie Reneé Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Léonie Reneé Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Léonie Reneé Duquet"
+            },
+            {
+              "language": "u",
+              "value": "Léonie Reneé Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "l",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "o",
+              "value": "Léonie Duquet e Alice Domont"
+            },
+            {
+              "language": "c",
+              "value": "Léonie Duquet e Alice Domont"
+            },
+            {
+              "language": "f",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "r",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "p",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "t",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "moja hegalaria"
+            },
+            {
+              "language": "u",
+              "value": "moja hegalaria"
+            },
+            {
+              "language": "f",
+              "value": "لیونی دوکه"
+            },
+            {
+              "language": "a",
+              "value": "لیونی دوکه"
+            },
+            {
+              "language": "g",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "l",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "n",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "n",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "n",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "l",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Leonie Renee Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Leonie Renee Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "u",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "n",
+              "value": "Leonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Renee Duguet"
+            },
+            {
+              "language": "s",
+              "value": "Renee Duguet"
+            },
+            {
+              "language": "d",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "a",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Leonie Reneé Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Leonie Reneé Duquet"
+            },
+            {
+              "language": "t",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "r",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "d",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "e",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "f",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "r",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "c",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "a",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "s",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "v",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "n",
+              "value": "Léonie Duquet"
+            },
+            {
+              "language": "b",
+              "value": "Léonie Duquet"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "no2015153268"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1916-04-09",
+          "date_of_death": "1977-12-01",
+          "image": {
+            "url": "https://images.qloo.com/i/67101517-58B4-4371-AA60-F12E88F0B73F-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "short_description": "French nun (1916-1977)"
+        },
+        "disambiguation": "1916-04-09",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People Murdered In Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_murdered_in_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_murdered_in_argentina"
+          },
+          {
+            "name": "Women In War In South America",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_in_war_in_south_america",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_in_war_in_south_america"
+          },
+          {
+            "name": "Religious Sister",
+            "tag_id": "urn:tag:occupation:person:religious_sister",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:religious_sister"
+          },
+          {
+            "name": "Women In War 1945–1999",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_in_war_1945_1999",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_in_war_1945_1999"
+          },
+          {
+            "name": "French People Murdered Abroad",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_murdered_abroad",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_murdered_abroad"
+          },
+          {
+            "name": "People Killed In The Dirty War",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_killed_in_dirty_war",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_killed_in_dirty_war"
+          },
+          {
+            "name": "False Flag Operations",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:false_flag_operations",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:false_flag_operations"
+          },
+          {
+            "name": "20th-century French Nuns",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_french_nuns",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_french_nuns"
+          },
+          {
+            "name": "People From Doubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_doubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_doubs"
+          }
+        ]
+      },
+      {
+        "name": "Enzo Fernández",
+        "entity_id": "D38D4B45-AB6A-46CB-9809-C40E509A81B7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández Pitto"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández Pitto"
+            },
+            {
+              "language": "s",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "f",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Enzo Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Enzo Fernández Pitto"
+            },
+            {
+              "language": "n",
+              "value": "Enzo Fernández Pitto"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "enzofernandez_8"
+            }
+          },
+          "citizenship": [
+            "Chile"
+          ],
+          "date_of_birth": "2002-03-26",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Club Universidad de Chile"
+          ],
+          "short_description": "Chilean footballer"
+        },
+        "disambiguation": "2002-03-26",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          }
+        ]
+      }
+    ]
+  },
+  "_note": "Real /search response (2026-10-06). One unrelated candidate with a vandalised, abusive description was removed."
+}

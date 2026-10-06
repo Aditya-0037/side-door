@@ -32,21 +32,30 @@ $env:PYTHONUTF8="1"   # athlete names contain characters like ø / ć
 ## Layout
 
 ```
-backend/qloo/        client.py (throttle, retry, cache, budget), models.py, cache.py
-backend/ranking/     taste_lift.py (pure scoring), bias.py (popularity-bias check)
-backend/inventory/   rosters.py (Jolpica grid, name + sport verification)
-data/                rosters.json (verified Qloo IDs), pl_seed.json (manually curated)
-scripts/             verify_rosters.py, demo_rank.py, bias_check.py, smoke_compare.py, kill_tests.py
-tests/               pytest suite (no live API) + fixtures/ (raw Day-1 responses, no keys)
+backend/qloo/        client.py (throttle, retry, cache, budget), models.py, cache.py, seeds.py
+backend/ranking/     taste_lift.py (pure scoring), sweep.py (param sweep), bias.py (popularity-bias check)
+backend/inventory/   rosters.py (Jolpica grid, evidence tiers for Qloo matches)
+data/                f1_grid.json (Jolpica snapshot), pl_seed.json (manually curated), roster_overrides.json,
+                     rosters.json (verified Qloo IDs + evidence tier), personas_eval.json,
+                     sweep_inputs.json / sweep_results.json (parameter sweep)
+scripts/             refresh_f1_grid.py, verify_rosters.py, demo_rank.py, param_sweep.py, bias_check.py,
+                     smoke_compare.py, kill_tests.py
+tests/               pytest suite (no live API) + fixtures/ (raw Qloo responses, no keys)
 ```
 
 ## Scripts
 
 ```powershell
+.venv\Scripts\python.exe scripts/refresh_f1_grid.py           # latest race lineup -> data/f1_grid.json (nightly later)
 .venv\Scripts\python.exe scripts/verify_rosters.py            # resolve rosters -> data/rosters.json
-.venv\Scripts\python.exe scripts/bias_check.py                # popularity-bias analysis (fixtures only)
 .venv\Scripts\python.exe scripts/demo_rank.py --seeds "Spirited Away|Arijit Singh|Valorant" --sport f1
+.venv\Scripts\python.exe scripts/param_sweep.py --offline     # recompute the alpha/beta sweep, no API calls
+.venv\Scripts\python.exe scripts/bias_check.py                # Day-1 popularity-bias analysis (fixtures only)
 ```
+
+Roster matches are accepted at **tier 1** (current club in the candidate's team list) or **tier 2**
+(sport + nationality + plausible date of birth); anything else needs review. Popularity is never
+used to choose between namesakes.
 
 Live responses are cached in `.cache/`, and every script shares one daily call budget.
 

@@ -32,12 +32,12 @@ def is_driver(e: InsightEntity) -> bool:
 
 def print_report(personas: dict[str, list[InsightEntity]], baseline: list[InsightEntity]) -> float:
     report = bias_report(personas, baseline)
-    print(f"  {'persona':12s} | {'top-3 (personal affinity)':62s} | top-1 in baseline top-3?")
+    print(f"  {'persona':12s} | {'top-3 (personal affinity)':62s} | top-1 in crowd top-3?")
     for r in report:
-        print(f"  {r.persona:12s} | {', '.join(r.top3):62s} | {'YES' if r.top1_in_baseline_top3 else 'no'}")
+        print(f"  {r.persona:12s} | {', '.join(r.top3):62s} | {'YES' if r.top1_in_crowd_top3 else 'no'}")
     beta = choose_beta(report)
-    hits = sum(r.top1_in_baseline_top3 for r in report)
-    print(f"  => {hits}/5 personas have top-1 inside the baseline top-3 -> beta = {beta}")
+    hits = sum(r.top1_in_crowd_top3 for r in report)
+    print(f"  => {hits}/5 personas have top-1 inside the crowd top-3 -> beta = {beta}")
     return beta
 
 
@@ -45,7 +45,7 @@ def main() -> None:
     baseline = load("k3-baseline")
     personas = {p: load(f"k3-{p}") for p in PERSONAS}
     base_top3 = [e.name for e in baseline[:3]]
-    print(f"Baseline (no signal) top-3: {base_top3}\n")
+    print(f"Crowd (no-signal baseline, Qloo popularity) top-3: {base_top3}\n")
 
     print("Raw K3 fixtures (as recorded):")
     beta = print_report(personas, baseline)
@@ -59,9 +59,8 @@ def main() -> None:
     clean = {p: [e for e in es if e.entity_id not in drop] for p, es in personas.items()}
     print_report(clean, [e for e in baseline if e.entity_id not in drop])
 
-    print(f"\nChosen default beta: {beta}  (DEFAULT_BETA in backend/ranking/taste_lift.py = {DEFAULT_BETA})")
-    if beta != DEFAULT_BETA:
-        print("  !! DEFAULT_BETA does not match the evidence -- update the constant.")
+    print(f"\nTask-5 rule says beta = {beta}. (DEFAULT_BETA is now set by the parameter sweep, "
+          f"scripts/param_sweep.py: {DEFAULT_BETA})")
 
     teams: dict[str, str | None] = {}
     if ROSTERS_PATH.exists():
@@ -73,7 +72,7 @@ def main() -> None:
         result = compute_taste_lift(entities, baseline, teams, alpha=DEFAULT_ALPHA, beta=beta, exclude_ids=drop)
         top = result.ranked[:3]
         old_top1 = clean[p][0].name if clean[p] else None
-        print(f"  {p:12s} new top-1: {top[0].name:18s} (lift {top[0].lift:+d}, baseline #{top[0].baseline_rank})"
+        print(f"  {p:12s} new top-1: {top[0].name:18s} (lift {top[0].lift:+d}, crowd #{top[0].crowd_rank})"
               f" | top-3: {[a.name for a in top]} | raw top-1 was {old_top1}")
 
 

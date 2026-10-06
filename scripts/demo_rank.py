@@ -15,17 +15,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from backend.inventory.rosters import load_rosters, name_tokens  # noqa: E402
 from backend.qloo.client import QlooClient  # noqa: E402
-from backend.qloo.models import SearchResult  # noqa: E402
-from backend.ranking.taste_lift import DEFAULT_ALPHA, DEFAULT_BETA, compute_taste_lift  # noqa: E402
-
-SEED_TYPES = ("urn:entity:movie", "urn:entity:artist", "urn:entity:videogame")
+from backend.qloo.seeds import resolve_seed  # noqa: E402
+from backend.ranking.taste_lift import DEFAULT_ALPHA, DEFAULT_BETA, NO_DATA_TITLE, compute_taste_lift  # noqa: E402
 
 
-def resolve_seed(client: QlooClient, text: str) -> SearchResult | None:
-    """One untyped search; prefer an exact-name movie/artist/videogame, else the first of those types."""
-    allowed = [r for r in client.search(text, take=10) if any(t in SEED_TYPES for t in r.types)]
-    exact = [r for r in allowed if name_tokens(r.name) == name_tokens(text)]
-    return (exact or allowed or [None])[0]
+def share_text(shares: dict[str, float], short: dict[str, str]) -> str:
+    """'Valorant 45%  Spirited 30%  Arijit 25%' -- what the UI's contribution bar will show."""
+    parts = sorted(shares.items(), key=lambda kv: (-kv[1], kv[0]))
+    return "  ".join(f"{short.get(s, s[:8])} {v:.0%}" for s, v in parts)
 
 
 def main() -> None:
@@ -51,6 +48,7 @@ def main() -> None:
         print(f"  {text:24s} -> {hit.name} [{hit.types[0]}] {hit.entity_id}")
     if not seeds:
         sys.exit("No seed resolved; nothing to rank.")
+    short = {sid: name.split()[0][:10] for sid, name in seeds.items()}
 
     roster = load_rosters(sport=args.sport)
     teams = {a.qloo_id: a.team for a in roster if a.qloo_id}
@@ -65,15 +63,16 @@ def main() -> None:
     result = compute_taste_lift(personal, baseline, teams, alpha=args.alpha, beta=args.beta, exclude_ids=exclude)
 
     print(f"\nTaste Lift (alpha={args.alpha}, beta={args.beta}, N={result.n} scored)")
-    print(f"  {'#':>2}  {'athlete':22s} {'team':18s} {'base -> you':>11s}  {'lift':>4s}  {'final':>6s}  top seed")
+    print(f"  {'#':>2}  {'athlete':22s} {'team':18s} {'crowd -> you':>12s}  {'lift':>4s}  {'final':>6s}  "
+          f"{'distinctive':12s} seed shares")
     for a in result.ranked:
-        seed = seeds.get(a.top_seed, a.top_seed) if a.top_seed else "-"
-        print(f"  {a.rank:>2}  {a.name:22s} {(a.team or '?'):18s} {a.baseline_rank:>4} -> {a.personal_rank:<4}"
-              f"  {a.lift:+4d}  {a.final:6.3f}  {seed}")
+        seed = short.get(a.distinctive_seed, "-") if a.distinctive_seed else "-"
+        print(f"  {a.rank:>2}  {a.name:22s} {(a.team or '?'):18s} {a.crowd_rank:>5} -> {a.personal_rank:<4}"
+              f"  {a.lift:+4d}  {a.final:6.3f}  {seed:12s} {share_text(a.seed_shares, short)}")
     if result.unknown:
-        print("\n  UNKNOWN (no data in one or both queries -- not ranked, not zero):")
+        print(f"\n  {NO_DATA_TITLE}:")
         for u in result.unknown:
-            print(f"    {names.get(u.entity_id, u.name)} ({u.team}) - {u.reason}")
+            print(f"    {names.get(u.entity_id, u.name)} ({u.team})")
     print(f"\nQloo calls this run: {client.budget.used - calls_before} (today: {client.budget.used}/{client.budget.limit})")
 
 
