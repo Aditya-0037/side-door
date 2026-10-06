@@ -36,6 +36,10 @@ PERSONAS_PATH = ROOT / "data" / "personas_eval.json"
 INPUTS_PATH = ROOT / "data" / "sweep_inputs.json"
 RESULTS_PATH = ROOT / "data" / "sweep_results.json"
 SPORT = "f1"
+ADOPTED_REASON = ("The rule's (0.5, 0.3) is a grid corner (overfitting risk on 20 personas), makes Bottas a "
+                  "new magnet (#1 for 30%) and promotes personal #5 athletes, which feels random; 7 vs 6 "
+                  "distinct #1s is one persona (noise). (0.15, 0.15) keeps mean personal pct 0.956 with "
+                  "crowd_top3_rate 0.05. See backend/ranking/taste_lift.py.")
 
 
 def compact(entities: list[InsightEntity]) -> list[dict[str, Any]]:
@@ -100,21 +104,22 @@ def main() -> None:
           f"excluded for lack of data (unknown, never ranked): {no_data}")
 
     rows = ordered(sweep(personas, baseline, teams))
-    best = choose(rows)
+    rule = choose(rows)
+    adopted = next(r for r in rows if (r.alpha, r.beta) == (DEFAULT_ALPHA, DEFAULT_BETA))
     print(f"\n  {'alpha':>5} {'beta':>5}  {'distinct':>8}  {'crowd_top3':>10}  {'max_share':>9}  "
           f"{'mean_pct':>8}  most frequent #1")
     for r in rows:
-        flag = " <= chosen" if r == best else ("  (pct < 0.75)" if r.mean_personal_pct_of_top1 < MIN_MEAN_PERSONAL_PCT else "")
+        flag = (" <= adopted (DEFAULT_*)" if r == adopted else " <= rule's pick" if r == rule else
+                "  (pct < 0.75)" if r.mean_personal_pct_of_top1 < MIN_MEAN_PERSONAL_PCT else "")
         print(f"  {r.alpha:5.2f} {r.beta:5.2f}  {r.distinct_top1:8d}  {r.crowd_top3_rate:10.2f}  "
               f"{r.max_top1_share:9.2f}  {r.mean_personal_pct_of_top1:8.3f}  {r.max_top1_athlete}{flag}")
 
-    print(f"\nChosen: alpha={best.alpha}, beta={best.beta}. #1 distribution:")
-    for name, wins in Counter(best.top1.values()).most_common():
+    print(f"\nRule's pick: alpha={rule.alpha}, beta={rule.beta}. "
+          f"Adopted: alpha={adopted.alpha}, beta={adopted.beta}. #1 distribution (adopted):")
+    for name, wins in Counter(adopted.top1.values()).most_common():
         print(f"  {wins:2d}  {name}")
-    if (best.alpha, best.beta) != (DEFAULT_ALPHA, DEFAULT_BETA):
-        print(f"  !! taste_lift.py defaults are alpha={DEFAULT_ALPHA}, beta={DEFAULT_BETA}: update them.")
 
-    lifts = {p: compute_taste_lift(es, baseline, teams, alpha=best.alpha, beta=best.beta).ranked[0]
+    lifts = {p: compute_taste_lift(es, baseline, teams, alpha=adopted.alpha, beta=adopted.beta).ranked[0]
              for p, es in personas.items()}
     RESULTS_PATH.write_text(json.dumps({
         "generated_on": inputs["generated_on"], "sport": inputs["sport"], "personas": len(personas),
@@ -122,9 +127,10 @@ def main() -> None:
         "selection_rule": (f"keep mean_personal_pct_of_top1 >= {MIN_MEAN_PERSONAL_PCT}; then max distinct_top1, "
                            "min max_top1_share; ties: min crowd_top3_rate, max mean_personal_pct_of_top1, "
                            "smaller alpha+beta"),
-        "chosen": {"alpha": best.alpha, "beta": best.beta},
-        "chosen_top1": {p: {"name": a.name, "crowd_rank": a.crowd_rank, "personal_rank": a.personal_rank,
-                            "lift": a.lift, "distinctive_seed": a.distinctive_seed} for p, a in lifts.items()},
+        "rule_choice": {"alpha": rule.alpha, "beta": rule.beta},
+        "adopted": {"alpha": adopted.alpha, "beta": adopted.beta, "reason": ADOPTED_REASON},
+        "adopted_top1": {p: {"name": a.name, "crowd_rank": a.crowd_rank, "personal_rank": a.personal_rank,
+                             "lift": a.lift} for p, a in lifts.items()},
         "rows": [asdict(r) for r in rows],
     }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"\nwrote {RESULTS_PATH.relative_to(ROOT)}")

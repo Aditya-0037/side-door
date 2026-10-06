@@ -1,10 +1,8 @@
 {
-  "_note": "Manual picks for namesake collisions, decided by Aditya on 2026-10-06. scripts/verify_rosters.py writes these as verified: \"manual\" and still records which evidence tier the chosen ID passes.",
+  "_note": "Manual picks for namesake collisions, decided by Aditya on 2026-10-06. scripts/verify_rosters.py writes these as verified: \"manual\" and still records which evidence tier the chosen ID passes. (Mohamed Salah's pick was dropped when he left the Premier League.)",
   "overrides": [
-    {"sport": "pl", "name": "Mohamed Salah", "qloo_id": "C5E59A12-DB26-438F-90D8-565F45D02596",
-     "reason": "Egyptian, born 1992-06-15; Liverpool F.C. in team list"},
     {"sport": "pl", "name": "Enzo Fernández", "qloo_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
-     "reason": "Argentine, born 2001-01-17 (Chelsea midfielder)"},
+     "reason": "Argentine midfielder, born 2001-01-17"},
     {"sport": "pl", "name": "Bruno Fernandes", "qloo_id": "906531C2-AD85-4B10-92B4-F898184AB213",
      "reason": "Portuguese, born 1994-09-08; Manchester United F.C. in team list"}
   ]

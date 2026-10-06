@@ -59,15 +59,48 @@ def test_missing_candidates_are_unknown_not_zero():
     assert by_id(result)["B"].pct_personal == 0.0
 
 
+SEEDS = {"V": "Valorant", "S": "Spirited Away", "R": "Arijit Singh"}
+
+
 def test_payload_exposes_no_data_athletes_without_a_rank():
     pers = personal(("A", 0.9), ("B", 0.5))
     base = baseline(("A", 0.9), ("B", 0.8))
-    payload = compute_taste_lift(pers, base, {"A": "X", "B": "Y", "NEW": "Z"}).to_payload()
+    payload = compute_taste_lift(pers, base, {"A": "X", "B": "Y", "NEW": "Z"}).to_payload(SEEDS)
 
     assert [(a["rank"], a["entity_id"]) for a in payload["ranked"]] == [(1, "A"), (2, "B")]
+    assert payload["seeds"] == SEEDS
     assert payload["no_data"]["title"] == NO_DATA_TITLE
     assert payload["no_data"]["athletes"] == [
         {"entity_id": "NEW", "name": None, "team": "Z", "reason": "missing_both"}]
+
+
+def test_why_line_states_only_ranks_and_never_a_cause():
+    pers = personal(("A", 0.9), ("B", 0.5), ("C", 0.4))
+    base = baseline(("B", 0.9), ("C", 0.8), ("A", 0.7))
+    payload = compute_taste_lift(pers, base, beta=0.0).to_payload(SEEDS)
+    a = next(x for x in payload["ranked"] if x["entity_id"] == "A")
+    assert a["why_line"] == ("People whose taste overlaps yours (Valorant, Spirited Away, Arijit Singh) "
+                             "rank Athlete A #1 of 3; the crowd ranks them #3.")
+    for item in payload["ranked"]:
+        assert "because" not in item["why_line"] and "caused" not in item["why_line"]
+
+
+def test_payload_omits_distinctive_seed_below_the_ratio_threshold():
+    base = baseline(("A", 0.9), ("B", 0.8), ("C", 0.7))
+    # Near-uniform contributions, like the real data: no seed is >= 5% above its mean anywhere.
+    flat = {"A": {"V": 0.37, "S": 0.34, "R": 0.29}, "B": {"V": 0.36, "S": 0.35, "R": 0.29},
+            "C": {"V": 0.37, "S": 0.35, "R": 0.28}}
+    pers = [ent(k, a, expl=e) for (k, e), a in zip(flat.items(), (0.9, 0.8, 0.7))]
+    items = {x["entity_id"]: x for x in compute_taste_lift(pers, base).to_payload(SEEDS)["ranked"]}
+    for item in items.values():
+        assert "distinctive_seed" not in item and "distinctive_seed_name" not in item
+        assert item["distinctive_ratio"] < 1.05
+    assert items["A"]["seed_shares"] == pytest.approx({"V": 0.37, "S": 0.34, "R": 0.29})
+
+    # Clearly different contributions: the distinctive seed is shown, with its name.
+    pers = [ent(k, a, expl=EXPL[k]) for k, a in (("A", 0.9), ("B", 0.8), ("C", 0.7))]
+    items = {x["entity_id"]: x for x in compute_taste_lift(pers, base).to_payload(SEEDS)["ranked"]}
+    assert items["A"]["distinctive_seed"] == "S" and items["A"]["distinctive_seed_name"] == "Spirited Away"
 
 
 def test_diversity_rule_pushes_same_team_out_of_top3():
@@ -149,7 +182,8 @@ def test_distinctive_seed_is_not_the_seed_that_lifts_everyone():
     assert distinctive_seed(EXPL["A"], means) == "S"  # 0.3 / 0.167 beats 0.6 / 0.6
     assert distinctive_seed(EXPL["B"], means) == "R"
     assert distinctive_seed({}, means) is None
-    assert distinctive_seed({"X": 0.5, "Y": 0.5}, {"X": 0.5, "Y": 0.5}) == "X"  # tie -> smallest id
+    assert distinctive_seed({"X": 0.6, "Y": 0.6}, {"X": 0.5, "Y": 0.5}) == "X"  # tie -> smallest id
+    assert distinctive_seed({"X": 0.51, "Y": 0.5}, {"X": 0.5, "Y": 0.5}) is None  # ratio 1.02 < 1.05
 
 
 def test_seed_shares_sum_to_one():

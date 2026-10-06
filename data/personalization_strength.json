@@ -1,0 +1,67 @@
+{
+  "generated_on": "2026-10-06",
+  "source": "data/sweep_inputs.json (cached, 0 API calls)",
+  "personas": 20,
+  "thresholds": {
+    "weak_above": 0.85,
+    "strong_below": 0.6
+  },
+  "common_athletes": 17,
+  "persona_pairs": 190,
+  "persona_persona_mean": 0.5442595459236326,
+  "persona_persona_min": -0.39950980392156865,
+  "persona_persona_max": 0.9754901960784313,
+  "persona_crowd_mean": 0.5140931372549019,
+  "persona_crowd": {
+    "desi-anime-gamer": 0.32107843137254904,
+    "cozy-romantic": 0.7598039215686274,
+    "space-dreamer": 0.7230392156862745,
+    "dark-hiphop": 0.7009803921568627,
+    "gym-rock": 0.4485294117647059,
+    "bollywood-romantic-mobile": 0.6200980392156863,
+    "punjabi-pop-bgmi": 0.46568627450980393,
+    "indie-cozy": 0.3088235294117647,
+    "horror-hiphop": 0.7156862745098039,
+    "horror-rock": 0.19117647058823528,
+    "classical-romantic": 0.6200980392156863,
+    "classical-scifi": 0.6593137254901961,
+    "sporty-mainstream": 0.7230392156862745,
+    "desi-football-gamer": 0.6495098039215687,
+    "bollywood-swiftie": 0.7892156862745098,
+    "dark-desi-mobile": 0.45098039215686275,
+    "anime-rap-mobile": 0.6813725490196079,
+    "soft-indie-student": 0.09558823529411764,
+    "desi-gym-gta": 0.5514705882352942,
+    "horror-indie-valorant": -0.19362745098039216
+  },
+  "top3_counts": {
+    "Lewis Hamilton": 14,
+    "Charles Leclerc": 11,
+    "Lando Norris": 8,
+    "Valtteri Bottas": 8,
+    "Carlos Sainz Jr.": 6,
+    "Max Verstappen": 4,
+    "Alexander Albon": 3,
+    "Fernando Alonso": 2,
+    "George Russell": 2,
+    "Sergio Pérez": 2,
+    "Esteban Ocon": 0,
+    "Gabriel Bortoleto": 0,
+    "Lance Stroll": 0,
+    "Liam Lawson": 0,
+    "Nico Hülkenberg": 0,
+    "Oscar Piastri": 0,
+    "Pierre Gasly": 0
+  },
+  "verdict": "strong: personas get clearly different orders",
+  "margins": {
+    "affinity_range_per_persona_median": 0.11851321730127246,
+    "neighbour_gap_median": 0.0036493488531887386
+  },
+  "reference_after_taste_lift": {
+    "alpha": 0.15,
+    "beta": 0.15,
+    "persona_persona_mean": 0.46090041279669763,
+    "persona_crowd_mean": 0.3417892156862745
+  }
+}

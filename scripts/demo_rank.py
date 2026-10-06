@@ -69,6 +69,10 @@ def main() -> None:
         seed = short.get(a.distinctive_seed, "-") if a.distinctive_seed else "-"
         print(f"  {a.rank:>2}  {a.name:22s} {(a.team or '?'):18s} {a.crowd_rank:>5} -> {a.personal_rank:<4}"
               f"  {a.lift:+4d}  {a.final:6.3f}  {seed:12s} {share_text(a.seed_shares, short)}")
+    print("\n  Why (top 3):")
+    for item in result.to_payload(seeds)["ranked"][:3]:
+        extra = f"  [distinctive: {item['distinctive_seed_name']}]" if "distinctive_seed_name" in item else ""
+        print(f"    {item['why_line']}{extra}")
     if result.unknown:
         print(f"\n  {NO_DATA_TITLE}:")
         for u in result.unknown:

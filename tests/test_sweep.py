@@ -4,7 +4,7 @@ from pathlib import Path
 import pytest
 
 from backend.qloo.models import InsightEntity
-from backend.ranking.sweep import SweepRow, choose, evaluate, sweep
+from backend.ranking.sweep import MIN_MEAN_PERSONAL_PCT, SweepRow, choose, evaluate, sweep
 from backend.ranking.taste_lift import DEFAULT_ALPHA, DEFAULT_BETA
 
 DATA = Path(__file__).resolve().parents[1] / "data"
@@ -60,14 +60,23 @@ def test_choose_prefers_distinct_then_low_share_within_the_pct_floor():
         choose([row(0.5, 0.3, 9, 0.1, 0.60)])
 
 
-def test_saved_sweep_reproduces_offline_and_matches_the_defaults():
+def test_saved_sweep_reproduces_offline_and_records_the_adopted_defaults():
     results = json.loads((DATA / "sweep_results.json").read_text(encoding="utf-8"))
-    assert (results["chosen"]["alpha"], results["chosen"]["beta"]) == (DEFAULT_ALPHA, DEFAULT_BETA)
+    assert (DEFAULT_ALPHA, DEFAULT_BETA) == (0.15, 0.15)
+    assert (results["adopted"]["alpha"], results["adopted"]["beta"]) == (DEFAULT_ALPHA, DEFAULT_BETA)
 
     inputs = json.loads((DATA / "sweep_inputs.json").read_text(encoding="utf-8"))
     teams = {r["entity_id"]: r["team"] for r in inputs["roster"]}
     baseline = [InsightEntity(**e) for e in inputs["baseline"]]
     personas = {p: [InsightEntity(**e) for e in es] for p, es in inputs["personal"].items()}
-    best = choose(sweep(personas, baseline, teams))
-    assert (best.alpha, best.beta) == (DEFAULT_ALPHA, DEFAULT_BETA)
+    rows = sweep(personas, baseline, teams)
     assert len(personas) == results["personas"] == 20
+
+    # The mechanical rule still prefers the grid corner; we deliberately adopt (0.15, 0.15).
+    rule = choose(rows)
+    assert (rule.alpha, rule.beta) == (results["rule_choice"]["alpha"], results["rule_choice"]["beta"]) == (0.5, 0.3)
+    adopted = next(r for r in rows if (r.alpha, r.beta) == (DEFAULT_ALPHA, DEFAULT_BETA))
+    assert adopted.mean_personal_pct_of_top1 >= MIN_MEAN_PERSONAL_PCT
+    assert (adopted.distinct_top1, adopted.max_top1_share) == (6, 0.25)
+    assert adopted.crowd_top3_rate == pytest.approx(0.05)
+    assert adopted.mean_personal_pct_of_top1 == pytest.approx(0.956, abs=1e-3)

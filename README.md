@@ -33,13 +33,13 @@ $env:PYTHONUTF8="1"   # athlete names contain characters like ø / ć
 
 ```
 backend/qloo/        client.py (throttle, retry, cache, budget), models.py, cache.py, seeds.py
-backend/ranking/     taste_lift.py (pure scoring), sweep.py (param sweep), bias.py (popularity-bias check)
+backend/ranking/     taste_lift.py (pure scoring), sweep.py, personalization.py, bias.py (analyses)
 backend/inventory/   rosters.py (Jolpica grid, evidence tiers for Qloo matches)
 data/                f1_grid.json (Jolpica snapshot), pl_seed.json (manually curated), roster_overrides.json,
                      rosters.json (verified Qloo IDs + evidence tier), personas_eval.json,
-                     sweep_inputs.json / sweep_results.json (parameter sweep)
-scripts/             refresh_f1_grid.py, verify_rosters.py, demo_rank.py, param_sweep.py, bias_check.py,
-                     smoke_compare.py, kill_tests.py
+                     sweep_inputs.json / sweep_results.json (parameter sweep), personalization_strength.json
+scripts/             refresh_f1_grid.py, verify_rosters.py, demo_rank.py, param_sweep.py, personalization_check.py,
+                     bias_check.py, smoke_compare.py, kill_tests.py
 tests/               pytest suite (no live API) + fixtures/ (raw Qloo responses, no keys)
 ```
 
@@ -50,6 +50,7 @@ tests/               pytest suite (no live API) + fixtures/ (raw Qloo responses,
 .venv\Scripts\python.exe scripts/verify_rosters.py            # resolve rosters -> data/rosters.json
 .venv\Scripts\python.exe scripts/demo_rank.py --seeds "Spirited Away|Arijit Singh|Valorant" --sport f1
 .venv\Scripts\python.exe scripts/param_sweep.py --offline     # recompute the alpha/beta sweep, no API calls
+.venv\Scripts\python.exe scripts/personalization_check.py     # how different are personas' rankings? (offline)
 .venv\Scripts\python.exe scripts/bias_check.py                # Day-1 popularity-bias analysis (fixtures only)
 ```
 

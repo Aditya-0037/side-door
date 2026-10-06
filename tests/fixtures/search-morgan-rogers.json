@@ -1,0 +1,1522 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Morgan Rogers",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Morgan Rogers",
+        "entity_id": "776CB742-FA7C-4084-A8DA-12B9990EEFD3",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "l",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "i",
+              "value": "Morgan Elliot Rogers"
+            },
+            {
+              "language": "d",
+              "value": "Morgan Elliot Rogers"
+            },
+            {
+              "language": "i",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "d",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "u",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "z",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "f",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "i",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "q",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "c",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "v",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "z",
+              "value": "摩根·羅杰斯"
+            },
+            {
+              "language": "h",
+              "value": "摩根·羅杰斯"
+            },
+            {
+              "language": "z",
+              "value": "摩根·羅傑斯"
+            },
+            {
+              "language": "h",
+              "value": "摩根·羅傑斯"
+            },
+            {
+              "language": "p",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "t",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "j",
+              "value": "モーガン・ロジャーズ"
+            },
+            {
+              "language": "a",
+              "value": "モーガン・ロジャーズ"
+            },
+            {
+              "language": "i",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "t",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "j",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "v",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "z",
+              "value": "摩根·罗杰斯"
+            },
+            {
+              "language": "h",
+              "value": "摩根·罗杰斯"
+            },
+            {
+              "language": "g",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "l",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "r",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "o",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "a",
+              "value": "مورغان روجرز"
+            },
+            {
+              "language": "r",
+              "value": "مورغان روجرز"
+            },
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "t",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "u",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "n",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "l",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "r",
+              "value": "Роджерс, Морган"
+            },
+            {
+              "language": "u",
+              "value": "Роджерс, Морган"
+            },
+            {
+              "language": "c",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "a",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "f",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "r",
+              "value": "Morgan Rogers"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "2002-07-26",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "West Bromwich Albion F.C."
+          ],
+          "short_description": "English association football player"
+        },
+        "popularity": 0.4290614366010372,
+        "disambiguation": "2002-07-26",
+        "tags": [
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Blackpool F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:blackpool_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:blackpool_f_c_players"
+          },
+          {
+            "name": "Aston Villa F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aston_villa_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aston_villa_f_c_players"
+          },
+          {
+            "name": "West Bromwich Albion F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_bromwich_albion_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_bromwich_albion_f_c_players"
+          },
+          {
+            "name": "Sportspeople From The Metropolitan Borough Of Dudley",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_metropolitan_borough_dudley",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_metropolitan_borough_dudley"
+          },
+          {
+            "name": "English Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_football_league_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Lincoln City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lincoln_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lincoln_city_f_c_players"
+          },
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "Middlesbrough F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:middlesbrough_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:middlesbrough_f_c_players"
+          },
+          {
+            "name": "People From Halesowen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_halesowen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_halesowen"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Rogers",
+        "entity_id": "230DEDFF-5EA7-4472-B960-B688FDCFEA36",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "s",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "n",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "l",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "c",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "a",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "p",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "t",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "i",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "t",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "f",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "r",
+              "value": "Morgan Rogers"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "2002-07-16",
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Wales women's national football team"
+          ],
+          "short_description": "Welsh/Watford footballer"
+        },
+        "disambiguation": "2002-07-16",
+        "tags": [
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Morgan Rogers",
+        "entity_id": "499E042E-AF81-4EF1-9DE4-003230C75105",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {},
+          "gender": [
+            "female"
+          ],
+          "member_of_sports_team": [
+            "Tulane Green Wave women's basketball"
+          ],
+          "short_description": "college basketball player (2013–2015) Tulane"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Morgan M Rogers",
+        "entity_id": "31294C61-0AA0-437B-B3D8-A8A96C73E5B8",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "n",
+              "value": "Morgan Rogers"
+            },
+            {
+              "language": "n",
+              "value": "Morgan M Rogers"
+            },
+            {
+              "language": "l",
+              "value": "Morgan M Rogers"
+            }
+          ],
+          "external": {},
+          "short_description": "researcher"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          },
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          }
+        ]
+      },
+      {
+        "name": "Alex Morgan",
+        "entity_id": "2AE89390-EE34-4191-BAD7-9555EF507B91",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "p",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "d",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "z",
+              "value": "摩根"
+            },
+            {
+              "language": "h",
+              "value": "摩根"
+            },
+            {
+              "language": "k",
+              "value": "ალექს მორგანი"
+            },
+            {
+              "language": "a",
+              "value": "ალექს მორგანი"
+            },
+            {
+              "language": "r",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "u",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "v",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "j",
+              "value": "アレックス・モーガン"
+            },
+            {
+              "language": "a",
+              "value": "アレックス・モーガン"
+            },
+            {
+              "language": "c",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "a",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "n",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "f",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "r",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "r",
+              "value": "Морган, Алекс"
+            },
+            {
+              "language": "u",
+              "value": "Морган, Алекс"
+            },
+            {
+              "language": "h",
+              "value": "אלכס מורגן"
+            },
+            {
+              "language": "e",
+              "value": "אלכס מורגן"
+            },
+            {
+              "language": "z",
+              "value": "亚历克斯·摩根"
+            },
+            {
+              "language": "h",
+              "value": "亚历克斯·摩根"
+            },
+            {
+              "language": "e",
+              "value": "Alexandra Patricia Morgan-Carrasco"
+            },
+            {
+              "language": "t",
+              "value": "Alexandra Patricia Morgan-Carrasco"
+            },
+            {
+              "language": "n",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "y",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "n",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "d",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "c",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alexandra Morgan Carrasco"
+            },
+            {
+              "language": "d",
+              "value": "Alexandra Morgan Carrasco"
+            },
+            {
+              "language": "e",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Άλεξ Μόργκαν"
+            },
+            {
+              "language": "l",
+              "value": "Άλεξ Μόργκαν"
+            },
+            {
+              "language": "r",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "o",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "w",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "u",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "z",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "m",
+              "value": "അലക്സ് മോർഗൻ"
+            },
+            {
+              "language": "l",
+              "value": "അലക്സ് മോർഗൻ"
+            },
+            {
+              "language": "n",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντρα Πατρίσια Μόργκαν"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντρα Πατρίσια Μόργκαν"
+            },
+            {
+              "language": "n",
+              "value": "एलेक्स मोर्गन"
+            },
+            {
+              "language": "e",
+              "value": "एलेक्स मोर्गन"
+            },
+            {
+              "language": "f",
+              "value": "آلکس مورگن"
+            },
+            {
+              "language": "a",
+              "value": "آلکس مورگن"
+            },
+            {
+              "language": "h",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "w",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "a",
+              "value": "أليكس مورغان"
+            },
+            {
+              "language": "r",
+              "value": "أليكس مورغان"
+            },
+            {
+              "language": "k",
+              "value": "앨릭스 모건"
+            },
+            {
+              "language": "o",
+              "value": "앨릭스 모건"
+            },
+            {
+              "language": "p",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "v",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "f",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "h",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "u",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "n",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "b",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "n",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "n",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "v",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "i",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "s",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "r",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "c",
+              "value": "Alex Morganová"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morganová"
+            },
+            {
+              "language": "e",
+              "value": "Alexandra Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alexandra Morgan"
+            },
+            {
+              "language": "b",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "g",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "s",
+              "value": "Alexandra Morgan Carrasco"
+            },
+            {
+              "language": "u",
+              "value": "Alexandra Morgan Carrasco"
+            },
+            {
+              "language": "h",
+              "value": "Ալեքս Մորգան"
+            },
+            {
+              "language": "y",
+              "value": "Ալեքս Մորգան"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan Carrasco"
+            },
+            {
+              "language": "v",
+              "value": "Alex Morgan Carrasco"
+            },
+            {
+              "language": "d",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "a",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "u",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "f",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "o",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "v",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "u",
+              "value": "ایلکس مورگن"
+            },
+            {
+              "language": "r",
+              "value": "ایلکس مورگن"
+            },
+            {
+              "language": "h",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "u",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "c",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "y",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "s",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "u",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "g",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "a",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "k",
+              "value": "ಅಲ್ಸ್ ಮಾರ್ಗನ್"
+            },
+            {
+              "language": "n",
+              "value": "ಅಲ್ಸ್ ಮಾರ್ಗನ್"
+            },
+            {
+              "language": "u",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "k",
+              "value": "Алекс Морган"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "q",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "f",
+              "value": "الکس مورگن"
+            },
+            {
+              "language": "a",
+              "value": "الکس مورگن"
+            },
+            {
+              "language": "i",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "g",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "r",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "d",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alexandra Patricia Morgan"
+            },
+            {
+              "language": "d",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "e",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "p",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "t",
+              "value": "Alexandra Patricia Morgan Carrasco"
+            },
+            {
+              "language": "l",
+              "value": "Aleksa Morgana"
+            },
+            {
+              "language": "v",
+              "value": "Aleksa Morgana"
+            },
+            {
+              "language": "p",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "l",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "h",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "a",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "m",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "g",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "i",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "t",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "b",
+              "value": "অ্যালেক্স মরগান"
+            },
+            {
+              "language": "n",
+              "value": "অ্যালেক্স মরগান"
+            },
+            {
+              "language": "r",
+              "value": "Alexandra Patricia"
+            },
+            {
+              "language": "o",
+              "value": "Alexandra Patricia"
+            },
+            {
+              "language": "s",
+              "value": "Alex Morgan"
+            },
+            {
+              "language": "u",
+              "value": "Alex Morgan"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "alexmorgan13"
+            },
+            "twitter": {
+              "id": "alexmorgan13"
+            },
+            "imdb": {
+              "id": "nm4906598"
+            },
+            "library_of_congress": {
+              "id": "n2013006754"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1989-07-02",
+          "image": {
+            "url": "https://images.qloo.com/i/2AE89390-EE34-4191-BAD7-9555EF507B91-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "lifestyle": [
+            "veganism"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "spouse": [
+            "Servando Carrasco"
+          ],
+          "member_of_sports_team": [
+            "Pali Blues",
+            "Olympique Lyonnais",
+            "Orlando Pride",
+            "San Diego Wave FC",
+            "West Coast FC",
+            "California Golden Bears",
+            "United States women's national under-20 association football team",
+            "Portland Thorns FC",
+            "California Storm",
+            "Seattle Sounders Women",
+            "United States women's national soccer team",
+            "Western New York Flash",
+            "California Golden Bears women's soccer"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "American soccer player"
+        },
+        "popularity": 0.9941672736760853,
+        "disambiguation": "1989-07-02",
+        "tags": [
+          {
+            "name": "Fifa Womens Century Club",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_womens_century_club",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_womens_century_club"
+          },
+          {
+            "name": "Expatriate Womens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_england"
+          },
+          {
+            "name": "Medalists At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics"
+          },
+          {
+            "name": "Division 1 Féminine Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:division_1_feminine_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:division_1_feminine_players"
+          },
+          {
+            "name": "Womens Super League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_super_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_super_league_players"
+          },
+          {
+            "name": "Olympic Gold Medalists For The United States In Soccer",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_soccer",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_soccer"
+          },
+          {
+            "name": "Usl W-league (1995–2015) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:usl_w_league_1995_2015_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:usl_w_league_1995_2015_players"
+          },
+          {
+            "name": "Footballers At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics"
+          },
+          {
+            "name": "21st-century American Sportswomen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_sportswomen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_sportswomen"
+          },
+          {
+            "name": "Olympic Bronze Medalists For The United States In Soccer",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_soccer",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_soccer"
+          },
+          {
+            "name": "Seattle Sounders Women Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:seattle_sounders_women_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:seattle_sounders_women_players"
+          },
+          {
+            "name": "Portland Thorns Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portland_thorns_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portland_thorns_fc_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "San Diego Wave Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:san_diego_wave_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:san_diego_wave_fc_players"
+          },
+          {
+            "name": "Western New York Flash Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:western_new_york_flash_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:western_new_york_flash_players"
+          },
+          {
+            "name": "Olympique Lyonnais Féminin Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympique_lyonnais_feminin_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympique_lyonnais_feminin_players"
+          },
+          {
+            "name": "California Storm Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:california_storm_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:california_storm_players"
+          },
+          {
+            "name": "21st-century American Novelists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_novelists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_novelists"
+          },
+          {
+            "name": "Expatriate Womens Footballers In France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_france"
+          },
+          {
+            "name": "American Womens Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_womens_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_womens_soccer_players"
+          },
+          {
+            "name": "American Youth Soccer Organization Womens Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_youth_soccer_organization_womens_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_youth_soccer_organization_womens_players"
+          },
+          {
+            "name": "2015 Fifa Womens World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2015_fifa_womens_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2015_fifa_womens_world_cup_players"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Womens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_association_football_forwards"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Tottenham Hotspur F.c. Women Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tottenham_hotspur_f_c_women_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tottenham_hotspur_f_c_women_players"
+          },
+          {
+            "name": "Novelist",
+            "tag_id": "urn:tag:occupation:person:novelist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:novelist"
+          },
+          {
+            "name": "Merchant",
+            "tag_id": "urn:tag:occupation:person:merchant",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:merchant"
+          },
+          {
+            "name": "California Golden Bears Womens Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:california_golden_bears_womens_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:california_golden_bears_womens_soccer_players"
+          },
+          {
+            "name": "National Womens Soccer League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_womens_soccer_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_womens_soccer_league_players"
+          },
+          {
+            "name": "21st-century American Women Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_writers"
+          },
+          {
+            "name": "American Expatriate Sportspeople In France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_sportspeople_in_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_sportspeople_in_france"
+          },
+          {
+            "name": "Footballers At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics"
+          },
+          {
+            "name": "American Expatriate Womens Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_womens_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_womens_soccer_players"
+          },
+          {
+            "name": "United States Womens Under-20 International Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_womens_under_20_international_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_womens_under_20_international_soccer_players"
+          },
+          {
+            "name": "Fifa Womens World Cup-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_womens_world_cup_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_womens_world_cup_winning_players"
+          },
+          {
+            "name": "Novelists From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:novelists_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:novelists_from_california"
+          },
+          {
+            "name": "Pali Blues Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pali_blues_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pali_blues_players"
+          },
+          {
+            "name": "American Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "2011 Fifa Womens World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2011_fifa_womens_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2011_fifa_womens_world_cup_players"
+          },
+          {
+            "name": "American Women Novelists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_novelists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_novelists"
+          },
+          {
+            "name": "2019 Fifa Womens World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_fifa_womens_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_fifa_womens_world_cup_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Footballers At The 2020 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2020_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2020_summer_olympics"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Womens Premier Soccer League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_premier_soccer_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_premier_soccer_league_players"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Medalists At The 2020 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2020_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2020_summer_olympics"
+          },
+          {
+            "name": "United States Womens International Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_womens_international_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_womens_international_soccer_players"
+          },
+          {
+            "name": "Orlando Pride Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:orlando_pride_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:orlando_pride_players"
+          },
+          {
+            "name": "Womens Professional Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_professional_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_professional_soccer_players"
+          },
+          {
+            "name": "2023 Fifa Womens World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2023_fifa_womens_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2023_fifa_womens_world_cup_players"
+          },
+          {
+            "name": "United States Womens Youth International Soccer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_womens_youth_international_soccer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_womens_youth_international_soccer_players"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -265,6 +265,18 @@
   },
   {
     "sport": "pl",
+    "name": "Bruno Guimarães",
+    "team": "Arsenal",
+    "qloo_id": "F2F44A11-0CC6-411B-8FAC-7D6735643164",
+    "verified": "auto",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Brazil; date_of_birth: 1997-11-15 (age ~29)",
+    "qloo_name": "Bruno Guimarães",
+    "source": "data/pl_seed.json (manually curated)",
+    "candidates": []
+  },
+  {
+    "sport": "pl",
     "name": "Bukayo Saka",
     "team": "Arsenal",
     "qloo_id": "AF1E99D1-1541-4331-8BD0-8A8B297E754B",
@@ -301,18 +313,6 @@
   },
   {
     "sport": "pl",
-    "name": "Ollie Watkins",
-    "team": "Aston Villa",
-    "qloo_id": "D457EDBA-8F0C-45D5-A5AA-82A6D4589192",
-    "verified": "auto",
-    "tier": 1,
-    "evidence": "member_of_sports_team: Aston Villa F.C.",
-    "qloo_name": "Ollie Watkins",
-    "source": "data/pl_seed.json (manually curated)",
-    "candidates": []
-  },
-  {
-    "sport": "pl",
     "name": "Kaoru Mitoma",
     "team": "Brighton & Hove Albion",
     "qloo_id": "511CE1F4-F766-44D2-851A-8B7A22816B30",
@@ -337,18 +337,6 @@
   },
   {
     "sport": "pl",
-    "name": "Enzo Fernández",
-    "team": "Chelsea",
-    "qloo_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
-    "verified": "manual",
-    "tier": 2,
-    "evidence": "manual: Argentine, born 2001-01-17 (Chelsea midfielder) | tier 2: properties.sport: association football; citizenship: Argentina; date_of_birth: 2001-01-17 (age ~25)",
-    "qloo_name": "Enzo Fernández",
-    "source": "data/pl_seed.json (manually curated)",
-    "candidates": []
-  },
-  {
-    "sport": "pl",
     "name": "Moisés Caicedo",
     "team": "Chelsea",
     "qloo_id": "54F78BFF-24F5-4F49-B4B4-A03B683974E4",
@@ -358,6 +346,49 @@
     "qloo_name": "Moisés Caicedo",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
+  },
+  {
+    "sport": "pl",
+    "name": "Morgan Rogers",
+    "team": "Chelsea",
+    "qloo_id": null,
+    "verified": "needs_review",
+    "tier": null,
+    "evidence": null,
+    "qloo_name": null,
+    "source": "data/pl_seed.json (manually curated)",
+    "candidates": [
+      {
+        "name": "Morgan Rogers",
+        "disambiguation": "2002-07-26",
+        "short_description": "English association football player",
+        "entity_id": "776CB742-FA7C-4084-A8DA-12B9990EEFD3"
+      },
+      {
+        "name": "Morgan Rogers",
+        "disambiguation": "2002-07-16",
+        "short_description": "Welsh/Watford footballer",
+        "entity_id": "230DEDFF-5EA7-4472-B960-B688FDCFEA36"
+      },
+      {
+        "name": "Morgan Rogers",
+        "disambiguation": "",
+        "short_description": "college basketball player (2013–2015) Tulane",
+        "entity_id": "499E042E-AF81-4EF1-9DE4-003230C75105"
+      },
+      {
+        "name": "Morgan M Rogers",
+        "disambiguation": "",
+        "short_description": "researcher",
+        "entity_id": "31294C61-0AA0-437B-B3D8-A8A96C73E5B8"
+      },
+      {
+        "name": "Alex Morgan",
+        "disambiguation": "1989-07-02",
+        "short_description": "American soccer player",
+        "entity_id": "2AE89390-EE34-4191-BAD7-9555EF507B91"
+      }
+    ]
   },
   {
     "sport": "pl",
@@ -385,6 +416,18 @@
   },
   {
     "sport": "pl",
+    "name": "Bradley Barcola",
+    "team": "Liverpool",
+    "qloo_id": "55DC8D55-BE74-450F-8424-0709DCF3D759",
+    "verified": "auto",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: France; date_of_birth: 2002-09-02 (age ~24)",
+    "qloo_name": "Bradley Barcola",
+    "source": "data/pl_seed.json (manually curated)",
+    "candidates": []
+  },
+  {
+    "sport": "pl",
     "name": "Florian Wirtz",
     "team": "Liverpool",
     "qloo_id": "62C1BDDD-4A2A-45DE-B2F9-E878C17D0B4B",
@@ -397,18 +440,6 @@
   },
   {
     "sport": "pl",
-    "name": "Mohamed Salah",
-    "team": "Liverpool",
-    "qloo_id": "C5E59A12-DB26-438F-90D8-565F45D02596",
-    "verified": "manual",
-    "tier": 1,
-    "evidence": "manual: Egyptian, born 1992-06-15; Liverpool F.C. in team list | tier 1: member_of_sports_team: Liverpool F.C.",
-    "qloo_name": "Mohamed Salah",
-    "source": "data/pl_seed.json (manually curated)",
-    "candidates": []
-  },
-  {
-    "sport": "pl",
     "name": "Virgil van Dijk",
     "team": "Liverpool",
     "qloo_id": "92192CE5-8276-4965-A321-B323D0BB73F8",
@@ -416,6 +447,30 @@
     "tier": 1,
     "evidence": "member_of_sports_team: Liverpool F.C.",
     "qloo_name": "Virgil van Dijk",
+    "source": "data/pl_seed.json (manually curated)",
+    "candidates": []
+  },
+  {
+    "sport": "pl",
+    "name": "Elliot Anderson",
+    "team": "Manchester City",
+    "qloo_id": "1C51CBC9-9561-4BC6-A991-BB91A94C3FA6",
+    "verified": "auto",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: England; date_of_birth: 2002-11-06 (age ~24)",
+    "qloo_name": "Elliot Anderson",
+    "source": "data/pl_seed.json (manually curated)",
+    "candidates": []
+  },
+  {
+    "sport": "pl",
+    "name": "Enzo Fernández",
+    "team": "Manchester City",
+    "qloo_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
+    "verified": "manual",
+    "tier": 2,
+    "evidence": "manual: Argentine midfielder, born 2001-01-17 | tier 2: properties.sport: association football; citizenship: Argentina; date_of_birth: 2001-01-17 (age ~25)",
+    "qloo_name": "Enzo Fernández",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
   },
@@ -445,18 +500,6 @@
   },
   {
     "sport": "pl",
-    "name": "Rodri",
-    "team": "Manchester City",
-    "qloo_id": "C0DD100F-6D34-4F8E-A97D-4DA5B9CB3E7A",
-    "verified": "auto",
-    "tier": 1,
-    "evidence": "member_of_sports_team: Manchester City F.C.",
-    "qloo_name": "Rodri",
-    "source": "data/pl_seed.json (manually curated)",
-    "candidates": []
-  },
-  {
-    "sport": "pl",
     "name": "Bruno Fernandes",
     "team": "Manchester United",
     "qloo_id": "906531C2-AD85-4B10-92B4-F898184AB213",
@@ -481,25 +524,13 @@
   },
   {
     "sport": "pl",
-    "name": "Anthony Gordon",
-    "team": "Newcastle United",
-    "qloo_id": "D810F0A2-4DD6-4B34-948D-44F4483696C2",
+    "name": "Sandro Tonali",
+    "team": "Tottenham Hotspur",
+    "qloo_id": "966B9CE6-F22D-4EAC-8726-77880D07C813",
     "verified": "auto",
-    "tier": 1,
-    "evidence": "member_of_sports_team: Newcastle United F.C.",
-    "qloo_name": "Anthony Gordon",
-    "source": "data/pl_seed.json (manually curated)",
-    "candidates": []
-  },
-  {
-    "sport": "pl",
-    "name": "Bruno Guimarães",
-    "team": "Newcastle United",
-    "qloo_id": "F2F44A11-0CC6-411B-8FAC-7D6735643164",
-    "verified": "auto",
-    "tier": 1,
-    "evidence": "member_of_sports_team: Newcastle United F.C.",
-    "qloo_name": "Bruno Guimarães",
+    "tier": 2,
+    "evidence": "properties.sport: association football; citizenship: Italy; date_of_birth: 2000-05-08 (age ~26)",
+    "qloo_name": "Sandro Tonali",
     "source": "data/pl_seed.json (manually curated)",
     "candidates": []
   }

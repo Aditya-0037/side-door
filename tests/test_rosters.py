@@ -82,7 +82,7 @@ def test_exact_dob_separates_sainz_from_his_father():
 
 def test_enzo_resolved_by_nationality_never_by_popularity():
     candidates = results("search-enzo-fernandez")
-    pick = pick_candidate(Expected(names=["Enzo Fernández"], team="Chelsea", nationality="Argentine"),
+    pick = pick_candidate(Expected(names=["Enzo Fernández"], team="Manchester City", nationality="Argentine"),
                           "pl", candidates, TODAY)
     assert (pick.status, pick.tier) == ("auto", 2)
     assert pick.result.entity_id == "5592F57C-1E99-42D0-BB2F-DD452736A212"
@@ -95,6 +95,13 @@ def test_salah_resolved_by_club():
                           "pl", results("search-mohamed-salah"), TODAY)
     assert (pick.status, pick.tier) == ("auto", 1)
     assert pick.result.entity_id == "C5E59A12-DB26-438F-90D8-565F45D02596"
+
+
+def test_real_namesakes_at_tier2_go_to_review():
+    # Two footballers called Morgan Rogers, both born July 2002 with UK citizenship: one English
+    # (the Chelsea player), one a Welsh women's international. Tier 2 can't separate them.
+    expected = Expected(names=["Morgan Rogers"], team="Chelsea", nationality="English")
+    assert pick_candidate(expected, "pl", results("search-morgan-rogers"), TODAY).status == "ambiguous"
 
 
 def test_two_candidates_at_the_best_tier_is_ambiguous():
