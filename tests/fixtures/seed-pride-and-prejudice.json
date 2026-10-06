@@ -1,0 +1,4930 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Pride and Prejudice",
+    "take": 5,
+    "types": "urn:entity:movie"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Pride & Prejudice",
+        "entity_id": "A1407445-5676-4874-B796-3D81FDA62468",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "es",
+              "value": "\"Orgullo y prejuicio\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Orgullo y prejuicio\""
+            },
+            {
+              "language": "ta",
+              "value": "\"பிரைட் அண்ட் பிரயடஸ்\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Гордость и предубеждение\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Stolthet & fördom\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Duma i uprzedzenie\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Orgulho e Preconceito\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Orgulho e Preconceito\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Orgueil et Préjugés\""
+            },
+            {
+              "language": "ja",
+              "value": "\"プライドと偏見\""
+            },
+            {
+              "language": "th",
+              "value": "\"ดอกไม้ทรนงกับชายชาติผยอง\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Pride & Prejudice\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Pride & Prejudice\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Pride & Prejudice\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Pride and Prejudice\""
+            },
+            {
+              "language": "ko",
+              "value": "\"오만과 편견\""
+            },
+            {
+              "language": "zh",
+              "value": "\"傲慢與偏見\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Pýcha a předsudek\""
+            },
+            {
+              "language": "bn",
+              "value": "\"প্রাইড অ্যান্ড প্রেজুডিস\""
+            },
+            {
+              "language": "de",
+              "value": "\"Stolz und Vorurteil\""
+            },
+            {
+              "language": "it",
+              "value": "\"Orgoglio e pregiudizio\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Ylpeys ja ennakkoluulo\""
+            },
+            {
+              "language": "ar",
+              "value": "\"كبرياء و تحامل\""
+            },
+            {
+              "language": "te",
+              "value": "\"ప్రైడ్ అండ్ ప్రిజుడిస్\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Aşk ve Gurur\""
+            },
+            {
+              "language": "he",
+              "value": "\"גאווה ודעה קדומה\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Mândrie și prejudecată\""
+            }
+          ],
+          "content_rating": "PG",
+          "description": "Pride & Prejudice (2005), directed by Joe Wright and starring Keira Knightley, Matthew Macfadyen, and Brenda Blethyn, is a romantic period drama adapted from the classic novel. Set in late 18th-century English society, it follows a sharp-witted young woman whose initial dislike of a proud gentleman gradually gives way to understanding and love. The film foregrounds character-driven emotion, social manners, and questions of class and marriage, rendered in a lyrical, naturalistic visual style. Its tone is intimate and heartfelt, balancing wit with wistful romantic longing.",
+          "external": {
+            "imdb": {
+              "id": "tt0414387",
+              "user_rating": 7.8,
+              "user_rating_count": 383520
+            },
+            "metacritic": {
+              "critic_rating": 82,
+              "id": "pride-prejudice",
+              "user_rating": 8.6
+            },
+            "wikidata": {
+              "id": "q270385"
+            }
+          },
+          "filming_location": "Chatsworth House, Edensor, Derbyshire, England, UK, Stourhead Garden, Warminster, Wiltshire, England, UK, Basildon Park, Lower Basildon, Berkshire, England, UK, Burghley House, Stamford, Lincolnshire, England, UK, Groombridge Place, Groombridge, Kent, England, UK, Haddon Hall, Bakewell, Derbyshire, England, UK, Stanage Edge, Hathersage Moor, Hathersage, Derbyshire, England, UK, Wilton House, Wilton, Salisbury, Wiltshire, England, UK, St George's Square, Stamford, Lincolnshire, England, UK, Stamford, Lincolnshire, England, UK, Rutland, England, UK, Weekley, Northamptonshire, England, UK, Wiltshire, England, UK, North Lees Hall, Hathersage, Derbyshire, England, UK, Sherwood Forest, Nottinghamshire, England, UK, St Mary's Street, Stamford, Lincolnshire, England, UK",
+          "image": {
+            "url": "https://images.qloo.com/i/A1407445-5676-4874-B796-3D81FDA62468-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Universal Pictures",
+          "release_country": "United Kingdom",
+          "release_date": "2005-11-23",
+          "release_year": 2005,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A spirited young woman clashes with a proud gentleman; amid family pressures and social constraints their initial dislike slowly deepens into love."
+            },
+            {
+              "language": "de",
+              "value": "Eine lebhafte junge Frau prallt auf einen stolzen Aristokraten; zwischen Familiendruck und gesellschaftlichen Konventionen wandelt sich ihre Abneigung langsam in Liebe."
+            },
+            {
+              "language": "es",
+              "value": "Una joven vivaz choca con un caballero orgulloso y, entre presiones familiares y normas sociales, su desdén inicial se transforma poco a poco en amor."
+            },
+            {
+              "language": "fr",
+              "value": "Une jeune femme vive s'oppose à un aristocrate orgueilleux et, entre pressions familiales et convenances, leur antipathie se mue lentement en amour."
+            }
+          ],
+          "website": "http://www.rogerebert.com/reviews/pride-and-prejudice-2005"
+        },
+        "popularity": 0.998012916045703,
+        "disambiguation": "2005",
+        "tags": [
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Misunderstanding",
+            "tag_id": "urn:tag:keyword:qloo:misunderstanding",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Mother daughter relationship",
+            "tag_id": "urn:tag:keyword:media:mother_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mr wickham character",
+            "tag_id": "urn:tag:keyword:media:mr_wickham_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class conflict",
+            "tag_id": "urn:tag:keyword:media:class_conflict",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Period accurate",
+            "tag_id": "urn:tag:style:qloo:period_accurate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Witty",
+            "tag_id": "urn:tag:character:qloo:witty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Inheritance",
+            "tag_id": "urn:tag:keyword:qloo:inheritance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Georgiana darcy character",
+            "tag_id": "urn:tag:keyword:media:georgiana_darcy_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Scandal",
+            "tag_id": "urn:tag:keyword:media:scandal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical costume design",
+            "tag_id": "urn:tag:interests:qloo:historical_costume_design",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Heartfelt",
+            "tag_id": "urn:tag:plot:qloo:heartfelt",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Potato",
+            "tag_id": "urn:tag:keyword:media:potato",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical",
+            "tag_id": "urn:tag:genre:qloo:historical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Romantic drama",
+            "tag_id": "urn:tag:subgenre:qloo:romantic_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Prejudice",
+            "tag_id": "urn:tag:theme:qloo:prejudice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Manor house",
+            "tag_id": "urn:tag:keyword:media:manor_house",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hertfordshire england",
+            "tag_id": "urn:tag:keyword:media:hertfordshire_england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ballroom",
+            "tag_id": "urn:tag:keyword:media:ballroom",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Literary adaptation",
+            "tag_id": "urn:tag:subgenre:qloo:literary_adaptation",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Rustic realism",
+            "tag_id": "urn:tag:style:qloo:rustic_realism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "England",
+            "tag_id": "urn:tag:keyword:media:england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Directorial debut",
+            "tag_id": "urn:tag:keyword:media:directorial_debut",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ball",
+            "tag_id": "urn:tag:keyword:qloo:ball",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Period drama",
+            "tag_id": "urn:tag:keyword:media:period_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Country life",
+            "tag_id": "urn:tag:keyword:media:country_life",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Woman",
+            "tag_id": "urn:tag:keyword:media:woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sarcasm",
+            "tag_id": "urn:tag:keyword:media:sarcasm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Socially ambitious",
+            "tag_id": "urn:tag:character:qloo:socially_ambitious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Parade",
+            "tag_id": "urn:tag:keyword:media:parade",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:character:qloo:proud",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Arranged courtship",
+            "tag_id": "urn:tag:keyword:media:arranged_courtship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Costume drama",
+            "tag_id": "urn:tag:keyword:media:costume_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sculpture garden",
+            "tag_id": "urn:tag:keyword:media:sculpture_garden",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:audience:qloo:romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Derbyshire",
+            "tag_id": "urn:tag:keyword:media:derbyshire",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "18th century",
+            "tag_id": "urn:tag:keyword:media:18th_century",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:keyword:media:europe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:romance",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Historical fiction",
+            "tag_id": "urn:tag:keyword:media:historical_fiction",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Mr bennet character",
+            "tag_id": "urn:tag:keyword:media:mr_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Engagement",
+            "tag_id": "urn:tag:keyword:media:engagement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period architecture",
+            "tag_id": "urn:tag:interests:qloo:period_architecture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Heterosexual romance",
+            "tag_id": "urn:tag:keyword:media:heterosexual_romance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pianoforte",
+            "tag_id": "urn:tag:keyword:media:pianoforte",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Based on novel",
+            "tag_id": "urn:tag:keyword:media:based_on_novel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Estate",
+            "tag_id": "urn:tag:keyword:media:estate",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Country estate",
+            "tag_id": "urn:tag:keyword:media:country_estate",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young woman",
+            "tag_id": "urn:tag:keyword:media:young_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Soldier",
+            "tag_id": "urn:tag:keyword:media:soldier",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Dysfunctional family",
+            "tag_id": "urn:tag:keyword:media:dysfunctional_family",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sweeping landscapes",
+            "tag_id": "urn:tag:style:qloo:sweeping_landscapes",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Elizabeth bennet character",
+            "tag_id": "urn:tag:keyword:media:elizabeth_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Feel good romance",
+            "tag_id": "urn:tag:keyword:media:feel_good_romance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:media:courtship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father daughter relationship",
+            "tag_id": "urn:tag:keyword:media:father_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sister sister relationship",
+            "tag_id": "urn:tag:keyword:media:sister_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rural setting",
+            "tag_id": "urn:tag:keyword:media:rural_setting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mansion",
+            "tag_id": "urn:tag:keyword:media:mansion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Teenage marriage",
+            "tag_id": "urn:tag:keyword:media:teenage_marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lake",
+            "tag_id": "urn:tag:keyword:media:lake",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Voice over letter",
+            "tag_id": "urn:tag:keyword:media:voice_over_letter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic romance",
+            "tag_id": "urn:tag:keyword:media:epic_romance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Three word title",
+            "tag_id": "urn:tag:keyword:media:three_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wealth",
+            "tag_id": "urn:tag:keyword:media:wealth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fiction",
+            "tag_id": "urn:tag:keyword:media:fiction",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gender roles",
+            "tag_id": "urn:tag:theme:qloo:gender_roles",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Class differences",
+            "tag_id": "urn:tag:keyword:media:class_differences",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Year 1797",
+            "tag_id": "urn:tag:keyword:media:year_1797",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Five sisters",
+            "tag_id": "urn:tag:keyword:media:five_sisters",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The ball",
+            "tag_id": "urn:tag:archetype:qloo:the_ball",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Chick flick",
+            "tag_id": "urn:tag:keyword:media:chick_flick",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Personal growth",
+            "tag_id": "urn:tag:theme:qloo:personal_growth",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class",
+            "tag_id": "urn:tag:keyword:qloo:class",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Lieutenant",
+            "tag_id": "urn:tag:keyword:media:lieutenant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:qloo:marriage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Mary bennet character",
+            "tag_id": "urn:tag:keyword:media:mary_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:theme:qloo:marriage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Sunrise",
+            "tag_id": "urn:tag:keyword:media:sunrise",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Social mobility",
+            "tag_id": "urn:tag:theme:qloo:social_mobility",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Walking in the rain",
+            "tag_id": "urn:tag:keyword:media:walking_in_the_rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Talking while dancing",
+            "tag_id": "urn:tag:keyword:media:talking_while_dancing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "1790s",
+            "tag_id": "urn:tag:keyword:media:1790s",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Estate",
+            "tag_id": "urn:tag:keyword:qloo:estate",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Snobbery",
+            "tag_id": "urn:tag:keyword:media:snobbery",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mid budget",
+            "tag_id": "urn:tag:keyword:media:mid_budget",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character says i love you",
+            "tag_id": "urn:tag:keyword:media:character_says_i_love_you",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bad first impression",
+            "tag_id": "urn:tag:keyword:media:bad_first_impression",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage proposal",
+            "tag_id": "urn:tag:keyword:media:marriage_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The estate",
+            "tag_id": "urn:tag:archetype:qloo:the_estate",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Cousin cousin marriage",
+            "tag_id": "urn:tag:keyword:media:cousin_cousin_marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bachelor",
+            "tag_id": "urn:tag:keyword:media:bachelor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Self centeredness",
+            "tag_id": "urn:tag:keyword:media:self_centeredness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Long take",
+            "tag_id": "urn:tag:keyword:media:long_take",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Painterly composition",
+            "tag_id": "urn:tag:style:qloo:painterly_composition",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Strong female character",
+            "tag_id": "urn:tag:keyword:media:strong_female_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cousin cousin relationship",
+            "tag_id": "urn:tag:keyword:media:cousin_cousin_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Letters",
+            "tag_id": "urn:tag:keyword:qloo:letters",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Eavesdropping",
+            "tag_id": "urn:tag:keyword:media:eavesdropping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class conscious",
+            "tag_id": "urn:tag:character:qloo:class_conscious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Textured earth tones",
+            "tag_id": "urn:tag:style:qloo:textured_earth_tones",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Ampersand in title",
+            "tag_id": "urn:tag:keyword:media:ampersand_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Caught eavesdropping",
+            "tag_id": "urn:tag:keyword:media:caught_eavesdropping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mr darcy character",
+            "tag_id": "urn:tag:keyword:media:mr_darcy_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:plot:qloo:intimate",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Lydia bennet character",
+            "tag_id": "urn:tag:keyword:media:lydia_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:keyword:qloo:family",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Slow burn love",
+            "tag_id": "urn:tag:keyword:media:slow_burn_love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical romance",
+            "tag_id": "urn:tag:keyword:media:historical_romance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Social status",
+            "tag_id": "urn:tag:keyword:qloo:social_status",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Proposal",
+            "tag_id": "urn:tag:keyword:qloo:proposal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Historically minded",
+            "tag_id": "urn:tag:audience:qloo:historically_minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Literature enthusiasts",
+            "tag_id": "urn:tag:audience:qloo:literature_enthusiasts",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "English country dance",
+            "tag_id": "urn:tag:keyword:media:english_country_dance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Prejudice",
+            "tag_id": "urn:tag:keyword:media:prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dowry",
+            "tag_id": "urn:tag:keyword:media:dowry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punctuation in title",
+            "tag_id": "urn:tag:keyword:media:punctuation_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Slow burn",
+            "tag_id": "urn:tag:plot:qloo:slow_burn",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Class",
+            "tag_id": "urn:tag:theme:qloo:class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "British redcoat",
+            "tag_id": "urn:tag:keyword:media:british_redcoat",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corset",
+            "tag_id": "urn:tag:keyword:media:corset",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Empire fashion",
+            "tag_id": "urn:tag:keyword:media:empire_fashion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kicking someones leg under a table",
+            "tag_id": "urn:tag:keyword:media:kicking_someones_leg_under_a_table",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Elopement",
+            "tag_id": "urn:tag:keyword:media:elopement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Classic literature",
+            "tag_id": "urn:tag:interests:qloo:classic_literature",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Piano",
+            "tag_id": "urn:tag:keyword:media:piano",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male cousin attracted to female cousin",
+            "tag_id": "urn:tag:keyword:media:male_cousin_attracted_to_female_cousin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aristocracy",
+            "tag_id": "urn:tag:keyword:media:aristocracy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:character:qloo:complex",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Manipulative",
+            "tag_id": "urn:tag:character:qloo:manipulative",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:keyword:media:love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reputation",
+            "tag_id": "urn:tag:theme:qloo:reputation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Jane bennet character",
+            "tag_id": "urn:tag:keyword:media:jane_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The matchmaker",
+            "tag_id": "urn:tag:archetype:qloo:the_matchmaker",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Muted",
+            "tag_id": "urn:tag:style:qloo:muted",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Intimate close ups",
+            "tag_id": "urn:tag:style:qloo:intimate_close_ups",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Sculpture",
+            "tag_id": "urn:tag:keyword:media:sculpture",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:character:qloo:passionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "2000s movie",
+            "tag_id": "urn:tag:keyword:media:2000s_movie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Letters",
+            "tag_id": "urn:tag:archetype:qloo:letters",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Reserved",
+            "tag_id": "urn:tag:character:qloo:reserved",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "F rated",
+            "tag_id": "urn:tag:keyword:media:f_rated",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class system",
+            "tag_id": "urn:tag:keyword:media:class_system",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class divide",
+            "tag_id": "urn:tag:archetype:qloo:class_divide",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Melodrama",
+            "tag_id": "urn:tag:keyword:media:melodrama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lyrical",
+            "tag_id": "urn:tag:style:qloo:lyrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Strong female lead",
+            "tag_id": "urn:tag:keyword:media:strong_female_lead",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Classical music",
+            "tag_id": "urn:tag:interests:qloo:classical_music",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Redcoats and bluejackets",
+            "tag_id": "urn:tag:keyword:media:redcoats_and_bluejackets",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Charles bingley character",
+            "tag_id": "urn:tag:keyword:media:charles_bingley_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Asking someone to dance",
+            "tag_id": "urn:tag:keyword:media:asking_someone_to_dance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Priest",
+            "tag_id": "urn:tag:keyword:media:priest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Farm",
+            "tag_id": "urn:tag:keyword:media:farm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:qloo:courtship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Suitor",
+            "tag_id": "urn:tag:keyword:media:suitor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Letter",
+            "tag_id": "urn:tag:keyword:media:letter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Period drama",
+            "tag_id": "urn:tag:subgenre:qloo:period_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Dramedy",
+            "tag_id": "urn:tag:keyword:media:dramedy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male female relationship",
+            "tag_id": "urn:tag:keyword:media:male_female_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Irish wolfhound",
+            "tag_id": "urn:tag:keyword:media:irish_wolfhound",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nightgown",
+            "tag_id": "urn:tag:keyword:media:nightgown",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:plot:qloo:romantic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Confession of love",
+            "tag_id": "urn:tag:keyword:media:confession_of_love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Handkerchief",
+            "tag_id": "urn:tag:keyword:media:handkerchief",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dancing",
+            "tag_id": "urn:tag:keyword:media:dancing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Male cousin female cousin relationship",
+            "tag_id": "urn:tag:keyword:media:male_cousin_female_cousin_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gentry",
+            "tag_id": "urn:tag:keyword:qloo:gentry",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Pride and prejudice",
+            "tag_id": "urn:tag:keyword:media:pride_and_prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lady catherine de bourgh character",
+            "tag_id": "urn:tag:keyword:media:lady_catherine_de_bourgh_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Misunderstanding",
+            "tag_id": "urn:tag:theme:qloo:misunderstanding",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Manners",
+            "tag_id": "urn:tag:keyword:qloo:manners",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Gentleman",
+            "tag_id": "urn:tag:keyword:media:gentleman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "The lover",
+            "tag_id": "urn:tag:archetype:qloo:the_lover",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Kitty bennet character",
+            "tag_id": "urn:tag:keyword:media:kitty_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy of manners",
+            "tag_id": "urn:tag:keyword:media:comedy_of_manners",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic fiction",
+            "tag_id": "urn:tag:interests:qloo:romantic_fiction",
+            "type": "urn:tag:interests:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Pride and Prejudice",
+        "entity_id": "43140FA8-3A9A-42FD-8418-C8E92B38C039",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "es",
+              "value": "\"Más fuerte que el orgullo\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Más fuerte que el orgullo\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Orgulho e Preconceito\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Orgulho e Preconceito\""
+            },
+            {
+              "language": "ko",
+              "value": "\"오만과 편견\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Mândrie și prejudecată\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Duma i uprzedzenie\""
+            },
+            {
+              "language": "de",
+              "value": "\"Stolz und Vorurteil\""
+            },
+            {
+              "language": "ar",
+              "value": "\"كبرياء وتحامل\""
+            },
+            {
+              "language": "sv",
+              "value": "\"En man för Elizabeth\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Gurur ve Önyargı\""
+            },
+            {
+              "language": "it",
+              "value": "\"Orgoglio e pregiudizio\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Ylpeys ja ennakkoluulo\""
+            },
+            {
+              "language": "ja",
+              "value": "\"高慢と偏見\""
+            },
+            {
+              "language": "zh",
+              "value": "\"傲慢与偏见\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Гордость и предубеждение\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Orgueil et Préjugés\""
+            },
+            {
+              "language": "he",
+              "value": "\"גאווה ודעה קדומה\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Pride and Prejudice\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Pride and Prejudice\""
+            },
+            {
+              "language": "ml",
+              "value": "\"പ്രൈഡ് ആന്റ് പ്രെജുഡിസ്\""
+            }
+          ],
+          "content_rating": "Approved",
+          "description": "Pride and Prejudice (1940), directed by Robert Z. Leonard and starring Greer Garson, Laurence Olivier, and Mary Boland, is a studio-era comedy-drama romance adapted from the classic novel. Produced in black-and-white and presented by Metro-Goldwyn-Mayer, the film turns Jane Austen's tale of courtship and class into a witty, broadly comic costume picture. It foregrounds social satire, family dynamics, and romantic misunderstandings while emphasizing elegant production design and theatrical performances.",
+          "external": {
+            "imdb": {
+              "id": "tt0032943",
+              "user_rating": 7.3,
+              "user_rating_count": 10171
+            },
+            "metacritic": {
+              "critic_rating": 84,
+              "id": "pride-and-prejudice-1940",
+              "user_rating": -1
+            },
+            "wikidata": {
+              "id": "q940014"
+            }
+          },
+          "filming_location": "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/43140FA8-3A9A-42FD-8418-C8E92B38C039-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Loew's",
+          "release_country": "United States",
+          "release_date": "1940-07-26",
+          "release_year": 1940,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "When wealthy bachelors arrive in a small English town, families with marriageable daughters—notably the Bennets—compete for advantageous matches, sparking social maneuvering and romantic entanglements."
+            },
+            {
+              "language": "de",
+              "value": "Als wohlhabende Junggesellen in einer englischen Kleinstadt eintreffen, wetteifern Familien mit heiratsfähigen Töchtern—insbesondere die Bennets—um gute Partien, was zu sozialen Verwicklungen und Liebesgeschichten führt."
+            },
+            {
+              "language": "es",
+              "value": "La llegada de solteros adinerados a un pueblo inglés provoca que familias con hijas en edad de casarse—especialmente los Bennet—compitan por buenos matrimonios, desatando enredos sociales y románticos."
+            },
+            {
+              "language": "fr",
+              "value": "L'arrivée de célibataires fortunés dans un village anglais pousse des familles avec filles en âge de se marier—surtout les Bennet—à rivaliser pour de bons partis, déclenchant intrigues sociales et amoureuses."
+            }
+          ],
+          "website": "https://www.nytimes.com/1940/08/09/archives/the-screen-in-review-pride-and-prejudice-a-delightful-comedy-of.html"
+        },
+        "popularity": 0.8244130542776302,
+        "disambiguation": "1940",
+        "tags": [
+          {
+            "name": "Male female relationship",
+            "tag_id": "urn:tag:keyword:media:male_female_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to benvenuto cellini",
+            "tag_id": "urn:tag:keyword:media:reference_to_benvenuto_cellini",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to utopia",
+            "tag_id": "urn:tag:keyword:media:reference_to_utopia",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "19th century",
+            "tag_id": "urn:tag:keyword:media:19th_century",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Singing",
+            "tag_id": "urn:tag:keyword:media:singing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lighthearted",
+            "tag_id": "urn:tag:plot:qloo:lighthearted",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Suitor",
+            "tag_id": "urn:tag:keyword:media:suitor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Literary adaptation",
+            "tag_id": "urn:tag:subgenre:qloo:literary_adaptation",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Comedy drama",
+            "tag_id": "urn:tag:keyword:media:comedy_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horse and carriage",
+            "tag_id": "urn:tag:keyword:media:horse_and_carriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wealth",
+            "tag_id": "urn:tag:keyword:media:wealth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Apology",
+            "tag_id": "urn:tag:keyword:media:apology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:qloo:courtship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "England",
+            "tag_id": "urn:tag:keyword:media:england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Harp",
+            "tag_id": "urn:tag:keyword:media:harp",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Family disapproval",
+            "tag_id": "urn:tag:keyword:media:family_disapproval",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Portrait painting",
+            "tag_id": "urn:tag:keyword:media:portrait_painting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical etiquette",
+            "tag_id": "urn:tag:interests:qloo:historical_etiquette",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Money",
+            "tag_id": "urn:tag:keyword:media:money",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Studio era glamour",
+            "tag_id": "urn:tag:style:qloo:studio_era_glamour",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Inheritance",
+            "tag_id": "urn:tag:keyword:media:inheritance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage proposal",
+            "tag_id": "urn:tag:keyword:media:marriage_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Garden",
+            "tag_id": "urn:tag:keyword:media:garden",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Change of heart",
+            "tag_id": "urn:tag:keyword:media:change_of_heart",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The matchmaker",
+            "tag_id": "urn:tag:archetype:qloo:the_matchmaker",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Social exclusion",
+            "tag_id": "urn:tag:keyword:media:social_exclusion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The matriarch",
+            "tag_id": "urn:tag:archetype:qloo:the_matriarch",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Romantic comedy",
+            "tag_id": "urn:tag:subgenre:qloo:romantic_comedy",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Estate",
+            "tag_id": "urn:tag:keyword:qloo:estate",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Officer",
+            "tag_id": "urn:tag:keyword:media:officer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Aunt niece relationship",
+            "tag_id": "urn:tag:keyword:media:aunt_niece_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family relationships",
+            "tag_id": "urn:tag:keyword:media:family_relationships",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cousin cousin relationship",
+            "tag_id": "urn:tag:keyword:media:cousin_cousin_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Independence",
+            "tag_id": "urn:tag:keyword:media:independence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Glamorous",
+            "tag_id": "urn:tag:style:qloo:glamorous",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Costume drama",
+            "tag_id": "urn:tag:subgenre:qloo:costume_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Daughters",
+            "tag_id": "urn:tag:keyword:qloo:daughters",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:plot:qloo:romantic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Letter",
+            "tag_id": "urn:tag:keyword:media:letter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Impulsive",
+            "tag_id": "urn:tag:character:qloo:impulsive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Classic literature",
+            "tag_id": "urn:tag:interests:qloo:classic_literature",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Manners",
+            "tag_id": "urn:tag:keyword:qloo:manners",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Based on novel",
+            "tag_id": "urn:tag:keyword:media:based_on_novel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Witty",
+            "tag_id": "urn:tag:character:qloo:witty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Disgrace",
+            "tag_id": "urn:tag:keyword:media:disgrace",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stubborn",
+            "tag_id": "urn:tag:character:qloo:stubborn",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:keyword:media:singer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rural setting",
+            "tag_id": "urn:tag:keyword:media:rural_setting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Crisp black and white photography",
+            "tag_id": "urn:tag:style:qloo:crisp_black_and_white_photography",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Obsessive",
+            "tag_id": "urn:tag:character:qloo:obsessive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Marriage engagement",
+            "tag_id": "urn:tag:keyword:media:marriage_engagement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bachelor",
+            "tag_id": "urn:tag:keyword:media:bachelor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mother daughter relationship",
+            "tag_id": "urn:tag:keyword:media:mother_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rich snob",
+            "tag_id": "urn:tag:keyword:media:rich_snob",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:comedy",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Household",
+            "tag_id": "urn:tag:keyword:qloo:household",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Romantic comedy",
+            "tag_id": "urn:tag:keyword:media:romantic_comedy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:character:qloo:proud",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Scandal",
+            "tag_id": "urn:tag:keyword:media:scandal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:media:courtship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Parrot",
+            "tag_id": "urn:tag:keyword:media:parrot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Arrogance",
+            "tag_id": "urn:tag:keyword:media:arrogance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Flute",
+            "tag_id": "urn:tag:keyword:media:flute",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punch and judy",
+            "tag_id": "urn:tag:keyword:media:punch_and_judy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The eligible bachelor",
+            "tag_id": "urn:tag:archetype:qloo:the_eligible_bachelor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Social ladder",
+            "tag_id": "urn:tag:archetype:qloo:social_ladder",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:keyword:qloo:social_class",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Arrogant man",
+            "tag_id": "urn:tag:keyword:media:arrogant_man",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Archery",
+            "tag_id": "urn:tag:keyword:media:archery",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "1940s movie",
+            "tag_id": "urn:tag:keyword:media:1940s_movie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Daughter",
+            "tag_id": "urn:tag:keyword:media:daughter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Refusing a handshake",
+            "tag_id": "urn:tag:keyword:media:refusing_a_handshake",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gossip",
+            "tag_id": "urn:tag:keyword:media:gossip",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dancing",
+            "tag_id": "urn:tag:keyword:media:dancing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Social life",
+            "tag_id": "urn:tag:keyword:media:social_life",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Snob",
+            "tag_id": "urn:tag:keyword:media:snob",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Personal pride versus prejudice",
+            "tag_id": "urn:tag:theme:qloo:personal_pride_versus_prejudice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The ingenue",
+            "tag_id": "urn:tag:archetype:qloo:the_ingenue",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Fiction",
+            "tag_id": "urn:tag:keyword:media:fiction",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:keyword:media:love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "English",
+            "tag_id": "urn:tag:keyword:media:english",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period music",
+            "tag_id": "urn:tag:interests:qloo:period_music",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:romance",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Chicken broth",
+            "tag_id": "urn:tag:keyword:media:chicken_broth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:theme:qloo:social_class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Period drama",
+            "tag_id": "urn:tag:keyword:media:period_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Looking out a window",
+            "tag_id": "urn:tag:keyword:media:looking_out_a_window",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Feeding someone",
+            "tag_id": "urn:tag:keyword:media:feeding_someone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic fiction",
+            "tag_id": "urn:tag:interests:qloo:romantic_fiction",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:theme:qloo:marriage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Period drama",
+            "tag_id": "urn:tag:subgenre:qloo:period_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Humorous",
+            "tag_id": "urn:tag:plot:qloo:humorous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Servant",
+            "tag_id": "urn:tag:keyword:media:servant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dysfunctional family",
+            "tag_id": "urn:tag:keyword:media:dysfunctional_family",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Matchmaker",
+            "tag_id": "urn:tag:keyword:media:matchmaker",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Daughters",
+            "tag_id": "urn:tag:keyword:media:daughters",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manners",
+            "tag_id": "urn:tag:theme:qloo:manners",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Elopement",
+            "tag_id": "urn:tag:keyword:media:elopement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:theme:qloo:courtship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:audience:qloo:romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Historical romance",
+            "tag_id": "urn:tag:keyword:media:historical_romance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:style:qloo:polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Bachelors",
+            "tag_id": "urn:tag:keyword:qloo:bachelors",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Father daughter relationship",
+            "tag_id": "urn:tag:keyword:media:father_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friend",
+            "tag_id": "urn:tag:keyword:media:friend",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Arranged marriage",
+            "tag_id": "urn:tag:keyword:media:arranged_marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wealthy bachelor",
+            "tag_id": "urn:tag:keyword:media:wealthy_bachelor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Comedy of manners",
+            "tag_id": "urn:tag:keyword:media:comedy_of_manners",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "1830s",
+            "tag_id": "urn:tag:keyword:media:1830s",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Morality",
+            "tag_id": "urn:tag:keyword:media:morality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lavish costume focus",
+            "tag_id": "urn:tag:style:qloo:lavish_costume_focus",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Betrayal",
+            "tag_id": "urn:tag:keyword:media:betrayal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period costume design",
+            "tag_id": "urn:tag:interests:qloo:period_costume_design",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Literature enthusiasts",
+            "tag_id": "urn:tag:audience:qloo:literature_enthusiasts",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Elegant",
+            "tag_id": "urn:tag:style:qloo:elegant",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Broadly comedic tone",
+            "tag_id": "urn:tag:style:qloo:broadly_comedic_tone",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Theatrical",
+            "tag_id": "urn:tag:style:qloo:theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "English literature",
+            "tag_id": "urn:tag:keyword:media:english_literature",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:qloo:comedy",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Prejudice",
+            "tag_id": "urn:tag:keyword:media:prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stage inspired blocking",
+            "tag_id": "urn:tag:style:qloo:stage_inspired_blocking",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Social climber",
+            "tag_id": "urn:tag:keyword:media:social_climber",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period accurate",
+            "tag_id": "urn:tag:style:qloo:period_accurate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Piano",
+            "tag_id": "urn:tag:keyword:media:piano",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical fiction",
+            "tag_id": "urn:tag:keyword:media:historical_fiction",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sister sister relationship",
+            "tag_id": "urn:tag:keyword:media:sister_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sitting on a music box",
+            "tag_id": "urn:tag:keyword:media:sitting_on_a_music_box",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:qloo:marriage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Reference to jamaica",
+            "tag_id": "urn:tag:keyword:media:reference_to_jamaica",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Flamboyance",
+            "tag_id": "urn:tag:keyword:media:flamboyance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage market",
+            "tag_id": "urn:tag:archetype:qloo:marriage_market",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Reserved",
+            "tag_id": "urn:tag:character:qloo:reserved",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:keyword:media:pianist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sibling relationship",
+            "tag_id": "urn:tag:keyword:media:sibling_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:keyword:media:dancer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Music box",
+            "tag_id": "urn:tag:keyword:media:music_box",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "Pride and Prejudice",
+        "entity_id": "51CB5312-1FB0-44D4-A0D5-7012870CB836",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ro",
+              "value": "\"Pride & Prejudice: A Latter-Day Comedy\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Pride & Prejudice: A Latter-Day Comedy\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Pride & Prejudice: A Latter-Day Comedy\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Orgueil et Préjugés\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Pride & Prejudice\""
+            },
+            {
+              "language": "de",
+              "value": "\"Pride and Prejudice\""
+            },
+            {
+              "language": "zh",
+              "value": "\"傲慢與偏見: A Latter-day Comedy\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Гордость и предрассудки\""
+            }
+          ],
+          "content_rating": "PG",
+          "description": "Pride and Prejudice (2003), directed by Andrew Black and starring Kam Heskin, Orlando Seale, and Lucila Solá, is a contemporary comedic romance that transposes Jane Austen's courtship tale to modern‑day Utah. The film follows an aspiring writer in college who prioritizes her career while repeatedly clashing with a proud businessman, translating themes of pride, misunderstanding, and social expectation into modern dating rituals. With a hip, art-directed look and an indie sensibility, it emphasizes witty dialogue, family pressure, and the emotional work of reconciliation. The overall tone is warm and humorous, offering a fresh, youthful spin on a classic story.",
+          "external": {
+            "imdb": {
+              "id": "tt0366920",
+              "user_rating": 5,
+              "user_rating_count": 2993
+            },
+            "wikidata": {
+              "id": "q2088470"
+            }
+          },
+          "filming_location": "Provo, Utah, USA, Las Vegas, Nevada, USA, Disley, Stockport, Cheshire, England, UK, Lyme Park, Disley, Stockport, Cheshire, England, UK",
+          "image": {
+            "url": "https://images.qloo.com/i/51CB5312-1FB0-44D4-A0D5-7012870CB836-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Bestboy Pictures",
+          "release_country": "United States",
+          "release_date": "2003-12-05",
+          "release_year": 2003,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A modern-day Utah romantic comedy about a career-minded college writer who butts heads with a proud businessman as they navigate courtship and social expectations."
+            },
+            {
+              "language": "de",
+              "value": "Moderne romantische Komödie in Utah über eine karriereorientierte Studentin, die mit einem stolzen Geschäftsmann aneinandergerät, während beide Liebesdinge und gesellschaftliche Erwartungen ausloten."
+            },
+            {
+              "language": "es",
+              "value": "Comedia romántica contemporánea en Utah sobre una escritora universitaria centrada en su carrera que choca con un orgulloso empresario mientras exploran el cortejo y las expectativas sociales."
+            },
+            {
+              "language": "fr",
+              "value": "Comédie romantique contemporaine située dans l'Utah : une étudiante écrivaine, tournée vers sa carrière, s'oppose à un fier homme d'affaires alors qu'ils naviguent entre courtship et attentes sociales."
+            }
+          ],
+          "website": "http://cinemagazine.nl/pride-and-prejudice-2003-recensie/"
+        },
+        "popularity": 0.6996047430830039,
+        "disambiguation": "2003",
+        "tags": [
+          {
+            "name": "The suitor",
+            "tag_id": "urn:tag:archetype:qloo:the_suitor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "College",
+            "tag_id": "urn:tag:keyword:qloo:college",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Misunderstandings",
+            "tag_id": "urn:tag:keyword:qloo:misunderstandings",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "England",
+            "tag_id": "urn:tag:keyword:media:england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Electrocuted",
+            "tag_id": "urn:tag:keyword:media:electrocuted",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cell phone ringtone",
+            "tag_id": "urn:tag:keyword:media:cell_phone_ringtone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Campus life",
+            "tag_id": "urn:tag:interests:qloo:campus_life",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Freeway",
+            "tag_id": "urn:tag:keyword:media:freeway",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "College romance",
+            "tag_id": "urn:tag:subgenre:qloo:college_romance",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:media:friendship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Elopement",
+            "tag_id": "urn:tag:keyword:media:elopement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Police",
+            "tag_id": "urn:tag:keyword:media:police",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Las vegas nevada",
+            "tag_id": "urn:tag:keyword:media:las_vegas_nevada",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Junk food",
+            "tag_id": "urn:tag:keyword:media:junk_food",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic comedy",
+            "tag_id": "urn:tag:interests:qloo:romantic_comedy",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Romantic love",
+            "tag_id": "urn:tag:theme:qloo:romantic_love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Misunderstanding",
+            "tag_id": "urn:tag:theme:qloo:misunderstanding",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:qloo:friendship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:plot:qloo:romantic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "American west",
+            "tag_id": "urn:tag:keyword:media:american_west",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:audience:qloo:romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Party",
+            "tag_id": "urn:tag:keyword:media:party",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:character:qloo:ambitious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Female protagonist",
+            "tag_id": "urn:tag:keyword:media:female_protagonist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Independent film",
+            "tag_id": "urn:tag:keyword:media:independent_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:character:qloo:playful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:style:qloo:stylized",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Witty",
+            "tag_id": "urn:tag:character:qloo:witty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:media:courtship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dating culture",
+            "tag_id": "urn:tag:interests:qloo:dating_culture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Cabin",
+            "tag_id": "urn:tag:keyword:media:cabin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Provo utah",
+            "tag_id": "urn:tag:keyword:media:provo_utah",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "College campus pastoral",
+            "tag_id": "urn:tag:style:qloo:college_campus_pastoral",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Mountain",
+            "tag_id": "urn:tag:keyword:media:mountain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "2000s",
+            "tag_id": "urn:tag:keyword:media:2000s",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tennis",
+            "tag_id": "urn:tag:keyword:media:tennis",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Indie hipster aesthetic",
+            "tag_id": "urn:tag:style:qloo:indie_hipster_aesthetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:comedy",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:keyword:qloo:writer",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Family expectations",
+            "tag_id": "urn:tag:theme:qloo:family_expectations",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The comic relief",
+            "tag_id": "urn:tag:archetype:qloo:the_comic_relief",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:theme:qloo:social_class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:style:qloo:playful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Naive",
+            "tag_id": "urn:tag:character:qloo:naive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Identity",
+            "tag_id": "urn:tag:theme:qloo:identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:keyword:media:writer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fistfight",
+            "tag_id": "urn:tag:keyword:media:fistfight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cell phone",
+            "tag_id": "urn:tag:keyword:media:cell_phone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Businessman",
+            "tag_id": "urn:tag:keyword:qloo:businessman",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Rain",
+            "tag_id": "urn:tag:keyword:media:rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Caught in the rain",
+            "tag_id": "urn:tag:keyword:media:caught_in_the_rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Modern adaptation",
+            "tag_id": "urn:tag:subgenre:qloo:modern_adaptation",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Youthful",
+            "tag_id": "urn:tag:audience:qloo:youthful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Roommate",
+            "tag_id": "urn:tag:keyword:media:roommate",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reserved",
+            "tag_id": "urn:tag:character:qloo:reserved",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cleanup",
+            "tag_id": "urn:tag:keyword:media:cleanup",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dancing",
+            "tag_id": "urn:tag:keyword:media:dancing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cutting the power",
+            "tag_id": "urn:tag:keyword:media:cutting_the_power",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "College",
+            "tag_id": "urn:tag:keyword:media:college",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rainstorm",
+            "tag_id": "urn:tag:keyword:media:rainstorm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Contemporary literature",
+            "tag_id": "urn:tag:interests:qloo:contemporary_literature",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:keyword:qloo:family",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Contemporary americana",
+            "tag_id": "urn:tag:style:qloo:contemporary_americana",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:qloo:courtship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Literature loving",
+            "tag_id": "urn:tag:audience:qloo:literature_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Church",
+            "tag_id": "urn:tag:keyword:qloo:church",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Christian",
+            "tag_id": "urn:tag:keyword:media:christian",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lds film",
+            "tag_id": "urn:tag:keyword:media:lds_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Church",
+            "tag_id": "urn:tag:keyword:media:church",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Contemporary",
+            "tag_id": "urn:tag:plot:qloo:contemporary",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Satirical",
+            "tag_id": "urn:tag:plot:qloo:satirical",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Nightmare",
+            "tag_id": "urn:tag:keyword:media:nightmare",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Based on novel",
+            "tag_id": "urn:tag:keyword:media:based_on_novel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Utah",
+            "tag_id": "urn:tag:keyword:media:utah",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lighthearted",
+            "tag_id": "urn:tag:plot:qloo:lighthearted",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Tradition versus modernity",
+            "tag_id": "urn:tag:theme:qloo:tradition_versus_modernity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Prejudice",
+            "tag_id": "urn:tag:keyword:media:prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:archetype:qloo:courtship",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Open minded",
+            "tag_id": "urn:tag:audience:qloo:open_minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:theme:qloo:courtship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Reference to mark twain",
+            "tag_id": "urn:tag:keyword:media:reference_to_mark_twain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hiking",
+            "tag_id": "urn:tag:keyword:media:hiking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Indie cinema",
+            "tag_id": "urn:tag:interests:qloo:indie_cinema",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "The heroine",
+            "tag_id": "urn:tag:archetype:qloo:the_heroine",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hit by a car",
+            "tag_id": "urn:tag:keyword:media:hit_by_a_car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Contemporary romance",
+            "tag_id": "urn:tag:subgenre:qloo:contemporary_romance",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Grocery shopping",
+            "tag_id": "urn:tag:keyword:media:grocery_shopping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:qloo:comedy",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Romantic comedy",
+            "tag_id": "urn:tag:subgenre:qloo:romantic_comedy",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Pride and prejudice",
+            "tag_id": "urn:tag:keyword:media:pride_and_prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wedding crasher",
+            "tag_id": "urn:tag:keyword:media:wedding_crasher",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Vw bug",
+            "tag_id": "urn:tag:keyword:media:vw_bug",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Indie film",
+            "tag_id": "urn:tag:subgenre:qloo:indie_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Marriage proposal",
+            "tag_id": "urn:tag:keyword:media:marriage_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mormon",
+            "tag_id": "urn:tag:keyword:media:mormon",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Latter day saints",
+            "tag_id": "urn:tag:keyword:media:latter_day_saints",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sister sister relationship",
+            "tag_id": "urn:tag:keyword:media:sister_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mormonism",
+            "tag_id": "urn:tag:keyword:media:mormonism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Art directed color palette",
+            "tag_id": "urn:tag:style:qloo:art_directed_color_palette",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Humorous",
+            "tag_id": "urn:tag:plot:qloo:humorous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Independent",
+            "tag_id": "urn:tag:character:qloo:independent",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Clergyman",
+            "tag_id": "urn:tag:keyword:media:clergyman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Conversational camera work",
+            "tag_id": "urn:tag:style:qloo:conversational_camera_work",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:romance",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Dating",
+            "tag_id": "urn:tag:keyword:qloo:dating",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Utah",
+            "tag_id": "urn:tag:keyword:qloo:utah",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:audience:qloo:casual",
+            "type": "urn:tag:audience:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Pride and Prejudice and Zombies",
+        "entity_id": "917E424F-5205-47F2-9A8C-F04EC96E26ED",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "\"كبرياء وتحامل ووحوش الزومبي\""
+            },
+            {
+              "language": "he",
+              "value": "\"גאווה ודעה קדומה וזומבים\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Aşk ve Gurur ve Zombiler\""
+            },
+            {
+              "language": "it",
+              "value": "\"PPZ - Pride + Prejudice + Zombies\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Гордость и предубеждение и зомби\""
+            },
+            {
+              "language": "ja",
+              "value": "\"高慢と偏見とゾンビ\""
+            },
+            {
+              "language": "de",
+              "value": "\"Stolz und Vorurteil und Zombies\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Orgueil et Préjugés et Zombies\""
+            },
+            {
+              "language": "zh",
+              "value": "\"傲慢與偏見與殭屍\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Pride + Prejudice + Zombies\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Duma i uprzedzenie, i zombie\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Mândrie + Prejudecată + Zombi\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Pride and Prejudice and Zombies\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Pride and Prejudice and Zombies\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Pride and Prejudice and Zombies\""
+            },
+            {
+              "language": "ko",
+              "value": "\"오만과 편견 그리고 좀비\""
+            }
+          ],
+          "content_rating": "PG-13",
+          "description": "Pride and Prejudice and Zombies (2016), directed by Burr Steers and starring Lily James, Sam Riley and Jack Huston, is a genre-mashing adaptation that blends action, comedy, fantasy, horror and romance. Set in early 19th-century England, it follows five sisters trained as warriors who must balance courtship and social expectation while combating a spreading zombie plague. The film preserves Austen-like dialogue and social satire while layering in frequent zombie set pieces and choreographed combat, exploring themes of marriage, gender roles, duty and survival. Tonally it mixes witty period romance with visceral, often comic horror to create an escapist, darkly playful experience.",
+          "external": {
+            "imdb": {
+              "id": "tt1374989",
+              "user_rating": 5.8,
+              "user_rating_count": 65135
+            },
+            "metacritic": {
+              "critic_rating": 45,
+              "id": "pride-and-prejudice-and-zombies",
+              "user_rating": 5.5
+            },
+            "rottentomatoes": {
+              "critic_rating": "100.0",
+              "critic_rating_count": "5",
+              "id": "pride_and_prejudice_and_zombies",
+              "user_rating": "45.0",
+              "user_rating_count": "25000"
+            },
+            "twitter": {
+              "id": "PPZmovie"
+            },
+            "wikidata": {
+              "id": "q18154994"
+            }
+          },
+          "filming_location": "Hatfield House, Hatfield, Hertfordshire, England, UK, Basing House, Hampshire, England, UK, West Wycombe House, West Wycombe Park, West Wycombe, Buckinghamshire, England, UK, Syon House, Syon Park, Brentford, Middlesex, England, UK, Basildon Park, Lower Basildon, Berkshire, England, UK, Baddesley Clinton, Rising Lane, Warwickshire, England, UK",
+          "image": {
+            "url": "https://images.qloo.com/i/917E424F-5205-47F2-9A8C-F04EC96E26ED-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Cross Creek Pictures",
+          "release_country": "United Kingdom",
+          "release_date": "2016-02-05",
+          "release_year": 2016,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "In 19th-century England, a spirited young woman and her four sisters balance courtship and family expectations while training and fighting a rising zombie outbreak."
+            },
+            {
+              "language": "de",
+              "value": "Im England des 19. Jahrhunderts vereinen eine junge Frau und ihre vier Schwestern Heiratsdruck und Familienpflichten mit dem Training und Kampf gegen eine wachsende Zombie-Epidemie."
+            },
+            {
+              "language": "es",
+              "value": "En la Inglaterra del siglo XIX, una joven y sus cuatro hermanas compaginan cortejos y deberes familiares mientras se entrenan y combaten un creciente brote de zombis."
+            },
+            {
+              "language": "fr",
+              "value": "Dans l'Angleterre du XIXe siècle, une jeune femme et ses quatre sœurs concilient convenances matrimoniales et entraînement pour combattre une épidémie croissante de zombies."
+            }
+          ],
+          "website": "http://www.reelviews.net/reelviews/pride-and-prejudice-and-zombies"
+        },
+        "popularity": 0.9628177714421478,
+        "disambiguation": "2016",
+        "tags": [
+          {
+            "name": "Quick draw",
+            "tag_id": "urn:tag:keyword:media:quick_draw",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:keyword:media:europe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heavy rain",
+            "tag_id": "urn:tag:keyword:media:heavy_rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:qloo:courtship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Woman wears an eye patch",
+            "tag_id": "urn:tag:keyword:media:woman_wears_an_eye_patch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:theme:qloo:romance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Superstition",
+            "tag_id": "urn:tag:keyword:media:superstition",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mr wickham character",
+            "tag_id": "urn:tag:keyword:media:mr_wickham_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The lover",
+            "tag_id": "urn:tag:archetype:qloo:the_lover",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Mr darcy character",
+            "tag_id": "urn:tag:keyword:media:mr_darcy_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rainstorm",
+            "tag_id": "urn:tag:keyword:media:rainstorm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fighting the system",
+            "tag_id": "urn:tag:keyword:media:fighting_the_system",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male colonel",
+            "tag_id": "urn:tag:keyword:media:male_colonel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mother daughter relationship",
+            "tag_id": "urn:tag:keyword:media:mother_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Martial arts master",
+            "tag_id": "urn:tag:keyword:media:martial_arts_master",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bodyguard",
+            "tag_id": "urn:tag:keyword:media:bodyguard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dog",
+            "tag_id": "urn:tag:keyword:media:dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mansion",
+            "tag_id": "urn:tag:keyword:media:mansion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gun backfire",
+            "tag_id": "urn:tag:keyword:media:gun_backfire",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Parson",
+            "tag_id": "urn:tag:keyword:media:parson",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wilderness",
+            "tag_id": "urn:tag:keyword:media:wilderness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mary bennet character",
+            "tag_id": "urn:tag:keyword:media:mary_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Head bashed in",
+            "tag_id": "urn:tag:keyword:media:head_bashed_in",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aristocratic family",
+            "tag_id": "urn:tag:keyword:media:aristocratic_family",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drunkenness",
+            "tag_id": "urn:tag:keyword:media:drunkenness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Vehicle",
+            "tag_id": "urn:tag:keyword:media:vehicle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Servant",
+            "tag_id": "urn:tag:keyword:media:servant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Near death experience",
+            "tag_id": "urn:tag:keyword:media:near_death_experience",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Total war",
+            "tag_id": "urn:tag:keyword:media:total_war",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Cannibalism",
+            "tag_id": "urn:tag:keyword:media:cannibalism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wealth",
+            "tag_id": "urn:tag:keyword:media:wealth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Characters point of view camera shot",
+            "tag_id": "urn:tag:keyword:media:characters_point_of_view_camera_shot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cellar",
+            "tag_id": "urn:tag:keyword:media:cellar",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by director",
+            "tag_id": "urn:tag:keyword:media:written_by_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jane bennet character",
+            "tag_id": "urn:tag:keyword:media:jane_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period reimagining",
+            "tag_id": "urn:tag:plot:qloo:period_reimagining",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Period romance literature",
+            "tag_id": "urn:tag:interests:qloo:period_romance_literature",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "England",
+            "tag_id": "urn:tag:keyword:media:england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Open ended",
+            "tag_id": "urn:tag:keyword:media:open_ended",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie decapitated",
+            "tag_id": "urn:tag:keyword:media:zombie_decapitated",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Prologue",
+            "tag_id": "urn:tag:keyword:media:prologue",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Handgun",
+            "tag_id": "urn:tag:keyword:media:handgun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Peace treaty",
+            "tag_id": "urn:tag:keyword:media:peace_treaty",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Peace proposal",
+            "tag_id": "urn:tag:keyword:media:peace_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie plague",
+            "tag_id": "urn:tag:keyword:media:zombie_plague",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:media:revenge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Letter",
+            "tag_id": "urn:tag:keyword:media:letter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie father",
+            "tag_id": "urn:tag:keyword:media:zombie_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie attack",
+            "tag_id": "urn:tag:keyword:media:zombie_attack",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Costume functional design",
+            "tag_id": "urn:tag:style:qloo:costume_functional_design",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Reimagining",
+            "tag_id": "urn:tag:keyword:media:reimagining",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical fantasy",
+            "tag_id": "urn:tag:subgenre:qloo:historical_fantasy",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Illness",
+            "tag_id": "urn:tag:keyword:media:illness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Insect",
+            "tag_id": "urn:tag:keyword:media:insect",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie",
+            "tag_id": "urn:tag:keyword:media:zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Strong female character",
+            "tag_id": "urn:tag:keyword:media:strong_female_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sisters",
+            "tag_id": "urn:tag:keyword:qloo:sisters",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "One eyed woman",
+            "tag_id": "urn:tag:keyword:media:one_eyed_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jail cell",
+            "tag_id": "urn:tag:keyword:media:jail_cell",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ungulate",
+            "tag_id": "urn:tag:keyword:media:ungulate",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death",
+            "tag_id": "urn:tag:keyword:media:death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:plot:qloo:romantic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "High society",
+            "tag_id": "urn:tag:keyword:media:high_society",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Eavesdropping",
+            "tag_id": "urn:tag:keyword:media:eavesdropping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Library",
+            "tag_id": "urn:tag:keyword:media:library",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love triangle",
+            "tag_id": "urn:tag:keyword:media:love_triangle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Long haired woman",
+            "tag_id": "urn:tag:keyword:media:long_haired_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period romance",
+            "tag_id": "urn:tag:subgenre:qloo:period_romance",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Kick",
+            "tag_id": "urn:tag:keyword:media:kick",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie killed with a sword",
+            "tag_id": "urn:tag:keyword:media:zombie_killed_with_a_sword",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Melodrama drama",
+            "tag_id": "urn:tag:keyword:media:melodrama_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Killer zombie",
+            "tag_id": "urn:tag:keyword:media:killer_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie comedy",
+            "tag_id": "urn:tag:subgenre:qloo:zombie_comedy",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Hatred",
+            "tag_id": "urn:tag:keyword:media:hatred",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Marriage proposal",
+            "tag_id": "urn:tag:keyword:media:marriage_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Abandoned church",
+            "tag_id": "urn:tag:keyword:media:abandoned_church",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Protective",
+            "tag_id": "urn:tag:character:qloo:protective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Bilingualism",
+            "tag_id": "urn:tag:keyword:media:bilingualism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Grindhouse film",
+            "tag_id": "urn:tag:keyword:media:grindhouse_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tragic past",
+            "tag_id": "urn:tag:keyword:media:tragic_past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kitty bennet character",
+            "tag_id": "urn:tag:keyword:media:kitty_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chase",
+            "tag_id": "urn:tag:keyword:media:chase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male zombie",
+            "tag_id": "urn:tag:keyword:media:male_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Martial arts",
+            "tag_id": "urn:tag:keyword:media:martial_arts",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stabbed in the torso",
+            "tag_id": "urn:tag:keyword:media:stabbed_in_the_torso",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Forbidden love",
+            "tag_id": "urn:tag:keyword:media:forbidden_love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Royalty",
+            "tag_id": "urn:tag:keyword:media:royalty",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Man kills a zombie",
+            "tag_id": "urn:tag:keyword:media:man_kills_a_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "19th century england",
+            "tag_id": "urn:tag:keyword:media:19th_century_england",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pig",
+            "tag_id": "urn:tag:keyword:media:pig",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Sisterhood",
+            "tag_id": "urn:tag:keyword:media:sisterhood",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Night",
+            "tag_id": "urn:tag:keyword:media:night",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Battle axe",
+            "tag_id": "urn:tag:keyword:media:battle_axe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Eye patch",
+            "tag_id": "urn:tag:keyword:media:eye_patch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manor house",
+            "tag_id": "urn:tag:keyword:media:manor_house",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period drama fans",
+            "tag_id": "urn:tag:audience:qloo:period_drama_fans",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Witty",
+            "tag_id": "urn:tag:character:qloo:witty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Mashup enthusiasts",
+            "tag_id": "urn:tag:audience:qloo:mashup_enthusiasts",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Village",
+            "tag_id": "urn:tag:keyword:media:village",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Four horsemen of the apocalypse",
+            "tag_id": "urn:tag:keyword:media:four_horsemen_of_the_apocalypse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alternate history",
+            "tag_id": "urn:tag:keyword:media:alternate_history",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Genre mashup",
+            "tag_id": "urn:tag:plot:qloo:genre_mashup",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Charismatic",
+            "tag_id": "urn:tag:character:qloo:charismatic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Race war",
+            "tag_id": "urn:tag:keyword:media:race_war",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cannon",
+            "tag_id": "urn:tag:keyword:media:cannon",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hiding a bite",
+            "tag_id": "urn:tag:keyword:media:hiding_a_bite",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bravery",
+            "tag_id": "urn:tag:keyword:media:bravery",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Swordplay",
+            "tag_id": "urn:tag:keyword:qloo:swordplay",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Knife throwing",
+            "tag_id": "urn:tag:keyword:media:knife_throwing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:action",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Rich woman",
+            "tag_id": "urn:tag:keyword:media:rich_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ominous ending",
+            "tag_id": "urn:tag:keyword:media:ominous_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Genre mashups",
+            "tag_id": "urn:tag:interests:qloo:genre_mashups",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Corset",
+            "tag_id": "urn:tag:keyword:media:corset",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Historical costume design",
+            "tag_id": "urn:tag:interests:qloo:historical_costume_design",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Burned alive",
+            "tag_id": "urn:tag:keyword:media:burned_alive",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Battle",
+            "tag_id": "urn:tag:keyword:qloo:battle",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Hope",
+            "tag_id": "urn:tag:keyword:media:hope",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Escape",
+            "tag_id": "urn:tag:keyword:media:escape",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Burning body",
+            "tag_id": "urn:tag:keyword:media:burning_body",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Head blown off",
+            "tag_id": "urn:tag:keyword:media:head_blown_off",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic horror",
+            "tag_id": "urn:tag:subgenre:qloo:romantic_horror",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:theme:qloo:marriage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Dark comedy",
+            "tag_id": "urn:tag:keyword:media:dark_comedy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lydia bennet character",
+            "tag_id": "urn:tag:keyword:media:lydia_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Martial arts choreography",
+            "tag_id": "urn:tag:interests:qloo:martial_arts_choreography",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Gender roles",
+            "tag_id": "urn:tag:theme:qloo:gender_roles",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Zombie runs",
+            "tag_id": "urn:tag:keyword:media:zombie_runs",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Lightning",
+            "tag_id": "urn:tag:keyword:media:lightning",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Card game",
+            "tag_id": "urn:tag:keyword:media:card_game",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pride and prejudice",
+            "tag_id": "urn:tag:keyword:media:pride_and_prejudice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family relationships",
+            "tag_id": "urn:tag:keyword:media:family_relationships",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Georgiana darcy character",
+            "tag_id": "urn:tag:keyword:media:georgiana_darcy_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shot to death",
+            "tag_id": "urn:tag:keyword:media:shot_to_death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aunt niece relationship",
+            "tag_id": "urn:tag:keyword:media:aunt_niece_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Humor loving",
+            "tag_id": "urn:tag:audience:qloo:humor_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Quadruped",
+            "tag_id": "urn:tag:keyword:media:quadruped",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Fire",
+            "tag_id": "urn:tag:keyword:media:fire",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie bite",
+            "tag_id": "urn:tag:keyword:media:zombie_bite",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hallucination",
+            "tag_id": "urn:tag:keyword:media:hallucination",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie killed with a gun",
+            "tag_id": "urn:tag:keyword:media:zombie_killed_with_a_gun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Guard",
+            "tag_id": "urn:tag:keyword:media:guard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Murder",
+            "tag_id": "urn:tag:keyword:media:murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Throne",
+            "tag_id": "urn:tag:keyword:media:throne",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Crushed to death",
+            "tag_id": "urn:tag:keyword:media:crushed_to_death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:keyword:qloo:social_class",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Painting",
+            "tag_id": "urn:tag:keyword:media:painting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Walled city",
+            "tag_id": "urn:tag:keyword:media:walled_city",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Woman fights a woman",
+            "tag_id": "urn:tag:keyword:media:woman_fights_a_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombies",
+            "tag_id": "urn:tag:keyword:qloo:zombies",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Danger",
+            "tag_id": "urn:tag:keyword:media:danger",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brutality",
+            "tag_id": "urn:tag:keyword:media:brutality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Female zombie",
+            "tag_id": "urn:tag:keyword:media:female_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Voice over narration",
+            "tag_id": "urn:tag:keyword:media:voice_over_narration",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Unrequited love",
+            "tag_id": "urn:tag:keyword:media:unrequited_love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Strong female lead",
+            "tag_id": "urn:tag:keyword:media:strong_female_lead",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Removing an object from a wound",
+            "tag_id": "urn:tag:keyword:media:removing_an_object_from_a_wound",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Firearm",
+            "tag_id": "urn:tag:keyword:media:firearm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Subjective camera",
+            "tag_id": "urn:tag:keyword:media:subjective_camera",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:qloo:comedy",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Rooftop",
+            "tag_id": "urn:tag:keyword:media:rooftop",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rejection",
+            "tag_id": "urn:tag:keyword:media:rejection",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deception",
+            "tag_id": "urn:tag:keyword:media:deception",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Impalement",
+            "tag_id": "urn:tag:keyword:media:impalement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie killed with an axe",
+            "tag_id": "urn:tag:keyword:media:zombie_killed_with_an_axe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stabbing",
+            "tag_id": "urn:tag:keyword:media:stabbing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cemetery",
+            "tag_id": "urn:tag:keyword:media:cemetery",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Woman fights while wearing a dress",
+            "tag_id": "urn:tag:keyword:media:woman_fights_while_wearing_a_dress",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Charles bingley character",
+            "tag_id": "urn:tag:keyword:media:charles_bingley_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:qloo:horror",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Explosive",
+            "tag_id": "urn:tag:keyword:media:explosive",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Battle",
+            "tag_id": "urn:tag:keyword:media:battle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pocket watch",
+            "tag_id": "urn:tag:keyword:media:pocket_watch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rich man",
+            "tag_id": "urn:tag:keyword:media:rich_man",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:media:friendship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Woods",
+            "tag_id": "urn:tag:keyword:media:woods",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:keyword:media:redemption",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The sacrificial hero",
+            "tag_id": "urn:tag:archetype:qloo:the_sacrificial_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Surprise during end credits",
+            "tag_id": "urn:tag:keyword:media:surprise_during_end_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mammal",
+            "tag_id": "urn:tag:keyword:media:mammal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horseback riding",
+            "tag_id": "urn:tag:keyword:media:horseback_riding",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Subtitled scene",
+            "tag_id": "urn:tag:keyword:media:subtitled_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Training",
+            "tag_id": "urn:tag:keyword:media:training",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Journey shown on map",
+            "tag_id": "urn:tag:keyword:media:journey_shown_on_map",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sparring",
+            "tag_id": "urn:tag:keyword:media:sparring",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tragic hero",
+            "tag_id": "urn:tag:keyword:media:tragic_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fade to black",
+            "tag_id": "urn:tag:keyword:media:fade_to_black",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Period accurate",
+            "tag_id": "urn:tag:style:qloo:period_accurate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:theme:qloo:survival",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Arm cut off",
+            "tag_id": "urn:tag:keyword:media:arm_cut_off",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Long haired female",
+            "tag_id": "urn:tag:keyword:media:long_haired_female",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Face mask",
+            "tag_id": "urn:tag:keyword:media:face_mask",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corpse",
+            "tag_id": "urn:tag:keyword:media:corpse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ends with wedding",
+            "tag_id": "urn:tag:keyword:media:ends_with_wedding",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Country estate",
+            "tag_id": "urn:tag:keyword:media:country_estate",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie shot with a gun",
+            "tag_id": "urn:tag:keyword:media:zombie_shot_with_a_gun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Secret passageway",
+            "tag_id": "urn:tag:keyword:media:secret_passageway",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aristocracy",
+            "tag_id": "urn:tag:keyword:media:aristocracy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Elizabeth bennet character",
+            "tag_id": "urn:tag:keyword:media:elizabeth_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lord",
+            "tag_id": "urn:tag:keyword:media:lord",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Removing a sword from a wound",
+            "tag_id": "urn:tag:keyword:media:removing_a_sword_from_a_wound",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wedding",
+            "tag_id": "urn:tag:keyword:media:wedding",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Humorous",
+            "tag_id": "urn:tag:plot:qloo:humorous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Shot in the head",
+            "tag_id": "urn:tag:keyword:media:shot_in_the_head",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombies head bashed in",
+            "tag_id": "urn:tag:keyword:media:zombies_head_bashed_in",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:fantasy",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Scar",
+            "tag_id": "urn:tag:keyword:media:scar",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Disfigurement",
+            "tag_id": "urn:tag:keyword:media:disfigurement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lady",
+            "tag_id": "urn:tag:keyword:media:lady",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Looking at oneself in a mirror",
+            "tag_id": "urn:tag:keyword:media:looking_at_oneself_in_a_mirror",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love at first sight",
+            "tag_id": "urn:tag:keyword:media:love_at_first_sight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Teenage girl kills a zombie",
+            "tag_id": "urn:tag:keyword:media:teenage_girl_kills_a_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:style:qloo:polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Story continues during end credits",
+            "tag_id": "urn:tag:keyword:media:story_continues_during_end_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Double wedding",
+            "tag_id": "urn:tag:keyword:media:double_wedding",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Damsel in distress",
+            "tag_id": "urn:tag:keyword:media:damsel_in_distress",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fighting while wearing a dress",
+            "tag_id": "urn:tag:keyword:media:fighting_while_wearing_a_dress",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Party",
+            "tag_id": "urn:tag:keyword:media:party",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horse drawn carriage",
+            "tag_id": "urn:tag:keyword:media:horse_drawn_carriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Animal",
+            "tag_id": "urn:tag:keyword:media:animal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gore",
+            "tag_id": "urn:tag:keyword:media:gore",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mr bennet character",
+            "tag_id": "urn:tag:keyword:media:mr_bennet_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dark past",
+            "tag_id": "urn:tag:keyword:media:dark_past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "19th century",
+            "tag_id": "urn:tag:keyword:media:19th_century",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The family",
+            "tag_id": "urn:tag:archetype:qloo:the_family",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Based on novel",
+            "tag_id": "urn:tag:keyword:media:based_on_novel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Violin",
+            "tag_id": "urn:tag:keyword:media:violin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mercilessness",
+            "tag_id": "urn:tag:keyword:media:mercilessness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie shot in the head",
+            "tag_id": "urn:tag:keyword:media:zombie_shot_in_the_head",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Human versus zombie",
+            "tag_id": "urn:tag:keyword:media:human_versus_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "British soldier",
+            "tag_id": "urn:tag:keyword:media:british_soldier",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:character:qloo:passionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Priest",
+            "tag_id": "urn:tag:keyword:media:priest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:romance",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:keyword:media:survival",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wry satirical tone",
+            "tag_id": "urn:tag:style:qloo:wry_satirical_tone",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cannibal",
+            "tag_id": "urn:tag:keyword:media:cannibal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Feisty",
+            "tag_id": "urn:tag:character:qloo:feisty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Collapsing bridge",
+            "tag_id": "urn:tag:keyword:media:collapsing_bridge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male soldier",
+            "tag_id": "urn:tag:keyword:media:male_soldier",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Paranoia",
+            "tag_id": "urn:tag:keyword:media:paranoia",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rain",
+            "tag_id": "urn:tag:keyword:media:rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class",
+            "tag_id": "urn:tag:theme:qloo:class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Race against time",
+            "tag_id": "urn:tag:keyword:media:race_against_time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dark",
+            "tag_id": "urn:tag:plot:qloo:dark",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Aunt nephew relationship",
+            "tag_id": "urn:tag:keyword:media:aunt_nephew_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manor",
+            "tag_id": "urn:tag:keyword:qloo:manor",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Dark hero",
+            "tag_id": "urn:tag:keyword:media:dark_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The warrior",
+            "tag_id": "urn:tag:archetype:qloo:the_warrior",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Zombie baby",
+            "tag_id": "urn:tag:keyword:media:zombie_baby",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to the four horsemen of the apocalypse",
+            "tag_id": "urn:tag:keyword:media:reference_to_the_four_horsemen_of_the_apocalypse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courage",
+            "tag_id": "urn:tag:keyword:media:courage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brave",
+            "tag_id": "urn:tag:character:qloo:brave",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Head stomp",
+            "tag_id": "urn:tag:keyword:media:head_stomp",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suitor",
+            "tag_id": "urn:tag:keyword:media:suitor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shooting",
+            "tag_id": "urn:tag:keyword:media:shooting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:media:horror",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Moral dilemma",
+            "tag_id": "urn:tag:keyword:media:moral_dilemma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie dismembered",
+            "tag_id": "urn:tag:keyword:media:zombie_dismembered",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manor scale cinematography",
+            "tag_id": "urn:tag:style:qloo:manor_scale_cinematography",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cliffhanger ending",
+            "tag_id": "urn:tag:keyword:media:cliffhanger_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:qloo:marriage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Action comedy",
+            "tag_id": "urn:tag:subgenre:qloo:action_comedy",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Disarming someone",
+            "tag_id": "urn:tag:keyword:media:disarming_someone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Skilled fighter",
+            "tag_id": "urn:tag:character:qloo:skilled_fighter",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Scene during end credits",
+            "tag_id": "urn:tag:keyword:media:scene_during_end_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Honor",
+            "tag_id": "urn:tag:keyword:qloo:honor",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Regency action fusion",
+            "tag_id": "urn:tag:style:qloo:regency_action_fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Man murders a woman",
+            "tag_id": "urn:tag:keyword:media:man_murders_a_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Double cross",
+            "tag_id": "urn:tag:keyword:media:double_cross",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Regency period",
+            "tag_id": "urn:tag:keyword:media:regency_period",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nighttime",
+            "tag_id": "urn:tag:keyword:media:nighttime",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Gungehouse",
+            "tag_id": "urn:tag:keyword:media:gungehouse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cavalry charge",
+            "tag_id": "urn:tag:keyword:media:cavalry_charge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie horde",
+            "tag_id": "urn:tag:keyword:media:zombie_horde",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Woman kills a zombie",
+            "tag_id": "urn:tag:keyword:media:woman_kills_a_zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heir",
+            "tag_id": "urn:tag:keyword:media:heir",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie shot in the head with a gun",
+            "tag_id": "urn:tag:keyword:media:zombie_shot_in_the_head_with_a_gun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie fiction",
+            "tag_id": "urn:tag:interests:qloo:zombie_fiction",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Lush",
+            "tag_id": "urn:tag:style:qloo:lush",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Training",
+            "tag_id": "urn:tag:keyword:qloo:training",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cousin cousin relationship",
+            "tag_id": "urn:tag:keyword:media:cousin_cousin_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zombie child",
+            "tag_id": "urn:tag:keyword:media:zombie_child",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Combat choreography infused",
+            "tag_id": "urn:tag:style:qloo:combat_choreography_infused",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Housefly",
+            "tag_id": "urn:tag:keyword:media:housefly",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Duty",
+            "tag_id": "urn:tag:theme:qloo:duty",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Bridge",
+            "tag_id": "urn:tag:keyword:media:bridge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:audience:qloo:romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Plague",
+            "tag_id": "urn:tag:keyword:qloo:plague",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Sister sister relationship",
+            "tag_id": "urn:tag:keyword:media:sister_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aerial camera shot",
+            "tag_id": "urn:tag:keyword:media:aerial_camera_shot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fear",
+            "tag_id": "urn:tag:keyword:media:fear",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Knocked unconscious",
+            "tag_id": "urn:tag:keyword:media:knocked_unconscious",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lady catherine de bourgh character",
+            "tag_id": "urn:tag:keyword:media:lady_catherine_de_bourgh_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romzomcom",
+            "tag_id": "urn:tag:keyword:media:romzomcom",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:comedy",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Zombie horror",
+            "tag_id": "urn:tag:keyword:media:zombie_horror",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class differences",
+            "tag_id": "urn:tag:keyword:media:class_differences",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Forest",
+            "tag_id": "urn:tag:keyword:media:forest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:qloo:fantasy",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Physician",
+            "tag_id": "urn:tag:keyword:media:physician",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "Pride and Prejudice: A New Musical",
+        "entity_id": "32B2EC1C-D088-4FB9-A936-A549C8247FCB",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "Pride and Prejudice: A New Musical (released 2020, directed by Robert Kelley) is a musical film adaptation of Jane Austen's novel starring Monique Hafen Adams, Samantha Jane Ayoob, and Seton Chiang. Presented as a stage-style screen musical, it preserves the original's social wit and courtship drama while adding new songs and interpretive moments to clarify characters' motivations. The production leans into romantic and nostalgic themes—class, pride, misunderstanding, and eventual reconciliation—delivered with warm, uplifting musical performances and theatrical staging.",
+          "external": {
+            "imdb": {
+              "id": "tt12041958",
+              "user_rating": 6.8,
+              "user_rating_count": 206
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/32B2EC1C-D088-4FB9-A936-A549C8247FCB-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "TheatreWorks Silicon Valley",
+          "release_country": "United States",
+          "release_date": "2020-04-11",
+          "release_year": 2020,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A stage-style musical adaptation of a Regency romance in which two proud people overcome social prejudice to find love."
+            },
+            {
+              "language": "de",
+              "value": "Eine musikalische Adaption in historischem Setting, in der zwei stolze Menschen gesellschaftliche Vorurteile überwinden und zueinander finden."
+            },
+            {
+              "language": "es",
+              "value": "Una adaptación musical de época en la que dos personas orgullosas superan prejuicios sociales para encontrar el amor."
+            },
+            {
+              "language": "fr",
+              "value": "Une adaptation musicale d'époque où deux âmes orgueilleuses surmontent les préjugés sociaux pour trouver l'amour."
+            }
+          ],
+          "website": "https://www.streamingmusicals.com/"
+        },
+        "popularity": 0.21549061534806369,
+        "disambiguation": "2020",
+        "tags": [
+          {
+            "name": "Prejudice",
+            "tag_id": "urn:tag:theme:qloo:prejudice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:theme:qloo:pride",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:plot:qloo:nostalgic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Witty lyrical tone",
+            "tag_id": "urn:tag:style:qloo:witty_lyrical_tone",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Stubborn",
+            "tag_id": "urn:tag:character:qloo:stubborn",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Witty",
+            "tag_id": "urn:tag:character:qloo:witty",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:style:qloo:nostalgic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Letters",
+            "tag_id": "urn:tag:keyword:qloo:letters",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Bright",
+            "tag_id": "urn:tag:style:qloo:bright",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Musical theater",
+            "tag_id": "urn:tag:interests:qloo:musical_theater",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Period pop sensibility",
+            "tag_id": "urn:tag:style:qloo:period_pop_sensibility",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The redeemed",
+            "tag_id": "urn:tag:archetype:qloo:the_redeemed",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Stage musical adaptation",
+            "tag_id": "urn:tag:subgenre:qloo:stage_musical_adaptation",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:theme:qloo:marriage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Soundtrack",
+            "tag_id": "urn:tag:keyword:qloo:soundtrack",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Stage to screen choreographic",
+            "tag_id": "urn:tag:style:qloo:stage_to_screen_choreographic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Reserved",
+            "tag_id": "urn:tag:character:qloo:reserved",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Heartwarming",
+            "tag_id": "urn:tag:plot:qloo:heartwarming",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Historically minded",
+            "tag_id": "urn:tag:audience:qloo:historically_minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Vulnerable",
+            "tag_id": "urn:tag:character:qloo:vulnerable",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Theatrical",
+            "tag_id": "urn:tag:style:qloo:theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Family dynamics",
+            "tag_id": "urn:tag:keyword:qloo:family_dynamics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Principled",
+            "tag_id": "urn:tag:character:qloo:principled",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Classical music",
+            "tag_id": "urn:tag:interests:qloo:classical_music",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Historical",
+            "tag_id": "urn:tag:genre:qloo:historical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:keyword:qloo:music",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Literary adaptation",
+            "tag_id": "urn:tag:subgenre:qloo:literary_adaptation",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Family patriarch",
+            "tag_id": "urn:tag:archetype:qloo:family_patriarch",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Lighthearted",
+            "tag_id": "urn:tag:plot:qloo:lighthearted",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Period costuming",
+            "tag_id": "urn:tag:interests:qloo:period_costuming",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Music loving",
+            "tag_id": "urn:tag:audience:qloo:music_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The rival",
+            "tag_id": "urn:tag:archetype:qloo:the_rival",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:keyword:qloo:courtship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Literature enthusiast",
+            "tag_id": "urn:tag:audience:qloo:literature_enthusiast",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Colorful",
+            "tag_id": "urn:tag:style:qloo:colorful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Musical",
+            "tag_id": "urn:tag:genre:media:musical",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Humorous",
+            "tag_id": "urn:tag:plot:qloo:humorous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "The lover",
+            "tag_id": "urn:tag:archetype:qloo:the_lover",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Uplifting",
+            "tag_id": "urn:tag:plot:qloo:uplifting",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:keyword:qloo:social_class",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:audience:qloo:romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Bookish charm",
+            "tag_id": "urn:tag:style:qloo:bookish_charm",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Musical",
+            "tag_id": "urn:tag:genre:qloo:musical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:character:qloo:proud",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Period accurate",
+            "tag_id": "urn:tag:style:qloo:period_accurate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The matchmaker",
+            "tag_id": "urn:tag:archetype:qloo:the_matchmaker",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Misunderstanding",
+            "tag_id": "urn:tag:theme:qloo:misunderstanding",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Period romance",
+            "tag_id": "urn:tag:subgenre:qloo:period_romance",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:plot:qloo:romantic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Protective",
+            "tag_id": "urn:tag:character:qloo:protective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Lyrical",
+            "tag_id": "urn:tag:style:qloo:lyrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Personal growth",
+            "tag_id": "urn:tag:theme:qloo:personal_growth",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Stage musical fans",
+            "tag_id": "urn:tag:audience:qloo:stage_musical_fans",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Courtship",
+            "tag_id": "urn:tag:theme:qloo:courtship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Song forward storytelling",
+            "tag_id": "urn:tag:style:qloo:song_forward_storytelling",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Heartfelt",
+            "tag_id": "urn:tag:plot:qloo:heartfelt",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:character:qloo:curious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Ballroom",
+            "tag_id": "urn:tag:keyword:qloo:ballroom",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Ballroom dancing",
+            "tag_id": "urn:tag:interests:qloo:ballroom_dancing",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:character:qloo:romantic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Charismatic",
+            "tag_id": "urn:tag:character:qloo:charismatic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Wit",
+            "tag_id": "urn:tag:keyword:qloo:wit",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Social class",
+            "tag_id": "urn:tag:theme:qloo:social_class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Intelligent",
+            "tag_id": "urn:tag:character:qloo:intelligent",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Novel",
+            "tag_id": "urn:tag:keyword:media:novel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:qloo:marriage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Misunderstanding",
+            "tag_id": "urn:tag:keyword:qloo:misunderstanding",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Regency literature",
+            "tag_id": "urn:tag:interests:qloo:regency_literature",
+            "type": "urn:tag:interests:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

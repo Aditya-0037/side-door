@@ -1,0 +1,3120 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Inception",
+    "take": 5,
+    "types": "urn:entity:movie"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Inception",
+        "entity_id": "18B098FD-3D84-4609-BFF3-ADF9A0B00E40",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "en_au",
+              "value": "\"Inception\""
+            },
+            {
+              "language": "bn",
+              "value": "\"ইনসেপশন\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"El origen\""
+            },
+            {
+              "language": "te",
+              "value": "\"ఇన్సెప్షన్\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"A Origem\""
+            },
+            {
+              "language": "ml",
+              "value": "\"ഇൻസെപ്ഷൻ\""
+            },
+            {
+              "language": "ta",
+              "value": "\"இன்செப்சன்\""
+            },
+            {
+              "language": "ko",
+              "value": "인셉션"
+            },
+            {
+              "language": "an",
+              "value": "Inception"
+            },
+            {
+              "language": "ar",
+              "value": "بداية"
+            },
+            {
+              "language": "ar",
+              "value": "ازدراع"
+            },
+            {
+              "language": "ar",
+              "value": "انسبشن"
+            },
+            {
+              "language": "ar",
+              "value": "استهلال"
+            },
+            {
+              "language": "cs",
+              "value": "Inception"
+            },
+            {
+              "language": "cs",
+              "value": "Počátek"
+            },
+            {
+              "language": "de",
+              "value": "Inception"
+            },
+            {
+              "language": "en",
+              "value": "Inception"
+            },
+            {
+              "language": "es",
+              "value": "Origen"
+            },
+            {
+              "language": "es",
+              "value": "El origen"
+            },
+            {
+              "language": "es",
+              "value": "Inception"
+            },
+            {
+              "language": "et",
+              "value": "Inception"
+            },
+            {
+              "language": "eu",
+              "value": "Inception"
+            },
+            {
+              "language": "fa",
+              "value": "تلقین"
+            },
+            {
+              "language": "fa",
+              "value": "سرآغاز"
+            },
+            {
+              "language": "fi",
+              "value": "Inception"
+            },
+            {
+              "language": "fr",
+              "value": "Inception"
+            },
+            {
+              "language": "ga",
+              "value": "Inception"
+            },
+            {
+              "language": "gl",
+              "value": "Inception"
+            },
+            {
+              "language": "gl",
+              "value": "Orixe"
+            },
+            {
+              "language": "he",
+              "value": "התחלה"
+            },
+            {
+              "language": "hi",
+              "value": "इन्सॆप्शन"
+            },
+            {
+              "language": "hi",
+              "value": "इन्सेप्शन"
+            },
+            {
+              "language": "hy",
+              "value": "Սկիզբ"
+            },
+            {
+              "language": "it",
+              "value": "Inception"
+            },
+            {
+              "language": "ja",
+              "value": "インセプション"
+            },
+            {
+              "language": "nl",
+              "value": "Inception"
+            },
+            {
+              "language": "pl",
+              "value": "Inception"
+            },
+            {
+              "language": "pl",
+              "value": "Incepcja"
+            },
+            {
+              "language": "pt",
+              "value": "Inception"
+            },
+            {
+              "language": "pt",
+              "value": "A Origem"
+            },
+            {
+              "language": "ro",
+              "value": "Începutul"
+            },
+            {
+              "language": "ru",
+              "value": "Начало"
+            },
+            {
+              "language": "sv",
+              "value": "Inception"
+            },
+            {
+              "language": "th",
+              "value": "จิตพิฆาตโลก"
+            },
+            {
+              "language": "tr",
+              "value": "Başlangıç"
+            },
+            {
+              "language": "ur",
+              "value": "انسپشن"
+            },
+            {
+              "language": "zh",
+              "value": "盗梦空间"
+            }
+          ],
+          "content_rating": "PG-13",
+          "description": "Inception (2010), directed by Christopher Nolan and starring Leonardo DiCaprio, Joseph Gordon-Levitt and Elliot Page, is a science-fiction action thriller that centers on a team of specialists who invade dreams to extract or implant ideas. Combining heist mechanics with layered, nested dream sequences, the film blends spectacle and intimate drama as the team confronts psychological sabotage tied to the leader's tragic past. Themes of guilt, memory, identity and the malleability of reality are explored through tense set pieces and a deliberately ambiguous ending, supported by a moody visual palette and an urgent score.",
+          "external": {
+            "imdb": {
+              "id": "tt1375666",
+              "user_rating": 8.8,
+              "user_rating_count": 2872873
+            },
+            "metacritic": {
+              "critic_rating": 74,
+              "id": "inception",
+              "user_rating": 8.7
+            },
+            "rottentomatoes": {
+              "critic_rating": "86.0",
+              "critic_rating_count": "346",
+              "id": "inception",
+              "user_rating": "91.0",
+              "user_rating_count": "250000"
+            },
+            "wikidata": {
+              "id": "q25188"
+            }
+          },
+          "filming_location": "Fortress Mountain, Kananaskis Country, Alberta, Canada, Tangier, Morocco, Shizuoka, Japan, Tokyo, Japan, Alberta, Canada, Da Stuzzi Delicatessen, 6 Rue César Franck, Paris 15, France, Kananaskis Village, Kananaskis Country, Alberta, Canada, Pont de Bir-Hakeim, Paris, France, Bedford, Bedfordshire, England, UK, Spring Street, Downtown, Los Angeles, California, USA, University College London, Bloomsbury, London, England, UK, Cardington Airship Hangars, Bedfordshire, England, UK, Commodore Schuyler F. Heim Bridge, Port of Los Angeles, Los Angeles, California, USA, Rancho Palos Verdes, California, USA, Rue Bouchut, Paris 15, Paris, France, Farnborough Airfield, Hampshire, England, UK, Morocco, Stage 16, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA, John Ferraro Building, 111 North Hope Street, Los Angeles, California, USA, Leo Carrillo State Beach - 35000 W. Pacific Coast Highway, Malibu, California, USA, Bedfordshire, England, UK, Pasadena, California, USA, 1240 S Hope St, Los Angeles, California, USA, Falls Lake, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA, 453 S Spring St, Los Angeles, California, USA, Malibu, California, USA, Downtown, Los Angeles, California, USA, Los Angeles, California, USA, Paris 15, Paris, France, Ark Mori Building - 1-12-32, Akasaka, Minato, Tokyo, Japan",
+          "image": {
+            "url": "https://images.qloo.com/i/18B098FD-3D84-4609-BFF3-ADF9A0B00E40-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Warner Bros.",
+          "release_country": "United Kingdom",
+          "release_date": "2010-07-16",
+          "release_year": 2010,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A thief who invades dreams must plant an idea in a CEO's mind, but his unresolved guilt endangers the mission and his team."
+            },
+            {
+              "language": "de",
+              "value": "Ein Dieb, der Träume betritt, soll einem Manager eine Idee einpflanzen, doch seine Schuld gefährdet die Mission und das Team."
+            },
+            {
+              "language": "es",
+              "value": "Un ladrón que entra en los sueños debe implantar una idea en la mente de un ejecutivo, pero su culpa amenaza la misión y al equipo."
+            },
+            {
+              "language": "fr",
+              "value": "Un voleur qui pénètre les rêves doit implanter une idée dans l'esprit d'un dirigeant, mais sa culpabilité menace la mission et l'équipe."
+            }
+          ],
+          "website": "http://www.rogerebert.com/reviews/inception-2010"
+        },
+        "popularity": 0.9999568025227327,
+        "disambiguation": "2010",
+        "tags": [
+          {
+            "name": "Passenger compartment",
+            "tag_id": "urn:tag:keyword:media:passenger_compartment",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Maze",
+            "tag_id": "urn:tag:keyword:media:maze",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Collapsing building",
+            "tag_id": "urn:tag:keyword:media:collapsing_building",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Aircraft cabin",
+            "tag_id": "urn:tag:keyword:media:aircraft_cabin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Foot chase",
+            "tag_id": "urn:tag:keyword:media:foot_chase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Urban setting",
+            "tag_id": "urn:tag:keyword:media:urban_setting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kidnapping",
+            "tag_id": "urn:tag:keyword:media:kidnapping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Guilt",
+            "tag_id": "urn:tag:theme:qloo:guilt",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Africa",
+            "tag_id": "urn:tag:keyword:media:africa",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:style:qloo:stylized",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Childhood photo",
+            "tag_id": "urn:tag:keyword:media:childhood_photo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heavy rain",
+            "tag_id": "urn:tag:keyword:media:heavy_rain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "English subtitles in original",
+            "tag_id": "urn:tag:keyword:media:english_subtitles_in_original",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Attempted murder",
+            "tag_id": "urn:tag:keyword:media:attempted_murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brawl",
+            "tag_id": "urn:tag:keyword:media:brawl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Battlefield",
+            "tag_id": "urn:tag:keyword:media:battlefield",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shot in the leg",
+            "tag_id": "urn:tag:keyword:media:shot_in_the_leg",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sci fi",
+            "tag_id": "urn:tag:genre:media:sci_fi",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Kinetic",
+            "tag_id": "urn:tag:style:qloo:kinetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Night",
+            "tag_id": "urn:tag:keyword:media:night",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Espionage",
+            "tag_id": "urn:tag:keyword:qloo:espionage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "American abroad",
+            "tag_id": "urn:tag:keyword:media:american_abroad",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to edith piaf",
+            "tag_id": "urn:tag:keyword:media:reference_to_edith_piaf",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling off a bridge",
+            "tag_id": "urn:tag:keyword:media:falling_off_a_bridge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling off a cliff",
+            "tag_id": "urn:tag:keyword:media:falling_off_a_cliff",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Obsessive",
+            "tag_id": "urn:tag:character:qloo:obsessive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Charismatic",
+            "tag_id": "urn:tag:character:qloo:charismatic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "One word title",
+            "tag_id": "urn:tag:keyword:media:one_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car into water",
+            "tag_id": "urn:tag:keyword:media:car_into_water",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father",
+            "tag_id": "urn:tag:keyword:media:father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambiguous",
+            "tag_id": "urn:tag:plot:qloo:ambiguous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Trapped underwater",
+            "tag_id": "urn:tag:keyword:media:trapped_underwater",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Guilt",
+            "tag_id": "urn:tag:keyword:media:guilt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "All star show",
+            "tag_id": "urn:tag:keyword:media:all_star_show",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heir to fortune",
+            "tag_id": "urn:tag:keyword:media:heir_to_fortune",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Child",
+            "tag_id": "urn:tag:keyword:media:child",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car hit by a train",
+            "tag_id": "urn:tag:keyword:media:car_hit_by_a_train",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:thriller",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Shotgun",
+            "tag_id": "urn:tag:keyword:media:shotgun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pistol",
+            "tag_id": "urn:tag:keyword:media:pistol",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Montage",
+            "tag_id": "urn:tag:keyword:media:montage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Grief",
+            "tag_id": "urn:tag:theme:qloo:grief",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Flood",
+            "tag_id": "urn:tag:keyword:media:flood",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underwater scene",
+            "tag_id": "urn:tag:keyword:media:underwater_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mind bending sci fi",
+            "tag_id": "urn:tag:subgenre:qloo:mind_bending_sci_fi",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Slow motion scene",
+            "tag_id": "urn:tag:keyword:media:slow_motion_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Beard",
+            "tag_id": "urn:tag:keyword:media:beard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Identity",
+            "tag_id": "urn:tag:theme:qloo:identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Secret headquarters",
+            "tag_id": "urn:tag:keyword:media:secret_headquarters",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Vehicle",
+            "tag_id": "urn:tag:keyword:media:vehicle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father son relationship",
+            "tag_id": "urn:tag:keyword:media:father_son_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Disguise",
+            "tag_id": "urn:tag:keyword:media:disguise",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car chase",
+            "tag_id": "urn:tag:keyword:media:car_chase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Bodyguard",
+            "tag_id": "urn:tag:keyword:media:bodyguard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hostage",
+            "tag_id": "urn:tag:keyword:media:hostage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Totem",
+            "tag_id": "urn:tag:archetype:qloo:totem",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Title spoken by character",
+            "tag_id": "urn:tag:keyword:media:title_spoken_by_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploding building",
+            "tag_id": "urn:tag:keyword:media:exploding_building",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hit with a car door",
+            "tag_id": "urn:tag:keyword:media:hit_with_a_car_door",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Assassin",
+            "tag_id": "urn:tag:keyword:media:assassin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Espionage",
+            "tag_id": "urn:tag:keyword:media:espionage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sydney australia",
+            "tag_id": "urn:tag:keyword:media:sydney_australia",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Industrial espionage",
+            "tag_id": "urn:tag:keyword:media:industrial_espionage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mind bending",
+            "tag_id": "urn:tag:plot:qloo:mind_bending",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Van",
+            "tag_id": "urn:tag:keyword:media:van",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Escape",
+            "tag_id": "urn:tag:keyword:media:escape",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Team",
+            "tag_id": "urn:tag:keyword:qloo:team",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Teamwork",
+            "tag_id": "urn:tag:keyword:media:teamwork",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cult film",
+            "tag_id": "urn:tag:keyword:media:cult_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ensemble cast",
+            "tag_id": "urn:tag:keyword:media:ensemble_cast",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Helicopter",
+            "tag_id": "urn:tag:keyword:media:helicopter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Spinning top",
+            "tag_id": "urn:tag:keyword:media:spinning_top",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corporate executive",
+            "tag_id": "urn:tag:keyword:media:corporate_executive",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream sequence within a dream sequence",
+            "tag_id": "urn:tag:keyword:media:dream_sequence_within_a_dream_sequence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Train",
+            "tag_id": "urn:tag:keyword:media:train",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "River",
+            "tag_id": "urn:tag:keyword:media:river",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Artistic creation",
+            "tag_id": "urn:tag:keyword:media:artistic_creation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Escape attempt",
+            "tag_id": "urn:tag:keyword:media:escape_attempt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:theme:qloo:redemption",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Building collapse",
+            "tag_id": "urn:tag:keyword:media:building_collapse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hotel",
+            "tag_id": "urn:tag:keyword:media:hotel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "College",
+            "tag_id": "urn:tag:keyword:media:college",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alternate reality",
+            "tag_id": "urn:tag:keyword:media:alternate_reality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tragic hero",
+            "tag_id": "urn:tag:keyword:media:tragic_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Safe",
+            "tag_id": "urn:tag:keyword:media:safe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time bomb",
+            "tag_id": "urn:tag:keyword:media:time_bomb",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Architecture",
+            "tag_id": "urn:tag:keyword:media:architecture",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:plot:qloo:complex",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Nonlinear timeline",
+            "tag_id": "urn:tag:keyword:media:nonlinear_timeline",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling from height",
+            "tag_id": "urn:tag:keyword:media:falling_from_height",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alcohol",
+            "tag_id": "urn:tag:keyword:media:alcohol",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Moody",
+            "tag_id": "urn:tag:style:qloo:moody",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Avalanche",
+            "tag_id": "urn:tag:keyword:media:avalanche",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Waves",
+            "tag_id": "urn:tag:keyword:media:waves",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Memory",
+            "tag_id": "urn:tag:keyword:qloo:memory",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Hotel bar",
+            "tag_id": "urn:tag:keyword:media:hotel_bar",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loaded dice",
+            "tag_id": "urn:tag:keyword:media:loaded_dice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Produced by director",
+            "tag_id": "urn:tag:keyword:media:produced_by_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hit by a train",
+            "tag_id": "urn:tag:keyword:media:hit_by_a_train",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling down stairs",
+            "tag_id": "urn:tag:keyword:media:falling_down_stairs",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Snowmobile",
+            "tag_id": "urn:tag:keyword:media:snowmobile",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Architect",
+            "tag_id": "urn:tag:keyword:qloo:architect",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "City",
+            "tag_id": "urn:tag:keyword:media:city",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:keyword:media:children",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "On the run",
+            "tag_id": "urn:tag:keyword:media:on_the_run",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Washed up on a beach",
+            "tag_id": "urn:tag:keyword:media:washed_up_on_a_beach",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Puzzle solving",
+            "tag_id": "urn:tag:interests:qloo:puzzle_solving",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Experimental technology",
+            "tag_id": "urn:tag:keyword:media:experimental_technology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Train accident",
+            "tag_id": "urn:tag:keyword:media:train_accident",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Haunted by the past",
+            "tag_id": "urn:tag:keyword:media:haunted_by_the_past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Labyrinth",
+            "tag_id": "urn:tag:keyword:media:labyrinth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heist",
+            "tag_id": "urn:tag:keyword:media:heist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Englishman abroad",
+            "tag_id": "urn:tag:keyword:media:englishman_abroad",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Desperation",
+            "tag_id": "urn:tag:keyword:media:desperation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Paris france",
+            "tag_id": "urn:tag:keyword:media:paris_france",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Fast paced",
+            "tag_id": "urn:tag:plot:qloo:fast_paced",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Elevator shaft",
+            "tag_id": "urn:tag:keyword:media:elevator_shaft",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Drive by shooting",
+            "tag_id": "urn:tag:keyword:media:drive_by_shooting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hyperrealism",
+            "tag_id": "urn:tag:keyword:media:hyperrealism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Seamless temporal layering",
+            "tag_id": "urn:tag:style:qloo:seamless_temporal_layering",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Fantasy becomes reality",
+            "tag_id": "urn:tag:keyword:media:fantasy_becomes_reality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Identity",
+            "tag_id": "urn:tag:keyword:media:identity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wallet",
+            "tag_id": "urn:tag:keyword:media:wallet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:adventure",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Immersive",
+            "tag_id": "urn:tag:style:qloo:immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Japanese castle",
+            "tag_id": "urn:tag:keyword:media:japanese_castle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Memory",
+            "tag_id": "urn:tag:theme:qloo:memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Suspense",
+            "tag_id": "urn:tag:keyword:media:suspense",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Psychological thriller",
+            "tag_id": "urn:tag:subgenre:qloo:psychological_thriller",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Walking up a wall",
+            "tag_id": "urn:tag:keyword:media:walking_up_a_wall",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Blockbuster",
+            "tag_id": "urn:tag:keyword:media:blockbuster",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jumping from height",
+            "tag_id": "urn:tag:keyword:media:jumping_from_height",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream sequence",
+            "tag_id": "urn:tag:keyword:media:dream_sequence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Flashback",
+            "tag_id": "urn:tag:keyword:media:flashback",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Son",
+            "tag_id": "urn:tag:keyword:media:son",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Japanese",
+            "tag_id": "urn:tag:keyword:media:japanese",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "National film registry",
+            "tag_id": "urn:tag:keyword:media:national_film_registry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Betrayal",
+            "tag_id": "urn:tag:keyword:media:betrayal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lucid dreaming",
+            "tag_id": "urn:tag:keyword:media:lucid_dreaming",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "False accusation",
+            "tag_id": "urn:tag:keyword:media:false_accusation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Company",
+            "tag_id": "urn:tag:keyword:media:company",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream within a dream within a dream",
+            "tag_id": "urn:tag:keyword:media:dream_within_a_dream_within_a_dream",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:media:revenge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Memory",
+            "tag_id": "urn:tag:keyword:media:memory",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Henchman",
+            "tag_id": "urn:tag:keyword:media:henchman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Totem",
+            "tag_id": "urn:tag:keyword:media:totem",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cafe",
+            "tag_id": "urn:tag:keyword:media:cafe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Businessman",
+            "tag_id": "urn:tag:keyword:media:businessman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loss of loved one",
+            "tag_id": "urn:tag:keyword:media:loss_of_loved_one",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Armored car",
+            "tag_id": "urn:tag:keyword:media:armored_car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:style:qloo:polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Boeing 747",
+            "tag_id": "urn:tag:keyword:media:boeing_747",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Intelligent",
+            "tag_id": "urn:tag:character:qloo:intelligent",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Murder",
+            "tag_id": "urn:tag:keyword:media:murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Taxi driver",
+            "tag_id": "urn:tag:keyword:media:taxi_driver",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deathbed",
+            "tag_id": "urn:tag:keyword:media:deathbed",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chase",
+            "tag_id": "urn:tag:keyword:media:chase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stabbed in the chest",
+            "tag_id": "urn:tag:keyword:media:stabbed_in_the_chest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Old man",
+            "tag_id": "urn:tag:keyword:media:old_man",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Combat",
+            "tag_id": "urn:tag:keyword:media:combat",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Title at the end",
+            "tag_id": "urn:tag:keyword:media:title_at_the_end",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Virtual world",
+            "tag_id": "urn:tag:keyword:media:virtual_world",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Altered version of studio logo",
+            "tag_id": "urn:tag:keyword:media:altered_version_of_studio_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Inside the mind",
+            "tag_id": "urn:tag:keyword:media:inside_the_mind",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kenya",
+            "tag_id": "urn:tag:keyword:media:kenya",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corporate espionage",
+            "tag_id": "urn:tag:keyword:media:corporate_espionage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manipulation",
+            "tag_id": "urn:tag:keyword:media:manipulation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mindbender",
+            "tag_id": "urn:tag:keyword:media:mindbender",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Psychological manipulation",
+            "tag_id": "urn:tag:keyword:media:psychological_manipulation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Labyrinth",
+            "tag_id": "urn:tag:archetype:qloo:labyrinth",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Fight",
+            "tag_id": "urn:tag:keyword:media:fight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Impersonation",
+            "tag_id": "urn:tag:keyword:media:impersonation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Heist",
+            "tag_id": "urn:tag:keyword:qloo:heist",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Dark past",
+            "tag_id": "urn:tag:keyword:media:dark_past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Weapon",
+            "tag_id": "urn:tag:keyword:media:weapon",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "False memory",
+            "tag_id": "urn:tag:keyword:media:false_memory",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream within a dream",
+            "tag_id": "urn:tag:keyword:media:dream_within_a_dream",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shared dream",
+            "tag_id": "urn:tag:keyword:media:shared_dream",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Subtitled scene",
+            "tag_id": "urn:tag:keyword:media:subtitled_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Beach",
+            "tag_id": "urn:tag:keyword:media:beach",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Memory game",
+            "tag_id": "urn:tag:keyword:media:memory_game",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hallway",
+            "tag_id": "urn:tag:keyword:media:hallway",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deception",
+            "tag_id": "urn:tag:theme:qloo:deception",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Cell phone",
+            "tag_id": "urn:tag:keyword:media:cell_phone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Conflicted",
+            "tag_id": "urn:tag:character:qloo:conflicted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Fistfight",
+            "tag_id": "urn:tag:keyword:media:fistfight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Street",
+            "tag_id": "urn:tag:keyword:media:street",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mombasa kenya",
+            "tag_id": "urn:tag:keyword:media:mombasa_kenya",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suicide attempt",
+            "tag_id": "urn:tag:keyword:media:suicide_attempt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Interrogation",
+            "tag_id": "urn:tag:keyword:media:interrogation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corporate espionage",
+            "tag_id": "urn:tag:theme:qloo:corporate_espionage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Falling asleep",
+            "tag_id": "urn:tag:keyword:media:falling_asleep",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shot in the forehead",
+            "tag_id": "urn:tag:keyword:media:shot_in_the_forehead",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manipulative",
+            "tag_id": "urn:tag:character:qloo:manipulative",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Haunted",
+            "tag_id": "urn:tag:character:qloo:haunted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Grief",
+            "tag_id": "urn:tag:keyword:qloo:grief",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Japan",
+            "tag_id": "urn:tag:keyword:media:japan",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gun battle",
+            "tag_id": "urn:tag:keyword:media:gun_battle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heist",
+            "tag_id": "urn:tag:subgenre:qloo:heist",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Dream within a dream",
+            "tag_id": "urn:tag:archetype:qloo:dream_within_a_dream",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "No title at beginning",
+            "tag_id": "urn:tag:keyword:media:no_title_at_beginning",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bathtub",
+            "tag_id": "urn:tag:keyword:media:bathtub",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Airport",
+            "tag_id": "urn:tag:keyword:media:airport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tokyo japan",
+            "tag_id": "urn:tag:keyword:media:tokyo_japan",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Japanese businessman",
+            "tag_id": "urn:tag:keyword:media:japanese_businessman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Widower",
+            "tag_id": "urn:tag:keyword:media:widower",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cognitive science",
+            "tag_id": "urn:tag:interests:qloo:cognitive_science",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Ak 47",
+            "tag_id": "urn:tag:keyword:media:ak_47",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Battle",
+            "tag_id": "urn:tag:keyword:media:battle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ocean",
+            "tag_id": "urn:tag:keyword:media:ocean",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Electrocution",
+            "tag_id": "urn:tag:keyword:media:electrocution",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car set on fire",
+            "tag_id": "urn:tag:keyword:media:car_set_on_fire",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Motor vehicle",
+            "tag_id": "urn:tag:keyword:media:motor_vehicle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Film theory",
+            "tag_id": "urn:tag:interests:qloo:film_theory",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Ambiguity",
+            "tag_id": "urn:tag:keyword:media:ambiguity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambiguous ending",
+            "tag_id": "urn:tag:keyword:media:ambiguous_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fade to black",
+            "tag_id": "urn:tag:keyword:media:fade_to_black",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lawyer",
+            "tag_id": "urn:tag:keyword:media:lawyer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tragic past",
+            "tag_id": "urn:tag:keyword:media:tragic_past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Science fiction",
+            "tag_id": "urn:tag:genre:qloo:science_fiction",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Reality",
+            "tag_id": "urn:tag:keyword:qloo:reality",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Table",
+            "tag_id": "urn:tag:keyword:media:table",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling backwards",
+            "tag_id": "urn:tag:keyword:media:falling_backwards",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Guilt",
+            "tag_id": "urn:tag:keyword:qloo:guilt",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Bar",
+            "tag_id": "urn:tag:keyword:media:bar",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:qloo:thriller",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Subconscious",
+            "tag_id": "urn:tag:keyword:qloo:subconscious",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Philosophy",
+            "tag_id": "urn:tag:interests:qloo:philosophy",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Elevator crash",
+            "tag_id": "urn:tag:keyword:media:elevator_crash",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Psycho thriller",
+            "tag_id": "urn:tag:keyword:media:psycho_thriller",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Architect",
+            "tag_id": "urn:tag:keyword:media:architect",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Photograph",
+            "tag_id": "urn:tag:keyword:media:photograph",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hyperreal practical effects",
+            "tag_id": "urn:tag:style:qloo:hyperreal_practical_effects",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Puzzle",
+            "tag_id": "urn:tag:keyword:media:puzzle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Levitation",
+            "tag_id": "urn:tag:keyword:media:levitation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:character:qloo:curious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Elevator",
+            "tag_id": "urn:tag:keyword:media:elevator",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suicide by train",
+            "tag_id": "urn:tag:keyword:media:suicide_by_train",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Virtuality",
+            "tag_id": "urn:tag:keyword:media:virtuality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The subconscious",
+            "tag_id": "urn:tag:theme:qloo:the_subconscious",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Zero gravity",
+            "tag_id": "urn:tag:keyword:media:zero_gravity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time",
+            "tag_id": "urn:tag:keyword:media:time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shot to death",
+            "tag_id": "urn:tag:keyword:media:shot_to_death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bomb",
+            "tag_id": "urn:tag:keyword:media:bomb",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The shadow",
+            "tag_id": "urn:tag:archetype:qloo:the_shadow",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Psychological",
+            "tag_id": "urn:tag:plot:qloo:psychological",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Sawed off shotgun",
+            "tag_id": "urn:tag:keyword:media:sawed_off_shotgun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The trickster",
+            "tag_id": "urn:tag:archetype:qloo:the_trickster",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Assassination attempt",
+            "tag_id": "urn:tag:keyword:media:assassination_attempt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bridge",
+            "tag_id": "urn:tag:keyword:media:bridge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by director",
+            "tag_id": "urn:tag:keyword:media:written_by_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploding body",
+            "tag_id": "urn:tag:keyword:media:exploding_body",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Neo noir thriller",
+            "tag_id": "urn:tag:subgenre:qloo:neo_noir_thriller",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Impostor",
+            "tag_id": "urn:tag:keyword:media:impostor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "One against many",
+            "tag_id": "urn:tag:keyword:media:one_against_many",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "No opening credits",
+            "tag_id": "urn:tag:keyword:media:no_opening_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Race against time",
+            "tag_id": "urn:tag:keyword:media:race_against_time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Defying gravity",
+            "tag_id": "urn:tag:keyword:media:defying_gravity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dreamlike architecture",
+            "tag_id": "urn:tag:style:qloo:dreamlike_architecture",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Rescue",
+            "tag_id": "urn:tag:keyword:media:rescue",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tied to a chair",
+            "tag_id": "urn:tag:keyword:media:tied_to_a_chair",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Subconscious",
+            "tag_id": "urn:tag:keyword:media:subconscious",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream",
+            "tag_id": "urn:tag:keyword:media:dream",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sabotage",
+            "tag_id": "urn:tag:keyword:media:sabotage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Architecture",
+            "tag_id": "urn:tag:interests:qloo:architecture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Dreams",
+            "tag_id": "urn:tag:keyword:qloo:dreams",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Deception",
+            "tag_id": "urn:tag:keyword:media:deception",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deep sleep",
+            "tag_id": "urn:tag:keyword:media:deep_sleep",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Falling to death",
+            "tag_id": "urn:tag:keyword:media:falling_to_death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mercilessness",
+            "tag_id": "urn:tag:keyword:media:mercilessness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "One last job",
+            "tag_id": "urn:tag:keyword:media:one_last_job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Intellectually curious",
+            "tag_id": "urn:tag:audience:qloo:intellectually_curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Last will and testament",
+            "tag_id": "urn:tag:keyword:media:last_will_and_testament",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Heroine",
+            "tag_id": "urn:tag:keyword:media:heroine",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Traumatized",
+            "tag_id": "urn:tag:character:qloo:traumatized",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Bag over head",
+            "tag_id": "urn:tag:keyword:media:bag_over_head",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dream versus reality",
+            "tag_id": "urn:tag:theme:qloo:dream_versus_reality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Suicide",
+            "tag_id": "urn:tag:keyword:media:suicide",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The mentor",
+            "tag_id": "urn:tag:archetype:qloo:the_mentor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Airplane",
+            "tag_id": "urn:tag:keyword:media:airplane",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Business",
+            "tag_id": "urn:tag:keyword:media:business",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suit and tie",
+            "tag_id": "urn:tag:keyword:media:suit_and_tie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:keyword:media:violence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ceo",
+            "tag_id": "urn:tag:keyword:media:ceo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Derelict building",
+            "tag_id": "urn:tag:keyword:media:derelict_building",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Analytical",
+            "tag_id": "urn:tag:audience:qloo:analytical",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Surprise ending",
+            "tag_id": "urn:tag:keyword:media:surprise_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Crushed by a car",
+            "tag_id": "urn:tag:keyword:media:crushed_by_a_car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Electronic music score",
+            "tag_id": "urn:tag:keyword:media:electronic_music_score",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Los angeles international airport",
+            "tag_id": "urn:tag:keyword:media:los_angeles_international_airport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death of father",
+            "tag_id": "urn:tag:keyword:media:death_of_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gravity bending imagery",
+            "tag_id": "urn:tag:style:qloo:gravity_bending_imagery",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Noir inflected urbanism",
+            "tag_id": "urn:tag:style:qloo:noir_inflected_urbanism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Silencer",
+            "tag_id": "urn:tag:keyword:media:silencer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploding car",
+            "tag_id": "urn:tag:keyword:media:exploding_car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Knife",
+            "tag_id": "urn:tag:keyword:media:knife",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death",
+            "tag_id": "urn:tag:keyword:media:death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Los angeles california",
+            "tag_id": "urn:tag:keyword:media:los_angeles_california",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Assault rifle",
+            "tag_id": "urn:tag:keyword:media:assault_rifle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car accident",
+            "tag_id": "urn:tag:keyword:media:car_accident",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Puzzle loving",
+            "tag_id": "urn:tag:audience:qloo:puzzle_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Psychological",
+            "tag_id": "urn:tag:keyword:media:psychological",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thought provoking",
+            "tag_id": "urn:tag:plot:qloo:thought_provoking",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Flare gun",
+            "tag_id": "urn:tag:keyword:media:flare_gun",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sniper",
+            "tag_id": "urn:tag:keyword:media:sniper",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "The Crack: Inception",
+        "entity_id": "6D9BE750-8A66-453B-8EF2-433FBDF677D3",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "es_ar",
+              "value": "\"El crack cero\""
+            },
+            {
+              "language": "es",
+              "value": "\"El crack cero\""
+            }
+          ],
+          "description": "The Crack: Inception (2019), directed by José Luis Garci and starring Carlos Santos, Miguel Ángel Muñoz and Luisa Gavasa, is a black-and-white Spanish crime drama and prequel in a trilogy about private detective Germán Areta. The plot follows Areta as he leaves the police force to work as a private investigator in late-Francoist Spain and plunges into a dangerous inquiry into an apparent suicide. The film operates as a deliberate, literary noir homage with themes of moral ambiguity, corruption and personal obsession, and it evokes a melancholic, tense emotional register throughout.",
+          "external": {
+            "imdb": {
+              "id": "tt6793710",
+              "user_rating": 6.6,
+              "user_rating_count": 994
+            },
+            "rottentomatoes": {
+              "id": "el_crack_cero_2019",
+              "user_rating_count": "0"
+            },
+            "wikidata": {
+              "id": "q70111884"
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/6D9BE750-8A66-453B-8EF2-433FBDF677D3-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Areta Investigación",
+          "release_country": "Spain",
+          "release_date": "2019-10-04",
+          "release_year": 2019,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A former policeman becomes a private detective in late Francoist Spain and pursues a risky investigation into an apparent suicide."
+            },
+            {
+              "language": "de",
+              "value": "Ein ehemaliger Polizist wird Privatdetektiv im Spanien der Endphase des Franco-Regimes und ermittelt in einem scheinbaren Suizid."
+            },
+            {
+              "language": "es",
+              "value": "Un ex policía se convierte en detective privado en la España del final del franquismo y investiga arriesgadamente un aparente suicidio."
+            },
+            {
+              "language": "fr",
+              "value": "Un ancien policier devient détective privé dans l'Espagne de la fin du franquisme et mène une enquête risquée sur un suicide apparent."
+            }
+          ],
+          "website": "https://www.accioncine.es/reportajes/criticas/6849-critica-el-crack-cero"
+        },
+        "popularity": 0.3116050022678676,
+        "disambiguation": "2019",
+        "tags": [
+          {
+            "name": "Textured period realism",
+            "tag_id": "urn:tag:style:qloo:textured_period_realism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Moody",
+            "tag_id": "urn:tag:style:qloo:moody",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Film noir",
+            "tag_id": "urn:tag:interests:qloo:film_noir",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Period drama",
+            "tag_id": "urn:tag:subgenre:qloo:period_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Possible murder",
+            "tag_id": "urn:tag:keyword:media:possible_murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Madrid spain",
+            "tag_id": "urn:tag:keyword:media:madrid_spain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Investigation",
+            "tag_id": "urn:tag:keyword:media:investigation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:plot:qloo:gritty",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Police",
+            "tag_id": "urn:tag:keyword:qloo:police",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Film noir",
+            "tag_id": "urn:tag:genre:qloo:film_noir",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Taylor",
+            "tag_id": "urn:tag:keyword:media:taylor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Spanish transition",
+            "tag_id": "urn:tag:keyword:media:spanish_transition",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Justice",
+            "tag_id": "urn:tag:theme:qloo:justice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Obsessive",
+            "tag_id": "urn:tag:character:qloo:obsessive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The corrupt authority",
+            "tag_id": "urn:tag:archetype:qloo:the_corrupt_authority",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Romantic subplot",
+            "tag_id": "urn:tag:keyword:media:romantic_subplot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Appreciative of classic cinema",
+            "tag_id": "urn:tag:audience:qloo:appreciative_of_classic_cinema",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Literature references",
+            "tag_id": "urn:tag:keyword:qloo:literature_references",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Period accurate",
+            "tag_id": "urn:tag:style:qloo:period_accurate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:style:qloo:gritty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The detective",
+            "tag_id": "urn:tag:archetype:qloo:the_detective",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "World weary",
+            "tag_id": "urn:tag:character:qloo:world_weary",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:media:crime",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Ruthless",
+            "tag_id": "urn:tag:character:qloo:ruthless",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The anti hero",
+            "tag_id": "urn:tag:archetype:qloo:the_anti_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Classic cinema",
+            "tag_id": "urn:tag:interests:qloo:classic_cinema",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:audience:qloo:reflective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "20th century history",
+            "tag_id": "urn:tag:interests:qloo:20th_century_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Homage",
+            "tag_id": "urn:tag:keyword:qloo:homage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Neo noir",
+            "tag_id": "urn:tag:genre:qloo:neo_noir",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Suicide",
+            "tag_id": "urn:tag:keyword:qloo:suicide",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Dictatorship",
+            "tag_id": "urn:tag:keyword:qloo:dictatorship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Detective",
+            "tag_id": "urn:tag:keyword:media:detective",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Neo noir",
+            "tag_id": "urn:tag:keyword:media:neo_noir",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Prequel",
+            "tag_id": "urn:tag:subgenre:qloo:prequel",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Literary noir",
+            "tag_id": "urn:tag:interests:qloo:literary_noir",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Private detective",
+            "tag_id": "urn:tag:keyword:media:private_detective",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Moral ambiguity",
+            "tag_id": "urn:tag:theme:qloo:moral_ambiguity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "1970s",
+            "tag_id": "urn:tag:keyword:media:1970s",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Urban isolation",
+            "tag_id": "urn:tag:archetype:qloo:urban_isolation",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Investigative",
+            "tag_id": "urn:tag:plot:qloo:investigative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Detective",
+            "tag_id": "urn:tag:keyword:qloo:detective",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Prequel",
+            "tag_id": "urn:tag:keyword:media:prequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Melancholic",
+            "tag_id": "urn:tag:plot:qloo:melancholic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Search for truth",
+            "tag_id": "urn:tag:archetype:qloo:search_for_truth",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Old hollywood noir",
+            "tag_id": "urn:tag:style:qloo:old_hollywood_noir",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Chandleresque",
+            "tag_id": "urn:tag:style:qloo:chandleresque",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cynical",
+            "tag_id": "urn:tag:character:qloo:cynical",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Obsession",
+            "tag_id": "urn:tag:theme:qloo:obsession",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Private investigator",
+            "tag_id": "urn:tag:subgenre:qloo:private_investigator",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Crime fiction",
+            "tag_id": "urn:tag:interests:qloo:crime_fiction",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Historical",
+            "tag_id": "urn:tag:genre:qloo:historical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Mystery",
+            "tag_id": "urn:tag:genre:qloo:mystery",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Noir homage",
+            "tag_id": "urn:tag:plot:qloo:noir_homage",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:qloo:crime",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Mystery loving",
+            "tag_id": "urn:tag:audience:qloo:mystery_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Museum warm grayscale",
+            "tag_id": "urn:tag:style:qloo:museum_warm_grayscale",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Presumed suicide",
+            "tag_id": "urn:tag:keyword:media:presumed_suicide",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Madrid",
+            "tag_id": "urn:tag:keyword:qloo:madrid",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Period piece",
+            "tag_id": "urn:tag:plot:qloo:period_piece",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Investigation",
+            "tag_id": "urn:tag:keyword:qloo:investigation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Corruption",
+            "tag_id": "urn:tag:theme:qloo:corruption",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Spanish noir",
+            "tag_id": "urn:tag:subgenre:qloo:spanish_noir",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Stubborn",
+            "tag_id": "urn:tag:character:qloo:stubborn",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Trauma",
+            "tag_id": "urn:tag:theme:qloo:trauma",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Slow burn",
+            "tag_id": "urn:tag:plot:qloo:slow_burn",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Detective",
+            "tag_id": "urn:tag:subgenre:qloo:detective",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Grainy",
+            "tag_id": "urn:tag:style:qloo:grainy",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Black and white cinematography",
+            "tag_id": "urn:tag:keyword:qloo:black_and_white_cinematography",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Transition to democracy",
+            "tag_id": "urn:tag:theme:qloo:transition_to_democracy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Cain inspired",
+            "tag_id": "urn:tag:style:qloo:cain_inspired",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:qloo:thriller",
+            "type": "urn:tag:genre:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Inception: 4Movie Premiere Special",
+        "entity_id": "282973D6-77F7-4A54-B97A-37985D3D492D",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "external": {
+            "imdb": {
+              "id": "tt1686778",
+              "user_rating": 7.9,
+              "user_rating_count": 42
+            }
+          },
+          "filming_location": "",
+          "image": {},
+          "is_special": false,
+          "production_company": "Sassy Films",
+          "release_country": "United Kingdom",
+          "release_date": "2010-07-16",
+          "release_year": 2010,
+          "short_descriptions": []
+        },
+        "disambiguation": "2010",
+        "tags": [
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:documentary",
+            "type": "urn:tag:genre:media"
+          }
+        ]
+      },
+      {
+        "name": "DeInception",
+        "entity_id": "1D28CC08-FBE3-4848-AE4B-570D364FC849",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "DeInception is a 2026 Australian documentary directed by John Angheli, who also appears in the film alongside Hayley Beveridge and Tania Wieclaw. Following a near-fatal car accident, Angheli sets out on a 40-day vision quest in the Tasmanian wilderness to investigate the nature of happiness and its role in personal and social life. The film combines solitude, fasting, and conversations with leading thinkers to examine meaning, mortality, and modern discontent in a reflective, philosophical register.",
+          "external": {
+            "imdb": {
+              "id": "tt38118655",
+              "user_rating_count": 0
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/1D28CC08-FBE3-4848-AE4B-570D364FC849-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Center for Meaningful Leadership",
+          "release_country": "Australia",
+          "release_date": "2026-03-20",
+          "release_year": 2026,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A man embarks on a wilderness vision quest to explore the nature of happiness and modern discontent."
+            },
+            {
+              "language": "de",
+              "value": "Ein Mann begibt sich auf eine Vision Quest in der Wildnis, um Glück und modernes Unbehagen zu ergründen."
+            },
+            {
+              "language": "es",
+              "value": "Un hombre emprende una búsqueda visionaria en la naturaleza para explorar la felicidad y el malestar moderno."
+            },
+            {
+              "language": "fr",
+              "value": "Un homme part en quête visionnaire dans la nature pour explorer la bonheur et le mal-être moderne."
+            }
+          ],
+          "website": "http://www.deinception.com/"
+        },
+        "disambiguation": "2026",
+        "tags": [
+          {
+            "name": "Solitude",
+            "tag_id": "urn:tag:keyword:qloo:solitude",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Philosophically minded",
+            "tag_id": "urn:tag:audience:qloo:philosophically_minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Contemplative",
+            "tag_id": "urn:tag:character:qloo:contemplative",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Inquisitive",
+            "tag_id": "urn:tag:character:qloo:inquisitive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Fasting",
+            "tag_id": "urn:tag:keyword:qloo:fasting",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Colorful",
+            "tag_id": "urn:tag:style:qloo:colorful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Philosophical documentary",
+            "tag_id": "urn:tag:subgenre:qloo:philosophical_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Travel documentary",
+            "tag_id": "urn:tag:subgenre:qloo:travel_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Thought provoking",
+            "tag_id": "urn:tag:plot:qloo:thought_provoking",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Self discovery",
+            "tag_id": "urn:tag:keyword:qloo:self_discovery",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Contemplative",
+            "tag_id": "urn:tag:plot:qloo:contemplative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:audience:qloo:reflective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Economics",
+            "tag_id": "urn:tag:theme:qloo:economics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Tasmanian wilderness",
+            "tag_id": "urn:tag:keyword:qloo:tasmanian_wilderness",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Essay film",
+            "tag_id": "urn:tag:subgenre:qloo:essay_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Ecology",
+            "tag_id": "urn:tag:theme:qloo:ecology",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Philosophy",
+            "tag_id": "urn:tag:interests:qloo:philosophy",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Philosophical",
+            "tag_id": "urn:tag:plot:qloo:philosophical",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:character:qloo:complex",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Investigative",
+            "tag_id": "urn:tag:plot:qloo:investigative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Mortality",
+            "tag_id": "urn:tag:theme:qloo:mortality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Traumatized",
+            "tag_id": "urn:tag:character:qloo:traumatized",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Happiness",
+            "tag_id": "urn:tag:theme:qloo:happiness",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Self discovery",
+            "tag_id": "urn:tag:theme:qloo:self_discovery",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Solitude",
+            "tag_id": "urn:tag:theme:qloo:solitude",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:plot:qloo:intimate",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Psychological",
+            "tag_id": "urn:tag:plot:qloo:psychological",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Unadorned",
+            "tag_id": "urn:tag:style:qloo:unadorned",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Vision quest",
+            "tag_id": "urn:tag:keyword:qloo:vision_quest",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The seeker",
+            "tag_id": "urn:tag:archetype:qloo:the_seeker",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:plot:qloo:reflective",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:documentary",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Abundance",
+            "tag_id": "urn:tag:keyword:qloo:abundance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Observational",
+            "tag_id": "urn:tag:style:qloo:observational",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Mortality",
+            "tag_id": "urn:tag:keyword:qloo:mortality",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Ethics",
+            "tag_id": "urn:tag:theme:qloo:ethics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Modern alienation",
+            "tag_id": "urn:tag:theme:qloo:modern_alienation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Travel",
+            "tag_id": "urn:tag:interests:qloo:travel",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Rite of passage",
+            "tag_id": "urn:tag:archetype:qloo:rite_of_passage",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Intellectually curious",
+            "tag_id": "urn:tag:audience:qloo:intellectually_curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Intelligent",
+            "tag_id": "urn:tag:character:qloo:intelligent",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Democracy",
+            "tag_id": "urn:tag:theme:qloo:democracy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Mental health",
+            "tag_id": "urn:tag:theme:qloo:mental_health",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Meaning of life",
+            "tag_id": "urn:tag:theme:qloo:meaning_of_life",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:qloo:documentary",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Well being",
+            "tag_id": "urn:tag:theme:qloo:well_being",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Analytical",
+            "tag_id": "urn:tag:audience:qloo:analytical",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:character:qloo:reflective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Cultural critique",
+            "tag_id": "urn:tag:keyword:qloo:cultural_critique",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Culturally curious",
+            "tag_id": "urn:tag:audience:qloo:culturally_curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Essayistic",
+            "tag_id": "urn:tag:style:qloo:essayistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Wilderness meditative",
+            "tag_id": "urn:tag:style:qloo:wilderness_meditative",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Melancholic",
+            "tag_id": "urn:tag:plot:qloo:melancholic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Socially conscious",
+            "tag_id": "urn:tag:audience:qloo:socially_conscious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The quest",
+            "tag_id": "urn:tag:archetype:qloo:the_quest",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Democratic ideals",
+            "tag_id": "urn:tag:keyword:qloo:democratic_ideals",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Psychology",
+            "tag_id": "urn:tag:interests:qloo:psychology",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Solitary",
+            "tag_id": "urn:tag:style:qloo:solitary",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Wellness",
+            "tag_id": "urn:tag:interests:qloo:wellness",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Ecology",
+            "tag_id": "urn:tag:interests:qloo:ecology",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Mental health",
+            "tag_id": "urn:tag:keyword:qloo:mental_health",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:character:qloo:curious",
+            "type": "urn:tag:character:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Insha Allah - An inception at closure",
+        "entity_id": "BB867179-4DF3-4207-91BF-8C5B84617041",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ta",
+              "value": "\"இன்ஷா அல்லாஹ்\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Insha Allah - An inception at closure\""
+            }
+          ],
+          "description": "Insha Allah - An inception at closure (2019) is a drama directed by S.P.P. Bhaskaran and featuring Pagavathi Ammal, Menaga, Mohan, and Nambirajan. Told in Tamil, the film offers a series of domestic vignettes that reveal the lived realities of Muslim blue-collar workers, emphasizing quiet moments over dramatic plot turns. Its focus on family, faith, and labor situates it within social realist traditions, and its restrained, empathetic tone aims to highlight dignity amid economic strain. The result is a contemplative portrait that invites reflection on community and identity.",
+          "external": {
+            "imdb": {
+              "id": "tt11224722",
+              "user_rating": 8,
+              "user_rating_count": 350
+            },
+            "wikidata": {
+              "id": "q126120420"
+            }
+          },
+          "filming_location": "pillayarpuram, Tamil Nadu 629501",
+          "image": {
+            "url": "https://images.qloo.com/i/BB867179-4DF3-4207-91BF-8C5B84617041-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "KFS Cinema",
+          "release_country": "India",
+          "release_date": "2019-09-25",
+          "release_year": 2019,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "An intimate, empathetic portrait of Muslim blue-collar families navigating work, faith, and domestic pressures in daily life."
+            },
+            {
+              "language": "de",
+              "value": "Ein eindringliches Porträt muslimischer Arbeiterfamilien, die Arbeit, Glauben und häusliche Belastungen im Alltag meistern."
+            },
+            {
+              "language": "es",
+              "value": "Retrato íntimo y empático de familias musulmanas de clase obrera que afrontan trabajo, fe y tensiones domésticas en su día a día."
+            },
+            {
+              "language": "fr",
+              "value": "Portrait intime et empathique de familles musulmanes ouvrières confrontées au travail, à la foi et aux tensions domestiques du quotidien."
+            }
+          ],
+          "website": "https://chennaivision.com/tamil-movies/insha-allah-movie-review/"
+        },
+        "disambiguation": "2019",
+        "tags": [
+          {
+            "name": "Quietly poetic",
+            "tag_id": "urn:tag:style:qloo:quietly_poetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:plot:qloo:realistic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Class",
+            "tag_id": "urn:tag:theme:qloo:class",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Empathetic",
+            "tag_id": "urn:tag:audience:qloo:empathetic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The everyman",
+            "tag_id": "urn:tag:archetype:qloo:the_everyman",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Vulnerable",
+            "tag_id": "urn:tag:character:qloo:vulnerable",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Unvarnished",
+            "tag_id": "urn:tag:style:qloo:unvarnished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Domestic life",
+            "tag_id": "urn:tag:keyword:qloo:domestic_life",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The family",
+            "tag_id": "urn:tag:archetype:qloo:the_family",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:audience:qloo:reflective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Religion",
+            "tag_id": "urn:tag:theme:qloo:religion",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Identity",
+            "tag_id": "urn:tag:theme:qloo:identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cultural studies",
+            "tag_id": "urn:tag:interests:qloo:cultural_studies",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Close framed",
+            "tag_id": "urn:tag:style:qloo:close_framed",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Social justice",
+            "tag_id": "urn:tag:interests:qloo:social_justice",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Blue collar workers",
+            "tag_id": "urn:tag:keyword:qloo:blue_collar_workers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Religious studies",
+            "tag_id": "urn:tag:interests:qloo:religious_studies",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Documentary photography",
+            "tag_id": "urn:tag:interests:qloo:documentary_photography",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Home",
+            "tag_id": "urn:tag:archetype:qloo:home",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Slice of life",
+            "tag_id": "urn:tag:subgenre:qloo:slice_of_life",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Islamic way of life",
+            "tag_id": "urn:tag:keyword:media:islamic_way_of_life_",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Muted",
+            "tag_id": "urn:tag:style:qloo:muted",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Labor studies",
+            "tag_id": "urn:tag:interests:qloo:labor_studies",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:keyword:qloo:family",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Observational realism",
+            "tag_id": "urn:tag:style:qloo:observational_realism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Ritual",
+            "tag_id": "urn:tag:archetype:qloo:ritual",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Social realism",
+            "tag_id": "urn:tag:subgenre:qloo:social_realism",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Faith",
+            "tag_id": "urn:tag:keyword:qloo:faith",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The worker",
+            "tag_id": "urn:tag:archetype:qloo:the_worker",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Economic struggle",
+            "tag_id": "urn:tag:theme:qloo:economic_struggle",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Humanist",
+            "tag_id": "urn:tag:style:qloo:humanist",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:theme:qloo:community",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Workplace",
+            "tag_id": "urn:tag:keyword:qloo:workplace",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Muslim community",
+            "tag_id": "urn:tag:keyword:qloo:muslim_community",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Domestic drama",
+            "tag_id": "urn:tag:subgenre:qloo:domestic_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Labor",
+            "tag_id": "urn:tag:theme:qloo:labor",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Documentary like",
+            "tag_id": "urn:tag:style:qloo:documentary_like",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Economic pressure",
+            "tag_id": "urn:tag:keyword:qloo:economic_pressure",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Socially conscious",
+            "tag_id": "urn:tag:audience:qloo:socially_conscious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:style:qloo:realistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:plot:qloo:intimate",
+            "type": "urn:tag:plot:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

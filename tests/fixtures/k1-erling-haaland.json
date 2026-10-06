@@ -1,0 +1,3966 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Erling Haaland",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Erling Haaland",
+        "entity_id": "5F6E74AC-EF04-48FC-A08F-C5A57FD73DEF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "j",
+              "value": "エルリング・ブラウト・ホランド"
+            },
+            {
+              "language": "a",
+              "value": "エルリング・ブラウト・ホランド"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "w",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "b",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "i",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "b",
+              "value": "আরলিং ব্রাউট হোলান্ড"
+            },
+            {
+              "language": "n",
+              "value": "আরলিং ব্রাউট হোলান্ড"
+            },
+            {
+              "language": "i",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "f",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "i",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "t",
+              "value": "อาลิง เบราต์ โฮลัน"
+            },
+            {
+              "language": "h",
+              "value": "อาลิง เบราต์ โฮลัน"
+            },
+            {
+              "language": "a",
+              "value": "آرلينغ هالاند"
+            },
+            {
+              "language": "r",
+              "value": "آرلينغ هالاند"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "w",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "f",
+              "value": "ارلینگ برات هالند"
+            },
+            {
+              "language": "a",
+              "value": "ارلینگ برات هالند"
+            },
+            {
+              "language": "c",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "p",
+              "value": "Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "l",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "f",
+              "value": "Erling Braut Haland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Haland"
+            },
+            {
+              "language": "f",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "h",
+              "value": "ארלינג הולאן"
+            },
+            {
+              "language": "e",
+              "value": "ארלינג הולאן"
+            },
+            {
+              "language": "t",
+              "value": "อาลิง โฮลัน"
+            },
+            {
+              "language": "h",
+              "value": "อาลิง โฮลัน"
+            },
+            {
+              "language": "h",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "u",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "u",
+              "value": "Ерлінґ Браут Голанн"
+            },
+            {
+              "language": "k",
+              "value": "Ерлінґ Браут Голанн"
+            },
+            {
+              "language": "h",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "u",
+              "value": "Ерлінг Браут Голанн"
+            },
+            {
+              "language": "k",
+              "value": "Ерлінг Браут Голанн"
+            },
+            {
+              "language": "d",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "b",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "l",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "m",
+              "value": "Ерлинг Браут Холанд"
+            },
+            {
+              "language": "k",
+              "value": "Ерлинг Браут Холанд"
+            },
+            {
+              "language": "z",
+              "value": "埃尔林·哈兰德"
+            },
+            {
+              "language": "h",
+              "value": "埃尔林·哈兰德"
+            },
+            {
+              "language": "m",
+              "value": "Эрлинг Холанд"
+            },
+            {
+              "language": "n",
+              "value": "Эрлинг Холанд"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "r",
+              "value": "Холанн, Эрлинг"
+            },
+            {
+              "language": "u",
+              "value": "Холанн, Эрлинг"
+            },
+            {
+              "language": "d",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Έρλινγκ Μπράουτ Χόλαντ"
+            },
+            {
+              "language": "l",
+              "value": "Έρλινγκ Μπράουτ Χόλαντ"
+            },
+            {
+              "language": "p",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Haland"
+            },
+            {
+              "language": "l",
+              "value": "Erling Braut Haland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Haaland"
+            },
+            {
+              "language": "j",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "u",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "r",
+              "value": "Холанн, Эрлинг Брёут"
+            },
+            {
+              "language": "u",
+              "value": "Холанн, Эрлинг Брёут"
+            },
+            {
+              "language": "f",
+              "value": "Erling Haland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Haland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "m",
+              "value": "എർലിങ് ഹാലൻഡ്"
+            },
+            {
+              "language": "l",
+              "value": "എർലിങ് ഹാലൻഡ്"
+            },
+            {
+              "language": "u",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "z",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "w",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "c",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "k",
+              "value": "Эрлинг Холанн"
+            },
+            {
+              "language": "y",
+              "value": "Эрлинг Холанн"
+            },
+            {
+              "language": "m",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "a",
+              "value": "Erlinq Braut Haaland"
+            },
+            {
+              "language": "z",
+              "value": "Erlinq Braut Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Haaland"
+            },
+            {
+              "language": "w",
+              "value": "Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "b",
+              "value": "Ерлинг Холанд"
+            },
+            {
+              "language": "g",
+              "value": "Ерлинг Холанд"
+            },
+            {
+              "language": "g",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "k",
+              "value": "엘링 홀란"
+            },
+            {
+              "language": "o",
+              "value": "엘링 홀란"
+            },
+            {
+              "language": "h",
+              "value": "एर्लिंग हालैंड"
+            },
+            {
+              "language": "i",
+              "value": "एर्लिंग हालैंड"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "l",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "o",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "v",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "i",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "c",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "n",
+              "value": "अर्लिङ हल्यान्ड"
+            },
+            {
+              "language": "e",
+              "value": "अर्लिङ हल्यान्ड"
+            },
+            {
+              "language": "f",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Էրլինգ Հոլանդ"
+            },
+            {
+              "language": "y",
+              "value": "Էրլինգ Հոլանդ"
+            },
+            {
+              "language": "d",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "r",
+              "value": "Эрлинг Брёут Холанн"
+            },
+            {
+              "language": "u",
+              "value": "Эрлинг Брёут Холанн"
+            },
+            {
+              "language": "h",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "k",
+              "value": "엘링 브레우트 홀란"
+            },
+            {
+              "language": "o",
+              "value": "엘링 브레우트 홀란"
+            },
+            {
+              "language": "s",
+              "value": "Ерлинг Халанд"
+            },
+            {
+              "language": "r",
+              "value": "Ерлинг Халанд"
+            },
+            {
+              "language": "g",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "a",
+              "value": "আৰ্লিং হালেণ্ড"
+            },
+            {
+              "language": "s",
+              "value": "আৰ্লিং হালেণ্ড"
+            },
+            {
+              "language": "k",
+              "value": "Эрлинг Холанн"
+            },
+            {
+              "language": "k",
+              "value": "Эрлинг Холанн"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "u",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "u",
+              "value": "Ерлінг Браут Голанд"
+            },
+            {
+              "language": "k",
+              "value": "Ерлінг Браут Голанд"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "q",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "k",
+              "value": "엘링 홀란드"
+            },
+            {
+              "language": "o",
+              "value": "엘링 홀란드"
+            },
+            {
+              "language": "i",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Braut Håland"
+            },
+            {
+              "language": "u",
+              "value": "Ерлінґ Голанд"
+            },
+            {
+              "language": "k",
+              "value": "Ерлінґ Голанд"
+            },
+            {
+              "language": "l",
+              "value": "Ērlings Hālands"
+            },
+            {
+              "language": "v",
+              "value": "Ērlings Hālands"
+            },
+            {
+              "language": "z",
+              "value": "埃林·布勞特·赫蘭"
+            },
+            {
+              "language": "h",
+              "value": "埃林·布勞特·赫蘭"
+            },
+            {
+              "language": "c",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "s",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "k",
+              "value": "ერლინგ ჰოლანდი"
+            },
+            {
+              "language": "a",
+              "value": "ერლინგ ჰოლანდი"
+            },
+            {
+              "language": "s",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "k",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Erling Braut Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "r",
+              "value": "Erling Håland"
+            },
+            {
+              "language": "r",
+              "value": "Эрлинг Холанн"
+            },
+            {
+              "language": "u",
+              "value": "Эрлинг Холанн"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "erling.haaland"
+            },
+            "twitter": {
+              "id": "ErlingHaaland"
+            },
+            "imdb": {
+              "id": "nm10994643"
+            },
+            "library_of_congress": {
+              "id": "nb2023008232"
+            }
+          },
+          "citizenship": [
+            "Norway",
+            "United Kingdom"
+          ],
+          "date_of_birth": "2000-07-21",
+          "image": {
+            "url": "https://images.qloo.com/i/5F6E74AC-EF04-48FC-A08F-C5A57FD73DEF-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Norway national under-21 association football team",
+            "Norway national association football team",
+            "Borussia Dortmund",
+            "Molde FK",
+            "Norway national under-20 association football team",
+            "Bryne FK",
+            "Manchester City F.C.",
+            "FC Red Bull Salzburg"
+          ],
+          "work_period_start": "2015-01-01",
+          "short_description": "Norwegian association football player"
+        },
+        "popularity": 0.9860242876246181,
+        "disambiguation": "2000-07-21",
+        "tags": [
+          {
+            "name": "Eliteserien Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eliteserien_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eliteserien_players"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Austrian Football Bundesliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:austrian_football_bundesliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:austrian_football_bundesliga_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany"
+          },
+          {
+            "name": "Norway Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers"
+          },
+          {
+            "name": "Norway Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Fc Red Bull Salzburg Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_red_bull_salzburg_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_red_bull_salzburg_players"
+          },
+          {
+            "name": "Norwegian First Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_first_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_first_division_players"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Molde Fk Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:molde_fk_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:molde_fk_players"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Norwegian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Footballers From Rogaland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_rogaland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_rogaland"
+          },
+          {
+            "name": "Borussia Dortmund Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:borussia_dortmund_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:borussia_dortmund_players"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In Austria",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_austria",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_austria"
+          },
+          {
+            "name": "Footballers From Leeds",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_leeds",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_leeds"
+          },
+          {
+            "name": "Norway Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers"
+          },
+          {
+            "name": "First Division/premier League Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Golden Boy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:golden_boy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:golden_boy_winners"
+          },
+          {
+            "name": "Bundesliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bundesliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bundesliga_players"
+          },
+          {
+            "name": "Norwegian Third Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_third_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_third_division_players"
+          },
+          {
+            "name": "People From Bryne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_bryne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_bryne"
+          },
+          {
+            "name": "Uefa Champions League Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_top_scorers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Austria",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_austria",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_austria"
+          },
+          {
+            "name": "Bryne Fk Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bryne_fk_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bryne_fk_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Norwegian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Deb Haaland",
+        "entity_id": "DFE67170-3CE6-428A-AEA4-D1D97A104B6F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "j",
+              "value": "デブ・ハーランド"
+            },
+            {
+              "language": "a",
+              "value": "デブ・ハーランド"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "w",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "k",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "w",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "z",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "j",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "k",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Деб Холанн"
+            },
+            {
+              "language": "u",
+              "value": "Деб Холанн"
+            },
+            {
+              "language": "f",
+              "value": "دب هالند"
+            },
+            {
+              "language": "a",
+              "value": "دب هالند"
+            },
+            {
+              "language": "v",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "h",
+              "value": "דב האלנד"
+            },
+            {
+              "language": "e",
+              "value": "דב האלנד"
+            },
+            {
+              "language": "k",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Дебра Энн Холанн"
+            },
+            {
+              "language": "u",
+              "value": "Дебра Энн Холанн"
+            },
+            {
+              "language": "b",
+              "value": "ডেব হালান্ড"
+            },
+            {
+              "language": "n",
+              "value": "ডেব হালান্ড"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "y",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "w",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "m",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haalandová"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haalandová"
+            },
+            {
+              "language": "n",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Debra Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Debra Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "a",
+              "value": "ديب هالاند"
+            },
+            {
+              "language": "r",
+              "value": "ديب هالاند"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "y",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "j",
+              "value": "デブラ・アン・ハーランド"
+            },
+            {
+              "language": "a",
+              "value": "デブラ・アン・ハーランド"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "m",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "m",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "q",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Debra Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Debra Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "m",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "g",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "z",
+              "value": "黛布·海蘭德"
+            },
+            {
+              "language": "h",
+              "value": "黛布·海蘭德"
+            },
+            {
+              "language": "f",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "m",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "k",
+              "value": "뎁 할랜드"
+            },
+            {
+              "language": "o",
+              "value": "뎁 할랜드"
+            },
+            {
+              "language": "u",
+              "value": "Деб Хааланд"
+            },
+            {
+              "language": "k",
+              "value": "Деб Хааланд"
+            },
+            {
+              "language": "w",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Debra Anne Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Debra A. Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Debra A. Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Deb Haaland"
+            },
+            {
+              "language": "o",
+              "value": "Deb Haaland"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "repdebhaaland"
+            },
+            "twitter": {
+              "id": "Deb4CongressNM"
+            },
+            "library_of_congress": {
+              "id": "no2020048690"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "Pueblo of Laguna"
+          ],
+          "date_of_birth": "1960-12-02",
+          "image": {
+            "url": "https://images.qloo.com/i/DFE67170-3CE6-428A-AEA4-D1D97A104B6F-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "short_description": "United States Secretary of the Interior since 2021"
+        },
+        "popularity": 0.781427686152575,
+        "disambiguation": "1960-12-02",
+        "tags": [
+          {
+            "name": "21st-century Native American Women",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_native_american_women",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_native_american_women"
+          },
+          {
+            "name": "Women In New Mexico Politics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_in_new_mexico_politics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_in_new_mexico_politics"
+          },
+          {
+            "name": "United States Secretaries Of The Interior",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_secretaries_interior",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_secretaries_interior"
+          },
+          {
+            "name": "21st-century American Women Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_politicians"
+          },
+          {
+            "name": "Businessperson",
+            "tag_id": "urn:tag:occupation:person:businessperson",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:businessperson"
+          },
+          {
+            "name": "Catholics From New Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:catholics_from_new_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:catholics_from_new_mexico"
+          },
+          {
+            "name": "Female Interior Ministers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:female_interior_ministers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:female_interior_ministers"
+          },
+          {
+            "name": "Biden Administration Personnel",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biden_administration_personnel",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biden_administration_personnel"
+          },
+          {
+            "name": "20th-century Native American Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_native_american_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_native_american_politicians"
+          },
+          {
+            "name": "Native American Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_american_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_american_roman_catholics"
+          },
+          {
+            "name": "Native American Members Of The United States Congress",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_american_members_united_states_congress",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_american_members_united_states_congress"
+          },
+          {
+            "name": "Catholics From Arizona",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:catholics_from_arizona",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:catholics_from_arizona"
+          },
+          {
+            "name": "Female Members Of The United States House Of Representatives",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:female_members_united_states_house_representatives",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:female_members_united_states_house_representatives"
+          },
+          {
+            "name": "University Of New Mexico School Of Law Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:university_new_mexico_school_law_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:university_new_mexico_school_law_alumni"
+          },
+          {
+            "name": "21st-century Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_roman_catholics"
+          },
+          {
+            "name": "20th-century Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_roman_catholics"
+          },
+          {
+            "name": "20th-century Native American Women",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_native_american_women",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_native_american_women"
+          },
+          {
+            "name": "People Appearing On C-span",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span"
+          },
+          {
+            "name": "Laguna Pueblo People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:laguna_pueblo_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:laguna_pueblo_people"
+          },
+          {
+            "name": "Biden Administration Cabinet Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biden_administration_cabinet_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biden_administration_cabinet_members"
+          },
+          {
+            "name": "Native American Women In Politics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_american_women_in_politics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_american_women_in_politics"
+          },
+          {
+            "name": "21st-century Native American Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_native_american_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_native_american_politicians"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Native American People From Arizona",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_american_people_from_arizona",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_american_people_from_arizona"
+          },
+          {
+            "name": "American People Of Norwegian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_norwegian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_norwegian_descent"
+          },
+          {
+            "name": "Democratic Party Members Of The United States House Of Representatives From New Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:democratic_party_members_united_states_house_representatives_from_new_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:democratic_party_members_united_states_house_representatives_from_new_mexico"
+          },
+          {
+            "name": "Pueblo People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pueblo_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pueblo_people"
+          },
+          {
+            "name": "People Associated With The 2020 United States Presidential Election",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_associated_2020_united_states_presidential_election",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_associated_2020_united_states_presidential_election"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Women Members Of The Cabinet Of The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_members_cabinet_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_members_cabinet_united_states"
+          },
+          {
+            "name": "Business Executive",
+            "tag_id": "urn:tag:occupation:person:business_executive",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:business_executive"
+          },
+          {
+            "name": "21st-century American Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_politicians"
+          }
+        ]
+      },
+      {
+        "name": "Marthe Wang",
+        "entity_id": "73B331BB-F150-4AA8-A3B7-21C799C474FC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "a",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "a",
+              "value": "مارثي وانغ"
+            },
+            {
+              "language": "r",
+              "value": "مارثي وانغ"
+            },
+            {
+              "language": "n",
+              "value": "Marthe Haaland Wang"
+            },
+            {
+              "language": "b",
+              "value": "Marthe Haaland Wang"
+            },
+            {
+              "language": "n",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "b",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "f",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "r",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "g",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "a",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "n",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "l",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "s",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "q",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "e",
+              "value": "Marthe Haaland Wang"
+            },
+            {
+              "language": "n",
+              "value": "Marthe Haaland Wang"
+            },
+            {
+              "language": "i",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "t",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "s",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "l",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "e",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "s",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "d",
+              "value": "Marthe Wang"
+            },
+            {
+              "language": "a",
+              "value": "Marthe Wang"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "marthewang"
+            },
+            "spotify": {
+              "id": "1C5w8BJZv0qoTGCFiVlfyZ"
+            }
+          },
+          "citizenship": [
+            "Norway"
+          ],
+          "date_of_birth": "1990-10-25",
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "short_description": "musical artist"
+        },
+        "popularity": 0.07558626238027419,
+        "disambiguation": "1990-10-25",
+        "tags": [
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musicians From Bergen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_bergen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_bergen"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "21st-century Norwegian Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_norwegian_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_norwegian_women_singers"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Norwegian Folk Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_folk_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_folk_singers"
+          },
+          {
+            "name": "People Educated At Langhaugen Upper Secondary School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_langhaugen_upper_secondary_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_langhaugen_upper_secondary_school"
+          },
+          {
+            "name": "21st-century Norwegian Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_norwegian_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_norwegian_singers"
+          },
+          {
+            "name": "Norwegian Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_composers"
+          }
+        ]
+      },
+      {
+        "name": "Alf-Inge Haaland",
+        "entity_id": "7457C804-5822-4CD3-B13E-FE088A1E7426",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "h",
+              "value": "אלף-אינגה הולאנד"
+            },
+            {
+              "language": "e",
+              "value": "אלף-אינגה הולאנד"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Haland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Haland"
+            },
+            {
+              "language": "l",
+              "value": "Alfs Inge Holanns"
+            },
+            {
+              "language": "v",
+              "value": "Alfs Inge Holanns"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "t",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "r",
+              "value": "Альф-Инге Расдаль Холанн"
+            },
+            {
+              "language": "u",
+              "value": "Альф-Инге Расдаль Холанн"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "t",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "p",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "t",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "b",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "p",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "j",
+              "value": "アルフ＝インゲ・ハーラント"
+            },
+            {
+              "language": "a",
+              "value": "アルフ＝インゲ・ハーラント"
+            },
+            {
+              "language": "d",
+              "value": "Alfie Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alfie Håland"
+            },
+            {
+              "language": "g",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Alf Inge Haaland"
+            },
+            {
+              "language": "p",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "j",
+              "value": "アルフ＝インゲ・ホランド"
+            },
+            {
+              "language": "a",
+              "value": "アルフ＝インゲ・ホランド"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "q",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "z",
+              "value": "艾利夫-伊利津·夏蘭特"
+            },
+            {
+              "language": "h",
+              "value": "艾利夫-伊利津·夏蘭特"
+            },
+            {
+              "language": "z",
+              "value": "艾利夫·夏蘭特"
+            },
+            {
+              "language": "h",
+              "value": "艾利夫·夏蘭特"
+            },
+            {
+              "language": "i",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "c",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "a",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "i",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "h",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "u",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "f",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Альф-Інґе Голанн"
+            },
+            {
+              "language": "k",
+              "value": "Альф-Інґе Голанн"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "v",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "v",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "g",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "a",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "s",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "d",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "r",
+              "value": "Холанн, Альф-Инге Расдаль"
+            },
+            {
+              "language": "u",
+              "value": "Холанн, Альф-Инге Расдаль"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "a",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "t",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "r",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "d",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "p",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "l",
+              "value": "Alf-Inge Rasdal Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "z",
+              "value": "阿爾夫-因格·哈蘭德"
+            },
+            {
+              "language": "h",
+              "value": "阿爾夫-因格·哈蘭德"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Alf-Inge Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "r",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "j",
+              "value": "アルフ＝インゲ・ハーランド"
+            },
+            {
+              "language": "a",
+              "value": "アルフ＝インゲ・ハーランド"
+            },
+            {
+              "language": "e",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Rasdal Haaland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alf-Inge Håland"
+            },
+            {
+              "language": "f",
+              "value": "آلف-اینگه هولان"
+            },
+            {
+              "language": "a",
+              "value": "آلف-اینگه هولان"
+            },
+            {
+              "language": "k",
+              "value": "알프잉에 홀란"
+            },
+            {
+              "language": "o",
+              "value": "알프잉에 홀란"
+            },
+            {
+              "language": "v",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "i",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "u",
+              "value": "Альф-Інге Голанн"
+            },
+            {
+              "language": "k",
+              "value": "Альф-Інге Голанн"
+            },
+            {
+              "language": "a",
+              "value": "آلف إينغ هالاند"
+            },
+            {
+              "language": "r",
+              "value": "آلف إينغ هالاند"
+            },
+            {
+              "language": "d",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "a",
+              "value": "Alf Inge Håland"
+            },
+            {
+              "language": "n",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "b",
+              "value": "Alfie Haaland"
+            },
+            {
+              "language": "f",
+              "value": "Alf-Inge Haland"
+            },
+            {
+              "language": "r",
+              "value": "Alf-Inge Haland"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm1342606"
+            }
+          },
+          "child": [
+            "Erling Haaland"
+          ],
+          "citizenship": [
+            "Norway"
+          ],
+          "date_of_birth": "1972-11-23",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Norway national under-21 association football team",
+            "Norway national association football team",
+            "Norway national under-17 association football team",
+            "Bryne FK",
+            "Nottingham Forest F.C.",
+            "Leeds United F.C.",
+            "Manchester City F.C.",
+            "Rosseland BK"
+          ],
+          "short_description": "Norwegian association football player (born 1972)"
+        },
+        "disambiguation": "1972-11-23",
+        "tags": [
+          {
+            "name": "Norwegian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Norway Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Bryne Fk Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bryne_fk_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bryne_fk_players"
+          },
+          {
+            "name": "Engvarb From April 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_april_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_april_2022"
+          },
+          {
+            "name": "Leeds United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:leeds_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:leeds_united_f_c_players"
+          },
+          {
+            "name": "Norway Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers"
+          },
+          {
+            "name": "Footballers From Stavanger",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_stavanger",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_stavanger"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Norway Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers"
+          },
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "People From Bryne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_bryne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_bryne"
+          },
+          {
+            "name": "Mens Association Football Fullbacks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_fullbacks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_fullbacks"
+          },
+          {
+            "name": "Norwegian Fourth Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_fourth_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_fourth_division_players"
+          },
+          {
+            "name": "English Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_football_league_players"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "1994 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:1994_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:1994_fifa_world_cup_players"
+          },
+          {
+            "name": "Norwegian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Nottingham Forest F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nottingham_forest_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nottingham_forest_f_c_players"
+          }
+        ]
+      },
+      {
+        "name": "Erling Rønneberg",
+        "entity_id": "528CC3D5-5AC4-4975-B749-76817B379D78",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "z",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "w",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "q",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "j",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "d",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Ronneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Ronneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "w",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "j",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "z",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "d",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "m",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "z",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "z",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "x",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "엘링 뢴네베르그"
+            },
+            {
+              "language": "o",
+              "value": "엘링 뢴네베르그"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "b",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "w",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "p",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "p",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "c",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "j",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "d",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "t",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "d",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "g",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "w",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "f",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "r",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "q",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "n",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "v",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "z",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "u",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "s",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "k",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "i",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "h",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "o",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "e",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "y",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "l",
+              "value": "Erling Rønneberg"
+            },
+            {
+              "language": "a",
+              "value": "Erling Rønneberg"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Norway"
+          ],
+          "date_of_birth": "1923-09-09",
+          "date_of_death": "2008-07-08",
+          "gender": [
+            "male"
+          ],
+          "short_description": "Norwegian politician (1923-2008)"
+        },
+        "disambiguation": "1923-09-09",
+        "tags": [
+          {
+            "name": "Norwegian Mayor Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_mayor_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_mayor_stubs"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Mayors Of Places In Akershus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mayors_places_in_akershus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mayors_places_in_akershus"
+          },
+          {
+            "name": "Holmboe Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:holmboe_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:holmboe_family"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Labour Party (norway) Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:labour_party_norway_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:labour_party_norway_politicians"
+          },
+          {
+            "name": "Norwegian Resistance Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_resistance_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_resistance_members"
+          },
+          {
+            "name": "Politicians From Ålesund",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:politicians_from_alesund",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:politicians_from_alesund"
+          },
+          {
+            "name": "Rønneberg Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ronneberg_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ronneberg_family"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3818 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Liam Lawson",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Liam Lawson",
+        "entity_id": "F7FD7529-7A35-4798-8551-CB98014723E8",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "f",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "d",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "u",
+              "value": "Ліам Ловсон"
+            },
+            {
+              "language": "k",
+              "value": "Ліам Ловсон"
+            },
+            {
+              "language": "g",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "j",
+              "value": "リアム・ローソン"
+            },
+            {
+              "language": "a",
+              "value": "リアム・ローソン"
+            },
+            {
+              "language": "a",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "f",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Лиам Лоусон"
+            },
+            {
+              "language": "u",
+              "value": "Лиам Лоусон"
+            },
+            {
+              "language": "d",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "p",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "v",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "z",
+              "value": "利亚姆·劳森"
+            },
+            {
+              "language": "h",
+              "value": "利亚姆·劳森"
+            },
+            {
+              "language": "e",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "z",
+              "value": "连姆·劳森"
+            },
+            {
+              "language": "h",
+              "value": "连姆·劳森"
+            },
+            {
+              "language": "n",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "b",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Λίαμ Λόσον"
+            },
+            {
+              "language": "l",
+              "value": "Λίαμ Λόσον"
+            },
+            {
+              "language": "r",
+              "value": "Лоусон, Лиам"
+            },
+            {
+              "language": "u",
+              "value": "Лоусон, Лиам"
+            },
+            {
+              "language": "f",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "c",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "a",
+              "value": "ليام لوسون"
+            },
+            {
+              "language": "r",
+              "value": "ليام لوسون"
+            },
+            {
+              "language": "p",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "h",
+              "value": "ליאם לוסון"
+            },
+            {
+              "language": "e",
+              "value": "ליאם לוסון"
+            },
+            {
+              "language": "s",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "q",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "h",
+              "value": "Liam Lawson"
+            },
+            {
+              "language": "u",
+              "value": "Liam Lawson"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "liamlawson30"
+            },
+            "twitter": {
+              "id": "liamlawson30"
+            }
+          },
+          "citizenship": [
+            "New Zealand"
+          ],
+          "date_of_birth": "2002-02-11",
+          "image": {
+            "url": "https://images.qloo.com/i/F7FD7529-7A35-4798-8551-CB98014723E8-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "short_description": "New Zealand motor racing driver"
+        },
+        "popularity": 0.5493199682543134,
+        "disambiguation": "2002-02-11",
+        "tags": [
+          {
+            "name": "Alphatauri Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers"
+          },
+          {
+            "name": "Australian F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_f4_championship_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Motopark Academy Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Toyota Racing Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers"
+          },
+          {
+            "name": "Af Corse Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:af_corse_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:af_corse_drivers"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Super Formula Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_formula_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_formula_drivers"
+          },
+          {
+            "name": "Hitech Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers"
+          },
+          {
+            "name": "Rodin Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rodin_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rodin_motorsport_drivers"
+          },
+          {
+            "name": "M2 Competition Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers"
+          },
+          {
+            "name": "Adac Formula 4 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers"
+          },
+          {
+            "name": "F3 Asian Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:f3_asian_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:f3_asian_championship_drivers"
+          },
+          {
+            "name": "Pinnacle Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pinnacle_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pinnacle_motorsport_drivers"
+          },
+          {
+            "name": "Van Amersfoort Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers"
+          },
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Mp Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mp_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mp_motorsport_drivers"
+          },
+          {
+            "name": "New Zealand Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_zealand_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_zealand_racing_drivers"
+          },
+          {
+            "name": "New Zealand Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_zealand_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_zealand_formula_one_drivers"
+          },
+          {
+            "name": "Formula Ford Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_ford_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_ford_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Mugen Motorsports Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mugen_motorsports_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mugen_motorsports_drivers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          }
+        ]
+      },
+      {
+        "name": "Liam Pane",
+        "entity_id": "8D14B185-0229-46EC-B024-C7B50980DBBF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "w",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "y",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "k",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "m",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Peyn"
+            },
+            {
+              "language": "z",
+              "value": "Liam Peyn"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "z",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "f",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "Ліам Пейн"
+            },
+            {
+              "language": "k",
+              "value": "Ліам Пейн"
+            },
+            {
+              "language": "v",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "m",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "z",
+              "value": "里安·比恩"
+            },
+            {
+              "language": "h",
+              "value": "里安·比恩"
+            },
+            {
+              "language": "a",
+              "value": "ليام باين"
+            },
+            {
+              "language": "r",
+              "value": "ليام باين"
+            },
+            {
+              "language": "r",
+              "value": "Пейн, Лиам"
+            },
+            {
+              "language": "u",
+              "value": "Пейн, Лиам"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "m",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "k",
+              "value": "리엄 페인"
+            },
+            {
+              "language": "o",
+              "value": "리엄 페인"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "k",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "h",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "p",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "f",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "لیام پیئن"
+            },
+            {
+              "language": "r",
+              "value": "لیام پیئن"
+            },
+            {
+              "language": "h",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "q",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "k",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "v",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "p",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "f",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "k",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "w",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "f",
+              "value": "لیام پین"
+            },
+            {
+              "language": "a",
+              "value": "لیام پین"
+            },
+            {
+              "language": "j",
+              "value": "リアム・ペイン"
+            },
+            {
+              "language": "a",
+              "value": "リアム・ペイン"
+            },
+            {
+              "language": "b",
+              "value": "Лиъм Пейн"
+            },
+            {
+              "language": "g",
+              "value": "Лиъм Пейн"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "v",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "h",
+              "value": "ליאם פיין"
+            },
+            {
+              "language": "e",
+              "value": "ליאם פיין"
+            },
+            {
+              "language": "m",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Gulielmus Payne"
+            },
+            {
+              "language": "a",
+              "value": "Gulielmus Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "m",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "h",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Лиам Пейн"
+            },
+            {
+              "language": "u",
+              "value": "Лиам Пейн"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "y",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "k",
+              "value": "ლიამ პეინი"
+            },
+            {
+              "language": "a",
+              "value": "ლიამ პეინი"
+            },
+            {
+              "language": "f",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "z",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "e",
+              "value": "Λίαμ Πέιν"
+            },
+            {
+              "language": "l",
+              "value": "Λίαμ Πέιν"
+            },
+            {
+              "language": "k",
+              "value": "Лиам Пейн"
+            },
+            {
+              "language": "k",
+              "value": "Лиам Пейн"
+            },
+            {
+              "language": "d",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "h",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "w",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "v",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "b",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "k",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "h",
+              "value": "פיינו"
+            },
+            {
+              "language": "e",
+              "value": "פיינו"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "f",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "ليام جيمس باين"
+            },
+            {
+              "language": "r",
+              "value": "ليام جيمس باين"
+            },
+            {
+              "language": "z",
+              "value": "連恩·佩恩"
+            },
+            {
+              "language": "h",
+              "value": "連恩·佩恩"
+            },
+            {
+              "language": "d",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "r",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "v",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "v",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "c",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "m",
+              "value": "ലിയൻ പെയ്ൻ"
+            },
+            {
+              "language": "l",
+              "value": "ലിയൻ പെയ്ൻ"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "e",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "h",
+              "value": "Լիամ Փեյն"
+            },
+            {
+              "language": "y",
+              "value": "Լիամ Փեյն"
+            },
+            {
+              "language": "z",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "t",
+              "value": "เลียม เพย์น"
+            },
+            {
+              "language": "h",
+              "value": "เลียม เพย์น"
+            },
+            {
+              "language": "s",
+              "value": "Лијам Пејн"
+            },
+            {
+              "language": "r",
+              "value": "Лијам Пејн"
+            },
+            {
+              "language": "f",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "w",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "w",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "o",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "u",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "p",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "a",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "g",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "p",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "t",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "l",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "s",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "w",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "n",
+              "value": "लियाम पेन"
+            },
+            {
+              "language": "e",
+              "value": "लियाम पेन"
+            },
+            {
+              "language": "n",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "n",
+              "value": "Liam Payne"
+            },
+            {
+              "language": "i",
+              "value": "Liam James Payne"
+            },
+            {
+              "language": "d",
+              "value": "Liam James Payne"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Liam+Payne"
+            },
+            "instagram": {
+              "id": "liampayne"
+            },
+            "twitter": {
+              "id": "LiamPayne"
+            },
+            "spotify": {
+              "id": "5pUo3fmmHT8bhCyHE52hA6"
+            },
+            "imdb": {
+              "id": "nm3798384"
+            },
+            "library_of_congress": {
+              "id": "no2012116815"
+            },
+            "musicbrainz": {
+              "id": "93ae8651-24ee-406c-b927-eb7cd773ae38"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1993-08-29",
+          "image": {
+            "url": "https://images.qloo.com/i/8D14B185-0229-46EC-B024-C7B50980DBBF-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "guitar",
+            "voice",
+            "piano"
+          ],
+          "work_period_start": "2008-01-01",
+          "short_description": "English singer and songwriter"
+        },
+        "popularity": 0.9996521020645568,
+        "disambiguation": "1993-08-29",
+        "tags": [
+          {
+            "name": "British Contemporary R&b Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_contemporary_r_b_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_contemporary_r_b_singers"
+          },
+          {
+            "name": "People With Attention Deficit Hyperactivity Disorder",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_attention_deficit_hyperactivity_disorder",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_attention_deficit_hyperactivity_disorder"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musicians From The West Midlands (county)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_west_midlands_county",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_west_midlands_county"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "English Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_singers"
+          },
+          {
+            "name": "The X Factor (british Tv Series) Contestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:x_factor_british_tv_series_contestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:x_factor_british_tv_series_contestants"
+          },
+          {
+            "name": "English Male Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_songwriters"
+          },
+          {
+            "name": "Republic Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_records_artists"
+          },
+          {
+            "name": "English Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_pop_singers"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "Capitol Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:capitol_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:capitol_records_artists"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Musicians From Wolverhampton",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_wolverhampton",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_wolverhampton"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "21st-century English Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_singers"
+          },
+          {
+            "name": "Engvarb From April 2020",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_april_2020",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_april_2020"
+          },
+          {
+            "name": "One Direction Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:one_direction_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:one_direction_members"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          }
+        ]
+      },
+      {
+        "name": "Liam Hemsworth",
+        "entity_id": "03B9CF83-140F-4156-86E9-A43EF60B83F4",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "n",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "z",
+              "value": "利亚姆·海姆斯沃斯"
+            },
+            {
+              "language": "h",
+              "value": "利亚姆·海姆斯沃斯"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "u",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "b",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "f",
+              "value": "لیام همسورف"
+            },
+            {
+              "language": "a",
+              "value": "لیام همسورف"
+            },
+            {
+              "language": "d",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "e",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "n",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "m",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "i",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "d",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "c",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "i",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "b",
+              "value": "Лиам Хемсуърт"
+            },
+            {
+              "language": "g",
+              "value": "Лиам Хемсуърт"
+            },
+            {
+              "language": "k",
+              "value": "ლიამ ჰემსვორთი"
+            },
+            {
+              "language": "a",
+              "value": "ლიამ ჰემსვორთი"
+            },
+            {
+              "language": "k",
+              "value": "리엄 헴스워스"
+            },
+            {
+              "language": "o",
+              "value": "리엄 헴스워스"
+            },
+            {
+              "language": "j",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "v",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "k",
+              "value": "Лиам Хемсворт"
+            },
+            {
+              "language": "k",
+              "value": "Лиам Хемсворт"
+            },
+            {
+              "language": "p",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "k",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "v",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "i",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "n",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "e",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "h",
+              "value": "Լիամ Հեմսվորթ"
+            },
+            {
+              "language": "y",
+              "value": "Լիամ Հեմսվորթ"
+            },
+            {
+              "language": "t",
+              "value": "லியம் ஹெம்ஸ்வர்த்"
+            },
+            {
+              "language": "a",
+              "value": "லியம் ஹெம்ஸ்வர்த்"
+            },
+            {
+              "language": "r",
+              "value": "Хемсворт, Лиам"
+            },
+            {
+              "language": "u",
+              "value": "Хемсворт, Лиам"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "r",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "เลียม เฮมส์เวิร์ท"
+            },
+            {
+              "language": "h",
+              "value": "เลียม เฮมส์เวิร์ท"
+            },
+            {
+              "language": "g",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "ليام هيمسورث"
+            },
+            {
+              "language": "r",
+              "value": "ليام هيمسورث"
+            },
+            {
+              "language": "b",
+              "value": "লিয়াম হেমসওয়ার্থ"
+            },
+            {
+              "language": "n",
+              "value": "লিয়াম হেমসওয়ার্থ"
+            },
+            {
+              "language": "e",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "k",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liams Hemsvorts"
+            },
+            {
+              "language": "v",
+              "value": "Liams Hemsvorts"
+            },
+            {
+              "language": "o",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "c",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "r",
+              "value": "Хемсворт, Лайам"
+            },
+            {
+              "language": "u",
+              "value": "Хемсворт, Лайам"
+            },
+            {
+              "language": "f",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "r",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "i",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "h",
+              "value": "ליאם המסוורת'"
+            },
+            {
+              "language": "e",
+              "value": "ליאם המסוורת'"
+            },
+            {
+              "language": "s",
+              "value": "Hemsworth"
+            },
+            {
+              "language": "v",
+              "value": "Hemsworth"
+            },
+            {
+              "language": "z",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "h",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "f",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "i",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Лијам Хемсворт"
+            },
+            {
+              "language": "r",
+              "value": "Лијам Хемсворт"
+            },
+            {
+              "language": "e",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "o",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "e",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "u",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "k",
+              "value": "리암 헴스워스"
+            },
+            {
+              "language": "o",
+              "value": "리암 헴스워스"
+            },
+            {
+              "language": "m",
+              "value": "Лијам Хемсворт"
+            },
+            {
+              "language": "k",
+              "value": "Лијам Хемсворт"
+            },
+            {
+              "language": "j",
+              "value": "リアム・ヘムズワース"
+            },
+            {
+              "language": "a",
+              "value": "リアム・ヘムズワース"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "v",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "f",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "r",
+              "value": "Лиам Хемсворт"
+            },
+            {
+              "language": "u",
+              "value": "Лиам Хемсворт"
+            },
+            {
+              "language": "r",
+              "value": "Лайам Хемсворт"
+            },
+            {
+              "language": "u",
+              "value": "Лайам Хемсворт"
+            },
+            {
+              "language": "e",
+              "value": "Λίαμ Χέμσγουορθ"
+            },
+            {
+              "language": "l",
+              "value": "Λίαμ Χέμσγουορθ"
+            },
+            {
+              "language": "t",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "h",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "c",
+              "value": "William Michael Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "William Michael Hemsworth"
+            },
+            {
+              "language": "g",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "n",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "b",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "c",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "p",
+              "value": "Liam Keith Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Keith Hemsworth"
+            },
+            {
+              "language": "p",
+              "value": "Liam Keith Hemsworth"
+            },
+            {
+              "language": "t",
+              "value": "Liam Keith Hemsworth"
+            },
+            {
+              "language": "u",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "z",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "u",
+              "value": "Ліам Гемсворт"
+            },
+            {
+              "language": "k",
+              "value": "Ліам Гемсворт"
+            },
+            {
+              "language": "s",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "q",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "r",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "o",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "p",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "l",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "h",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "u",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "d",
+              "value": "Liam Hemsworth"
+            },
+            {
+              "language": "a",
+              "value": "Liam Hemsworth"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "liamhemsworth"
+            },
+            "twitter": {
+              "id": "LiamHemsworth"
+            },
+            "imdb": {
+              "id": "nm2955013"
+            },
+            "library_of_congress": {
+              "id": "no2010132494"
+            },
+            "musicbrainz": {
+              "id": "2eaeb451-ee68-4072-b3f8-24c826f1e309"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "1990-01-13",
+          "image": {
+            "url": "https://images.qloo.com/i/03B9CF83-140F-4156-86E9-A43EF60B83F4-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "lifestyle": [
+            "veganism"
+          ],
+          "spouse": [
+            "Miley Cyrus"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "Australian actor (born 1990)"
+        },
+        "popularity": 0.9878724954066601,
+        "disambiguation": "1990-01-13",
+        "tags": [
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Sci-fi",
+            "tag_id": "urn:tag:genre:media:media:sci_fi",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sci_fi"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Australian Expatriate Male Actors In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_expatriate_male_actors_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_expatriate_male_actors_in_united_states"
+          },
+          {
+            "name": "Male Actors From Melbourne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_melbourne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_melbourne"
+          },
+          {
+            "name": "Short",
+            "tag_id": "urn:tag:genre:media:media:short",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:short"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Australian Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_male_television_actors"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Australian Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_male_film_actors"
+          },
+          {
+            "name": "Hemsworth Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hemsworth_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hemsworth_family"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:media:adventure",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adventure"
+          },
+          {
+            "name": "21st-century Australian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_australian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_australian_male_actors"
+          }
+        ]
+      },
+      {
+        "name": "Liam Gallagher",
+        "entity_id": "F6DDEB1F-3F91-4181-80F6-1A531B583986",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Лаям Галлахер"
+            },
+            {
+              "language": "k",
+              "value": "Лаям Галлахер"
+            },
+            {
+              "language": "p",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "n",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "n",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "d",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Лијам Галагер"
+            },
+            {
+              "language": "r",
+              "value": "Лијам Галагер"
+            },
+            {
+              "language": "f",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "r",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "c",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "c",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "l",
+              "value": "Guilielmus Ioannes Paulus Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "Guilielmus Ioannes Paulus Gallagher"
+            },
+            {
+              "language": "e",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "r",
+              "value": "Лиам Галлахер"
+            },
+            {
+              "language": "u",
+              "value": "Лиам Галлахер"
+            },
+            {
+              "language": "r",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "o",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "g",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "v",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "d",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Ліам Галлахер"
+            },
+            {
+              "language": "k",
+              "value": "Ліам Галлахер"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "เลียม แกลลาเกอร์"
+            },
+            {
+              "language": "h",
+              "value": "เลียม แกลลาเกอร์"
+            },
+            {
+              "language": "h",
+              "value": "Լիամ Գալահեր"
+            },
+            {
+              "language": "y",
+              "value": "Լիամ Գալահեր"
+            },
+            {
+              "language": "n",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "l",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "r",
+              "value": "Галлахер Л."
+            },
+            {
+              "language": "u",
+              "value": "Галлахер Л."
+            },
+            {
+              "language": "c",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "d",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "q",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "l",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "j",
+              "value": "リアム・ギャラガー"
+            },
+            {
+              "language": "a",
+              "value": "リアム・ギャラガー"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "q",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "d",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "k",
+              "value": "ლიამ გალაგერი"
+            },
+            {
+              "language": "a",
+              "value": "ლიამ გალაგერი"
+            },
+            {
+              "language": "f",
+              "value": "لیام گلگر"
+            },
+            {
+              "language": "a",
+              "value": "لیام گلگر"
+            },
+            {
+              "language": "p",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "l",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "r",
+              "value": "Галлахер Лиам"
+            },
+            {
+              "language": "u",
+              "value": "Галлахер Лиам"
+            },
+            {
+              "language": "e",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "n",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "k",
+              "value": "리엄 갤러거"
+            },
+            {
+              "language": "o",
+              "value": "리엄 갤러거"
+            },
+            {
+              "language": "j",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "v",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "h",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "William John Paul Liam Gallagher"
+            },
+            {
+              "language": "k",
+              "value": "William John Paul Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "v",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Ліям Галлахер"
+            },
+            {
+              "language": "k",
+              "value": "Ліям Галлахер"
+            },
+            {
+              "language": "b",
+              "value": "Лиъм Галахър"
+            },
+            {
+              "language": "g",
+              "value": "Лиъм Галахър"
+            },
+            {
+              "language": "h",
+              "value": "ליאם גלאגר"
+            },
+            {
+              "language": "e",
+              "value": "ליאם גלאגר"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "l",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "f",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "d",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "e",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "a",
+              "value": "ليام غلاغير"
+            },
+            {
+              "language": "r",
+              "value": "ليام غلاغير"
+            },
+            {
+              "language": "n",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "b",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "e",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "u",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Gallagher"
+            },
+            {
+              "language": "v",
+              "value": "Gallagher"
+            },
+            {
+              "language": "n",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "b",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "r",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "k",
+              "value": "윌리엄 존 폴 갤러거"
+            },
+            {
+              "language": "o",
+              "value": "윌리엄 존 폴 갤러거"
+            },
+            {
+              "language": "e",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "p",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "t",
+              "value": "William John Paul Gallagher"
+            },
+            {
+              "language": "i",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "o",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "s",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "k",
+              "value": "Liam Gallagher"
+            },
+            {
+              "language": "z",
+              "value": "連恩·蓋勒格"
+            },
+            {
+              "language": "h",
+              "value": "連恩·蓋勒格"
+            },
+            {
+              "language": "r",
+              "value": "Гэллахер, Лиам"
+            },
+            {
+              "language": "u",
+              "value": "Гэллахер, Лиам"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "liamgallagher"
+            },
+            "twitter": {
+              "id": "liamgallagher"
+            },
+            "spotify": {
+              "id": "6sN51vEARnAAdBw1IKZ8Q9"
+            },
+            "imdb": {
+              "id": "nm0302427"
+            },
+            "library_of_congress": {
+              "id": "nb2011020632"
+            },
+            "musicbrainz": {
+              "id": "1f2345fa-344e-4863-a1d7-3958d57f4301"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1972-09-21",
+          "image": {
+            "url": "https://images.qloo.com/i/F6DDEB1F-3F91-4181-80F6-1A531B583986-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "guitar",
+            "voice",
+            "maraca"
+          ],
+          "spouse": [
+            "Nicole Appleton",
+            "Patsy Kensit"
+          ],
+          "work_period_start": "1991-01-01",
+          "short_description": "British singer"
+        },
+        "popularity": 0.9836814124656179,
+        "disambiguation": "1972-09-21",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People From Burnage",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_burnage",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_burnage"
+          },
+          {
+            "name": "Labour Party (uk) People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:labour_party_uk_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:labour_party_uk_people"
+          },
+          {
+            "name": "Britpop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:britpop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:britpop_musicians"
+          },
+          {
+            "name": "Oasis (band) Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:oasis_band_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:oasis_band_members"
+          },
+          {
+            "name": "21st-century Drummers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_drummers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_drummers"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Guitarist",
+            "tag_id": "urn:tag:occupation:person:guitarist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:guitarist"
+          },
+          {
+            "name": "English Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_singer_songwriters"
+          },
+          {
+            "name": "English Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_singer_songwriters"
+          },
+          {
+            "name": "Mtv Europe Music Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners"
+          },
+          {
+            "name": "20th-century English Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_singers"
+          },
+          {
+            "name": "Beady Eye Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:beady_eye_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:beady_eye_members"
+          },
+          {
+            "name": "20th-century English Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_singers"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "English People Of Irish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_irish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_irish_descent"
+          },
+          {
+            "name": "Tambourine Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tambourine_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tambourine_players"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "Singers From Manchester",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_manchester",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_manchester"
+          },
+          {
+            "name": "English Rock Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_rock_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_rock_singers"
+          },
+          {
+            "name": "21st-century English Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_singers"
+          },
+          {
+            "name": "Liam Gallagher",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liam_gallagher",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liam_gallagher"
+          },
+          {
+            "name": "21st-century English Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_singers"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          }
+        ]
+      },
+      {
+        "name": "Nigella Lawson",
+        "entity_id": "30F5232C-BD51-4AED-86CE-361C2288177C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "奈潔拉·勞森"
+            },
+            {
+              "language": "h",
+              "value": "奈潔拉·勞森"
+            },
+            {
+              "language": "f",
+              "value": "نایجلا لاوسون"
+            },
+            {
+              "language": "a",
+              "value": "نایجلا لاوسون"
+            },
+            {
+              "language": "c",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "y",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "o",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "g",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "d",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "t",
+              "value": "நிகல்லா லாசன்"
+            },
+            {
+              "language": "a",
+              "value": "நிகல்லா லாசன்"
+            },
+            {
+              "language": "i",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "o",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Найджела Лоусон"
+            },
+            {
+              "language": "u",
+              "value": "Найджела Лоусон"
+            },
+            {
+              "language": "f",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Νιγκέλα Λόσον"
+            },
+            {
+              "language": "l",
+              "value": "Νιγκέλα Λόσον"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "u",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "c",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "g",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "h",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "h",
+              "value": "Նայջելա Լոուսոն"
+            },
+            {
+              "language": "y",
+              "value": "Նայջելա Լոուսոն"
+            },
+            {
+              "language": "r",
+              "value": "Лоусон, Найджела"
+            },
+            {
+              "language": "u",
+              "value": "Лоусон, Найджела"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Најџела Лосон"
+            },
+            {
+              "language": "r",
+              "value": "Најџела Лосон"
+            },
+            {
+              "language": "h",
+              "value": "לוסון, נייג׳לה,"
+            },
+            {
+              "language": "e",
+              "value": "לוסון, נייג׳לה,"
+            },
+            {
+              "language": "p",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "u",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "m",
+              "value": "നിഗെല്ല ലോസൺ"
+            },
+            {
+              "language": "l",
+              "value": "നിഗെല്ല ലോസൺ"
+            },
+            {
+              "language": "k",
+              "value": "ನಿಗೆಲ್ಲ ಲಾಸನ್"
+            },
+            {
+              "language": "n",
+              "value": "ನಿಗೆಲ್ಲ ಲಾಸನ್"
+            },
+            {
+              "language": "s",
+              "value": "Lawson"
+            },
+            {
+              "language": "v",
+              "value": "Lawson"
+            },
+            {
+              "language": "d",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "m",
+              "value": "ഷെഫ് നിഗെല്ല ലോസൺ"
+            },
+            {
+              "language": "l",
+              "value": "ഷെഫ് നിഗെല്ല ലോസൺ"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "v",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "f",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "p",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "c",
+              "value": "Nigella Lawsonová"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawsonová"
+            },
+            {
+              "language": "f",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "o",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "c",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "h",
+              "value": "Նիգելա Լավսոն"
+            },
+            {
+              "language": "y",
+              "value": "Նիգելա Լավսոն"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "q",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella"
+            },
+            {
+              "language": "v",
+              "value": "Nigella"
+            },
+            {
+              "language": "j",
+              "value": "ナイジェラ・ローソン"
+            },
+            {
+              "language": "a",
+              "value": "ナイジェラ・ローソン"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "f",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "f",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "r",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Hon. Nigella Lucy Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Hon. Nigella Lucy Lawson"
+            },
+            {
+              "language": "h",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "u",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "h",
+              "value": "נייג'לה לוסון"
+            },
+            {
+              "language": "e",
+              "value": "נייג'לה לוסון"
+            },
+            {
+              "language": "p",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "l",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "k",
+              "value": "나이젤라 로슨"
+            },
+            {
+              "language": "o",
+              "value": "나이젤라 로슨"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "b",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "i",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "a",
+              "value": "نايجيلا لاوسون"
+            },
+            {
+              "language": "r",
+              "value": "نايجيلا لاوسون"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "e",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "n",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "s",
+              "value": "නයිජෙලා ලෝසන්"
+            },
+            {
+              "language": "i",
+              "value": "නයිජෙලා ලෝසන්"
+            },
+            {
+              "language": "p",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "t",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "d",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "a",
+              "value": "Nigella Lawson"
+            },
+            {
+              "language": "b",
+              "value": "নাইজেলা লসন"
+            },
+            {
+              "language": "n",
+              "value": "নাইজেলা লসন"
+            },
+            {
+              "language": "c",
+              "value": "Nigella Lucy Lawson"
+            },
+            {
+              "language": "s",
+              "value": "Nigella Lucy Lawson"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "nigellalawson"
+            },
+            "twitter": {
+              "id": "Nigella_Lawson"
+            },
+            "imdb": {
+              "id": "nm0991861"
+            },
+            "library_of_congress": {
+              "id": "n96070313"
+            }
+          },
+          "child": [
+            "Cosima Thomasina Diamond",
+            "Bruno Paul Nigel Diamond"
+          ],
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1960-01-06",
+          "image": {
+            "url": "https://images.qloo.com/i/30F5232C-BD51-4AED-86CE-361C2288177C-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "spouse": [
+            "John Diamond",
+            "Charles Saatchi"
+          ],
+          "work_period_start": "1983-01-01",
+          "short_description": "English food writer and television cook (born 1960)"
+        },
+        "popularity": 0.9822191539557082,
+        "disambiguation": "1960-01-06",
+        "tags": [
+          {
+            "name": "British Gastronomes",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_gastronomes",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_gastronomes"
+          },
+          {
+            "name": "21st-century Atheists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_atheists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_atheists"
+          },
+          {
+            "name": "20th-century Atheists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_atheists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_atheists"
+          },
+          {
+            "name": "English People Of Latvian-jewish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_latvian_jewish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_latvian_jewish_descent"
+          },
+          {
+            "name": "Cooking",
+            "tag_id": "urn:tag:genre:media:media:cooking",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cooking"
+          },
+          {
+            "name": "Jewish Atheists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jewish_atheists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jewish_atheists"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "English Journalists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_journalists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_journalists"
+          },
+          {
+            "name": "People From Wandsworth",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_wandsworth",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_wandsworth"
+          },
+          {
+            "name": "People Educated At Godolphin And Latymer School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_godolphin_latymer_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_godolphin_latymer_school"
+          },
+          {
+            "name": "English Jews",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_jews",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_jews"
+          },
+          {
+            "name": "Writers From The London Borough Of Wandsworth",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_from_london_borough_wandsworth",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_from_london_borough_wandsworth"
+          },
+          {
+            "name": "Food and drink",
+            "tag_id": "urn:tag:genre:media:media:food_drink",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:food_drink"
+          },
+          {
+            "name": "Culinary",
+            "tag_id": "urn:tag:genre:media:media:culinary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:culinary"
+          },
+          {
+            "name": "English Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_presenters"
+          },
+          {
+            "name": "English Atheists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_atheists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_atheists"
+          },
+          {
+            "name": "20th-century British Women Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_british_women_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_british_women_writers"
+          },
+          {
+            "name": "English People Of Dutch-jewish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_dutch_jewish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_dutch_jewish_descent"
+          },
+          {
+            "name": "English Food Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_food_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_food_writers"
+          },
+          {
+            "name": "English Television Chefs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_chefs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_chefs"
+          },
+          {
+            "name": "English People Of Dutch Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_dutch_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_dutch_descent"
+          },
+          {
+            "name": "English People Of German-jewish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_german_jewish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_german_jewish_descent"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Food Network Chefs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:food_network_chefs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:food_network_chefs"
+          },
+          {
+            "name": "21st-century British Women Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_british_women_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_british_women_writers"
+          },
+          {
+            "name": "Cookbooks",
+            "tag_id": "urn:tag:genre:media:media:cookbooks",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cookbooks"
+          },
+          {
+            "name": "Jewish Women Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jewish_women_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jewish_women_writers"
+          },
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:occupation:person:journalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:journalist"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Foodie",
+            "tag_id": "urn:tag:genre:media:media:foodie",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:foodie"
+          },
+          {
+            "name": "Saatchi Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:saatchi_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:saatchi_family"
+          },
+          {
+            "name": "Salmon Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:salmon_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:salmon_family"
+          },
+          {
+            "name": "English Broadcasters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_broadcasters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_broadcasters"
+          },
+          {
+            "name": "The Sunday Times People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sunday_times_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sunday_times_people"
+          },
+          {
+            "name": "Daughters Of Life Peers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:daughters_life_peers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:daughters_life_peers"
+          },
+          {
+            "name": "British Restaurant Critics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_restaurant_critics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_restaurant_critics"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "British Book Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_book_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_book_award_winners"
+          },
+          {
+            "name": "21st-century British Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_british_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_british_non_fiction_writers"
+          },
+          {
+            "name": "20th-century British Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_british_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_british_non_fiction_writers"
+          }
+        ]
+      }
+    ]
+  }
+}

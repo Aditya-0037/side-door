@@ -1,0 +1,2880 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Son Heung-min",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Son Heung-min",
+        "entity_id": "997086F0-39C4-4675-8797-8B2FFB1ABC40",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "j",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "v",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "n",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "b",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "d",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "r",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "u",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "u",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "z",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "e",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "m",
+              "value": "सोन हेंग-मिन"
+            },
+            {
+              "language": "r",
+              "value": "सोन हेंग-मिन"
+            },
+            {
+              "language": "m",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "m",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "g",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "n",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "l",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Сон Һың-мин"
+            },
+            {
+              "language": "t",
+              "value": "Сон Һың-мин"
+            },
+            {
+              "language": "z",
+              "value": "孙兴敏"
+            },
+            {
+              "language": "h",
+              "value": "孙兴敏"
+            },
+            {
+              "language": "z",
+              "value": "孙兴慜"
+            },
+            {
+              "language": "h",
+              "value": "孙兴慜"
+            },
+            {
+              "language": "c",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "a",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "b",
+              "value": "সোন হুং মিন"
+            },
+            {
+              "language": "n",
+              "value": "সোন হুং মিন"
+            },
+            {
+              "language": "e",
+              "value": "Σον Χιουνγκ-μιν"
+            },
+            {
+              "language": "l",
+              "value": "Σον Χιουνγκ-μιν"
+            },
+            {
+              "language": "c",
+              "value": "Son Hung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Hung-min"
+            },
+            {
+              "language": "t",
+              "value": "ซน ฮึง-มิน"
+            },
+            {
+              "language": "h",
+              "value": "ซน ฮึง-มิน"
+            },
+            {
+              "language": "r",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "o",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "j",
+              "value": "ソン・フンミン"
+            },
+            {
+              "language": "a",
+              "value": "ソン・フンミン"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "v",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "c",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "y",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "f",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "e",
+              "value": "Son Heungmin"
+            },
+            {
+              "language": "n",
+              "value": "Son Heungmin"
+            },
+            {
+              "language": "d",
+              "value": "Son Heungmin"
+            },
+            {
+              "language": "e",
+              "value": "Son Heungmin"
+            },
+            {
+              "language": "d",
+              "value": "H M Son"
+            },
+            {
+              "language": "e",
+              "value": "H M Son"
+            },
+            {
+              "language": "k",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "k",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "e",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "u",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "w",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "r",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "j",
+              "value": "孫興慜"
+            },
+            {
+              "language": "a",
+              "value": "孫興慜"
+            },
+            {
+              "language": "e",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "u",
+              "value": "Сон Хин Мін"
+            },
+            {
+              "language": "k",
+              "value": "Сон Хин Мін"
+            },
+            {
+              "language": "d",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "e",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "சொன் எயுங்-மின்"
+            },
+            {
+              "language": "a",
+              "value": "சொன் எயுங்-மின்"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "k",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "m",
+              "value": "Сон Хеунг-мин"
+            },
+            {
+              "language": "k",
+              "value": "Сон Хеунг-мин"
+            },
+            {
+              "language": "h",
+              "value": "Szon Hungmin"
+            },
+            {
+              "language": "u",
+              "value": "Szon Hungmin"
+            },
+            {
+              "language": "e",
+              "value": "H M Son"
+            },
+            {
+              "language": "n",
+              "value": "H M Son"
+            },
+            {
+              "language": "n",
+              "value": "Son Heung-Min"
+            },
+            {
+              "language": "l",
+              "value": "Son Heung-Min"
+            },
+            {
+              "language": "n",
+              "value": "손 흥민"
+            },
+            {
+              "language": "l",
+              "value": "손 흥민"
+            },
+            {
+              "language": "a",
+              "value": "سون"
+            },
+            {
+              "language": "r",
+              "value": "سون"
+            },
+            {
+              "language": "h",
+              "value": "סון יונג-מין"
+            },
+            {
+              "language": "e",
+              "value": "סון יונג-מין"
+            },
+            {
+              "language": "d",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "a",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "b",
+              "value": "Сон Хюн-мин"
+            },
+            {
+              "language": "g",
+              "value": "Сон Хюн-мин"
+            },
+            {
+              "language": "j",
+              "value": "孫興民"
+            },
+            {
+              "language": "a",
+              "value": "孫興民"
+            },
+            {
+              "language": "v",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "o",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "b",
+              "value": "Сон Хын Мін"
+            },
+            {
+              "language": "e",
+              "value": "Сон Хын Мін"
+            },
+            {
+              "language": "s",
+              "value": "Сон Хеунг-мин"
+            },
+            {
+              "language": "r",
+              "value": "Сон Хеунг-мин"
+            },
+            {
+              "language": "m",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "n",
+              "value": "Сон Хын Мин"
+            },
+            {
+              "language": "l",
+              "value": "Sons Hinmins"
+            },
+            {
+              "language": "v",
+              "value": "Sons Hinmins"
+            },
+            {
+              "language": "p",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "l",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "h",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "r",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "d",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "e",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "z",
+              "value": "孫興慜"
+            },
+            {
+              "language": "h",
+              "value": "孫興慜"
+            },
+            {
+              "language": "n",
+              "value": "सन ह्युङ-मिन"
+            },
+            {
+              "language": "e",
+              "value": "सन ह्युङ-मिन"
+            },
+            {
+              "language": "r",
+              "value": "Юн Мин Сон"
+            },
+            {
+              "language": "u",
+              "value": "Юн Мин Сон"
+            },
+            {
+              "language": "k",
+              "value": "სონ ჰინ მინი"
+            },
+            {
+              "language": "a",
+              "value": "სონ ჰინ მინი"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "l",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "p",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "t",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "a",
+              "value": "سون هيونغ مين"
+            },
+            {
+              "language": "r",
+              "value": "سون هيونغ مين"
+            },
+            {
+              "language": "f",
+              "value": "سون هیونگ مین"
+            },
+            {
+              "language": "a",
+              "value": "سون هیونگ مین"
+            },
+            {
+              "language": "b",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "h",
+              "value": "Սոն Հին Մին"
+            },
+            {
+              "language": "y",
+              "value": "Սոն Հին Մին"
+            },
+            {
+              "language": "i",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "s",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "k",
+              "value": "손흥민"
+            },
+            {
+              "language": "o",
+              "value": "손흥민"
+            },
+            {
+              "language": "e",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "n",
+              "value": "Heung-Min Son"
+            },
+            {
+              "language": "f",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "o",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "f",
+              "value": "Son Heung-min"
+            },
+            {
+              "language": "r",
+              "value": "Son Heung-min"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "hm_son7"
+            },
+            "twitter": {
+              "id": "Sonny7"
+            },
+            "library_of_congress": {
+              "id": "no2019076561"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1992-07-08",
+          "image": {
+            "url": "https://images.qloo.com/i/997086F0-39C4-4675-8797-8B2FFB1ABC40-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Bayer 04 Leverkusen",
+            "South Korea national under-17 football team",
+            "Hamburger SV",
+            "South Korea national football team",
+            "Tottenham Hotspur F.C."
+          ],
+          "work_period_start": "2010-01-01",
+          "short_description": "South Korean association football player"
+        },
+        "popularity": 0.99004685750318,
+        "disambiguation": "1992-07-08",
+        "tags": [
+          {
+            "name": "South Korea Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korea_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korea_mens_international_footballers"
+          },
+          {
+            "name": "Best Footballer In Asia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:best_footballer_in_asia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:best_footballer_in_asia"
+          },
+          {
+            "name": "Hamburger Sv Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hamburger_sv_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hamburger_sv_players"
+          },
+          {
+            "name": "South Korean Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_mens_footballers"
+          },
+          {
+            "name": "Miryang Son Clan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:miryang_son_clan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:miryang_son_clan"
+          },
+          {
+            "name": "South Korea Mens Under-23 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korea_mens_under_23_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korea_mens_under_23_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "2023 Afc Asian Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2023_afc_asian_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2023_afc_asian_cup_players"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Bayer 04 Leverkusen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bayer_04_leverkusen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bayer_04_leverkusen_players"
+          },
+          {
+            "name": "2011 Afc Asian Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2011_afc_asian_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2011_afc_asian_cup_players"
+          },
+          {
+            "name": "South Korean Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Bundesliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bundesliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bundesliga_players"
+          },
+          {
+            "name": "South Korean Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_mens_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "South Korea Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korea_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korea_mens_youth_international_footballers"
+          },
+          {
+            "name": "Fifa Mens Century Club",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club"
+          },
+          {
+            "name": "Footballers At The 2018 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2018_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2018_asian_games"
+          },
+          {
+            "name": "Asian Games Gold Medalists For South Korea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_gold_medalists_south_korea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_gold_medalists_south_korea"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany"
+          },
+          {
+            "name": "Medalists At The 2018 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2018_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2018_asian_games"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Olympic Footballers For South Korea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_south_korea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_south_korea"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Mens Association Football Wingers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers"
+          },
+          {
+            "name": "Footballers At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics"
+          },
+          {
+            "name": "Regionalliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:regionalliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:regionalliga_players"
+          },
+          {
+            "name": "Tottenham Hotspur F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tottenham_hotspur_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tottenham_hotspur_f_c_players"
+          },
+          {
+            "name": "Asian Games Medalists In Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_football"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Hamburger Sv Ii Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hamburger_sv_ii_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hamburger_sv_ii_players"
+          },
+          {
+            "name": "Sportspeople From Chuncheon",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_chuncheon",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_chuncheon"
+          },
+          {
+            "name": "Engvarb From February 2020",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2020",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2020"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "2014 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players"
+          },
+          {
+            "name": "South Korean Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "First Division/premier League Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers"
+          },
+          {
+            "name": "2015 Afc Asian Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2015_afc_asian_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2015_afc_asian_cup_players"
+          },
+          {
+            "name": "2019 Afc Asian Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_afc_asian_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_afc_asian_cup_players"
+          }
+        ]
+      },
+      {
+        "name": "Song Min-ho",
+        "entity_id": "3C3AA372-0252-4CF8-9281-2552376DFD38",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Mino"
+            },
+            {
+              "language": "l",
+              "value": "Mino"
+            },
+            {
+              "language": "e",
+              "value": "Μιν-χο Σονγκ"
+            },
+            {
+              "language": "l",
+              "value": "Μιν-χο Σονγκ"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "k",
+              "value": "MINO"
+            },
+            {
+              "language": "o",
+              "value": "MINO"
+            },
+            {
+              "language": "e",
+              "value": "Minho"
+            },
+            {
+              "language": "n",
+              "value": "Minho"
+            },
+            {
+              "language": "s",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "q",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "e",
+              "value": "Mino"
+            },
+            {
+              "language": "s",
+              "value": "Mino"
+            },
+            {
+              "language": "p",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "t",
+              "value": "มีโน"
+            },
+            {
+              "language": "h",
+              "value": "มีโน"
+            },
+            {
+              "language": "e",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "s",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "d",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "d",
+              "value": "Mino"
+            },
+            {
+              "language": "e",
+              "value": "Mino"
+            },
+            {
+              "language": "t",
+              "value": "Mino (rapçi)"
+            },
+            {
+              "language": "r",
+              "value": "Mino (rapçi)"
+            },
+            {
+              "language": "v",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "e",
+              "value": "Σονγκ Μιν-χο"
+            },
+            {
+              "language": "l",
+              "value": "Σονγκ Μιν-χο"
+            },
+            {
+              "language": "z",
+              "value": "宋閔浩"
+            },
+            {
+              "language": "h",
+              "value": "宋閔浩"
+            },
+            {
+              "language": "p",
+              "value": "Mino"
+            },
+            {
+              "language": "t",
+              "value": "Mino"
+            },
+            {
+              "language": "f",
+              "value": "Mino"
+            },
+            {
+              "language": "r",
+              "value": "Mino"
+            },
+            {
+              "language": "f",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "r",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "m",
+              "value": "Сун Минь-Ху"
+            },
+            {
+              "language": "n",
+              "value": "Сун Минь-Ху"
+            },
+            {
+              "language": "i",
+              "value": "Song Mino"
+            },
+            {
+              "language": "d",
+              "value": "Song Mino"
+            },
+            {
+              "language": "k",
+              "value": "미노"
+            },
+            {
+              "language": "o",
+              "value": "미노"
+            },
+            {
+              "language": "k",
+              "value": "송민호"
+            },
+            {
+              "language": "o",
+              "value": "송민호"
+            },
+            {
+              "language": "r",
+              "value": "Mino (рэпер)"
+            },
+            {
+              "language": "u",
+              "value": "Mino (рэпер)"
+            },
+            {
+              "language": "e",
+              "value": "Minho"
+            },
+            {
+              "language": "s",
+              "value": "Minho"
+            },
+            {
+              "language": "j",
+              "value": "ソン・ミンホ"
+            },
+            {
+              "language": "a",
+              "value": "ソン・ミンホ"
+            },
+            {
+              "language": "i",
+              "value": "Minho"
+            },
+            {
+              "language": "d",
+              "value": "Minho"
+            },
+            {
+              "language": "d",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "e",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "a",
+              "value": "سونغ من هو"
+            },
+            {
+              "language": "r",
+              "value": "سونغ من هو"
+            },
+            {
+              "language": "e",
+              "value": "Mino"
+            },
+            {
+              "language": "n",
+              "value": "Mino"
+            },
+            {
+              "language": "i",
+              "value": "Mino"
+            },
+            {
+              "language": "d",
+              "value": "Mino"
+            },
+            {
+              "language": "e",
+              "value": "Song Mino"
+            },
+            {
+              "language": "s",
+              "value": "Song Mino"
+            },
+            {
+              "language": "n",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "l",
+              "value": "Song Min-ho"
+            },
+            {
+              "language": "k",
+              "value": "위너 미노"
+            },
+            {
+              "language": "o",
+              "value": "위너 미노"
+            },
+            {
+              "language": "h",
+              "value": "Սոն Մին Հո (ռեփեր)"
+            },
+            {
+              "language": "y",
+              "value": "Սոն Մին Հո (ռեփեր)"
+            },
+            {
+              "language": "f",
+              "value": "مینو"
+            },
+            {
+              "language": "a",
+              "value": "مینو"
+            },
+            {
+              "language": "e",
+              "value": "Winner's Mino"
+            },
+            {
+              "language": "n",
+              "value": "Winner's Mino"
+            },
+            {
+              "language": "k",
+              "value": "위너 송민호"
+            },
+            {
+              "language": "o",
+              "value": "위너 송민호"
+            },
+            {
+              "language": "f",
+              "value": "سونگ مین-هو"
+            },
+            {
+              "language": "a",
+              "value": "سونگ مین-هو"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "MINO"
+            },
+            "instagram": {
+              "id": "realllllmino"
+            },
+            "twitter": {
+              "id": "official_mino_"
+            },
+            "imdb": {
+              "id": "nm7235059"
+            },
+            "musicbrainz": {
+              "id": "1240c7b3-e26f-425e-8fdc-d9398304c703"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1993-03-30",
+          "image": {
+            "url": "https://images.qloo.com/i/3C3AA372-0252-4CF8-9281-2552376DFD38-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2011-01-01",
+          "short_description": "South Korean rapper"
+        },
+        "popularity": 0.9870136223785347,
+        "disambiguation": "1993-03-30",
+        "tags": [
+          {
+            "name": "Record Producer",
+            "tag_id": "urn:tag:occupation:person:record_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:record_producer"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Winner (band) Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:winner_band_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:winner_band_members"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "Show Me The Money (south Korean Tv Series) Contestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:show_me_money_south_korean_tv_series_contestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:show_me_money_south_korean_tv_series_contestants"
+          },
+          {
+            "name": "South Korean Male Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_pop_singers"
+          },
+          {
+            "name": "Rapper",
+            "tag_id": "urn:tag:occupation:person:rapper",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rapper"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Hanlim Multi Art School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hanlim_multi_art_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hanlim_multi_art_school_alumni"
+          },
+          {
+            "name": "People From Yongin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_yongin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_yongin"
+          },
+          {
+            "name": "South Korean Male Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_rappers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "21st-century South Korean Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_south_korean_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_south_korean_singers"
+          },
+          {
+            "name": "South Korean Male Idols",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_idols",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_idols"
+          },
+          {
+            "name": "Dj Producer",
+            "tag_id": "urn:tag:occupation:person:dj_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dj_producer"
+          },
+          {
+            "name": "Yg Entertainment Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:yg_entertainment_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:yg_entertainment_artists"
+          },
+          {
+            "name": "South Korean Hip Hop Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_hip_hop_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_hip_hop_record_producers"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Musicians From Gyeonggi Province",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_gyeonggi_province",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_gyeonggi_province"
+          },
+          {
+            "name": "South Korean Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_television_personalities"
+          }
+        ]
+      },
+      {
+        "name": "Hyomin",
+        "entity_id": "B1C4C07C-70F5-4F24-A788-EDD5BCAAC323",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "g",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "v",
+              "value": "Hyomin"
+            },
+            {
+              "language": "i",
+              "value": "Hyomin"
+            },
+            {
+              "language": "u",
+              "value": "Hyomin"
+            },
+            {
+              "language": "z",
+              "value": "Hyomin"
+            },
+            {
+              "language": "e",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "n",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "f",
+              "value": "Hyomin"
+            },
+            {
+              "language": "r",
+              "value": "Hyomin"
+            },
+            {
+              "language": "g",
+              "value": "Hyomin"
+            },
+            {
+              "language": "a",
+              "value": "Hyomin"
+            },
+            {
+              "language": "s",
+              "value": "Hyomin"
+            },
+            {
+              "language": "v",
+              "value": "Hyomin"
+            },
+            {
+              "language": "z",
+              "value": "朴孝敏"
+            },
+            {
+              "language": "h",
+              "value": "朴孝敏"
+            },
+            {
+              "language": "f",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "r",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "z",
+              "value": "Hyomin"
+            },
+            {
+              "language": "u",
+              "value": "Hyomin"
+            },
+            {
+              "language": "d",
+              "value": "Pak Sŏnyŏng"
+            },
+            {
+              "language": "e",
+              "value": "Pak Sŏnyŏng"
+            },
+            {
+              "language": "p",
+              "value": "Hyomin"
+            },
+            {
+              "language": "l",
+              "value": "Hyomin"
+            },
+            {
+              "language": "k",
+              "value": "박선영"
+            },
+            {
+              "language": "o",
+              "value": "박선영"
+            },
+            {
+              "language": "e",
+              "value": "Hyomin"
+            },
+            {
+              "language": "s",
+              "value": "Hyomin"
+            },
+            {
+              "language": "e",
+              "value": "Hyo-min"
+            },
+            {
+              "language": "n",
+              "value": "Hyo-min"
+            },
+            {
+              "language": "p",
+              "value": "Hyomin"
+            },
+            {
+              "language": "t",
+              "value": "Hyomin"
+            },
+            {
+              "language": "h",
+              "value": "Հյոմին"
+            },
+            {
+              "language": "y",
+              "value": "Հյոմին"
+            },
+            {
+              "language": "h",
+              "value": "Hjomin"
+            },
+            {
+              "language": "u",
+              "value": "Hjomin"
+            },
+            {
+              "language": "s",
+              "value": "Hyomin"
+            },
+            {
+              "language": "q",
+              "value": "Hyomin"
+            },
+            {
+              "language": "k",
+              "value": "박효민"
+            },
+            {
+              "language": "o",
+              "value": "박효민"
+            },
+            {
+              "language": "a",
+              "value": "هيومين"
+            },
+            {
+              "language": "r",
+              "value": "هيومين"
+            },
+            {
+              "language": "j",
+              "value": "ヒョミン"
+            },
+            {
+              "language": "a",
+              "value": "ヒョミン"
+            },
+            {
+              "language": "t",
+              "value": "Park Sun Young"
+            },
+            {
+              "language": "l",
+              "value": "Park Sun Young"
+            },
+            {
+              "language": "i",
+              "value": "Park Sun-young"
+            },
+            {
+              "language": "g",
+              "value": "Park Sun-young"
+            },
+            {
+              "language": "b",
+              "value": "হাইয়োমিন"
+            },
+            {
+              "language": "n",
+              "value": "হাইয়োমিন"
+            },
+            {
+              "language": "e",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "n",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "k",
+              "value": "효민"
+            },
+            {
+              "language": "o",
+              "value": "효민"
+            },
+            {
+              "language": "s",
+              "value": "Hyomin"
+            },
+            {
+              "language": "u",
+              "value": "Hyomin"
+            },
+            {
+              "language": "i",
+              "value": "Hyo-min"
+            },
+            {
+              "language": "g",
+              "value": "Hyo-min"
+            },
+            {
+              "language": "d",
+              "value": "Hyomin"
+            },
+            {
+              "language": "e",
+              "value": "Hyomin"
+            },
+            {
+              "language": "t",
+              "value": "Hyomin"
+            },
+            {
+              "language": "r",
+              "value": "Hyomin"
+            },
+            {
+              "language": "n",
+              "value": "Hyomin"
+            },
+            {
+              "language": "l",
+              "value": "Hyomin"
+            },
+            {
+              "language": "f",
+              "value": "Hyomin"
+            },
+            {
+              "language": "i",
+              "value": "Hyomin"
+            },
+            {
+              "language": "i",
+              "value": "Hyomin"
+            },
+            {
+              "language": "g",
+              "value": "Hyomin"
+            },
+            {
+              "language": "j",
+              "value": "Hyomin"
+            },
+            {
+              "language": "v",
+              "value": "Hyomin"
+            },
+            {
+              "language": "t",
+              "value": "ฮโยมิน"
+            },
+            {
+              "language": "h",
+              "value": "ฮโยมิน"
+            },
+            {
+              "language": "f",
+              "value": "هیومین"
+            },
+            {
+              "language": "a",
+              "value": "هیومین"
+            },
+            {
+              "language": "v",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "i",
+              "value": "Hyo Min"
+            },
+            {
+              "language": "e",
+              "value": "Park Sun-young"
+            },
+            {
+              "language": "n",
+              "value": "Park Sun-young"
+            },
+            {
+              "language": "i",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "g",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "d",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "e",
+              "value": "Bak Seon-yeong"
+            },
+            {
+              "language": "r",
+              "value": "Хёмин"
+            },
+            {
+              "language": "u",
+              "value": "Хёмин"
+            },
+            {
+              "language": "k",
+              "value": "티아라 효민"
+            },
+            {
+              "language": "o",
+              "value": "티아라 효민"
+            },
+            {
+              "language": "i",
+              "value": "Hyomin"
+            },
+            {
+              "language": "d",
+              "value": "Hyomin"
+            },
+            {
+              "language": "k",
+              "value": "효　민"
+            },
+            {
+              "language": "o",
+              "value": "효　민"
+            },
+            {
+              "language": "m",
+              "value": "Hyomin"
+            },
+            {
+              "language": "s",
+              "value": "Hyomin"
+            },
+            {
+              "language": "i",
+              "value": "Hyomin"
+            },
+            {
+              "language": "t",
+              "value": "Hyomin"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "%ED%9A%A8%EB%AF%BC"
+            },
+            "instagram": {
+              "id": "hyominnn"
+            },
+            "twitter": {
+              "id": "b89530"
+            },
+            "imdb": {
+              "id": "nm4744835"
+            },
+            "musicbrainz": {
+              "id": "0e14f892-a0ee-43f0-90ed-839045f89ac2"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1989-05-30",
+          "image": {
+            "url": "https://images.qloo.com/i/B1C4C07C-70F5-4F24-A788-EDD5BCAAC323-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "South Korean singer and actress"
+        },
+        "popularity": 0.973021602287429,
+        "disambiguation": "1989-05-30",
+        "tags": [
+          {
+            "name": "South Korean Women Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_women_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_women_pop_singers"
+          },
+          {
+            "name": "South Korean Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_television_actresses"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "K-pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:k_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:k_pop_singers"
+          },
+          {
+            "name": "Sungkyunkwan University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sungkyunkwan_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sungkyunkwan_university_alumni"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "Singers From Busan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_busan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_busan"
+          },
+          {
+            "name": "South Korean Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_television_personalities"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "South Korean Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_film_actresses"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Film Director",
+            "tag_id": "urn:tag:occupation:person:film_director",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_director"
+          },
+          {
+            "name": "Actresses From Busan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_busan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_busan"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "South Korean Female Idols",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_female_idols",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_female_idols"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "T-ara Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:t_ara_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:t_ara_members"
+          }
+        ]
+      },
+      {
+        "name": "Lee Sungmin",
+        "entity_id": "B6C612EB-5F5B-4A8C-B34B-6C8408F36D5C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Lee Seong-min"
+            },
+            {
+              "language": "n",
+              "value": "Lee Seong-min"
+            },
+            {
+              "language": "e",
+              "value": "Lee Seongmin"
+            },
+            {
+              "language": "n",
+              "value": "Lee Seongmin"
+            },
+            {
+              "language": "e",
+              "value": "Sungmin"
+            },
+            {
+              "language": "s",
+              "value": "Sungmin"
+            },
+            {
+              "language": "s",
+              "value": "이성민"
+            },
+            {
+              "language": "k",
+              "value": "이성민"
+            },
+            {
+              "language": "z",
+              "value": "晟敏"
+            },
+            {
+              "language": "h",
+              "value": "晟敏"
+            },
+            {
+              "language": "a",
+              "value": "إي سونغ من"
+            },
+            {
+              "language": "r",
+              "value": "إي سونغ من"
+            },
+            {
+              "language": "e",
+              "value": "Seongmin"
+            },
+            {
+              "language": "n",
+              "value": "Seongmin"
+            },
+            {
+              "language": "t",
+              "value": "ซองมิน"
+            },
+            {
+              "language": "h",
+              "value": "ซองมิน"
+            },
+            {
+              "language": "d",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "e",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "f",
+              "value": "لی سونگ مین"
+            },
+            {
+              "language": "a",
+              "value": "لی سونگ مین"
+            },
+            {
+              "language": "s",
+              "value": "I Song-min"
+            },
+            {
+              "language": "k",
+              "value": "I Song-min"
+            },
+            {
+              "language": "g",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "a",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "s",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "u",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "k",
+              "value": "성민"
+            },
+            {
+              "language": "o",
+              "value": "성민"
+            },
+            {
+              "language": "j",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "v",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "n",
+              "value": "Sungmin"
+            },
+            {
+              "language": "l",
+              "value": "Sungmin"
+            },
+            {
+              "language": "v",
+              "value": "Sungmin"
+            },
+            {
+              "language": "i",
+              "value": "Sungmin"
+            },
+            {
+              "language": "s",
+              "value": "李晟敏"
+            },
+            {
+              "language": "k",
+              "value": "李晟敏"
+            },
+            {
+              "language": "j",
+              "value": "ソンミン"
+            },
+            {
+              "language": "a",
+              "value": "ソンミン"
+            },
+            {
+              "language": "e",
+              "value": "Sungmin"
+            },
+            {
+              "language": "n",
+              "value": "Sungmin"
+            },
+            {
+              "language": "z",
+              "value": "Sungmin"
+            },
+            {
+              "language": "h",
+              "value": "Sungmin"
+            },
+            {
+              "language": "s",
+              "value": "Songmin"
+            },
+            {
+              "language": "k",
+              "value": "Songmin"
+            },
+            {
+              "language": "s",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "q",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "சுங்மின்"
+            },
+            {
+              "language": "a",
+              "value": "சுங்மின்"
+            },
+            {
+              "language": "h",
+              "value": "Լի Սոնգ Մին"
+            },
+            {
+              "language": "y",
+              "value": "Լի Սոնգ Մին"
+            },
+            {
+              "language": "h",
+              "value": "I Szongmin"
+            },
+            {
+              "language": "u",
+              "value": "I Szongmin"
+            },
+            {
+              "language": "f",
+              "value": "Sungmin"
+            },
+            {
+              "language": "r",
+              "value": "Sungmin"
+            },
+            {
+              "language": "f",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "p",
+              "value": "Sungmin"
+            },
+            {
+              "language": "l",
+              "value": "Sungmin"
+            },
+            {
+              "language": "r",
+              "value": "Ли Сон Мин"
+            },
+            {
+              "language": "u",
+              "value": "Ли Сон Мин"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "t",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "d",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "v",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "s",
+              "value": "Sungmin"
+            },
+            {
+              "language": "v",
+              "value": "Sungmin"
+            },
+            {
+              "language": "p",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "Sungmin"
+            },
+            {
+              "language": "l",
+              "value": "Sungmin"
+            },
+            {
+              "language": "z",
+              "value": "李晟敏"
+            },
+            {
+              "language": "h",
+              "value": "李晟敏"
+            },
+            {
+              "language": "t",
+              "value": "ซ็องมิน"
+            },
+            {
+              "language": "h",
+              "value": "ซ็องมิน"
+            },
+            {
+              "language": "v",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "h",
+              "value": "Lee Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "Sungmin"
+            },
+            {
+              "language": "h",
+              "value": "Sungmin"
+            },
+            {
+              "language": "v",
+              "value": "Lee Sung Min"
+            },
+            {
+              "language": "i",
+              "value": "Lee Sung Min"
+            },
+            {
+              "language": "p",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "l",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "p",
+              "value": "Sungmin"
+            },
+            {
+              "language": "t",
+              "value": "Sungmin"
+            },
+            {
+              "language": "p",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "t",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "e",
+              "value": "Lee Sung-min"
+            },
+            {
+              "language": "n",
+              "value": "Lee Sung-min"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "imsmlreal"
+            },
+            "twitter": {
+              "id": "imsml"
+            },
+            "imdb": {
+              "id": "nm4798792"
+            },
+            "musicbrainz": {
+              "id": "20b7e783-acf7-4a7b-9fb3-6e207166e96d"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1986-01-01",
+          "image": {
+            "url": "https://images.qloo.com/i/B6C612EB-5F5B-4A8C-B34B-6C8408F36D5C-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice",
+            "piano"
+          ],
+          "spouse": [
+            "Kim Sa-eun"
+          ],
+          "work_period_start": "2005-01-01",
+          "short_description": "South Korean singer, actor"
+        },
+        "popularity": 0.4243213272306237,
+        "disambiguation": "1986-01-01",
+        "tags": [
+          {
+            "name": "Male Actors From Gyeonggi Province",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_gyeonggi_province",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_gyeonggi_province"
+          },
+          {
+            "name": "People From Goyang",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_goyang",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_goyang"
+          },
+          {
+            "name": "South Korean Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_film_actors"
+          },
+          {
+            "name": "South Korean Rhythm And Blues Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_rhythm_blues_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_rhythm_blues_singers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "South Korean Male Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_pianists"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Super Junior-m Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_junior_m_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_junior_m_members"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "South Korean Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_singers"
+          },
+          {
+            "name": "South Korean Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_singer_songwriters"
+          },
+          {
+            "name": "South Korean Male Idols",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_idols",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_idols"
+          },
+          {
+            "name": "South Korean Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_male_television_actors"
+          },
+          {
+            "name": "Super Junior-t Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_junior_t_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_junior_t_members"
+          },
+          {
+            "name": "South Korean Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_singer_songwriters"
+          },
+          {
+            "name": "South Korean Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_pop_singers"
+          },
+          {
+            "name": "Trot Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:trot_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:trot_singers"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Mandarin-language Singers Of South Korea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mandarin_language_singers_south_korea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mandarin_language_singers_south_korea"
+          },
+          {
+            "name": "Japanese-language Singers Of South Korea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_language_singers_south_korea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_language_singers_south_korea"
+          },
+          {
+            "name": "South Korean Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_television_presenters"
+          },
+          {
+            "name": "South Korean Radio Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_radio_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_radio_presenters"
+          },
+          {
+            "name": "Super Junior Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_junior_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_junior_members"
+          },
+          {
+            "name": "Super Junior-h Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_junior_h_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_junior_h_members"
+          },
+          {
+            "name": "21st-century South Korean Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_south_korean_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_south_korean_singers"
+          },
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:occupation:person:pianist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:pianist"
+          },
+          {
+            "name": "South Korean Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_pianists"
+          },
+          {
+            "name": "Singers From Gyeonggi Province",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_gyeonggi_province",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_gyeonggi_province"
+          }
+        ]
+      },
+      {
+        "name": "Song Min-kyu",
+        "entity_id": "E72BD464-0B6E-40AC-B360-44E587EB2ABA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "r",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "j",
+              "value": "宋旻揆"
+            },
+            {
+              "language": "a",
+              "value": "宋旻揆"
+            },
+            {
+              "language": "a",
+              "value": "سونغ مين كيو"
+            },
+            {
+              "language": "r",
+              "value": "سونغ مين كيو"
+            },
+            {
+              "language": "e",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "s",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "n",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "l",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "d",
+              "value": "M K Song"
+            },
+            {
+              "language": "e",
+              "value": "M K Song"
+            },
+            {
+              "language": "v",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "n",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "b",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "d",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "e",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "r",
+              "value": "Сон Мин Гю"
+            },
+            {
+              "language": "u",
+              "value": "Сон Мин Гю"
+            },
+            {
+              "language": "b",
+              "value": "সং মিন-কিউ"
+            },
+            {
+              "language": "n",
+              "value": "সং মিন-কিউ"
+            },
+            {
+              "language": "e",
+              "value": "Min-Kyu Song"
+            },
+            {
+              "language": "n",
+              "value": "Min-Kyu Song"
+            },
+            {
+              "language": "p",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "r",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "d",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "e",
+              "value": "Song Minkyu"
+            },
+            {
+              "language": "n",
+              "value": "Song Minkyu"
+            },
+            {
+              "language": "p",
+              "value": "Song Min-kyu (piłkarz)"
+            },
+            {
+              "language": "l",
+              "value": "Song Min-kyu (piłkarz)"
+            },
+            {
+              "language": "u",
+              "value": "Сон Мін Кю"
+            },
+            {
+              "language": "k",
+              "value": "Сон Мін Кю"
+            },
+            {
+              "language": "e",
+              "value": "Minkyu Song"
+            },
+            {
+              "language": "n",
+              "value": "Minkyu Song"
+            },
+            {
+              "language": "d",
+              "value": "Song Minkyu"
+            },
+            {
+              "language": "e",
+              "value": "Song Minkyu"
+            },
+            {
+              "language": "k",
+              "value": "송민규"
+            },
+            {
+              "language": "o",
+              "value": "송민규"
+            },
+            {
+              "language": "d",
+              "value": "Min-Kyu Song"
+            },
+            {
+              "language": "e",
+              "value": "Min-Kyu Song"
+            },
+            {
+              "language": "d",
+              "value": "Minkyu Song"
+            },
+            {
+              "language": "e",
+              "value": "Minkyu Song"
+            },
+            {
+              "language": "z",
+              "value": "宋敏圭"
+            },
+            {
+              "language": "h",
+              "value": "宋敏圭"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-kyu (futbolcu)"
+            },
+            {
+              "language": "r",
+              "value": "Song Min-kyu (futbolcu)"
+            },
+            {
+              "language": "k",
+              "value": "松旻揆"
+            },
+            {
+              "language": "o",
+              "value": "松旻揆"
+            },
+            {
+              "language": "f",
+              "value": "سونگ مین-کیو"
+            },
+            {
+              "language": "a",
+              "value": "سونگ مین-کیو"
+            },
+            {
+              "language": "i",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "t",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "e",
+              "value": "M K Song"
+            },
+            {
+              "language": "n",
+              "value": "M K Song"
+            },
+            {
+              "language": "h",
+              "value": "סונג מין-קיו"
+            },
+            {
+              "language": "e",
+              "value": "סונג מין-קיו"
+            },
+            {
+              "language": "c",
+              "value": "Song Min-kyu"
+            },
+            {
+              "language": "a",
+              "value": "Song Min-kyu"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "song.__.v"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1999-09-12",
+          "image": {
+            "url": "https://images.qloo.com/i/E72BD464-0B6E-40AC-B360-44E587EB2ABA-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Jeonbuk Hyundai Motors",
+            "FC Pohang Steelers"
+          ],
+          "short_description": "South Korean footballer, born 1999"
+        },
+        "popularity": 0.384079320729281,
+        "disambiguation": "1999-09-12",
+        "tags": [
+          {
+            "name": "Olympic Footballers For South Korea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_south_korea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_south_korea"
+          },
+          {
+            "name": "Asian Games Bronze Medalists For Uzbekistan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_bronze_medalists_uzbekistan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_bronze_medalists_uzbekistan"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "All Sports Biographies Lacking Sources Containing Significant Coverage",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:all_sports_biographies_lacking_sources_containing_significant_coverage",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:all_sports_biographies_lacking_sources_containing_significant_coverage"
+          },
+          {
+            "name": "South Korea Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korea_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korea_mens_international_footballers"
+          },
+          {
+            "name": "Sports Biographies Lacking Sources Containing Significant Coverage From December 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sports_biographies_lacking_sources_containing_significant_coverage_from_december_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sports_biographies_lacking_sources_containing_significant_coverage_from_december_2022"
+          },
+          {
+            "name": "South Korean Football Forward Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_football_forward_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_football_forward_stubs"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Pohang Steelers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pohang_steelers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pohang_steelers_players"
+          },
+          {
+            "name": "Footballers At The 2022 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2022_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2022_asian_games"
+          },
+          {
+            "name": "Medalists At The 2022 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2022_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2022_asian_games"
+          },
+          {
+            "name": "K League 1 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:k_league_1_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:k_league_1_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "South Korean Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_korean_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_korean_mens_footballers"
+          },
+          {
+            "name": "Asian Games Medalists In Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_football"
+          },
+          {
+            "name": "Footballers At The 2020 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2020_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2020_summer_olympics"
+          }
+        ]
+      }
+    ]
+  }
+}

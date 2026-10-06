@@ -1,0 +1,2028 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Kimi Antonelli",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Giovanna Antonelli",
+        "entity_id": "703932B9-7796-4183-9B73-FAAC694B7720",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "l",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "p",
+              "value": "Giovanna Antoneli"
+            },
+            {
+              "language": "t",
+              "value": "Giovanna Antoneli"
+            },
+            {
+              "language": "c",
+              "value": "Джованна Антонелли"
+            },
+            {
+              "language": "e",
+              "value": "Джованна Антонелли"
+            },
+            {
+              "language": "g",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "a",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "v",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "r",
+              "value": "Джованна Антонелли"
+            },
+            {
+              "language": "u",
+              "value": "Джованна Антонелли"
+            },
+            {
+              "language": "p",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "l",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "p",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "t",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "f",
+              "value": "جیووانا آنتونلی"
+            },
+            {
+              "language": "a",
+              "value": "جیووانا آنتونلی"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "a",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "i",
+              "value": "Geovanna Antonelli"
+            },
+            {
+              "language": "t",
+              "value": "Geovanna Antonelli"
+            },
+            {
+              "language": "d",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "e",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "e",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "s",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "e",
+              "value": "Geovanna Antonelli"
+            },
+            {
+              "language": "n",
+              "value": "Geovanna Antonelli"
+            },
+            {
+              "language": "r",
+              "value": "Антонелли Д."
+            },
+            {
+              "language": "u",
+              "value": "Антонелли Д."
+            },
+            {
+              "language": "p",
+              "value": "Giovana Antonelli"
+            },
+            {
+              "language": "t",
+              "value": "Giovana Antonelli"
+            },
+            {
+              "language": "u",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "z",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "s",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "q",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "d",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "t",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "k",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "c",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "a",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "g",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "l",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "e",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "n",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "n",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "b",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "r",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "o",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "k",
+              "value": "ჯოვანა ანტონელი"
+            },
+            {
+              "language": "a",
+              "value": "ჯოვანა ანტონელი"
+            },
+            {
+              "language": "r",
+              "value": "Антонелли, Джованна"
+            },
+            {
+              "language": "u",
+              "value": "Антонелли, Джованна"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "d",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "f",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "r",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "u",
+              "value": "Джованна Антонеллі"
+            },
+            {
+              "language": "k",
+              "value": "Джованна Антонеллі"
+            },
+            {
+              "language": "a",
+              "value": "Covanna Antonelli"
+            },
+            {
+              "language": "z",
+              "value": "Covanna Antonelli"
+            },
+            {
+              "language": "b",
+              "value": "Джована Антонели"
+            },
+            {
+              "language": "g",
+              "value": "Джована Антонели"
+            },
+            {
+              "language": "h",
+              "value": "Ջիովաննա Անտոնելլի"
+            },
+            {
+              "language": "y",
+              "value": "Ջիովաննա Անտոնելլի"
+            },
+            {
+              "language": "p",
+              "value": "Giovana antoneli"
+            },
+            {
+              "language": "t",
+              "value": "Giovana antoneli"
+            },
+            {
+              "language": "f",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "n",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "l",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "v",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "i",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "t",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "k",
+              "value": "지오바나 안토넬리"
+            },
+            {
+              "language": "o",
+              "value": "지오바나 안토넬리"
+            },
+            {
+              "language": "s",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "v",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "z",
+              "value": "焦万娜·安东内利"
+            },
+            {
+              "language": "h",
+              "value": "焦万娜·安东内利"
+            },
+            {
+              "language": "n",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "n",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "h",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "u",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "k",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "l",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "d",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "a",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "a",
+              "value": "جوفانا أنتونيلي"
+            },
+            {
+              "language": "r",
+              "value": "جوفانا أنتونيلي"
+            },
+            {
+              "language": "f",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "o",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "p",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "t",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "j",
+              "value": "ジョバンナ・アントネッリ"
+            },
+            {
+              "language": "a",
+              "value": "ジョバンナ・アントネッリ"
+            },
+            {
+              "language": "r",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "o",
+              "value": "Giovanna Antonelli Prado"
+            },
+            {
+              "language": "h",
+              "value": "Giovanna Antonelli"
+            },
+            {
+              "language": "r",
+              "value": "Giovanna Antonelli"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "gioanto"
+            },
+            "twitter": {
+              "id": "gio_antonelli"
+            },
+            "imdb": {
+              "id": "nm0031277"
+            },
+            "library_of_congress": {
+              "id": "nr2003014787"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1976-03-18",
+          "image": {
+            "url": "https://images.qloo.com/i/703932B9-7796-4183-9B73-FAAC694B7720-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "notable_work": [
+            "O Clone",
+            "Salve Jorge"
+          ],
+          "spouse": [
+            "Robert LoCascio"
+          ],
+          "work_period_start": "1994-01-01",
+          "short_description": "Brazilian actress"
+        },
+        "popularity": 0.9842793620421609,
+        "disambiguation": "1976-03-18",
+        "tags": [
+          {
+            "name": "Actresses From Rio De Janeiro (city)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_rio_janeiro_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_rio_janeiro_city"
+          },
+          {
+            "name": "Brazilian People Of Italian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_people_italian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_people_italian_descent"
+          },
+          {
+            "name": "21st-century Brazilian Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_brazilian_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_brazilian_actresses"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Brazilian Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_film_actresses"
+          },
+          {
+            "name": "Brazilian Expatriates In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriates_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriates_in_portugal"
+          },
+          {
+            "name": "Brazilian Telenovela Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_telenovela_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_telenovela_actresses"
+          },
+          {
+            "name": "Brazilian Women Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_women_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_women_television_presenters"
+          },
+          {
+            "name": "20th-century Brazilian Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_brazilian_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_brazilian_actresses"
+          },
+          {
+            "name": "Belly Dancers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belly_dancers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belly_dancers"
+          },
+          {
+            "name": "Brazilian Film Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_film_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_film_producers"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Brazilian Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_television_presenters"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Brazilian Female Models",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_female_models",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_female_models"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Film Producer",
+            "tag_id": "urn:tag:occupation:person:film_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_producer"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Brazilian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_television_actresses"
+          },
+          {
+            "name": "Brazilian Stage Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_stage_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_stage_actresses"
+          }
+        ]
+      },
+      {
+        "name": "Kimi Hime",
+        "entity_id": "A7C3E447-E957-4882-BE29-3D52949A1A5C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "q",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "j",
+              "value": "キミ・ヒメ"
+            },
+            {
+              "language": "a",
+              "value": "キミ・ヒメ"
+            },
+            {
+              "language": "m",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "j",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Hime"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Hime"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kimi.hime"
+            }
+          },
+          "date_of_birth": "1993-01-04",
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "esports"
+          ],
+          "short_description": "Indonesian YouTuber"
+        },
+        "popularity": 0.957213989845729,
+        "disambiguation": "1993-01-04",
+        "tags": [
+          {
+            "name": "Professional Gamer",
+            "tag_id": "urn:tag:occupation:person:professional_gamer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:professional_gamer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Kimi Räikkönen",
+        "entity_id": "4E73AD63-EC2E-42A0-99C7-5B2465E7FE1D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "j",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "v",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "y",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Кімі Ряйкконен"
+            },
+            {
+              "language": "k",
+              "value": "Кімі Ряйкконен"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "p",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "k",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "h",
+              "value": "קימי רייקונן"
+            },
+            {
+              "language": "e",
+              "value": "קימי רייקונן"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "m",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "b",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Raikonens"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Raikonens"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "m",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "h",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Raykkonen"
+            },
+            {
+              "language": "z",
+              "value": "Kimi Raykkonen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi"
+            },
+            {
+              "language": "n",
+              "value": "Kimi"
+            },
+            {
+              "language": "w",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Кими Райкконен"
+            },
+            {
+              "language": "u",
+              "value": "Кими Райкконен"
+            },
+            {
+              "language": "i",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "d",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "k",
+              "value": "კიმი რაიკონენი"
+            },
+            {
+              "language": "a",
+              "value": "კიმი რაიკონენი"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "u",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "h",
+              "value": "किमि राइकोनेन"
+            },
+            {
+              "language": "i",
+              "value": "किमि राइकोनेन"
+            },
+            {
+              "language": "s",
+              "value": "Кими Рејкенен"
+            },
+            {
+              "language": "r",
+              "value": "Кими Рејкенен"
+            },
+            {
+              "language": "j",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "h",
+              "value": "Iceman"
+            },
+            {
+              "language": "u",
+              "value": "Iceman"
+            },
+            {
+              "language": "z",
+              "value": "奇米·雷克南"
+            },
+            {
+              "language": "h",
+              "value": "奇米·雷克南"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "b",
+              "value": "Кими Райконен"
+            },
+            {
+              "language": "g",
+              "value": "Кими Райконен"
+            },
+            {
+              "language": "m",
+              "value": "किमी रायकोन्नेन"
+            },
+            {
+              "language": "r",
+              "value": "किमी रायकोन्नेन"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "b",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "m",
+              "value": "Кими Раиконен"
+            },
+            {
+              "language": "k",
+              "value": "Кими Раиконен"
+            },
+            {
+              "language": "t",
+              "value": "கிமி ராய்க்கோனன்"
+            },
+            {
+              "language": "a",
+              "value": "கிமி ராய்க்கோனன்"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "w",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "q",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Iceman"
+            },
+            {
+              "language": "n",
+              "value": "Iceman"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "k",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "p",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "j",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "m",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "b",
+              "value": "Кімі Райканен"
+            },
+            {
+              "language": "e",
+              "value": "Кімі Райканен"
+            },
+            {
+              "language": "i",
+              "value": "Kimi"
+            },
+            {
+              "language": "d",
+              "value": "Kimi"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "h",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "h",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Κίμι Ράικονεν"
+            },
+            {
+              "language": "l",
+              "value": "Κίμι Ράικονεν"
+            },
+            {
+              "language": "e",
+              "value": "Iceman"
+            },
+            {
+              "language": "s",
+              "value": "Iceman"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "c",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "کمی ریکونن"
+            },
+            {
+              "language": "r",
+              "value": "کمی ریکونن"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Raikkonen"
+            },
+            {
+              "language": "k",
+              "value": "키미 래이쾨넨"
+            },
+            {
+              "language": "o",
+              "value": "키미 래이쾨넨"
+            },
+            {
+              "language": "v",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi-Matias Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "j",
+              "value": "キミ・ライコネン"
+            },
+            {
+              "language": "a",
+              "value": "キミ・ライコネン"
+            },
+            {
+              "language": "b",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "i",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "f",
+              "value": "کیمی رایکونن"
+            },
+            {
+              "language": "a",
+              "value": "کیمی رایکونن"
+            },
+            {
+              "language": "r",
+              "value": "Райкконен, Кими"
+            },
+            {
+              "language": "u",
+              "value": "Райкконен, Кими"
+            },
+            {
+              "language": "a",
+              "value": "كيمي رايكونن"
+            },
+            {
+              "language": "r",
+              "value": "كيمي رايكونن"
+            },
+            {
+              "language": "h",
+              "value": "Կիմի Ռայկկոնեն"
+            },
+            {
+              "language": "y",
+              "value": "Կիմի Ռայկկոնեն"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "z",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "n",
+              "value": "Raikkonen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "d",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "c",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "y",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "w",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "t",
+              "value": "คิมิ ไรโคเนน"
+            },
+            {
+              "language": "h",
+              "value": "คิมิ ไรโคเนน"
+            },
+            {
+              "language": "m",
+              "value": "Кими Райкконен"
+            },
+            {
+              "language": "n",
+              "value": "Кими Райкконен"
+            },
+            {
+              "language": "b",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "h",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "u",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "n",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Räikkönen"
+            },
+            {
+              "language": "j",
+              "value": "Kimi"
+            },
+            {
+              "language": "v",
+              "value": "Kimi"
+            },
+            {
+              "language": "p",
+              "value": "Kimi Matias Räikkönen"
+            },
+            {
+              "language": "l",
+              "value": "Kimi Matias Räikkönen"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kimimatiasraikkonen"
+            },
+            "imdb": {
+              "id": "nm1688722"
+            },
+            "library_of_congress": {
+              "id": "no2018147713"
+            }
+          },
+          "citizenship": [
+            "Finland"
+          ],
+          "date_of_birth": "1979-10-17",
+          "image": {
+            "url": "https://images.qloo.com/i/4E73AD63-EC2E-42A0-99C7-5B2465E7FE1D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula One",
+            "Formula Renault",
+            "rallying"
+          ],
+          "spouse": [
+            "Minttu Virtanen",
+            "Jenni Dahlman"
+          ],
+          "member_of_sports_team": [
+            "Scuderia Ferrari",
+            "Alfa Romeo Racing",
+            "Lotus F1",
+            "Sauber",
+            "McLaren"
+          ],
+          "short_description": "Finnish racing driver"
+        },
+        "popularity": 0.9550287559387265,
+        "disambiguation": "1979-10-17",
+        "tags": [
+          {
+            "name": "Kyle Busch Motorsports Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kyle_busch_motorsports_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kyle_busch_motorsports_drivers"
+          },
+          {
+            "name": "Haywood Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:haywood_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:haywood_racing_drivers"
+          },
+          {
+            "name": "Finnish Rally Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_rally_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_rally_drivers"
+          },
+          {
+            "name": "Motorcycle Racing Team Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:motorcycle_racing_team_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:motorcycle_racing_team_owners"
+          },
+          {
+            "name": "Manor Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manor_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manor_motorsport_drivers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Finnish Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_formula_one_drivers"
+          },
+          {
+            "name": "Finnish Expatriate Sportspeople In Japan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_japan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_japan"
+          },
+          {
+            "name": "Finnish Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_racing_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "Formula One World Drivers Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Ferrari Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers"
+          },
+          {
+            "name": "Finnish Expatriates In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriates_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriates_in_monaco"
+          },
+          {
+            "name": "Sportspeople From Espoo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_espoo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_espoo"
+          },
+          {
+            "name": "Alfa Romeo Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alfa_romeo_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alfa_romeo_formula_one_drivers"
+          },
+          {
+            "name": "British Formula Renault 2.0 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers"
+          },
+          {
+            "name": "Nascar Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nascar_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nascar_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Engvarb From February 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019"
+          },
+          {
+            "name": "Sauber Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Lotus F1 Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lotus_f1_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lotus_f1_formula_one_drivers"
+          },
+          {
+            "name": "Formula Ford Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_ford_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_ford_drivers"
+          },
+          {
+            "name": "Rally Driver",
+            "tag_id": "urn:tag:occupation:person:rally_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rally_driver"
+          },
+          {
+            "name": "Finnish Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Finnish Expatriates In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriates_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriates_in_italy"
+          },
+          {
+            "name": "Finnish Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "World Rally Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_rally_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_rally_championship_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Citroën Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:citroen_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:citroen_racing_drivers"
+          },
+          {
+            "name": "Finnish Expatriate Sportspeople In The United Kingdom",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_united_kingdom",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finnish_expatriate_sportspeople_in_united_kingdom"
+          }
+        ]
+      },
+      {
+        "name": "Kimi Chang",
+        "entity_id": "7F512882-32AE-40F9-87E4-E067F276BC08",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "張雅涵"
+            },
+            {
+              "language": "h",
+              "value": "張雅涵"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kimi850531"
+            }
+          },
+          "citizenship": [
+            "Taiwan"
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/7F512882-32AE-40F9-87E4-E067F276BC08-420x-auto.jpg"
+          }
+        },
+        "popularity": 0.8909448690490427,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Kimi Onoda",
+        "entity_id": "A8E18261-E127-4DFC-A381-E1D4D17BA11C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "AKimi Onoda"
+            },
+            {
+              "language": "q",
+              "value": "AKimi Onoda"
+            },
+            {
+              "language": "g",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "a",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "t",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "j",
+              "value": "小野田紀美"
+            },
+            {
+              "language": "a",
+              "value": "小野田紀美"
+            },
+            {
+              "language": "f",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "r",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "e",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "s",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "r",
+              "value": "Кими Онода"
+            },
+            {
+              "language": "u",
+              "value": "Кими Онода"
+            },
+            {
+              "language": "y",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "o",
+              "value": "Kimi Onoda"
+            },
+            {
+              "language": "r",
+              "value": "Онода, Кими"
+            },
+            {
+              "language": "u",
+              "value": "Онода, Кими"
+            },
+            {
+              "language": "z",
+              "value": "小野田紀美"
+            },
+            {
+              "language": "h",
+              "value": "小野田紀美"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "onodakimijimusho"
+            },
+            "twitter": {
+              "id": "onoda_kimi"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "Japan"
+          ],
+          "date_of_birth": "1982-12-07",
+          "image": {
+            "url": "https://images.qloo.com/i/A8E18261-E127-4DFC-A381-E1D4D17BA11C-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "short_description": "Japanese politician"
+        },
+        "popularity": 0.8111131646753134,
+        "disambiguation": "1982-12-07",
+        "tags": [
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Women Members Of The House Of Councillors (japan)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_members_house_councillors_japan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_members_house_councillors_japan"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Politicians From Okayama Prefecture",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:politicians_from_okayama_prefecture",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:politicians_from_okayama_prefecture"
+          },
+          {
+            "name": "Takushoku University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:takushoku_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:takushoku_university_alumni"
+          },
+          {
+            "name": "People Who Renounced United States Citizenship",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_who_renounced_united_states_citizenship",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_who_renounced_united_states_citizenship"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          }
+        ]
+      }
+    ]
+  }
+}

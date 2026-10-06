@@ -1,0 +1,98 @@
+{
+  "K0_sanity": {
+    "status": 200,
+    "results": 5
+  },
+  "K1_coverage": {
+    "exact": 38,
+    "exact_or_loose": 39,
+    "total": 40,
+    "by_group": {
+      "f1": 20,
+      "pl": 9,
+      "nba": 5,
+      "cricket": 5
+    },
+    "pass": true
+  },
+  "K2_ranking": {
+    "status": 200,
+    "results": 18,
+    "distinct_affinities": 18,
+    "outside_set": 0,
+    "pass": true
+  },
+  "K6_explainability": {
+    "payload_found": true
+  },
+  "K3_lift": {
+    "top1_per_persona": {
+      "anime-indie": "Yuki Tsunoda",
+      "space-pop": "Lewis Hamilton",
+      "dark-hiphop": "Lewis Hamilton",
+      "romance-pop": "Giovanna Antonelli",
+      "rock-action": "Carlos Sainz Jr."
+    },
+    "baseline_status": 200,
+    "baseline_top3": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Fernando Alonso"
+    ],
+    "distinct_top1": 4,
+    "top1_not_baseline1": 3,
+    "pass": true
+  },
+  "K4_teams": {
+    "Chelsea FC": {
+      "top": "Chelsea F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "Manchester United": {
+      "top": "Manchester United",
+      "types": [
+        "urn:entity:place"
+      ]
+    },
+    "Arsenal FC": {
+      "top": "Arsenal F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "Liverpool FC": {
+      "top": "Liverpool F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "McLaren F1 Team": {
+      "top": "Mercedes AMG Petronas F1 Team",
+      "types": [
+        "urn:entity:brand"
+      ]
+    }
+  },
+  "K5_set_size": {
+    "25": {
+      "status": 200,
+      "results": 21
+    },
+    "50": {
+      "status": 200,
+      "results": 39
+    },
+    "100": {
+      "status": 200,
+      "results": 50
+    }
+  },
+  "K7_throughput": {
+    "calls": 60,
+    "429s": 0,
+    "non_200": 0,
+    "pass": true
+  }
+}

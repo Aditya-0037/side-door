@@ -1,0 +1,3071 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Yuki Tsunoda",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Yuki Tsunoda",
+        "entity_id": "4E4EBD7E-E59D-40C1-B497-81D976EFEF56",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "g",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "b",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "o",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "c",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "j",
+              "value": "角田裕毅"
+            },
+            {
+              "language": "a",
+              "value": "角田裕毅"
+            },
+            {
+              "language": "p",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "z",
+              "value": "角田裕毅"
+            },
+            {
+              "language": "h",
+              "value": "角田裕毅"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "q",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "s",
+              "value": "Јуки Цунода"
+            },
+            {
+              "language": "r",
+              "value": "Јуки Цунода"
+            },
+            {
+              "language": "h",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "u",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "u",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "l",
+              "value": "Juki Cunoda"
+            },
+            {
+              "language": "v",
+              "value": "Juki Cunoda"
+            },
+            {
+              "language": "h",
+              "value": "יוקי צונודה"
+            },
+            {
+              "language": "e",
+              "value": "יוקי צונודה"
+            },
+            {
+              "language": "h",
+              "value": "Cunoda Júki"
+            },
+            {
+              "language": "u",
+              "value": "Cunoda Júki"
+            },
+            {
+              "language": "k",
+              "value": "츠노다 유키"
+            },
+            {
+              "language": "o",
+              "value": "츠노다 유키"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "u",
+              "value": "Юкі Цунода"
+            },
+            {
+              "language": "k",
+              "value": "Юкі Цунода"
+            },
+            {
+              "language": "b",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "g",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "d",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Γιούκι Τσουνόντα"
+            },
+            {
+              "language": "l",
+              "value": "Γιούκι Τσουνόντα"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "g",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "n",
+              "value": "角田 裕毅"
+            },
+            {
+              "language": "l",
+              "value": "角田 裕毅"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "h",
+              "value": "युकी सुनाओदा"
+            },
+            {
+              "language": "i",
+              "value": "युकी सुनाओदा"
+            },
+            {
+              "language": "a",
+              "value": "يوكي تسونودا"
+            },
+            {
+              "language": "r",
+              "value": "يوكي تسونودا"
+            },
+            {
+              "language": "b",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "h",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "h",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "u",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "g",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "t",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "t",
+              "value": "Юки Цунода"
+            },
+            {
+              "language": "p",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "l",
+              "value": "Yūki Tsunoda"
+            },
+            {
+              "language": "c",
+              "value": "Júki Cunoda"
+            },
+            {
+              "language": "s",
+              "value": "Júki Cunoda"
+            },
+            {
+              "language": "f",
+              "value": "یوکی سونودا"
+            },
+            {
+              "language": "a",
+              "value": "یوکی سونودا"
+            },
+            {
+              "language": "a",
+              "value": "Joeki Tsunoda"
+            },
+            {
+              "language": "f",
+              "value": "Joeki Tsunoda"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Tsunoda"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Tsunoda"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "yukitsunoda0511"
+            },
+            "twitter": {
+              "id": "yukitsunoda07"
+            }
+          },
+          "citizenship": [
+            "Japan"
+          ],
+          "date_of_birth": "2000-05-11",
+          "image": {
+            "url": "https://images.qloo.com/i/4E4EBD7E-E59D-40C1-B497-81D976EFEF56-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "Red Bull Junior Team",
+            "Scuderia AlphaTauri"
+          ],
+          "short_description": "Japanese racing driver"
+        },
+        "popularity": 0.9059534034202715,
+        "disambiguation": "2000-05-11",
+        "tags": [
+          {
+            "name": "Sportspeople From Sagamihara",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sagamihara",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sagamihara"
+          },
+          {
+            "name": "Hitech Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers"
+          },
+          {
+            "name": "Motopark Academy Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers"
+          },
+          {
+            "name": "Alphatauri Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers"
+          },
+          {
+            "name": "Japanese F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_f4_championship_drivers"
+          },
+          {
+            "name": "Jenzer Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jenzer_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jenzer_motorsport_drivers"
+          },
+          {
+            "name": "Japanese Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "M2 Competition Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers"
+          },
+          {
+            "name": "Sportspeople From Kanagawa Prefecture",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_kanagawa_prefecture",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_kanagawa_prefecture"
+          },
+          {
+            "name": "Formula Two Driver",
+            "tag_id": "urn:tag:occupation:person:formula_two_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_two_driver"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Euroformula Open Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers"
+          },
+          {
+            "name": "Toyota Racing Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Rb Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rb_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rb_formula_one_drivers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Japanese Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_racing_drivers"
+          },
+          {
+            "name": "Japanese Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_formula_one_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          }
+        ]
+      },
+      {
+        "name": "Yuki Kato",
+        "entity_id": "BA9C75ED-2514-42ED-9079-73A365A3BA1F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "j",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "t",
+              "value": "ยุกิ อังไกรนี คะโต"
+            },
+            {
+              "language": "h",
+              "value": "ยุกิ อังไกรนี คะโต"
+            },
+            {
+              "language": "g",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "o",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "j",
+              "value": "ユキ・カトウ"
+            },
+            {
+              "language": "a",
+              "value": "ユキ・カトウ"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "a",
+              "value": "يوكي كاتو"
+            },
+            {
+              "language": "r",
+              "value": "يوكي كاتو"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "q",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "m",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "h",
+              "value": "युकी कैटो"
+            },
+            {
+              "language": "i",
+              "value": "युकी कैटो"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Anggarini Kato"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Anggarini Kato"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "z",
+              "value": "加藤雪"
+            },
+            {
+              "language": "h",
+              "value": "加藤雪"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "m",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "o",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "p",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "b",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Anggraini Kato"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "j",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Kato"
+            },
+            {
+              "language": "k",
+              "value": "유키 카토"
+            },
+            {
+              "language": "o",
+              "value": "유키 카토"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "yukikt"
+            },
+            "twitter": {
+              "id": "yukikato"
+            },
+            "imdb": {
+              "id": "nm5572937"
+            }
+          },
+          "citizenship": [
+            "Indonesia"
+          ],
+          "date_of_birth": "1995-04-02",
+          "image": {
+            "url": "https://images.qloo.com/i/BA9C75ED-2514-42ED-9079-73A365A3BA1F-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2003-01-01",
+          "short_description": "Indonesian actress"
+        },
+        "popularity": 0.9889922918863678,
+        "disambiguation": "1995-04-02",
+        "tags": [
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Indonesian Female Models",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_female_models",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_female_models"
+          },
+          {
+            "name": "21st-century Indonesian Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indonesian_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indonesian_actresses"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Indonesian People Of Japanese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_people_japanese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_people_japanese_descent"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Javanese People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:javanese_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:javanese_people"
+          },
+          {
+            "name": "People From Malang",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_malang",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_malang"
+          },
+          {
+            "name": "Indonesian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_television_actresses"
+          },
+          {
+            "name": "Mystery",
+            "tag_id": "urn:tag:genre:media:media:mystery",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:mystery"
+          },
+          {
+            "name": "Indonesian Muslims",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_muslims",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_muslims"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Indonesian Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_film_actresses"
+          },
+          {
+            "name": "Actresses Of Japanese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_japanese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_japanese_descent"
+          },
+          {
+            "name": "Presenter",
+            "tag_id": "urn:tag:occupation:person:presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:presenter"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          }
+        ]
+      },
+      {
+        "name": "Yuki Kashiwagi",
+        "entity_id": "5BDAC2F9-DD74-44B6-85AB-D21B4F617510",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "ยุกิ คะชิวะงิ"
+            },
+            {
+              "language": "h",
+              "value": "ยุกิ คะชิวะงิ"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "l",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "j",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "e",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "n",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "p",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "j",
+              "value": "ゆきりん"
+            },
+            {
+              "language": "a",
+              "value": "ゆきりん"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Kashiwagi"
+            },
+            {
+              "language": "r",
+              "value": "Yūki Kashiwagi"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "k",
+              "value": "카시와기 유키"
+            },
+            {
+              "language": "o",
+              "value": "카시와기 유키"
+            },
+            {
+              "language": "r",
+              "value": "Юки Касиваги"
+            },
+            {
+              "language": "u",
+              "value": "Юки Касиваги"
+            },
+            {
+              "language": "j",
+              "value": "柏木由紀"
+            },
+            {
+              "language": "a",
+              "value": "柏木由紀"
+            },
+            {
+              "language": "m",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "s",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "k",
+              "value": "가시와기 유키"
+            },
+            {
+              "language": "o",
+              "value": "가시와기 유키"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "u",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "k",
+              "value": "유키린"
+            },
+            {
+              "language": "o",
+              "value": "유키린"
+            },
+            {
+              "language": "e",
+              "value": "Yukirin"
+            },
+            {
+              "language": "n",
+              "value": "Yukirin"
+            },
+            {
+              "language": "a",
+              "value": "يوكي كاشيواغي"
+            },
+            {
+              "language": "r",
+              "value": "يوكي كاشيواغي"
+            },
+            {
+              "language": "c",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "คาชิวากิ ยูคิ"
+            },
+            {
+              "language": "h",
+              "value": "คาชิวากิ ยูคิ"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "z",
+              "value": "天氣"
+            },
+            {
+              "language": "h",
+              "value": "天氣"
+            },
+            {
+              "language": "z",
+              "value": "有機琳"
+            },
+            {
+              "language": "h",
+              "value": "有機琳"
+            },
+            {
+              "language": "g",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "i",
+              "value": "Yukirin"
+            },
+            {
+              "language": "d",
+              "value": "Yukirin"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "c",
+              "value": "Yuki Kasiwagi"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kasiwagi"
+            },
+            {
+              "language": "r",
+              "value": "Кашиваги, Юки"
+            },
+            {
+              "language": "u",
+              "value": "Кашиваги, Юки"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "q",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "b",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "z",
+              "value": "柏木由紀"
+            },
+            {
+              "language": "h",
+              "value": "柏木由紀"
+            },
+            {
+              "language": "v",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "i",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "r",
+              "value": "Касиваги, Юки"
+            },
+            {
+              "language": "u",
+              "value": "Касиваги, Юки"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "j",
+              "value": "ユキ・レイソレ"
+            },
+            {
+              "language": "a",
+              "value": "ユキ・レイソレ"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "u",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "t",
+              "value": "ยูคิ คาชิวากิ"
+            },
+            {
+              "language": "h",
+              "value": "ยูคิ คาชิวากิ"
+            },
+            {
+              "language": "f",
+              "value": "یوکی کاشیواگی"
+            },
+            {
+              "language": "a",
+              "value": "یوکی کاشیواگی"
+            },
+            {
+              "language": "i",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "d",
+              "value": "Kashiwagi Yuki"
+            },
+            {
+              "language": "c",
+              "value": "Juki Kašiwagi"
+            },
+            {
+              "language": "s",
+              "value": "Juki Kašiwagi"
+            },
+            {
+              "language": "m",
+              "value": "Yuki Kashiwagi"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kashiwagi"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "%E6%9F%8F%E6%9C%A8%E7%94%B1%E7%B4%80"
+            },
+            "instagram": {
+              "id": "yukikashiwagi_official"
+            },
+            "twitter": {
+              "id": "Yukiriiiin__K"
+            },
+            "spotify": {
+              "id": "2BESLc1BVykMjAMNKjiK6H"
+            },
+            "imdb": {
+              "id": "nm3802794"
+            },
+            "musicbrainz": {
+              "id": "125161ef-024c-43ab-bf1f-33b6982d1797"
+            }
+          },
+          "citizenship": [
+            "Japan"
+          ],
+          "date_of_birth": "1991-07-15",
+          "image": {
+            "url": "https://images.qloo.com/i/5BDAC2F9-DD74-44B6-85AB-D21B4F617510-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "drum kit",
+            "voice"
+          ],
+          "work_period_start": "2006-01-01",
+          "short_description": "Japanese idol, actress, member of AKB48 (1991-)"
+        },
+        "popularity": 0.9700753416466444,
+        "disambiguation": "1991-07-15",
+        "tags": [
+          {
+            "name": "Ngt48 Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ngt48_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ngt48_members"
+          },
+          {
+            "name": "Japanese Female Idols",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_female_idols",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_female_idols"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Akb48 Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:akb48_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:akb48_members"
+          },
+          {
+            "name": "Singers From Kagoshima",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_kagoshima",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_kagoshima"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Watanabe Entertainment",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:watanabe_entertainment",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:watanabe_entertainment"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "21st-century Japanese Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_women_singers"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "21st-century Japanese Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Nmb48 Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nmb48_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nmb48_members"
+          },
+          {
+            "name": "Japanese Idol",
+            "tag_id": "urn:tag:occupation:person:japanese_idol",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:japanese_idol"
+          },
+          {
+            "name": "Avex Group Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:avex_group_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:avex_group_artists"
+          }
+        ]
+      },
+      {
+        "name": "Yūki Kaji",
+        "entity_id": "4A877406-B6F0-4F58-B3D6-23AB53D80505",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "k",
+              "value": "카지 유우키"
+            },
+            {
+              "language": "o",
+              "value": "카지 유우키"
+            },
+            {
+              "language": "c",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "s",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "p",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "i",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "k",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "h",
+              "value": "יוקי קאג'י"
+            },
+            {
+              "language": "e",
+              "value": "יוקי קאג'י"
+            },
+            {
+              "language": "i",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "t",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "p",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "c",
+              "value": "Kadži Júki"
+            },
+            {
+              "language": "s",
+              "value": "Kadži Júki"
+            },
+            {
+              "language": "e",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "k",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "q",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "b",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "k",
+              "value": "가지 유키"
+            },
+            {
+              "language": "o",
+              "value": "가지 유키"
+            },
+            {
+              "language": "a",
+              "value": "يوكي كاجي"
+            },
+            {
+              "language": "r",
+              "value": "يوكي كاجي"
+            },
+            {
+              "language": "k",
+              "value": "카지 유키"
+            },
+            {
+              "language": "o",
+              "value": "카지 유키"
+            },
+            {
+              "language": "j",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "v",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "n",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "c",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Γιούκι Κάτζι"
+            },
+            {
+              "language": "l",
+              "value": "Γιούκι Κάτζι"
+            },
+            {
+              "language": "v",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "c",
+              "value": "Júki Kadži"
+            },
+            {
+              "language": "s",
+              "value": "Júki Kadži"
+            },
+            {
+              "language": "f",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "r",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "f",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "r",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "j",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "v",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "p",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "r",
+              "value": "Кадзи Юки"
+            },
+            {
+              "language": "u",
+              "value": "Кадзи Юки"
+            },
+            {
+              "language": "d",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "a",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "d",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "f",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "i",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "i",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "d",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "c",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "j",
+              "value": "梶裕貴"
+            },
+            {
+              "language": "a",
+              "value": "梶裕貴"
+            },
+            {
+              "language": "r",
+              "value": "Кадзи, Юки"
+            },
+            {
+              "language": "u",
+              "value": "Кадзи, Юки"
+            },
+            {
+              "language": "s",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "k",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "j",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "v",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "d",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "a",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "f",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "r",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "d",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "h",
+              "value": "Kadzsi Júki"
+            },
+            {
+              "language": "u",
+              "value": "Kadzsi Júki"
+            },
+            {
+              "language": "i",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "t",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "f",
+              "value": "یوکی کاجی"
+            },
+            {
+              "language": "a",
+              "value": "یوکی کاجی"
+            },
+            {
+              "language": "e",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "n",
+              "value": "Kaji Yūki"
+            },
+            {
+              "language": "r",
+              "value": "Юки Кадзи"
+            },
+            {
+              "language": "u",
+              "value": "Юки Кадзи"
+            },
+            {
+              "language": "c",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "a",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yuuki Kaji"
+            },
+            {
+              "language": "z",
+              "value": "梶裕貴"
+            },
+            {
+              "language": "h",
+              "value": "梶裕貴"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "v",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "m",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "t",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "r",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "p",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "l",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "h",
+              "value": "Յուկի Կաջի"
+            },
+            {
+              "language": "y",
+              "value": "Յուկի Կաջի"
+            },
+            {
+              "language": "t",
+              "value": "ยูกิ คาจิ"
+            },
+            {
+              "language": "h",
+              "value": "ยูกิ คาจิ"
+            },
+            {
+              "language": "s",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "k",
+              "value": "Kaji Yuuki"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "n",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Kaji"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Kaji"
+            },
+            {
+              "language": "u",
+              "value": "Yuki Kaji"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "yuki_kaji_official"
+            },
+            "twitter": {
+              "id": "KAJI__OFFICIAL"
+            },
+            "imdb": {
+              "id": "nm2569233"
+            },
+            "library_of_congress": {
+              "id": "no2015083754"
+            },
+            "musicbrainz": {
+              "id": "b394347d-e6b2-4534-b452-c1ac9ad1a005"
+            }
+          },
+          "citizenship": [
+            "Japan"
+          ],
+          "date_of_birth": "1985-09-03",
+          "image": {
+            "url": "https://images.qloo.com/i/4A877406-B6F0-4F58-B3D6-23AB53D80505-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "notable_work": [
+            "Tokyo Ghoul",
+            "Attack on Titan",
+            "My Hero Academia"
+          ],
+          "spouse": [
+            "Ayana Taketatsu"
+          ],
+          "work_period_start": "2004-01-01",
+          "short_description": "Japanese voice actor and singer"
+        },
+        "popularity": 0.9588338896076364,
+        "disambiguation": "1985-09-03",
+        "tags": [
+          {
+            "name": "Japanese Male Video Game Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_male_video_game_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_male_video_game_actors"
+          },
+          {
+            "name": "Male Voice Actors From Tokyo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_voice_actors_from_tokyo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_voice_actors_from_tokyo"
+          },
+          {
+            "name": "21st-century Japanese Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_male_actors"
+          },
+          {
+            "name": "Japanese Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_youtubers"
+          },
+          {
+            "name": "Singers From Tokyo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_tokyo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_tokyo"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Seiyu Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:seiyu_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:seiyu_award_winners"
+          },
+          {
+            "name": "Seiyū",
+            "tag_id": "urn:tag:occupation:person:seiyu",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:seiyu"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Crunchyroll Anime Awards Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:crunchyroll_anime_awards_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:crunchyroll_anime_awards_winners"
+          },
+          {
+            "name": "Japanese Male Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_male_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_male_pop_singers"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "21st-century Japanese Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers"
+          },
+          {
+            "name": "Best Actor Seiyu Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:best_actor_seiyu_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:best_actor_seiyu_award_winners"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "21st-century Japanese Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_male_singers"
+          }
+        ]
+      },
+      {
+        "name": "Aoi Yūki",
+        "entity_id": "30F36650-AE8D-42F2-8FB9-282871E71B1A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "悠木碧"
+            },
+            {
+              "language": "h",
+              "value": "悠木碧"
+            },
+            {
+              "language": "j",
+              "value": "悠木碧"
+            },
+            {
+              "language": "a",
+              "value": "悠木碧"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "j",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "v",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "q",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "c",
+              "value": "Jabusaki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Jabusaki Aoi"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "b",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "h",
+              "value": "אאוי יקי"
+            },
+            {
+              "language": "e",
+              "value": "אאוי יקי"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "t",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "c",
+              "value": "Aoi Jabusaki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Jabusaki"
+            },
+            {
+              "language": "a",
+              "value": "يوكي أوي"
+            },
+            {
+              "language": "r",
+              "value": "يوكي أوي"
+            },
+            {
+              "language": "a",
+              "value": "آوي يوكي"
+            },
+            {
+              "language": "r",
+              "value": "آوي يوكي"
+            },
+            {
+              "language": "e",
+              "value": "Yuki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Yuki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "k",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "k",
+              "value": "유우키 아오이"
+            },
+            {
+              "language": "o",
+              "value": "유우키 아오이"
+            },
+            {
+              "language": "z",
+              "value": "八武崎碧"
+            },
+            {
+              "language": "h",
+              "value": "八武崎碧"
+            },
+            {
+              "language": "c",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "k",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "d",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "t",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "j",
+              "value": "ゆうき あおい"
+            },
+            {
+              "language": "a",
+              "value": "ゆうき あおい"
+            },
+            {
+              "language": "d",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "f",
+              "value": "آئویی یوکی"
+            },
+            {
+              "language": "a",
+              "value": "آئویی یوکی"
+            },
+            {
+              "language": "e",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "n",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "j",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "v",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "m",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "j",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "v",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "c",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "a",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "k",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "s",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "k",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "h",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "u",
+              "value": "Júki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "u",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "f",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "r",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "d",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "c",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "a",
+              "value": "أوي يابوساكي"
+            },
+            {
+              "language": "r",
+              "value": "أوي يابوساكي"
+            },
+            {
+              "language": "j",
+              "value": "八武崎碧"
+            },
+            {
+              "language": "a",
+              "value": "八武崎碧"
+            },
+            {
+              "language": "r",
+              "value": "Ябусаки, Аой"
+            },
+            {
+              "language": "u",
+              "value": "Ябусаки, Аой"
+            },
+            {
+              "language": "r",
+              "value": "Аой Ябусаки"
+            },
+            {
+              "language": "u",
+              "value": "Аой Ябусаки"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "c",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "e",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "n",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "f",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "r",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "g",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "a",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "d",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Júki"
+            },
+            {
+              "language": "k",
+              "value": "Aoi Júki"
+            },
+            {
+              "language": "i",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "d",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "c",
+              "value": "Aoi Júki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Júki"
+            },
+            {
+              "language": "p",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "k",
+              "value": "유키 아오이"
+            },
+            {
+              "language": "o",
+              "value": "유키 아오이"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "s",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "k",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "u",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "p",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "t",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "r",
+              "value": "Юки, Аой"
+            },
+            {
+              "language": "u",
+              "value": "Юки, Аой"
+            },
+            {
+              "language": "r",
+              "value": "Аои Юки"
+            },
+            {
+              "language": "u",
+              "value": "Аои Юки"
+            },
+            {
+              "language": "d",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "u",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "p",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yuki"
+            },
+            {
+              "language": "u",
+              "value": "Аой Юкі"
+            },
+            {
+              "language": "k",
+              "value": "Аой Юкі"
+            },
+            {
+              "language": "r",
+              "value": "Аой Юки"
+            },
+            {
+              "language": "u",
+              "value": "Аой Юки"
+            },
+            {
+              "language": "s",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "k",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "t",
+              "value": "อาโออิ ยูกิ"
+            },
+            {
+              "language": "h",
+              "value": "อาโออิ ยูกิ"
+            },
+            {
+              "language": "f",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "i",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "t",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "s",
+              "value": "Yuuki Aoi"
+            },
+            {
+              "language": "k",
+              "value": "Yuuki Aoi"
+            },
+            {
+              "language": "f",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "r",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "r",
+              "value": "Юки, Аои"
+            },
+            {
+              "language": "u",
+              "value": "Юки, Аои"
+            },
+            {
+              "language": "e",
+              "value": "Yuuki Aoi"
+            },
+            {
+              "language": "n",
+              "value": "Yuuki Aoi"
+            },
+            {
+              "language": "p",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "l",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "n",
+              "value": "Aoi Yabusaki"
+            },
+            {
+              "language": "v",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "i",
+              "value": "Yūki Aoi"
+            },
+            {
+              "language": "d",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "e",
+              "value": "Aoi Yūki"
+            },
+            {
+              "language": "c",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "s",
+              "value": "Yabusaki Aoi"
+            },
+            {
+              "language": "f",
+              "value": "Aoi Yuuki"
+            },
+            {
+              "language": "r",
+              "value": "Aoi Yuuki"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Yuuki+Aoi"
+            },
+            "instagram": {
+              "id": "aoiyuki_official"
+            },
+            "metacritic": {
+              "id": "person/aoi-yuuki"
+            },
+            "twitter": {
+              "id": "staff_aoi"
+            },
+            "spotify": {
+              "id": "5N0D1MQPBlp7GcVf0VHuVQ"
+            },
+            "imdb": {
+              "id": "nm2976492"
+            },
+            "library_of_congress": {
+              "id": "no2021003048"
+            },
+            "musicbrainz": {
+              "id": "97f7cb3d-1d45-473a-8000-8d929ea8d36f"
+            }
+          },
+          "citizenship": [
+            "Japan"
+          ],
+          "date_of_birth": "1992-03-27",
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2012-01-01",
+          "short_description": "Japanese actress, voice actress and singer"
+        },
+        "popularity": 0.9568606560050446,
+        "disambiguation": "1992-03-27",
+        "tags": [
+          {
+            "name": "21st-century Japanese Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_singers"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:media:adventure",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adventure"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Japanese Women Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_women_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_women_television_personalities"
+          },
+          {
+            "name": "20th-century Japanese Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_japanese_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_japanese_actresses"
+          },
+          {
+            "name": "Waseda University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:waseda_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:waseda_university_alumni"
+          },
+          {
+            "name": "Seiyū",
+            "tag_id": "urn:tag:occupation:person:seiyu",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:seiyu"
+          },
+          {
+            "name": "Singers From Chiba Prefecture",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_chiba_prefecture",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_chiba_prefecture"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Seiyu Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:seiyu_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:seiyu_award_winners"
+          },
+          {
+            "name": "Child Actor",
+            "tag_id": "urn:tag:occupation:person:child_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:child_actor"
+          },
+          {
+            "name": "Voice Actresses From Chiba Prefecture",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:voice_actresses_from_chiba_prefecture",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:voice_actresses_from_chiba_prefecture"
+          },
+          {
+            "name": "Japanese Women Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_women_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_women_pop_singers"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "21st-century Japanese Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_japanese_women_singers"
+          },
+          {
+            "name": "Japanese Child Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_child_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_child_actresses"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "Japanese Video Game Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:japanese_video_game_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:japanese_video_game_actresses"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Aoni Production Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aoni_production_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aoni_production_voice_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          }
+        ]
+      }
+    ]
+  }
+}

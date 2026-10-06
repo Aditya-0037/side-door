@@ -1,0 +1,193 @@
+﻿K0 sanity: search 'Inception' ...
+   status 200, 5 results
+
+K1 athlete coverage (40 names) ...
+   OK Max Verstappen           -> Max Verstappen
+   OK Lewis Hamilton           -> Lewis Hamilton
+   OK Charles Leclerc          -> Charles Leclerc
+   OK Lando Norris             -> Lando Norris
+   OK Oscar Piastri            -> Oscar Piastri
+   OK George Russell           -> George Russell
+   ~  Kimi Antonelli           -> Giovanna Antonelli
+   OK Fernando Alonso          -> Fernando Alonso
+   OK Lance Stroll             -> Lance Stroll
+   OK Pierre Gasly             -> Pierre Gasly
+   OK Alexander Albon          -> Alexander Albon
+   OK Carlos Sainz Jr.         -> Carlos Sainz Jr.
+   OK Esteban Ocon             -> Esteban Ocon
+   OK Oliver Bearman           -> Oliver Bearman
+   OK Nico Hulkenberg          -> Nico Hülkenberg
+   OK Gabriel Bortoleto        -> Gabriel Bortoleto
+   OK Liam Lawson              -> Liam Lawson
+   OK Isack Hadjar             -> Isack Hadjar
+   OK Sergio Perez             -> Sergio Pérez
+   OK Yuki Tsunoda             -> Yuki Tsunoda
+   OK Mohamed Salah            -> Mohamed Salah
+   OK Erling Haaland           -> Erling Haaland
+   OK Bukayo Saka              -> Bukayo Saka
+   OK Cole Palmer              -> Cole Palmer
+   OK Bruno Fernandes          -> Bruno Fernandes
+   OK Virgil van Dijk          -> Virgil van Dijk
+   XX Martin Odegaard          -> Martin Ødegaard
+   OK Declan Rice              -> Declan Rice
+   OK Phil Foden               -> Phil Foden
+   OK Son Heung-min            -> Son Heung-min
+   OK LeBron James             -> LeBron James
+   OK Stephen Curry            -> Stephen Curry
+   OK Giannis Antetokounmpo    -> Giannis Antetokounmpo
+   OK Nikola Jokic             -> Nikola Jokić
+   OK Victor Wembanyama        -> Victor Wembanyama
+   OK Virat Kohli              -> Virat Kohli
+   OK Rohit Sharma             -> Rohit Sharma
+   OK Jasprit Bumrah           -> Jasprit Bumrah
+   OK MS Dhoni                 -> MS Dhoni
+   OK Smriti Mandhana          -> Smriti Mandhana
+   => 38 exact, 39 exact+loose of 40 (pass gate: 32)
+
+Resolving persona seeds ...
+   anime-indie  Spirited Away          -> Spirited Away
+   anime-indie  Arijit Singh           -> Arijit Singh
+   anime-indie  Valorant               -> Valorant
+   space-pop    Interstellar           -> Interstellar
+   space-pop    Coldplay               -> Coldplay
+   space-pop    Minecraft              -> Minecraft
+   dark-hiphop  The Dark Knight        -> The Dark Knight
+   dark-hiphop  Eminem                 -> Eminem
+   dark-hiphop  Grand Theft Auto V     -> Grand Theft Auto V
+   romance-pop  Pride and Prejudice    -> Pride & Prejudice
+   romance-pop  Taylor Swift           -> Taylor Swift
+   romance-pop  The Sims 4             -> The Sims 4
+   rock-action  Rocky                  -> Rocky
+   rock-action  AC/DC                  -> AC/DC
+   rock-action  Call of Duty           -> Call of Duty
+
+K2 ranking within fixed F1 set ...
+   status 200, 18 results, 18 distinct affinities, 0 outside the allowed set
+
+K6 explainability payload found: True
+
+K3 different personas -> different picks? ...
+   anime-indie  top-3: ['Yuki Tsunoda', 'Alexander Albon', 'Lando Norris']
+   space-pop    top-3: ['Lewis Hamilton', 'Lando Norris', 'Max Verstappen']
+   dark-hiphop  top-3: ['Lewis Hamilton', 'Charles Leclerc', 'Carlos Sainz Jr.']
+   romance-pop  top-3: ['Giovanna Antonelli', 'Lewis Hamilton', 'Fernando Alonso']
+   rock-action  top-3: ['Carlos Sainz Jr.', 'Lewis Hamilton', 'Sergio Pérez']
+   baseline (no signal) status 200, top-3: ['Lewis Hamilton', 'Max Verstappen', 'Fernando Alonso']
+   => 4 distinct top-1 picks; 3 differ from baseline #1
+
+K4 teams ...
+   Chelsea FC           -> Chelsea F.C.  ['urn:entity:brand']
+   Manchester United    -> Manchester United  ['urn:entity:place']
+   Arsenal FC           -> Arsenal F.C.  ['urn:entity:brand']
+   Liverpool FC         -> Liverpool F.C.  ['urn:entity:brand']
+   McLaren F1 Team      -> Mercedes AMG Petronas F1 Team  ['urn:entity:brand']
+
+K5 filter.results.entities size ...
+   25: status 200, 21 results
+   50: status 200, 39 results
+   100: status 200, 50 results
+
+K7 throughput: 60 calls at ~3 req/s ...
+   429s: 0, non-200: 0
+
+================ SUMMARY ================
+{
+  "K0_sanity": {
+    "status": 200,
+    "results": 5
+  },
+  "K1_coverage": {
+    "exact": 38,
+    "exact_or_loose": 39,
+    "total": 40,
+    "by_group": {
+      "f1": 20,
+      "pl": 9,
+      "nba": 5,
+      "cricket": 5
+    },
+    "pass": true
+  },
+  "K2_ranking": {
+    "status": 200,
+    "results": 18,
+    "distinct_affinities": 18,
+    "outside_set": 0,
+    "pass": true
+  },
+  "K6_explainability": {
+    "payload_found": true
+  },
+  "K3_lift": {
+    "top1_per_persona": {
+      "anime-indie": "Yuki Tsunoda",
+      "space-pop": "Lewis Hamilton",
+      "dark-hiphop": "Lewis Hamilton",
+      "romance-pop": "Giovanna Antonelli",
+      "rock-action": "Carlos Sainz Jr."
+    },
+    "baseline_status": 200,
+    "baseline_top3": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Fernando Alonso"
+    ],
+    "distinct_top1": 4,
+    "top1_not_baseline1": 3,
+    "pass": true
+  },
+  "K4_teams": {
+    "Chelsea FC": {
+      "top": "Chelsea F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "Manchester United": {
+      "top": "Manchester United",
+      "types": [
+        "urn:entity:place"
+      ]
+    },
+    "Arsenal FC": {
+      "top": "Arsenal F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "Liverpool FC": {
+      "top": "Liverpool F.C.",
+      "types": [
+        "urn:entity:brand"
+      ]
+    },
+    "McLaren F1 Team": {
+      "top": "Mercedes AMG Petronas F1 Team",
+      "types": [
+        "urn:entity:brand"
+      ]
+    }
+  },
+  "K5_set_size": {
+    "25": {
+      "status": 200,
+      "results": 21
+    },
+    "50": {
+      "status": 200,
+      "results": 39
+    },
+    "100": {
+      "status": 200,
+      "results": 50
+    }
+  },
+  "K7_throughput": {
+    "calls": 60,
+    "429s": 0,
+    "non_200": 0,
+    "pass": true
+  }
+}
+
+Raw responses: tests/fixtures/   (share the SUMMARY, never your key)

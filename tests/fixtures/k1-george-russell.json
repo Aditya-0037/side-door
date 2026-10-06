@@ -1,0 +1,2515 @@
+{
+  "status": 200,
+  "params": {
+    "query": "George Russell",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "George Russell",
+        "entity_id": "F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "George William Russell"
+            },
+            {
+              "language": "i",
+              "value": "George William Russell"
+            },
+            {
+              "language": "b",
+              "value": "Джордж Уилиам Ръсел"
+            },
+            {
+              "language": "g",
+              "value": "Джордж Уилиам Ръсел"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "j",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "Джорд Ръсел"
+            },
+            {
+              "language": "g",
+              "value": "Джорд Ръсел"
+            },
+            {
+              "language": "g",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Russell"
+            },
+            {
+              "language": "p",
+              "value": "George William Russell"
+            },
+            {
+              "language": "l",
+              "value": "George William Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "Τζορτζ Ράσελ"
+            },
+            {
+              "language": "l",
+              "value": "Τζορτζ Ράσελ"
+            },
+            {
+              "language": "r",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "j",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "a",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "a",
+              "value": "جورج راسل"
+            },
+            {
+              "language": "r",
+              "value": "جورج راسل"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George William Russell"
+            },
+            {
+              "language": "t",
+              "value": "George William Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George William Russell"
+            },
+            {
+              "language": "k",
+              "value": "George William Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "z",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "z",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "ג'ורג' ראסל"
+            },
+            {
+              "language": "e",
+              "value": "ג'ורג' ראסל"
+            },
+            {
+              "language": "v",
+              "value": "George William Russell"
+            },
+            {
+              "language": "i",
+              "value": "George William Russell"
+            },
+            {
+              "language": "k",
+              "value": "조지 러셀"
+            },
+            {
+              "language": "o",
+              "value": "조지 러셀"
+            },
+            {
+              "language": "p",
+              "value": "George William Russell"
+            },
+            {
+              "language": "t",
+              "value": "George William Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "n",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "k",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George William Russell"
+            },
+            {
+              "language": "r",
+              "value": "George William Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "y",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George William Russell"
+            },
+            {
+              "language": "e",
+              "value": "George William Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "Džordžs Rasels"
+            },
+            {
+              "language": "v",
+              "value": "Džordžs Rasels"
+            },
+            {
+              "language": "w",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George William Russell"
+            },
+            {
+              "language": "d",
+              "value": "George William Russell"
+            },
+            {
+              "language": "g",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George William Russell"
+            },
+            {
+              "language": "n",
+              "value": "George William Russell"
+            },
+            {
+              "language": "m",
+              "value": "Џорџ Расел"
+            },
+            {
+              "language": "k",
+              "value": "Џорџ Расел"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George William Russell"
+            },
+            {
+              "language": "y",
+              "value": "George William Russell"
+            },
+            {
+              "language": "s",
+              "value": "Џорџ Расел"
+            },
+            {
+              "language": "r",
+              "value": "Џорџ Расел"
+            },
+            {
+              "language": "p",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "George Russell"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George William Russell"
+            },
+            {
+              "language": "s",
+              "value": "George William Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "Corc Russell"
+            },
+            {
+              "language": "z",
+              "value": "Corc Russell"
+            },
+            {
+              "language": "z",
+              "value": "喬治·羅素"
+            },
+            {
+              "language": "h",
+              "value": "喬治·羅素"
+            },
+            {
+              "language": "g",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "جورج راسل (راننده مسابقه)"
+            },
+            {
+              "language": "a",
+              "value": "جورج راسل (راننده مسابقه)"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "k",
+              "value": "George Russell"
+            },
+            {
+              "language": "k",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George William Russell"
+            },
+            {
+              "language": "o",
+              "value": "George William Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "q",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George William Russell"
+            },
+            {
+              "language": "s",
+              "value": "George William Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "p",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell (vozač)"
+            },
+            {
+              "language": "s",
+              "value": "George Russell (vozač)"
+            },
+            {
+              "language": "g",
+              "value": "George William Russell"
+            },
+            {
+              "language": "l",
+              "value": "George William Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "m",
+              "value": "George Russell"
+            },
+            {
+              "language": "k",
+              "value": "George Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "k",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "z",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George William Russell"
+            },
+            {
+              "language": "r",
+              "value": "George William Russell"
+            },
+            {
+              "language": "d",
+              "value": "George William Russell"
+            },
+            {
+              "language": "a",
+              "value": "George William Russell"
+            },
+            {
+              "language": "h",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "georgerussell63"
+            },
+            "twitter": {
+              "id": "GeorgeRussell63"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1998-02-15",
+          "image": {
+            "url": "https://images.qloo.com/i/F5E0E5F6-54AB-4BDF-9BC5-87F6F478E7BF-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing",
+            "Formula One racing"
+          ],
+          "member_of_sports_team": [
+            "Williams Racing"
+          ],
+          "short_description": "British racing driver (born 1998)"
+        },
+        "popularity": 0.9706569835074635,
+        "disambiguation": "1998-02-15",
+        "tags": [
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Fia Formula 2 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions"
+          },
+          {
+            "name": "English Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_twitch_service_streamers"
+          },
+          {
+            "name": "Art Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Sportspeople From Kings Lynn",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_kings_lynn",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_kings_lynn"
+          },
+          {
+            "name": "English Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers"
+          },
+          {
+            "name": "Mercedes-benz Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mercedes_benz_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mercedes_benz_formula_one_drivers"
+          },
+          {
+            "name": "Williams Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers"
+          },
+          {
+            "name": "English Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_racing_drivers"
+          },
+          {
+            "name": "Gp3 Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp3_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp3_series_champions"
+          },
+          {
+            "name": "Koiranen Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Hitech Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Engvarb From July 2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_july_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_july_2024"
+          },
+          {
+            "name": "Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp3_series_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "People Educated At Wisbech Grammar School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_wisbech_grammar_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_wisbech_grammar_school"
+          },
+          {
+            "name": "Formula Renault 2.0 Alps Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Tech 1 Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Russell Tovey",
+        "entity_id": "0029BCC6-1477-4576-8CC5-AA4308568CEC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "t",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "j",
+              "value": "ラッセル・トーヴィー"
+            },
+            {
+              "language": "a",
+              "value": "ラッセル・トーヴィー"
+            },
+            {
+              "language": "t",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "o",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "t",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Тови, Рассел"
+            },
+            {
+              "language": "u",
+              "value": "Тови, Рассел"
+            },
+            {
+              "language": "n",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "n",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "d",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "i",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "d",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "p",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "t",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "p",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "t",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "c",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "c",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "g",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "p",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "n",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Ράσελ Τόβεϊ"
+            },
+            {
+              "language": "l",
+              "value": "Ράσελ Τόβεϊ"
+            },
+            {
+              "language": "h",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "u",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "p",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "d",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "h",
+              "value": "ראסל טובי"
+            },
+            {
+              "language": "e",
+              "value": "ראסל טובי"
+            },
+            {
+              "language": "d",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "q",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Расел Тови"
+            },
+            {
+              "language": "r",
+              "value": "Расел Тови"
+            },
+            {
+              "language": "i",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "d",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "d",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "v",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "g",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "f",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "i",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "f",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "f",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "u",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "z",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "z",
+              "value": "拉塞尔·托维"
+            },
+            {
+              "language": "h",
+              "value": "拉塞尔·托维"
+            },
+            {
+              "language": "a",
+              "value": "راسل توفي"
+            },
+            {
+              "language": "r",
+              "value": "راسل توفي"
+            },
+            {
+              "language": "t",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "f",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "i",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "h",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "u",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "g",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "j",
+              "value": "ラッセル・トーヴィ"
+            },
+            {
+              "language": "a",
+              "value": "ラッセル・トーヴィ"
+            },
+            {
+              "language": "l",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "a",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "n",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "b",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "u",
+              "value": "Рассел Тові"
+            },
+            {
+              "language": "k",
+              "value": "Рассел Тові"
+            },
+            {
+              "language": "z",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "h",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "e",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "n",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "l",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "f",
+              "value": "Russel Tovey"
+            },
+            {
+              "language": "r",
+              "value": "Russel Tovey"
+            },
+            {
+              "language": "c",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "s",
+              "value": "Russell George Tovey"
+            },
+            {
+              "language": "k",
+              "value": "러셀 토비"
+            },
+            {
+              "language": "o",
+              "value": "러셀 토비"
+            },
+            {
+              "language": "s",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "k",
+              "value": "Russell Tovey"
+            },
+            {
+              "language": "h",
+              "value": "Ռասել Թովի"
+            },
+            {
+              "language": "y",
+              "value": "Ռասել Թովի"
+            },
+            {
+              "language": "j",
+              "value": "ラッセル・トヴェイ"
+            },
+            {
+              "language": "a",
+              "value": "ラッセル・トヴェイ"
+            },
+            {
+              "language": "r",
+              "value": "Рассел Тови"
+            },
+            {
+              "language": "u",
+              "value": "Рассел Тови"
+            },
+            {
+              "language": "f",
+              "value": "راسل تووی"
+            },
+            {
+              "language": "a",
+              "value": "راسل تووی"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "russelltovey"
+            },
+            "imdb": {
+              "id": "nm0869871"
+            },
+            "library_of_congress": {
+              "id": "no2006107819"
+            },
+            "musicbrainz": {
+              "id": "24712d7e-9812-48fe-a2bf-5f711b0ec69d"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1981-11-14",
+          "image": {
+            "url": "https://images.qloo.com/i/0029BCC6-1477-4576-8CC5-AA4308568CEC-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1994-01-01",
+          "short_description": "British actor"
+        },
+        "popularity": 0.8940270273208597,
+        "disambiguation": "1981-11-14",
+        "tags": [
+          {
+            "name": "20th-century English Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_actors"
+          },
+          {
+            "name": "Mystery",
+            "tag_id": "urn:tag:genre:media:media:mystery",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:mystery"
+          },
+          {
+            "name": "Reality-tv",
+            "tag_id": "urn:tag:genre:media:media:reality_tv",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:reality_tv"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Writers From Essex",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_from_essex",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_from_essex"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "English Male Radio Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_radio_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_radio_actors"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:media:adventure",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adventure"
+          },
+          {
+            "name": "English Male Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_dramatists_playwrights"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "20th-century English Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_lgbt_people"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "21st-century English Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "English Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_dramatists_playwrights"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "English Gay Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_gay_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_gay_actors"
+          },
+          {
+            "name": "English Male Shakespearean Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_shakespearean_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_shakespearean_actors"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "English Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_television_actors"
+          },
+          {
+            "name": "English Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors"
+          },
+          {
+            "name": "English Male Stage Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_stage_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_stage_actors"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Male Actors From Essex",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_essex",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_essex"
+          },
+          {
+            "name": "English Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_film_actors"
+          },
+          {
+            "name": "21st-century English Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_lgbt_people"
+          },
+          {
+            "name": "Actors From Billericay",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actors_from_billericay",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actors_from_billericay"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Playwright",
+            "tag_id": "urn:tag:occupation:person:playwright",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:playwright"
+          }
+        ]
+      },
+      {
+        "name": "George Russell",
+        "entity_id": "E67977F9-7B9E-4DCB-B545-3A22215C6BBC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "جورج راسيل"
+            },
+            {
+              "language": "r",
+              "value": "جورج راسيل"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Allan Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Allan Russell"
+            },
+            {
+              "language": "k",
+              "value": "조지 앨런 러셀"
+            },
+            {
+              "language": "o",
+              "value": "조지 앨런 러셀"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Allan Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Allan Russell"
+            },
+            {
+              "language": "r",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Расселл"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "j",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "a",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "s",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell (besteci)"
+            },
+            {
+              "language": "r",
+              "value": "George Russell (besteci)"
+            },
+            {
+              "language": "r",
+              "value": "Расселл, Джордж"
+            },
+            {
+              "language": "u",
+              "value": "Расселл, Джордж"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "o",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "George Russell"
+            },
+            {
+              "language": "u",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russel"
+            },
+            {
+              "language": "v",
+              "value": "George Russel"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "y",
+              "value": "George Russell"
+            },
+            {
+              "language": "g",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "Джордж Рассел"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Рассел"
+            },
+            {
+              "language": "r",
+              "value": "Рассел, Джордж"
+            },
+            {
+              "language": "u",
+              "value": "Рассел, Джордж"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "q",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "k",
+              "value": "조지 러셀"
+            },
+            {
+              "language": "o",
+              "value": "조지 러셀"
+            },
+            {
+              "language": "p",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "h",
+              "value": "ג'ורג' אלן ראסל"
+            },
+            {
+              "language": "e",
+              "value": "ג'ורג' אלן ראסל"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "Рассел, Джордж Аллен"
+            },
+            {
+              "language": "u",
+              "value": "Рассел, Джордж Аллен"
+            },
+            {
+              "language": "f",
+              "value": "جرج آلن راسل"
+            },
+            {
+              "language": "a",
+              "value": "جرج آلن راسل"
+            },
+            {
+              "language": "b",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "n",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "f",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "p",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Allen Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Allen Russell"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "n85091661"
+            },
+            "musicbrainz": {
+              "id": "a4766482-46bd-4333-aa29-4148afac366b"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1923-06-23",
+          "date_of_death": "2009-07-27",
+          "image": {
+            "url": "https://images.qloo.com/i/E67977F9-7B9E-4DCB-B545-3A22215C6BBC-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "piano"
+          ],
+          "spouse": [
+            "Annakajsa Wahlstedt"
+          ],
+          "short_description": "American pianist and composer"
+        },
+        "disambiguation": "1923-06-23",
+        "tags": [
+          {
+            "name": "Deaths From Alzheimers Disease In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deaths_from_alzheimers_disease_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deaths_from_alzheimers_disease_in_united_states"
+          },
+          {
+            "name": "Macarthur Fellows",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:macarthur_fellows",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:macarthur_fellows"
+          },
+          {
+            "name": "American Music Arrangers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_music_arrangers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_music_arrangers"
+          },
+          {
+            "name": "20th-century Jazz Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_jazz_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_jazz_composers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Music Educator",
+            "tag_id": "urn:tag:occupation:person:music_educator",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:music_educator"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "20th-century African-american Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_musicians"
+          },
+          {
+            "name": "Culture Of Boston",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:culture_boston",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:culture_boston"
+          },
+          {
+            "name": "Musicians From Boston",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_boston",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_boston"
+          },
+          {
+            "name": "African-american Jazz Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_jazz_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_jazz_musicians"
+          },
+          {
+            "name": "20th-century American Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_composers"
+          },
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:occupation:person:pianist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:pianist"
+          },
+          {
+            "name": "Wilberforce University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wilberforce_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wilberforce_university_alumni"
+          },
+          {
+            "name": "20th-century American Musicologists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_musicologists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_musicologists"
+          },
+          {
+            "name": "American Jazz Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_jazz_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_jazz_pianists"
+          },
+          {
+            "name": "American Male Jazz Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_jazz_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_jazz_composers"
+          },
+          {
+            "name": "Strata-east Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:strata_east_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:strata_east_records_artists"
+          },
+          {
+            "name": "American Male Jazz Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_jazz_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_jazz_pianists"
+          },
+          {
+            "name": "Jazz Musicians From Massachusetts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jazz_musicians_from_massachusetts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jazz_musicians_from_massachusetts"
+          },
+          {
+            "name": "American Music Theorists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_music_theorists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_music_theorists"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "American Jazz Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_jazz_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_jazz_composers"
+          },
+          {
+            "name": "Jazz Arrangers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jazz_arrangers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jazz_arrangers"
+          },
+          {
+            "name": "Label Bleu Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:label_bleu_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:label_bleu_artists"
+          },
+          {
+            "name": "Riverside Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:riverside_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:riverside_records_artists"
+          },
+          {
+            "name": "Musicians From Cincinnati",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_cincinnati",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_cincinnati"
+          },
+          {
+            "name": "20th-century American Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_pianists"
+          },
+          {
+            "name": "21st-century African-american Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_musicians"
+          },
+          {
+            "name": "Music Theorist",
+            "tag_id": "urn:tag:occupation:person:music_theorist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:music_theorist"
+          },
+          {
+            "name": "Jazz Musician",
+            "tag_id": "urn:tag:occupation:person:jazz_musician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:jazz_musician"
+          },
+          {
+            "name": "Musicologist",
+            "tag_id": "urn:tag:occupation:person:musicologist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:musicologist"
+          },
+          {
+            "name": "Neurological Disease Deaths In Massachusetts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:neurological_disease_deaths_in_massachusetts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:neurological_disease_deaths_in_massachusetts"
+          },
+          {
+            "name": "20th-century American Male Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_musicians"
+          },
+          {
+            "name": "African-american Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_pianists"
+          },
+          {
+            "name": "American Jazz Educators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_jazz_educators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_jazz_educators"
+          },
+          {
+            "name": "New York Jazz Repertory Company Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_jazz_repertory_company_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_jazz_repertory_company_members"
+          },
+          {
+            "name": "New England Conservatory Faculty",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_england_conservatory_faculty",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_england_conservatory_faculty"
+          },
+          {
+            "name": "Third Stream Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:third_stream_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:third_stream_musicians"
+          }
+        ]
+      },
+      {
+        "name": "George Russell",
+        "entity_id": "3030B2A2-E4EB-4C95-A315-8D771F4D9FF0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "e",
+              "value": "George Henry Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Henry Russell"
+            },
+            {
+              "language": "b",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "n",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            }
+          ],
+          "external": {},
+          "date_of_birth": "1902-01-01",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Watford F.C."
+          ],
+          "short_description": "English football player (1902 - post 1035)"
+        },
+        "disambiguation": "1902-01-01",
+        "tags": [
+          {
+            "name": "Bristol Rovers F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bristol_rovers_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bristol_rovers_f_c_players"
+          },
+          {
+            "name": "Newport County A.f.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:newport_county_a_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:newport_county_a_f_c_players"
+          },
+          {
+            "name": "Cardiff City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cardiff_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cardiff_city_f_c_players"
+          },
+          {
+            "name": "Stafford Rangers F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stafford_rangers_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stafford_rangers_f_c_players"
+          },
+          {
+            "name": "Mens Association Football Fullbacks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_fullbacks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_fullbacks"
+          },
+          {
+            "name": "Watford F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:watford_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:watford_f_c_players"
+          },
+          {
+            "name": "People From Atherstone",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_atherstone",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_atherstone"
+          },
+          {
+            "name": "Sheffield United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sheffield_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sheffield_united_f_c_players"
+          },
+          {
+            "name": "Portsmouth F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portsmouth_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portsmouth_f_c_players"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "English Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_football_league_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Northampton Town F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:northampton_town_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:northampton_town_f_c_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Bangor City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bangor_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bangor_city_f_c_players"
+          }
+        ]
+      },
+      {
+        "name": "George Russell",
+        "entity_id": "924DEE69-6030-4DFE-A339-D0D2DCE46CA5",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "جورج راسيل"
+            },
+            {
+              "language": "r",
+              "value": "جورج راسيل"
+            },
+            {
+              "language": "e",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "c",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "v",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "George Russell"
+            },
+            {
+              "language": "n",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            },
+            {
+              "language": "p",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "i",
+              "value": "George Russell"
+            },
+            {
+              "language": "t",
+              "value": "George Russell"
+            },
+            {
+              "language": "b",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "n",
+              "value": "জর্জ রাসেল"
+            },
+            {
+              "language": "f",
+              "value": "George Russell"
+            },
+            {
+              "language": "r",
+              "value": "George Russell"
+            },
+            {
+              "language": "d",
+              "value": "George Russell"
+            },
+            {
+              "language": "a",
+              "value": "George Russell"
+            },
+            {
+              "language": "j",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "a",
+              "value": "ジョージ・ラッセル"
+            },
+            {
+              "language": "s",
+              "value": "George Russell"
+            },
+            {
+              "language": "l",
+              "value": "George Russell"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "nb99127377"
+            }
+          },
+          "citizenship": [
+            "United Kingdom",
+            "United Kingdom of Great Britain and Ireland"
+          ],
+          "date_of_birth": "1857-01-01",
+          "date_of_death": "1951-01-01",
+          "gender": [
+            "male"
+          ],
+          "short_description": "English horticulturist"
+        },
+        "disambiguation": "1857-01-01",
+        "tags": [
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Veitch Memorial Medal Recipients",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:veitch_memorial_medal_recipients",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:veitch_memorial_medal_recipients"
+          },
+          {
+            "name": "Incomplete Lists From June 2016",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:incomplete_lists_from_june_2016",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:incomplete_lists_from_june_2016"
+          },
+          {
+            "name": "Horticulturist",
+            "tag_id": "urn:tag:occupation:person:horticulturist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:horticulturist"
+          },
+          {
+            "name": "English Horticulturists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_horticulturists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_horticulturists"
+          },
+          {
+            "name": "Lupinus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lupinus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lupinus"
+          },
+          {
+            "name": "People From Hambleton District",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_hambleton_district",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_hambleton_district"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3942 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Pierre Gasly",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Pierre Gasly",
+        "entity_id": "5660F324-3476-4F3F-A40C-ACF4A3153060",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "w",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "g",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "c",
+              "value": "Pedro Gaseoso"
+            },
+            {
+              "language": "a",
+              "value": "Pedro Gaseoso"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pyer Qasli"
+            },
+            {
+              "language": "z",
+              "value": "Pyer Qasli"
+            },
+            {
+              "language": "z",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "h",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "بيير جاسلي"
+            },
+            {
+              "language": "r",
+              "value": "بيير جاسلي"
+            },
+            {
+              "language": "z",
+              "value": "皮埃爾·蓋斯利"
+            },
+            {
+              "language": "h",
+              "value": "皮埃爾·蓋斯利"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "k",
+              "value": "პიერ გასლი"
+            },
+            {
+              "language": "a",
+              "value": "პიერ გასლი"
+            },
+            {
+              "language": "h",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "g",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "u",
+              "value": "П'єр Гаслі"
+            },
+            {
+              "language": "k",
+              "value": "П'єр Гаслі"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "v",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "h",
+              "value": "פייר גאסלי"
+            },
+            {
+              "language": "e",
+              "value": "פייר גאסלי"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "o",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Пјер Гасли"
+            },
+            {
+              "language": "r",
+              "value": "Пјер Гасли"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "g",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "z",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Гасли, Пьер"
+            },
+            {
+              "language": "u",
+              "value": "Гасли, Пьер"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "k",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "u",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "z",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "y",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "v",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "o",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "o",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pjērs Gaslī"
+            },
+            {
+              "language": "v",
+              "value": "Pjērs Gaslī"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "v",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Jean-Jacques Gasly"
+            },
+            {
+              "language": "b",
+              "value": "Пиер Гасли"
+            },
+            {
+              "language": "g",
+              "value": "Пиер Гасли"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "g",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "q",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Пьер Гасли"
+            },
+            {
+              "language": "u",
+              "value": "Пьер Гасли"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "u",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "u",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "k",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "j",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "h",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "u",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "e",
+              "value": "Πιερ Γκασλί"
+            },
+            {
+              "language": "l",
+              "value": "Πιερ Γκασλί"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "h",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "o",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Gasly"
+            },
+            {
+              "language": "j",
+              "value": "ピエール・ガスリー"
+            },
+            {
+              "language": "a",
+              "value": "ピエール・ガスリー"
+            },
+            {
+              "language": "f",
+              "value": "پیر گاسلی"
+            },
+            {
+              "language": "a",
+              "value": "پیر گاسلی"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "pierregasly"
+            },
+            "twitter": {
+              "id": "PierreGASLY"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1996-02-07",
+          "image": {
+            "url": "https://images.qloo.com/i/5660F324-3476-4F3F-A40C-ACF4A3153060-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "Red Bull Racing",
+            "Scuderia Toro Rosso",
+            "Alpine F1 Team"
+          ],
+          "short_description": "French racing driver"
+        },
+        "popularity": 0.9796968939237451,
+        "disambiguation": "1996-02-07",
+        "tags": [
+          {
+            "name": "French Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Tech 1 Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers"
+          },
+          {
+            "name": "French F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_f4_championship_drivers"
+          },
+          {
+            "name": "Alphatauri Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alphatauri_formula_one_drivers"
+          },
+          {
+            "name": "Red Bull Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers"
+          },
+          {
+            "name": "Formula E Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_e_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_e_drivers"
+          },
+          {
+            "name": "Engvarb From March 2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_march_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_march_2024"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "French Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_formula_one_drivers"
+          },
+          {
+            "name": "French Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_racing_drivers"
+          },
+          {
+            "name": "French Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_twitch_service_streamers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "R-ace Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers"
+          },
+          {
+            "name": "Mugen Motorsports Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mugen_motorsports_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mugen_motorsports_drivers"
+          },
+          {
+            "name": "Sportspeople From Rouen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_rouen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_rouen"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Toro Rosso Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Formula Renault 2.0 Alps Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers"
+          },
+          {
+            "name": "Gp2 Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_series_champions"
+          },
+          {
+            "name": "Dams Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dams_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dams_drivers"
+          },
+          {
+            "name": "Caterham Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:caterham_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:caterham_racing_drivers"
+          },
+          {
+            "name": "Super Formula Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_formula_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_formula_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Alpine Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alpine_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alpine_formula_one_drivers"
+          },
+          {
+            "name": "Gp2 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers"
+          },
+          {
+            "name": "Auto Sport Academy Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:auto_sport_academy_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:auto_sport_academy_drivers"
+          },
+          {
+            "name": "World Series Formula V8 3.5 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers"
+          },
+          {
+            "name": "Arden International Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arden_international_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arden_international_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Pierre-Emerick Aubameyang",
+        "entity_id": "11AF5F20-D6CD-4B2E-8727-CE8C73385DDB",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Aubam"
+            },
+            {
+              "language": "r",
+              "value": "Aubam"
+            },
+            {
+              "language": "z",
+              "value": "奧巴美揚"
+            },
+            {
+              "language": "h",
+              "value": "奧巴美揚"
+            },
+            {
+              "language": "d",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "d",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "بيير أوباميانج"
+            },
+            {
+              "language": "r",
+              "value": "بيير أوباميانج"
+            },
+            {
+              "language": "k",
+              "value": "피에르에메릭 아우바메양"
+            },
+            {
+              "language": "o",
+              "value": "피에르에메릭 아우바메양"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "b",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "z",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "u",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "e",
+              "value": "Πιερ-Εμερίκ Ομπαμεγιάνγκ"
+            },
+            {
+              "language": "l",
+              "value": "Πιερ-Εμερίκ Ομπαμεγιάνγκ"
+            },
+            {
+              "language": "k",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Пјер-Емерик Обамејанг"
+            },
+            {
+              "language": "k",
+              "value": "Пјер-Емерик Обамејанг"
+            },
+            {
+              "language": "t",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pjērs Emeriks Obamejangs"
+            },
+            {
+              "language": "v",
+              "value": "Pjērs Emeriks Obamejangs"
+            },
+            {
+              "language": "w",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "k",
+              "value": "პიერ-ემერიკ ობამეიანგი"
+            },
+            {
+              "language": "a",
+              "value": "პიერ-ემერიკ ობამეიანგი"
+            },
+            {
+              "language": "v",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "t",
+              "value": "ปีแยร์-แอเมอริก โอบาเมอย็องก์"
+            },
+            {
+              "language": "h",
+              "value": "ปีแยร์-แอเมอริก โอบาเมอย็องก์"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "g",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "v",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Пьер Обамейянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер Обамейянг"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "d",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "p",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "t",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "h",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Пьер Обамеянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер Обамеянг"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "t",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "z",
+              "value": "皮埃尔-埃默里克·奥巴梅扬"
+            },
+            {
+              "language": "h",
+              "value": "皮埃尔-埃默里克·奥巴梅扬"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "v",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "j",
+              "value": "ピエール＝エメリク・オーバメヤン"
+            },
+            {
+              "language": "a",
+              "value": "ピエール＝エメリク・オーバメヤン"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "v",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Аубамейянг, Пьер-Эмерик"
+            },
+            {
+              "language": "u",
+              "value": "Аубамейянг, Пьер-Эмерик"
+            },
+            {
+              "language": "r",
+              "value": "Пьер-Эмерик Обамейянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер-Эмерик Обамейянг"
+            },
+            {
+              "language": "s",
+              "value": "Aubameyang"
+            },
+            {
+              "language": "v",
+              "value": "Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "n",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "w",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "y",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "b",
+              "value": "П’ер-Эмерык Абамеянг"
+            },
+            {
+              "language": "e",
+              "value": "П’ер-Эмерык Абамеянг"
+            },
+            {
+              "language": "b",
+              "value": "পিয়ের-এমেরিক অবামেয়াং"
+            },
+            {
+              "language": "n",
+              "value": "পিয়ের-এমেরিক অবামেয়াং"
+            },
+            {
+              "language": "u",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "z",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang Crespo"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang Crespo"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "t",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "h",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "u",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "p",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "k",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "f",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "h",
+              "value": "פייר-אמריק אובאמיינג"
+            },
+            {
+              "language": "e",
+              "value": "פייר-אמריק אובאמיינג"
+            },
+            {
+              "language": "g",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "പിയേർ-എമെറിക് ഓബാമേയാങ്"
+            },
+            {
+              "language": "l",
+              "value": "പിയേർ-എമെറിക് ഓബാമേയാങ്"
+            },
+            {
+              "language": "b",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "بيير إيميريك أوباميانغ"
+            },
+            {
+              "language": "r",
+              "value": "بيير إيميريك أوباميانغ"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "u",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "f",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Пьер Эмерик Обамейянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер Эмерик Обамейянг"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Emiliano Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Emiliano Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "b",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "e",
+              "value": "Auba"
+            },
+            {
+              "language": "s",
+              "value": "Auba"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "b",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "m",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pyer-Emerik Aubameyanq"
+            },
+            {
+              "language": "z",
+              "value": "Pyer-Emerik Aubameyanq"
+            },
+            {
+              "language": "g",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "d",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "f",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "a",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "t",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "g",
+              "value": "Pierre-Emerick Aubameyang Crespo"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang Crespo"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "w",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "Pierre-Emerick Emiliano François Aubameyang"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "k",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "g",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "f",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "n",
+              "value": "पिएरे–एमरिक अउबमेयाङ"
+            },
+            {
+              "language": "e",
+              "value": "पिएरे–एमरिक अउबमेयाङ"
+            },
+            {
+              "language": "b",
+              "value": "Пиер-Емерик Обамеянг"
+            },
+            {
+              "language": "g",
+              "value": "Пиер-Емерик Обамеянг"
+            },
+            {
+              "language": "d",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "i",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "k",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "k",
+              "value": "Пьер-Эмерик Обамеянг"
+            },
+            {
+              "language": "f",
+              "value": "پیر امریک اوبامیانگ"
+            },
+            {
+              "language": "a",
+              "value": "پیر امریک اوبامیانگ"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "y",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Пьер Эмерик Обамеянг"
+            },
+            {
+              "language": "u",
+              "value": "Пьер Эмерик Обамеянг"
+            },
+            {
+              "language": "u",
+              "value": "П'єр-Емерік Обамеянг"
+            },
+            {
+              "language": "k",
+              "value": "П'єр-Емерік Обамеянг"
+            },
+            {
+              "language": "b",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "h",
+              "value": "Պիեր-Էմերիկ Օբամեյանգ"
+            },
+            {
+              "language": "y",
+              "value": "Պիեր-Էմերիկ Օբամեյանգ"
+            },
+            {
+              "language": "s",
+              "value": "Пјер Емерик Обамејанг"
+            },
+            {
+              "language": "r",
+              "value": "Пјер Емерик Обамејанг"
+            },
+            {
+              "language": "s",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "l",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "r",
+              "value": "Обамейянг, Пьер-Эмерик"
+            },
+            {
+              "language": "u",
+              "value": "Обамейянг, Пьер-Эмерик"
+            },
+            {
+              "language": "e",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "o",
+              "value": "Pierre-Emerick Aubameyang"
+            },
+            {
+              "language": "c",
+              "value": "Pierre-Emerick Aubameyang"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "auba"
+            },
+            "twitter": {
+              "id": "Aubameyang7"
+            },
+            "imdb": {
+              "id": "nm6482947"
+            }
+          },
+          "citizenship": [
+            "France",
+            "Spain",
+            "Gabon"
+          ],
+          "date_of_birth": "1989-06-18",
+          "image": {
+            "url": "https://images.qloo.com/i/11AF5F20-D6CD-4B2E-8727-CE8C73385DDB-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Chelsea F.C.",
+            "AS Saint-Étienne",
+            "France national under-21 association football team",
+            "Gabon national football team",
+            "Lille OSC",
+            "AC Milan",
+            "FC Barcelona",
+            "Stade Lavallois",
+            "Gabon national under-23 association football team",
+            "Borussia Dortmund",
+            "Arsenal F.C.",
+            "Olympique de Marseille",
+            "AS Monaco FC",
+            "Dijon FCO"
+          ],
+          "work_period_start": "2009-03-16",
+          "short_description": "Gabonese association football player"
+        },
+        "popularity": 0.9904599863015188,
+        "disambiguation": "1989-06-18",
+        "tags": [
+          {
+            "name": "Olympique De Marseille Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympique_marseille_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympique_marseille_players"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Al Qadsiah Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:qadsiah_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:qadsiah_fc_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain"
+          },
+          {
+            "name": "Ogc Nice Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ogc_nice_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ogc_nice_players"
+          },
+          {
+            "name": "Gabonese Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_mens_footballers"
+          },
+          {
+            "name": "2012 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2012_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2012_africa_cup_nations_players"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy"
+          },
+          {
+            "name": "Fc Barcelona Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_barcelona_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_barcelona_players"
+          },
+          {
+            "name": "2010 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2010_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2010_africa_cup_nations_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Saudi Arabia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_saudi_arabia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_saudi_arabia"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Gabonese Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_mens_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "As Saint-étienne Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:as_saint_etienne_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:as_saint_etienne_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_monaco"
+          },
+          {
+            "name": "Footballers From Mayenne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_mayenne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_mayenne"
+          },
+          {
+            "name": "Lille Osc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lille_osc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lille_osc_players"
+          },
+          {
+            "name": "Footballers At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics"
+          },
+          {
+            "name": "2015 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2015_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2015_africa_cup_nations_players"
+          },
+          {
+            "name": "French Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "First Division/premier League Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_division_premier_league_top_scorers"
+          },
+          {
+            "name": "Gabon Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabon_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabon_mens_international_footballers"
+          },
+          {
+            "name": "French People Of Gabonese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_gabonese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_gabonese_descent"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "2017 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2017_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2017_africa_cup_nations_players"
+          },
+          {
+            "name": "Stade Lavallois Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stade_lavallois_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stade_lavallois_players"
+          },
+          {
+            "name": "Olympic Footballers For Gabon",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_gabon",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_gabon"
+          },
+          {
+            "name": "Sportspeople Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent"
+          },
+          {
+            "name": "France Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:france_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:france_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Dijon Fco Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dijon_fco_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dijon_fco_players"
+          },
+          {
+            "name": "Gabonese People Of French Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_people_french_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_people_french_descent"
+          },
+          {
+            "name": "Ligue 1 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ligue_1_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ligue_1_players"
+          },
+          {
+            "name": "African Footballer Of The Year Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_footballer_year_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_footballer_year_winners"
+          },
+          {
+            "name": "Arsenal F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players"
+          },
+          {
+            "name": "French Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_mens_footballers"
+          },
+          {
+            "name": "Bundesliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bundesliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bundesliga_players"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In Saudi Arabia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_saudi_arabia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_saudi_arabia"
+          },
+          {
+            "name": "Ligue 2 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ligue_2_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ligue_2_players"
+          },
+          {
+            "name": "French People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent"
+          },
+          {
+            "name": "Ac Milan Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ac_milan_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ac_milan_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Saudi Arabia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_saudi_arabia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_saudi_arabia"
+          },
+          {
+            "name": "Borussia Dortmund Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:borussia_dortmund_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:borussia_dortmund_players"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Footballers From Pays De La Loire",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_pays_la_loire",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_pays_la_loire"
+          },
+          {
+            "name": "Fc Rouen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_rouen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_rouen_players"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_spain"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "As Monaco Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:as_monaco_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:as_monaco_fc_players"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Gabonese Expatriate Sportspeople In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_expatriate_sportspeople_in_spain"
+          },
+          {
+            "name": "Kicker-torjägerkanone Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kicker_torjagerkanone_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kicker_torjagerkanone_award_winners"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "La Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:la_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:la_liga_players"
+          },
+          {
+            "name": "Sc Bastia Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sc_bastia_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sc_bastia_players"
+          },
+          {
+            "name": "French Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_mens_footballers"
+          },
+          {
+            "name": "Gabonese People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gabonese_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gabonese_people_spanish_descent"
+          }
+        ]
+      },
+      {
+        "name": "Karine Jean-Pierre",
+        "entity_id": "1AB8EE3B-C4C0-44B1-A64B-38C2D5DAEC84",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "p",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "w",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Карін Жан-П'єр"
+            },
+            {
+              "language": "k",
+              "value": "Карін Жан-П'єр"
+            },
+            {
+              "language": "b",
+              "value": "কারিন জিন-পিয়েরে"
+            },
+            {
+              "language": "n",
+              "value": "কারিন জিন-পিয়েরে"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "y",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "j",
+              "value": "カリーヌ・ジーン・ピエール"
+            },
+            {
+              "language": "a",
+              "value": "カリーヌ・ジーン・ピエール"
+            },
+            {
+              "language": "z",
+              "value": "卡琳·让-皮埃尔"
+            },
+            {
+              "language": "h",
+              "value": "卡琳·让-皮埃尔"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karin Jan-Pyer"
+            },
+            {
+              "language": "z",
+              "value": "Karin Jan-Pyer"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "z",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "w",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "h",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "k",
+              "value": "커린 잔피에어"
+            },
+            {
+              "language": "o",
+              "value": "커린 잔피에어"
+            },
+            {
+              "language": "z",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierreová"
+            },
+            {
+              "language": "k",
+              "value": "Karine Jean-Pierreová"
+            },
+            {
+              "language": "r",
+              "value": "Жан-Пьер, Карин"
+            },
+            {
+              "language": "u",
+              "value": "Жан-Пьер, Карин"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "k",
+              "value": "커린 잔 피에어"
+            },
+            {
+              "language": "o",
+              "value": "커린 잔 피에어"
+            },
+            {
+              "language": "t",
+              "value": "కరీన్ జీన్ పియర్"
+            },
+            {
+              "language": "e",
+              "value": "కరీన్ జీన్ పియర్"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Καρίν Ζαν-Πιέρ"
+            },
+            {
+              "language": "l",
+              "value": "Καρίν Ζαν-Πιέρ"
+            },
+            {
+              "language": "h",
+              "value": "קארין ז'אן פייר"
+            },
+            {
+              "language": "e",
+              "value": "קארין ז'אן פייר"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "w",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "y",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "d",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "h",
+              "value": "Կարին Ժան-Պիեռ"
+            },
+            {
+              "language": "y",
+              "value": "Կարին Ժան-Պիեռ"
+            },
+            {
+              "language": "d",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "k",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "d",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "m",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierreová"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierreová"
+            },
+            {
+              "language": "j",
+              "value": "カリーン・ジャンピエール"
+            },
+            {
+              "language": "a",
+              "value": "カリーン・ジャンピエール"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "q",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "m",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "k",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "j",
+              "value": "カリーヌ・ジャン＝ピエール"
+            },
+            {
+              "language": "a",
+              "value": "カリーヌ・ジャン＝ピエール"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "كارين جان بيير"
+            },
+            {
+              "language": "r",
+              "value": "كارين جان بيير"
+            },
+            {
+              "language": "z",
+              "value": "卡琳·简·皮埃尔"
+            },
+            {
+              "language": "h",
+              "value": "卡琳·简·皮埃尔"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "h",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "p",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "کرین ژان پیر"
+            },
+            {
+              "language": "a",
+              "value": "کرین ژان پیر"
+            },
+            {
+              "language": "n",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Карын Жан-П’ер"
+            },
+            {
+              "language": "e",
+              "value": "Карын Жан-П’ер"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "d",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "h",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "m",
+              "value": "Karine Jean-Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Karine Jean-Pierre"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "k_jeanpierre"
+            },
+            "twitter": {
+              "id": "KJP46"
+            },
+            "imdb": {
+              "id": "nm3432488"
+            },
+            "library_of_congress": {
+              "id": "no2019162295"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1974-08-13",
+          "image": {
+            "url": "https://images.qloo.com/i/1AB8EE3B-C4C0-44B1-A64B-38C2D5DAEC84-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "short_description": "White House Press Secretary since 2022"
+        },
+        "popularity": 0.988470444983203,
+        "disambiguation": "1974-08-13",
+        "tags": [
+          {
+            "name": "Government",
+            "tag_id": "urn:tag:genre:media:media:government",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:government"
+          },
+          {
+            "name": "American Women Memoirists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_memoirists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_memoirists"
+          },
+          {
+            "name": "Nonfiction",
+            "tag_id": "urn:tag:genre:media:media:nonfiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:nonfiction"
+          },
+          {
+            "name": "American Political Consultants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_political_consultants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_political_consultants"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "French Lesbians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_lesbians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_lesbians"
+          },
+          {
+            "name": "American Women In Politics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_in_politics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_in_politics"
+          },
+          {
+            "name": "White House Press Secretaries",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:white_house_press_secretaries",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:white_house_press_secretaries"
+          },
+          {
+            "name": "Joe Biden 2020 Presidential Campaign",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:joe_biden_2020_presidential_campaign",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:joe_biden_2020_presidential_campaign"
+          },
+          {
+            "name": "Faith",
+            "tag_id": "urn:tag:genre:media:media:faith",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:faith"
+          },
+          {
+            "name": "Political Staffer",
+            "tag_id": "urn:tag:occupation:person:political_staffer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:political_staffer"
+          },
+          {
+            "name": "21st-century American Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people"
+          },
+          {
+            "name": "Lgbt People From New York (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_new_york_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_new_york_state"
+          },
+          {
+            "name": "French Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_emigrants_to_united_states"
+          },
+          {
+            "name": "Press Secretary",
+            "tag_id": "urn:tag:occupation:person:press_secretary",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:press_secretary"
+          },
+          {
+            "name": "American Lesbians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_lesbians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_lesbians"
+          },
+          {
+            "name": "New York (state) Democrats",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_state_democrats",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_state_democrats"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Msnbc People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:msnbc_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:msnbc_people"
+          },
+          {
+            "name": "21st-century American Women Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_writers"
+          },
+          {
+            "name": "Military Chief Of Staff",
+            "tag_id": "urn:tag:occupation:person:military_chief_staff",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:military_chief_staff"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Presidents",
+            "tag_id": "urn:tag:genre:media:media:presidents",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:presidents"
+          },
+          {
+            "name": "Barack Obama 2008 Presidential Campaign",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:barack_obama_2008_presidential_campaign",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:barack_obama_2008_presidential_campaign"
+          },
+          {
+            "name": "People From Fort-de-france",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_fort_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_fort_france"
+          },
+          {
+            "name": "21st-century American Memoirists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_memoirists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_memoirists"
+          },
+          {
+            "name": "Barack Obama 2012 Presidential Campaign",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:barack_obama_2012_presidential_campaign",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:barack_obama_2012_presidential_campaign"
+          },
+          {
+            "name": "American People Of Haitian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_haitian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_haitian_descent"
+          },
+          {
+            "name": "People Appearing On C-span",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span"
+          },
+          {
+            "name": "Politics",
+            "tag_id": "urn:tag:genre:media:media:politics",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:politics"
+          },
+          {
+            "name": "New York Institute Of Technology Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_institute_technology_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_institute_technology_alumni"
+          },
+          {
+            "name": "Activists From New York City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:activists_from_new_york_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:activists_from_new_york_city"
+          },
+          {
+            "name": "Columbia University Faculty",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:columbia_university_faculty",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:columbia_university_faculty"
+          },
+          {
+            "name": "Lesbian Academics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lesbian_academics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lesbian_academics"
+          },
+          {
+            "name": "Lgbt Appointed Officials In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_appointed_officials_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_appointed_officials_in_united_states"
+          },
+          {
+            "name": "American",
+            "tag_id": "urn:tag:genre:media:media:american",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:american"
+          },
+          {
+            "name": "Inspirational",
+            "tag_id": "urn:tag:genre:media:media:inspirational",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:inspirational"
+          }
+        ]
+      },
+      {
+        "name": "Pierre Ménès",
+        "entity_id": "8C974674-2D17-443C-B338-2AEC849593CE",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "h",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "u",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "v",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "b",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "z",
+              "value": "皮埃尔·梅内斯"
+            },
+            {
+              "language": "h",
+              "value": "皮埃尔·梅内斯"
+            },
+            {
+              "language": "f",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "r",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "n",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "h",
+              "value": "Պիեռ Մենես"
+            },
+            {
+              "language": "y",
+              "value": "Պիեռ Մենես"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "a",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "p",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "l",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "d",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "e",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "s",
+              "value": "Pierre Menes"
+            },
+            {
+              "language": "i",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "t",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "o",
+              "value": "Pierre Ménès"
+            },
+            {
+              "language": "c",
+              "value": "Pierre Ménès"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "PierreMenes"
+            },
+            "imdb": {
+              "id": "nm2020885"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1963-06-29",
+          "image": {
+            "url": "https://images.qloo.com/i/8C974674-2D17-443C-B338-2AEC849593CE-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "short_description": "French football commentator"
+        },
+        "popularity": 0.9790826366314782,
+        "disambiguation": "1963-06-29",
+        "tags": [
+          {
+            "name": "European Television Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:european_television_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:european_television_biography_stubs"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Association Football Commentators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:association_football_commentators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:association_football_commentators"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "French Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_television_presenters"
+          },
+          {
+            "name": "Sports Journalist",
+            "tag_id": "urn:tag:occupation:person:sports_journalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:sports_journalist"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "French Television Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_television_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_television_stubs"
+          },
+          {
+            "name": "French Actor Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_actor_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_actor_stubs"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Georges St-Pierre",
+        "entity_id": "121D98E1-19EA-4DA7-BCF7-24F282F8F035",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Жорж Сен-П'єр"
+            },
+            {
+              "language": "k",
+              "value": "Жорж Сен-П'єр"
+            },
+            {
+              "language": "s",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "p",
+              "value": "GSP"
+            },
+            {
+              "language": "t",
+              "value": "GSP"
+            },
+            {
+              "language": "f",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "p",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Ζωρζ Σαιντ-Πιερ"
+            },
+            {
+              "language": "l",
+              "value": "Ζωρζ Σαιντ-Πιερ"
+            },
+            {
+              "language": "f",
+              "value": "Georges Saint-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Georges Saint-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "p",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "ฌอร์ฌ แซ็ง-ปีแยร์"
+            },
+            {
+              "language": "h",
+              "value": "ฌอร์ฌ แซ็ง-ปีแยร์"
+            },
+            {
+              "language": "p",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "z",
+              "value": "喬治·聖皮亞爾"
+            },
+            {
+              "language": "h",
+              "value": "喬治·聖皮亞爾"
+            },
+            {
+              "language": "f",
+              "value": "George St-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "George St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Җорҗ Сент-Пьер"
+            },
+            {
+              "language": "t",
+              "value": "Җорҗ Сент-Пьер"
+            },
+            {
+              "language": "f",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "جورج سانت بيير"
+            },
+            {
+              "language": "r",
+              "value": "جورج سانت بيير"
+            },
+            {
+              "language": "c",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "p",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "s",
+              "value": "George St. Pierre"
+            },
+            {
+              "language": "v",
+              "value": "George St. Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Сент-Пьер, Джордж"
+            },
+            {
+              "language": "u",
+              "value": "Сент-Пьер, Джордж"
+            },
+            {
+              "language": "i",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St.Pierre"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Сент-Пьєр"
+            },
+            {
+              "language": "k",
+              "value": "Джордж Сент-Пьєр"
+            },
+            {
+              "language": "s",
+              "value": "GSP"
+            },
+            {
+              "language": "v",
+              "value": "GSP"
+            },
+            {
+              "language": "r",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "o",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "h",
+              "value": "Ժորժ Սեն-Պիեր"
+            },
+            {
+              "language": "y",
+              "value": "Ժորժ Սեն-Պիեր"
+            },
+            {
+              "language": "i",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "s",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "v",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "f",
+              "value": "جورج سنت پیر"
+            },
+            {
+              "language": "a",
+              "value": "جورج سنت پیر"
+            },
+            {
+              "language": "h",
+              "value": "ג'ורג'ס סנט פייר"
+            },
+            {
+              "language": "e",
+              "value": "ג'ורג'ס סנט פייר"
+            },
+            {
+              "language": "r",
+              "value": "Жорж Сен-Пьер"
+            },
+            {
+              "language": "u",
+              "value": "Жорж Сен-Пьер"
+            },
+            {
+              "language": "k",
+              "value": "조르주 생피에르"
+            },
+            {
+              "language": "o",
+              "value": "조르주 생피에르"
+            },
+            {
+              "language": "j",
+              "value": "ジョルジュ・サンピエール"
+            },
+            {
+              "language": "a",
+              "value": "ジョルジュ・サンピエール"
+            },
+            {
+              "language": "s",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "q",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "d",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Җорҗ Сен-Пьер"
+            },
+            {
+              "language": "t",
+              "value": "Җорҗ Сен-Пьер"
+            },
+            {
+              "language": "g",
+              "value": "Georges St Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Georges St Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "g",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "b",
+              "value": "Джордж Сейнт Пиер"
+            },
+            {
+              "language": "g",
+              "value": "Джордж Сейнт Пиер"
+            },
+            {
+              "language": "d",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "e",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "s",
+              "value": "St. Pierre"
+            },
+            {
+              "language": "v",
+              "value": "St. Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Сен-Пьер, Жорж"
+            },
+            {
+              "language": "u",
+              "value": "Сен-Пьер, Жорж"
+            },
+            {
+              "language": "a",
+              "value": "Corc Sen-Pyer"
+            },
+            {
+              "language": "z",
+              "value": "Corc Sen-Pyer"
+            },
+            {
+              "language": "v",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "i",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St. Pierre"
+            },
+            {
+              "language": "d",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "r",
+              "value": "Джордж Сент-Пьер"
+            },
+            {
+              "language": "u",
+              "value": "Джордж Сент-Пьер"
+            },
+            {
+              "language": "f",
+              "value": "Georges St-Pierrre"
+            },
+            {
+              "language": "r",
+              "value": "Georges St-Pierrre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "t",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "c",
+              "value": "George St-Pierre"
+            },
+            {
+              "language": "a",
+              "value": "George St-Pierre"
+            },
+            {
+              "language": "n",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "e",
+              "value": "GSP"
+            },
+            {
+              "language": "n",
+              "value": "GSP"
+            },
+            {
+              "language": "p",
+              "value": "Georges St-Pierre"
+            },
+            {
+              "language": "l",
+              "value": "Georges St-Pierre"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "georgesstpierre"
+            },
+            "twitter": {
+              "id": "GeorgesStPierre"
+            },
+            "imdb": {
+              "id": "nm2017048"
+            },
+            "library_of_congress": {
+              "id": "no2009195923"
+            }
+          },
+          "citizenship": [
+            "Canada"
+          ],
+          "date_of_birth": "1981-05-19",
+          "image": {
+            "url": "https://images.qloo.com/i/121D98E1-19EA-4DA7-BCF7-24F282F8F035-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Muay Thai",
+            "karate",
+            "mixed martial arts"
+          ],
+          "member_of_sports_team": [
+            "Jackson Wink MMA Academy"
+          ],
+          "short_description": "Canadian mixed martial arts (MMA) fighter"
+        },
+        "popularity": 0.9738043726421761,
+        "disambiguation": "1981-05-19",
+        "tags": [
+          {
+            "name": "Mixed Martial Arts Fighter",
+            "tag_id": "urn:tag:occupation:person:mixed_martial_arts_fighter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:mixed_martial_arts_fighter"
+          },
+          {
+            "name": "Ultimate Fighting Championship Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_champions"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:occupation:person:athlete",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:athlete"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "People With Ulcerative Colitis",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_ulcerative_colitis",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_ulcerative_colitis"
+          },
+          {
+            "name": "Canadian Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_male_film_actors"
+          },
+          {
+            "name": "Amateur Wrestler",
+            "tag_id": "urn:tag:occupation:person:amateur_wrestler",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:amateur_wrestler"
+          },
+          {
+            "name": "Brazilian Jiu-jitsu Practitioner",
+            "tag_id": "urn:tag:occupation:person:brazilian_jiu_jitsu_practitioner",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:brazilian_jiu_jitsu_practitioner"
+          },
+          {
+            "name": "Canadian People Of French Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_people_french_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_people_french_descent"
+          },
+          {
+            "name": "People Awarded A Black Belt In Brazilian Jiu-jitsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_awarded_a_black_belt_in_brazilian_jiu_jitsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_awarded_a_black_belt_in_brazilian_jiu_jitsu"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Kyokushin Kaikan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_kyokushin_kaikan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_kyokushin_kaikan"
+          },
+          {
+            "name": "Middleweight Mixed Martial Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:middleweight_mixed_martial_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:middleweight_mixed_martial_artists"
+          },
+          {
+            "name": "People With Obsessive–compulsive Disorder",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_obsessive_compulsive_disorder",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_obsessive_compulsive_disorder"
+          },
+          {
+            "name": "Canadian Male Mixed Martial Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_male_mixed_martial_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_male_mixed_martial_artists"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Shidōkan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_shidokan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_shidokan"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Thai Boxer",
+            "tag_id": "urn:tag:occupation:person:thai_boxer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:thai_boxer"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Gaidojutsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_gaidojutsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_gaidojutsu"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Muay Thai",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_muay_thai",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_muay_thai"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Canadian Submission Wrestlers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_submission_wrestlers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_submission_wrestlers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Sportspeople From Montérégie",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_monteregie",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_monteregie"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Brazilian Jiu-jitsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_brazilian_jiu_jitsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_brazilian_jiu_jitsu"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Welterweight Mixed Martial Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:welterweight_mixed_martial_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:welterweight_mixed_martial_artists"
+          },
+          {
+            "name": "Canadian Practitioners Of Brazilian Jiu-jitsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_practitioners_brazilian_jiu_jitsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_practitioners_brazilian_jiu_jitsu"
+          },
+          {
+            "name": "Canadian Male Karateka",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_male_karateka",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_male_karateka"
+          },
+          {
+            "name": "Canadian Muay Thai Practitioners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_muay_thai_practitioners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_muay_thai_practitioners"
+          },
+          {
+            "name": "Ultimate Fighting Championship Male Fighters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_male_fighters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_male_fighters"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:media:media:crime",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:crime"
+          },
+          {
+            "name": "Karateka",
+            "tag_id": "urn:tag:occupation:person:karateka",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:karateka"
+          }
+        ]
+      }
+    ]
+  }
+}

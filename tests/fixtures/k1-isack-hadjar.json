@@ -1,0 +1,1006 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Isack Hadjar",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Isack Hadjar",
+        "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "d",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "e",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "r",
+              "value": "Хаджар, Исаак"
+            },
+            {
+              "language": "u",
+              "value": "Хаджар, Исаак"
+            },
+            {
+              "language": "f",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "i",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "f",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "r",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "p",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "t",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "j",
+              "value": "アイサック・ハジャー"
+            },
+            {
+              "language": "a",
+              "value": "アイサック・ハジャー"
+            },
+            {
+              "language": "a",
+              "value": "اسحاق حجار"
+            },
+            {
+              "language": "r",
+              "value": "اسحاق حجار"
+            },
+            {
+              "language": "h",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "u",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "n",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "z",
+              "value": "伊薩克·哈賈爾"
+            },
+            {
+              "language": "h",
+              "value": "伊薩克·哈賈爾"
+            },
+            {
+              "language": "i",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "t",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "p",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "e",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "t",
+              "value": "Isack Hadjar"
+            },
+            {
+              "language": "r",
+              "value": "Исаак Хаджар"
+            },
+            {
+              "language": "u",
+              "value": "Исаак Хаджар"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "2004-09-28",
+          "image": {
+            "url": "https://images.qloo.com/i/F46BBACD-A50F-4DBA-A3A6-75C22C891A3B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "short_description": "French racing driver"
+        },
+        "disambiguation": "2004-09-28",
+        "tags": [
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Uae F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uae_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uae_f4_championship_drivers"
+          },
+          {
+            "name": "Campos Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers"
+          },
+          {
+            "name": "Formula Regional European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_regional_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_regional_european_championship_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "R-ace Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers"
+          },
+          {
+            "name": "French F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_f4_championship_drivers"
+          },
+          {
+            "name": "French Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_racing_drivers"
+          },
+          {
+            "name": "F3 Asian Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:f3_asian_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:f3_asian_championship_drivers"
+          },
+          {
+            "name": "Evans Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:evans_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:evans_gp_drivers"
+          },
+          {
+            "name": "Hitech Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers"
+          },
+          {
+            "name": "Formula Regional Asian Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers"
+          },
+          {
+            "name": "French Sportspeople Of Algerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_sportspeople_algerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_sportspeople_algerian_descent"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Racing Drivers From Paris",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_paris",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_paris"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Chérif Hadjar",
+        "entity_id": "154BDF8A-F190-4647-A664-A330B24F702E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "n",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "p",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "t",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "f",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "r",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "d",
+              "value": "Chérif Hadjar"
+            },
+            {
+              "language": "e",
+              "value": "Chérif Hadjar"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Algeria"
+          ],
+          "date_of_birth": "1965-01-01",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "short_description": "Algerian football manager"
+        },
+        "disambiguation": "1965-01-01",
+        "tags": [
+          {
+            "name": "Gc Mascara Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gc_mascara_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gc_mascara_managers"
+          },
+          {
+            "name": "Mc El Eulma Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mc_el_eulma_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mc_el_eulma_managers"
+          },
+          {
+            "name": "Rc Relizane Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rc_relizane_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rc_relizane_managers"
+          },
+          {
+            "name": "Mc Saïda Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mc_saida_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mc_saida_managers"
+          },
+          {
+            "name": "Algerian Football Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_football_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_football_managers"
+          },
+          {
+            "name": "Js Saoura Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:js_saoura_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:js_saoura_managers"
+          },
+          {
+            "name": "Jsm Skikda Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jsm_skikda_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jsm_skikda_managers"
+          },
+          {
+            "name": "As Aïn Mlila Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:as_ain_mlila_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:as_ain_mlila_managers"
+          },
+          {
+            "name": "Algerian Football Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_football_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_football_biography_stubs"
+          },
+          {
+            "name": "Us Biskra Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:us_biskra_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:us_biskra_managers"
+          },
+          {
+            "name": "Crb Aïn Fakroun Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:crb_ain_fakroun_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:crb_ain_fakroun_managers"
+          },
+          {
+            "name": "21st-century Algerian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_algerian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_algerian_people"
+          },
+          {
+            "name": "Olympique De Médéa Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympique_medea_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympique_medea_managers"
+          },
+          {
+            "name": "Association Football Manager",
+            "tag_id": "urn:tag:occupation:person:association_football_manager",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_manager"
+          },
+          {
+            "name": "Usm El Harrach Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:usm_el_harrach_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:usm_el_harrach_managers"
+          },
+          {
+            "name": "Cr Témouchent Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cr_temouchent_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cr_temouchent_managers"
+          },
+          {
+            "name": "Algerian Ligue Professionnelle 1 Managers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_ligue_professionnelle_1_managers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_ligue_professionnelle_1_managers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Kenza Hadjar",
+        "entity_id": "D7A5354A-3EC9-4C1A-80CD-F8DB30A68760",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "q",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "n",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "l",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "f",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "r",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "e",
+              "value": "Kenza Hadjar"
+            },
+            {
+              "language": "s",
+              "value": "Kenza Hadjar"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kenza_hadjar22"
+            }
+          },
+          "citizenship": [
+            "Algeria"
+          ],
+          "date_of_birth": "1992-12-24",
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Algeria women's national football team"
+          ],
+          "short_description": "Algerian association football player"
+        },
+        "disambiguation": "1992-12-24",
+        "tags": [
+          {
+            "name": "Algerian Football Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_football_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_football_biography_stubs"
+          },
+          {
+            "name": "Algerian Football Midfielder Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_football_midfielder_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_football_midfielder_stubs"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Algerian Expatriate Sportspeople In Saudi Arabia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_expatriate_sportspeople_in_saudi_arabia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_expatriate_sportspeople_in_saudi_arabia"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Expatriate Womens Footballers In Saudi Arabia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_saudi_arabia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_womens_footballers_in_saudi_arabia"
+          },
+          {
+            "name": "Saudi Womens Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:saudi_womens_premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:saudi_womens_premier_league_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Womens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_association_football_midfielders"
+          },
+          {
+            "name": "Algerian Womens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_womens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_womens_footballers"
+          },
+          {
+            "name": "North African Womens Football Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:north_african_womens_football_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:north_african_womens_football_biography_stubs"
+          },
+          {
+            "name": "Algeria Womens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algeria_womens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algeria_womens_international_footballers"
+          },
+          {
+            "name": "21st-century Algerian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_algerian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_algerian_people"
+          },
+          {
+            "name": "Algerian Expatriate Womens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:algerian_expatriate_womens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:algerian_expatriate_womens_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Hadjar Benmiloud",
+        "entity_id": "E4F59F3F-75D2-4DF3-86F9-B58136C322D0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "o",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "t",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "r",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "s",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "c",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "p",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "t",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "s",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "q",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "d",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "a",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "d",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "e",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "n",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "l",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "f",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "i",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "c",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "a",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "g",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "a",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "n",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "n",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "a",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "n",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "g",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "l",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "f",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "r",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "c",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "y",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "i",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "o",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "n",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "b",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "i",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "t",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "s",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "v",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "e",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "s",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "s",
+              "value": "Hadjar Benmiloud"
+            },
+            {
+              "language": "l",
+              "value": "Hadjar Benmiloud"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Kingdom of the Netherlands"
+          ],
+          "date_of_birth": "1989-11-13",
+          "image": {
+            "url": "https://images.qloo.com/i/E4F59F3F-75D2-4DF3-86F9-B58136C322D0-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "short_description": "Dutch radio host, writer and columnist"
+        },
+        "disambiguation": "1989-11-13",
+        "tags": [
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:genre:person:journalist",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:journalist"
+          },
+          {
+            "name": "Columnist",
+            "tag_id": "urn:tag:occupation:person:columnist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:columnist"
+          },
+          {
+            "name": "Radio Personality",
+            "tag_id": "urn:tag:occupation:person:radio_personality",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:radio_personality"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Essays",
+            "tag_id": "urn:tag:genre:media:media:essays",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:essays"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Feminism",
+            "tag_id": "urn:tag:genre:media:media:feminism",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:feminism"
+          }
+        ]
+      },
+      {
+        "name": "Isack Kamwelwe",
+        "entity_id": "9E7F5A16-A88C-43E0-863F-1CA121BBDECC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "s",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "e",
+              "value": "Eng. Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "n",
+              "value": "Eng. Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "s",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "w",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "g",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "a",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "e",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "n",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "s",
+              "value": "Eng. Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "w",
+              "value": "Eng. Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "s",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "l",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "d",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "e",
+              "value": "Isack Aloyce Kamwelwe"
+            },
+            {
+              "language": "n",
+              "value": "Isack Kamwelwe"
+            },
+            {
+              "language": "l",
+              "value": "Isack Kamwelwe"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Tanzania"
+          ],
+          "date_of_birth": "1956-04-30",
+          "gender": [
+            "male"
+          ],
+          "short_description": "Tanzanian politician"
+        },
+        "disambiguation": "1956-04-30",
+        "tags": [
+          {
+            "name": "Tanzanian Mps 2015–2020",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tanzanian_mps_2015_2020",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tanzanian_mps_2015_2020"
+          },
+          {
+            "name": "Chama Cha Mapinduzi Mps",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chama_cha_mapinduzi_mps",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chama_cha_mapinduzi_mps"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Members Of The National Assembly (tanzania)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:members_national_assembly_tanzania",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:members_national_assembly_tanzania"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Tanzanian Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tanzanian_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tanzanian_roman_catholics"
+          },
+          {
+            "name": "Tanzanian Politician Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tanzanian_politician_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tanzanian_politician_stubs"
+          }
+        ]
+      }
+    ]
+  }
+}

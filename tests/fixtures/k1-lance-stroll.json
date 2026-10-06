@@ -1,0 +1,3630 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Lance Stroll",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Lance Stroll",
+        "entity_id": "10DD7CDD-38BF-478F-A43B-063D0F8AFFCD",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "b",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "u",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "m",
+              "value": "Лэнс Стролл"
+            },
+            {
+              "language": "n",
+              "value": "Лэнс Стролл"
+            },
+            {
+              "language": "a",
+              "value": "لانس سترول"
+            },
+            {
+              "language": "r",
+              "value": "لانس سترول"
+            },
+            {
+              "language": "g",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "k",
+              "value": "랜스 스트롤"
+            },
+            {
+              "language": "o",
+              "value": "랜스 스트롤"
+            },
+            {
+              "language": "h",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "z",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "h",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "h",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "c",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lānss Strols"
+            },
+            {
+              "language": "v",
+              "value": "Lānss Strols"
+            },
+            {
+              "language": "h",
+              "value": "לאנס סטרול"
+            },
+            {
+              "language": "e",
+              "value": "לאנס סטרול"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "z",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "p",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "m",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "q",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lens Stroll"
+            },
+            {
+              "language": "z",
+              "value": "Lens Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "g",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "y",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "n",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "b",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "h",
+              "value": "लांस स्टॉल"
+            },
+            {
+              "language": "i",
+              "value": "लांस स्टॉल"
+            },
+            {
+              "language": "h",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "u",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "u",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "k",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "v",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "i",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "d",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "e",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "j",
+              "value": "ランス・ストロール"
+            },
+            {
+              "language": "a",
+              "value": "ランス・ストロール"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Лэнс Стролл"
+            },
+            {
+              "language": "u",
+              "value": "Лэнс Стролл"
+            },
+            {
+              "language": "w",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "b",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "o",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "r",
+              "value": "Стролл, Лэнс"
+            },
+            {
+              "language": "u",
+              "value": "Стролл, Лэнс"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "j",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "g",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "c",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "z",
+              "value": "蘭斯·斯托爾"
+            },
+            {
+              "language": "h",
+              "value": "蘭斯·斯托爾"
+            },
+            {
+              "language": "s",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "k",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "w",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "h",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "u",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "p",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "l",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "c",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "h",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "u",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "z",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "c",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "d",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "a",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "k",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "v",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Ленс Строл"
+            },
+            {
+              "language": "r",
+              "value": "Ленс Строл"
+            },
+            {
+              "language": "p",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "t",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "f",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "r",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "i",
+              "value": "Lance Strulovich"
+            },
+            {
+              "language": "d",
+              "value": "Lance Strulovich"
+            },
+            {
+              "language": "u",
+              "value": "Ленс Стролл"
+            },
+            {
+              "language": "k",
+              "value": "Ленс Стролл"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "v",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "e",
+              "value": "Λανς Στρολ"
+            },
+            {
+              "language": "l",
+              "value": "Λανς Στρολ"
+            },
+            {
+              "language": "c",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "لانس استرول"
+            },
+            {
+              "language": "a",
+              "value": "لانس استرول"
+            },
+            {
+              "language": "n",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "l",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "p",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "i",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "t",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "b",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "v",
+              "value": "Lance Stroll"
+            },
+            {
+              "language": "f",
+              "value": "Lance Strulovitch"
+            },
+            {
+              "language": "y",
+              "value": "Lance Strulovitch"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "lance_stroll"
+            },
+            "twitter": {
+              "id": "lance_stroll"
+            },
+            "library_of_congress": {
+              "id": "no2019046679"
+            }
+          },
+          "citizenship": [
+            "Canada",
+            "Belgium"
+          ],
+          "date_of_birth": "1998-10-29",
+          "image": {
+            "url": "https://images.qloo.com/i/10DD7CDD-38BF-478F-A43B-063D0F8AFFCD-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing",
+            "Formula One racing"
+          ],
+          "member_of_sports_team": [
+            "Racing Point F1 Team"
+          ],
+          "short_description": "Canadian and Belgian racing driver"
+        },
+        "popularity": 0.9027951424750764,
+        "disambiguation": "1998-10-29",
+        "tags": [
+          {
+            "name": "Racing Drivers From Montreal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_montreal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_montreal"
+          },
+          {
+            "name": "Canadian People Of Belgian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_people_belgian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_people_belgian_descent"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Jota Sport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jota_sport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jota_sport_drivers"
+          },
+          {
+            "name": "Italian F4 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_champions"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Weathertech Sportscar Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:weathertech_sportscar_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:weathertech_sportscar_championship_drivers"
+          },
+          {
+            "name": "Internet Memes Introduced In 2021",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:internet_memes_introduced_in_2021",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:internet_memes_introduced_in_2021"
+          },
+          {
+            "name": "M2 Competition Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers"
+          },
+          {
+            "name": "24 Hours Of Daytona Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:24_hours_daytona_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:24_hours_daytona_drivers"
+          },
+          {
+            "name": "Chip Ganassi Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chip_ganassi_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chip_ganassi_racing_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Canadian People Of Russian-jewish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_people_russian_jewish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_people_russian_jewish_descent"
+          },
+          {
+            "name": "Jewish Canadian Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jewish_canadian_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jewish_canadian_sportspeople"
+          },
+          {
+            "name": "Canadian People Of Serbian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_people_serbian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_people_serbian_descent"
+          },
+          {
+            "name": "Racing Point Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_point_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_point_formula_one_drivers"
+          },
+          {
+            "name": "Aston Martin Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aston_martin_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aston_martin_formula_one_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Toyota Racing Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Canadian Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_formula_one_drivers"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          },
+          {
+            "name": "Williams Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers"
+          },
+          {
+            "name": "Internet Memes",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:internet_memes",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:internet_memes"
+          },
+          {
+            "name": "Canadian Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:canadian_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:canadian_racing_drivers"
+          },
+          {
+            "name": "Italian F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Lance Armstrong",
+        "entity_id": "ED911EFD-818C-4FDA-82DC-A25098C6BBB2",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "b",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lānss Ārmstrongs"
+            },
+            {
+              "language": "v",
+              "value": "Lānss Ārmstrongs"
+            },
+            {
+              "language": "d",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "k",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "k",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "t",
+              "value": "แลนซ์ อาร์มสตรอง"
+            },
+            {
+              "language": "h",
+              "value": "แลนซ์ อาร์มสตรอง"
+            },
+            {
+              "language": "h",
+              "value": "Լենս Արմսթրոնգ"
+            },
+            {
+              "language": "y",
+              "value": "Լենս Արմսթրոնգ"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "லான்சு ஆம்ஸ்டிராங்"
+            },
+            {
+              "language": "a",
+              "value": "லான்சு ஆம்ஸ்டிராங்"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "लान्स आर्मस्ट्राँग"
+            },
+            {
+              "language": "r",
+              "value": "लान्स आर्मस्ट्राँग"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "k",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "n",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "u",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "e",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "n",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong Edward"
+            },
+            {
+              "language": "q",
+              "value": "Lance Armstrong Edward"
+            },
+            {
+              "language": "f",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "r",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "y",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "u",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "n",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "n",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "g",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "z",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "u",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "b",
+              "value": "Ланс Армстронг"
+            },
+            {
+              "language": "g",
+              "value": "Ланс Армстронг"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "d",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "f",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "n",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "b",
+              "value": "ল্যান্স আর্মস্ট্রং"
+            },
+            {
+              "language": "n",
+              "value": "ল্যান্স আর্মস্ট্রং"
+            },
+            {
+              "language": "e",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "q",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "w",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "u",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "k",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "p",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "j",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "ലാൻസ് ആംസ്ട്രോങ്"
+            },
+            {
+              "language": "l",
+              "value": "ലാൻസ് ആംസ്ട്രോങ്"
+            },
+            {
+              "language": "k",
+              "value": "ლენს არმსტრონგი"
+            },
+            {
+              "language": "a",
+              "value": "ლენს არმსტრონგი"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "f",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "y",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "f",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "w",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "g",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "e",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "n",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "b",
+              "value": "Лэнс Армстранг"
+            },
+            {
+              "language": "e",
+              "value": "Лэнс Армстранг"
+            },
+            {
+              "language": "h",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "u",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lenss Ārmstrongs"
+            },
+            {
+              "language": "v",
+              "value": "Lenss Ārmstrongs"
+            },
+            {
+              "language": "e",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "k",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "b",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "h",
+              "value": "ארמסטרונג, לנס. ג׳ניקס, סלי. וייס, הדס"
+            },
+            {
+              "language": "e",
+              "value": "ארמסטרונג, לנס. ג׳ניקס, סלי. וייס, הדס"
+            },
+            {
+              "language": "h",
+              "value": "לאנס ארמסטרונג"
+            },
+            {
+              "language": "e",
+              "value": "לאנס ארמסטרונג"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "h",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "u",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "t",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "g",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Edward Armstrong"
+            },
+            {
+              "language": "f",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "h",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "r",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "لانس آرمسترونج"
+            },
+            {
+              "language": "r",
+              "value": "لانس آرمسترونج"
+            },
+            {
+              "language": "j",
+              "value": "ランス・アームストロング"
+            },
+            {
+              "language": "a",
+              "value": "ランス・アームストロング"
+            },
+            {
+              "language": "e",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "p",
+              "value": "Lance Edward Gunderson Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Edward Gunderson Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "d",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "a",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "f",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "i",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "t",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "r",
+              "value": "Армстронг, Лэнс"
+            },
+            {
+              "language": "u",
+              "value": "Армстронг, Лэнс"
+            },
+            {
+              "language": "e",
+              "value": "Λανς Άρμστρονγκ"
+            },
+            {
+              "language": "l",
+              "value": "Λανς Άρμστρονγκ"
+            },
+            {
+              "language": "k",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "g",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "m",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "n",
+              "value": "Лэнс Армстронг"
+            },
+            {
+              "language": "n",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "b",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "w",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "v",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "g",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "d",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "c",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "r",
+              "value": "Ленс Армстронг"
+            },
+            {
+              "language": "n",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "b",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "p",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "l",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "h",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "u",
+              "value": "Lance Edward Gunderson"
+            },
+            {
+              "language": "a",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "f",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "ලාන්ස් ආම්ස්ට්‍රෝන්ග්"
+            },
+            {
+              "language": "i",
+              "value": "ලාන්ස් ආම්ස්ට්‍රෝන්ග්"
+            },
+            {
+              "language": "f",
+              "value": "لانس آرمسترانگ"
+            },
+            {
+              "language": "a",
+              "value": "لانس آرمسترانگ"
+            },
+            {
+              "language": "k",
+              "value": "랜스 암스트롱"
+            },
+            {
+              "language": "o",
+              "value": "랜스 암스트롱"
+            },
+            {
+              "language": "i",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "o",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "h",
+              "value": "Լենս Էդվարդ Արմսթրոնգ"
+            },
+            {
+              "language": "y",
+              "value": "Լենս Էդվարդ Արմսթրոնգ"
+            },
+            {
+              "language": "m",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "s",
+              "value": "Lance Armstrong"
+            },
+            {
+              "language": "z",
+              "value": "兰斯·阿姆斯特朗"
+            },
+            {
+              "language": "h",
+              "value": "兰斯·阿姆斯特朗"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "lancearmstrong"
+            },
+            "imdb": {
+              "id": "nm0035790"
+            },
+            "library_of_congress": {
+              "id": "n96026176"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1971-09-18",
+          "image": {
+            "url": "https://images.qloo.com/i/ED911EFD-818C-4FDA-82DC-A25098C6BBB2-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "road bicycle racing",
+            "triathlon"
+          ],
+          "member_of_sports_team": [
+            "Discovery Channel",
+            "Astana Qazaqstan Team",
+            "Motorola",
+            "RadioShack",
+            "Cofidis"
+          ],
+          "short_description": "cyclist from the United States"
+        },
+        "popularity": 0.9796914580185038,
+        "disambiguation": "1971-09-18",
+        "tags": [
+          {
+            "name": "Olympic Cyclists For The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_cyclists_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_cyclists_united_states"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "American Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_philanthropists"
+          },
+          {
+            "name": "Sportspeople Banned For Life",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_banned_life",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_banned_life"
+          },
+          {
+            "name": "Competitors Stripped Of Summer Olympics Medals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:competitors_stripped_summer_olympics_medals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:competitors_stripped_summer_olympics_medals"
+          },
+          {
+            "name": "Podcaster",
+            "tag_id": "urn:tag:occupation:person:podcaster",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:podcaster"
+          },
+          {
+            "name": "American Cycling Road Race Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_cycling_road_race_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_cycling_road_race_champions"
+          },
+          {
+            "name": "Autobiographer",
+            "tag_id": "urn:tag:occupation:person:autobiographer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:autobiographer"
+          },
+          {
+            "name": "Lance Armstrong",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lance_armstrong",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lance_armstrong"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Cyclists At The 1992 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cyclists_at_1992_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cyclists_at_1992_summer_olympics"
+          },
+          {
+            "name": "Businesspeople From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:businesspeople_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:businesspeople_from_texas"
+          },
+          {
+            "name": "American Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_investors"
+          },
+          {
+            "name": "American Drink Industry Businesspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_drink_industry_businesspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_drink_industry_businesspeople"
+          },
+          {
+            "name": "People Stripped Of Honorary Degrees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_stripped_honorary_degrees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_stripped_honorary_degrees"
+          },
+          {
+            "name": "American Male Cyclists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_cyclists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_cyclists"
+          },
+          {
+            "name": "21st-century American Businesspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_businesspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_businesspeople"
+          },
+          {
+            "name": "Laureus World Sports Awards Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:laureus_world_sports_awards_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:laureus_world_sports_awards_winners"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "American Tour De France Stage Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_tour_france_stage_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_tour_france_stage_winners"
+          },
+          {
+            "name": "American Health Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_health_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_health_activists"
+          },
+          {
+            "name": "Cyclists At The 2000 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cyclists_at_2000_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cyclists_at_2000_summer_olympics"
+          },
+          {
+            "name": "Cyclists At The 1996 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cyclists_at_1996_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cyclists_at_1996_summer_olympics"
+          },
+          {
+            "name": "Sport Cyclist",
+            "tag_id": "urn:tag:occupation:person:sport_cyclist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:sport_cyclist"
+          },
+          {
+            "name": "Uci Road World Champions (elite Men)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uci_road_world_champions_elite_men",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uci_road_world_champions_elite_men"
+          },
+          {
+            "name": "American Adoptees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_adoptees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_adoptees"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Cyclists Stripped Of Tour De France Titles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cyclists_stripped_tour_france_titles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cyclists_stripped_tour_france_titles"
+          },
+          {
+            "name": "Doping Cases In Cycling",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:doping_cases_in_cycling",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:doping_cases_in_cycling"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "American Retail Chief Executives",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_retail_chief_executives",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_retail_chief_executives"
+          },
+          {
+            "name": "Cyclists From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cyclists_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cyclists_from_texas"
+          },
+          {
+            "name": "Triathlete",
+            "tag_id": "urn:tag:occupation:person:triathlete",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:triathlete"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "American Sportspeople In Doping Cases",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_sportspeople_in_doping_cases",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_sportspeople_in_doping_cases"
+          },
+          {
+            "name": "20th-century American Businesspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_businesspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_businesspeople"
+          }
+        ]
+      },
+      {
+        "name": "Lance Stephenson",
+        "entity_id": "8B89C2D2-F835-4D6C-A6BA-45F1520A06CF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "h",
+              "value": "לאנס סטיבנסון"
+            },
+            {
+              "language": "e",
+              "value": "לאנס סטיבנסון"
+            },
+            {
+              "language": "v",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "v",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "s",
+              "value": "Ленс Стивенсон"
+            },
+            {
+              "language": "r",
+              "value": "Ленс Стивенсон"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stephenson Jr."
+            },
+            {
+              "language": "e",
+              "value": "Lance Stephenson Jr."
+            },
+            {
+              "language": "n",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "q",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "j",
+              "value": "ランス・スティーブンソン"
+            },
+            {
+              "language": "a",
+              "value": "ランス・スティーブンソン"
+            },
+            {
+              "language": "d",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "r",
+              "value": "Лэнс Стивенсон"
+            },
+            {
+              "language": "u",
+              "value": "Лэнс Стивенсон"
+            },
+            {
+              "language": "f",
+              "value": "لنس استیفنسن"
+            },
+            {
+              "language": "a",
+              "value": "لنس استیفنسن"
+            },
+            {
+              "language": "y",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "o",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "h",
+              "value": "Լենս Սթիվենսոն"
+            },
+            {
+              "language": "y",
+              "value": "Լենս Սթիվենսոն"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "z",
+              "value": "兰斯·史蒂芬森"
+            },
+            {
+              "language": "h",
+              "value": "兰斯·史蒂芬森"
+            },
+            {
+              "language": "m",
+              "value": "Лэнс Стивенсон"
+            },
+            {
+              "language": "n",
+              "value": "Лэнс Стивенсон"
+            },
+            {
+              "language": "n",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "b",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "s",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "u",
+              "value": "Ленс Стівенсон"
+            },
+            {
+              "language": "k",
+              "value": "Ленс Стівенсон"
+            },
+            {
+              "language": "p",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "e",
+              "value": "Lance Stephenson Jr."
+            },
+            {
+              "language": "n",
+              "value": "Lance Stephenson Jr."
+            },
+            {
+              "language": "c",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "i",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "t",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "p",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "a",
+              "value": "لانس ستيفنسن"
+            },
+            {
+              "language": "r",
+              "value": "لانس ستيفنسن"
+            },
+            {
+              "language": "h",
+              "value": "Լենս Սթիվենսոն կրտսեր"
+            },
+            {
+              "language": "y",
+              "value": "Լենս Սթիվենսոն կրտսեր"
+            },
+            {
+              "language": "g",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "l",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "m",
+              "value": "Ленс Стивенсон"
+            },
+            {
+              "language": "k",
+              "value": "Ленс Стивенсон"
+            },
+            {
+              "language": "r",
+              "value": "Стивенсон, Лэнс"
+            },
+            {
+              "language": "u",
+              "value": "Стивенсон, Лэнс"
+            },
+            {
+              "language": "g",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "a",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "f",
+              "value": "Lance Stephenson"
+            },
+            {
+              "language": "r",
+              "value": "Lance Stephenson"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "StephensonLance"
+            },
+            "imdb": {
+              "id": "nm2958147"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1990-09-05",
+          "image": {
+            "url": "https://images.qloo.com/i/8B89C2D2-F835-4D6C-A6BA-45F1520A06CF-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Los Angeles Clippers",
+            "Indiana Pacers",
+            "Memphis Grizzlies",
+            "Los Angeles Lakers",
+            "Charlotte Hornets",
+            "Cincinnati Bearcats men's basketball"
+          ],
+          "work_period_start": "2010-01-01",
+          "short_description": "American basketball player"
+        },
+        "popularity": 0.9243702503777954,
+        "disambiguation": "1990-09-05",
+        "tags": [
+          {
+            "name": "Parade High School All-americans (boys Basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Liaoning Flying Leopards Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liaoning_flying_leopards_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liaoning_flying_leopards_players"
+          },
+          {
+            "name": "Iowa Wolves Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:iowa_wolves_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:iowa_wolves_players"
+          },
+          {
+            "name": "Mystery",
+            "tag_id": "urn:tag:genre:media:media:mystery",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:mystery"
+          },
+          {
+            "name": "Grand Rapids Gold Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grand_rapids_gold_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grand_rapids_gold_players"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Memphis Grizzlies Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:memphis_grizzlies_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:memphis_grizzlies_players"
+          },
+          {
+            "name": "Abraham Lincoln High School (brooklyn) Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:abraham_lincoln_high_school_brooklyn_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:abraham_lincoln_high_school_brooklyn_alumni"
+          },
+          {
+            "name": "Mcdonalds High School All-americans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans"
+          },
+          {
+            "name": "Basketball Players From Brooklyn",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_brooklyn",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_brooklyn"
+          },
+          {
+            "name": "Atlanta Hawks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atlanta_hawks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atlanta_hawks_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Shooting Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shooting_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shooting_guards"
+          },
+          {
+            "name": "New Orleans Pelicans Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_orleans_pelicans_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_orleans_pelicans_players"
+          },
+          {
+            "name": "Small Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:small_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:small_forwards"
+          },
+          {
+            "name": "Indiana Pacers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indiana_pacers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indiana_pacers_players"
+          },
+          {
+            "name": "American Expatriate Basketball People In China",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_china",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_china"
+          },
+          {
+            "name": "Los Angeles Clippers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_clippers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_clippers_players"
+          },
+          {
+            "name": "Indiana Pacers Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indiana_pacers_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indiana_pacers_draft_picks"
+          },
+          {
+            "name": "Los Angeles Lakers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Leones De Ponce Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:leones_ponce_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:leones_ponce_basketball_players"
+          },
+          {
+            "name": "21st-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople"
+          },
+          {
+            "name": "Minnesota Timberwolves Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:minnesota_timberwolves_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:minnesota_timberwolves_players"
+          },
+          {
+            "name": "Cincinnati Bearcats Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cincinnati_bearcats_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cincinnati_bearcats_mens_basketball_players"
+          },
+          {
+            "name": "Charlotte Hornets Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:charlotte_hornets_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:charlotte_hornets_players"
+          }
+        ]
+      },
+      {
+        "name": "LSP",
+        "entity_id": "A84C5EE8-A254-4BA5-8B8E-F3DFA6F0DF05",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Olegi 500"
+            },
+            {
+              "language": "l",
+              "value": "Olegi 500"
+            },
+            {
+              "language": "u",
+              "value": "ЛСП"
+            },
+            {
+              "language": "k",
+              "value": "ЛСП"
+            },
+            {
+              "language": "e",
+              "value": "Oleg V. Savchenko"
+            },
+            {
+              "language": "n",
+              "value": "Oleg V. Savchenko"
+            },
+            {
+              "language": "r",
+              "value": "Олеги 500"
+            },
+            {
+              "language": "u",
+              "value": "Олеги 500"
+            },
+            {
+              "language": "e",
+              "value": "Olegi 500"
+            },
+            {
+              "language": "n",
+              "value": "Olegi 500"
+            },
+            {
+              "language": "e",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "n",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "r",
+              "value": "Олеги ЛСП"
+            },
+            {
+              "language": "u",
+              "value": "Олеги ЛСП"
+            },
+            {
+              "language": "e",
+              "value": "LSP"
+            },
+            {
+              "language": "s",
+              "value": "LSP"
+            },
+            {
+              "language": "s",
+              "value": "Olegi LSP"
+            },
+            {
+              "language": "l",
+              "value": "Olegi LSP"
+            },
+            {
+              "language": "r",
+              "value": "Олег ЛСП"
+            },
+            {
+              "language": "u",
+              "value": "Олег ЛСП"
+            },
+            {
+              "language": "u",
+              "value": "Олег Савченко"
+            },
+            {
+              "language": "k",
+              "value": "Олег Савченко"
+            },
+            {
+              "language": "r",
+              "value": "ЛСП"
+            },
+            {
+              "language": "u",
+              "value": "ЛСП"
+            },
+            {
+              "language": "e",
+              "value": "Olegi LSP"
+            },
+            {
+              "language": "n",
+              "value": "Olegi LSP"
+            },
+            {
+              "language": "s",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "l",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "e",
+              "value": "Sava Lance"
+            },
+            {
+              "language": "n",
+              "value": "Sava Lance"
+            },
+            {
+              "language": "d",
+              "value": "LSP"
+            },
+            {
+              "language": "e",
+              "value": "LSP"
+            },
+            {
+              "language": "s",
+              "value": "500"
+            },
+            {
+              "language": "l",
+              "value": "500"
+            },
+            {
+              "language": "e",
+              "value": "Oleg Savchenko"
+            },
+            {
+              "language": "n",
+              "value": "Oleg Savchenko"
+            },
+            {
+              "language": "s",
+              "value": "LSP"
+            },
+            {
+              "language": "l",
+              "value": "LSP"
+            },
+            {
+              "language": "b",
+              "value": "ЛСП"
+            },
+            {
+              "language": "e",
+              "value": "ЛСП"
+            },
+            {
+              "language": "s",
+              "value": "Oleg Vadimovič Savčenko"
+            },
+            {
+              "language": "l",
+              "value": "Oleg Vadimovič Savčenko"
+            },
+            {
+              "language": "r",
+              "value": "Молодой Сава Лэнс"
+            },
+            {
+              "language": "u",
+              "value": "Молодой Сава Лэнс"
+            },
+            {
+              "language": "r",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "u",
+              "value": "Lil' Stupid Pig"
+            },
+            {
+              "language": "e",
+              "value": "500"
+            },
+            {
+              "language": "n",
+              "value": "500"
+            },
+            {
+              "language": "r",
+              "value": "LSP"
+            },
+            {
+              "language": "u",
+              "value": "LSP"
+            },
+            {
+              "language": "r",
+              "value": "500"
+            },
+            {
+              "language": "u",
+              "value": "500"
+            },
+            {
+              "language": "r",
+              "value": "Sava Lance"
+            },
+            {
+              "language": "u",
+              "value": "Sava Lance"
+            },
+            {
+              "language": "r",
+              "value": "Олег Вадимович Савченко"
+            },
+            {
+              "language": "u",
+              "value": "Олег Вадимович Савченко"
+            },
+            {
+              "language": "s",
+              "value": "Oleg V. Savčenko"
+            },
+            {
+              "language": "l",
+              "value": "Oleg V. Savčenko"
+            },
+            {
+              "language": "e",
+              "value": "Lance Sava 500"
+            },
+            {
+              "language": "n",
+              "value": "Lance Sava 500"
+            },
+            {
+              "language": "f",
+              "value": "LSP"
+            },
+            {
+              "language": "r",
+              "value": "LSP"
+            },
+            {
+              "language": "g",
+              "value": "LSP"
+            },
+            {
+              "language": "a",
+              "value": "LSP"
+            },
+            {
+              "language": "s",
+              "value": "LSP"
+            },
+            {
+              "language": "q",
+              "value": "LSP"
+            },
+            {
+              "language": "r",
+              "value": "Савченко, Олег Вадимович"
+            },
+            {
+              "language": "u",
+              "value": "Савченко, Олег Вадимович"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "lspolegi"
+            },
+            "twitter": {
+              "id": "lspolegi"
+            },
+            "musicbrainz": {
+              "id": "83d0d125-9fa7-4590-9f39-ec7e0e320b15"
+            }
+          },
+          "citizenship": [
+            "Belarus"
+          ],
+          "date_of_birth": "1989-07-10",
+          "image": {
+            "url": "https://images.qloo.com/i/A84C5EE8-A254-4BA5-8B8E-F3DFA6F0DF05-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "Belarusian singer-songwriter and rapper"
+        },
+        "popularity": 0.9371391917896087,
+        "disambiguation": "1989-07-10",
+        "tags": [
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          }
+        ]
+      },
+      {
+        "name": "Lance Bass",
+        "entity_id": "8F81C8F6-E3C6-47E8-AAE6-037ECA78D508",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "แลนซ์ เบสส์"
+            },
+            {
+              "language": "h",
+              "value": "แลนซ์ เบสส์"
+            },
+            {
+              "language": "i",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "d",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "r",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "f",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "r",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "p",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "r",
+              "value": "Басс Лэнс"
+            },
+            {
+              "language": "u",
+              "value": "Басс Лэнс"
+            },
+            {
+              "language": "f",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "i",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "l",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "m",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "k",
+              "value": "랜스 바스"
+            },
+            {
+              "language": "o",
+              "value": "랜스 바스"
+            },
+            {
+              "language": "e",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "p",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "c",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "d",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Bass"
+            },
+            {
+              "language": "v",
+              "value": "Bass"
+            },
+            {
+              "language": "p",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "l",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "f",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "i",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "e",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "u",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "l",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "d",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "e",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "i",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "q",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "v",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "f",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "d",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "e",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "z",
+              "value": "蘭斯·貝斯"
+            },
+            {
+              "language": "h",
+              "value": "蘭斯·貝斯"
+            },
+            {
+              "language": "h",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "u",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "k",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "e",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "لانس باس"
+            },
+            {
+              "language": "r",
+              "value": "لانس باس"
+            },
+            {
+              "language": "d",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "c",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "r",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "z",
+              "value": "蘭斯·巴斯"
+            },
+            {
+              "language": "h",
+              "value": "蘭斯·巴斯"
+            },
+            {
+              "language": "r",
+              "value": "Лэнс Басс"
+            },
+            {
+              "language": "u",
+              "value": "Лэнс Басс"
+            },
+            {
+              "language": "h",
+              "value": "Լենս Բասս"
+            },
+            {
+              "language": "y",
+              "value": "Լենս Բասս"
+            },
+            {
+              "language": "f",
+              "value": "لنس بس"
+            },
+            {
+              "language": "a",
+              "value": "لنس بس"
+            },
+            {
+              "language": "v",
+              "value": "Vó ngựa trời Nam"
+            },
+            {
+              "language": "i",
+              "value": "Vó ngựa trời Nam"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "v",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "r",
+              "value": "Басс Л."
+            },
+            {
+              "language": "u",
+              "value": "Басс Л."
+            },
+            {
+              "language": "c",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "k",
+              "value": "랜스 배스"
+            },
+            {
+              "language": "o",
+              "value": "랜스 배스"
+            },
+            {
+              "language": "m",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "i",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "t",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "k",
+              "value": "랜스 베이스"
+            },
+            {
+              "language": "o",
+              "value": "랜스 베이스"
+            },
+            {
+              "language": "g",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "a",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "e",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "s",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "h",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "u",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "l",
+              "value": "James Lance Bass"
+            },
+            {
+              "language": "j",
+              "value": "ランス・バス"
+            },
+            {
+              "language": "a",
+              "value": "ランス・バス"
+            },
+            {
+              "language": "y",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "o",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "n",
+              "value": "Lance Bass"
+            },
+            {
+              "language": "b",
+              "value": "Lance Bass"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "284295"
+            },
+            "lastfm": {
+              "id": "Lance+Bass"
+            },
+            "instagram": {
+              "id": "lancebass"
+            },
+            "metacritic": {
+              "id": "person/lance-bass"
+            },
+            "twitter": {
+              "id": "LanceBass"
+            },
+            "imdb": {
+              "id": "nm0004726"
+            },
+            "library_of_congress": {
+              "id": "n2007046335"
+            },
+            "goodreads_author": {
+              "id": "284295"
+            },
+            "musicbrainz": {
+              "id": "81f6372b-4cfa-4d8d-b560-c9e4235defaa"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1979-05-04",
+          "image": {
+            "url": "https://images.qloo.com/i/8F81C8F6-E3C6-47E8-AAE6-037ECA78D508-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "spouse": [
+            "Michael Turchin"
+          ],
+          "work_period_start": "1994-01-01",
+          "short_description": "American singer, dancer, actor, and film and television producer"
+        },
+        "popularity": 0.8793881345060393,
+        "disambiguation": "1979-05-04",
+        "tags": [
+          {
+            "name": "American Basses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_basses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_basses"
+          },
+          {
+            "name": "Pop culture",
+            "tag_id": "urn:tag:genre:media:media:pop_culture",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:pop_culture"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Lgbt Evangelicals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_evangelicals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_evangelicals"
+          },
+          {
+            "name": "American Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_film_actors"
+          },
+          {
+            "name": "Lgbt",
+            "tag_id": "urn:tag:genre:media:media:lgbt",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:lgbt"
+          },
+          {
+            "name": "Space Advocates",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:space_advocates",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:space_advocates"
+          },
+          {
+            "name": "American Musicians With Disabilities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_musicians_disabilities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_musicians_disabilities"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "American Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors"
+          },
+          {
+            "name": "American Male Musical Theatre Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_musical_theatre_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_musical_theatre_actors"
+          },
+          {
+            "name": "Gay Dancers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_dancers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_dancers"
+          },
+          {
+            "name": "Participants In American Reality Television Series",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:participants_in_american_reality_television_series",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:participants_in_american_reality_television_series"
+          },
+          {
+            "name": "Lgbt Musicians With Disabilities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_musicians_disabilities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_musicians_disabilities"
+          },
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:occupation:person:dancer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dancer"
+          },
+          {
+            "name": "Autobiographer",
+            "tag_id": "urn:tag:occupation:person:autobiographer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:autobiographer"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "American Lgbt Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_lgbt_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_lgbt_singers"
+          },
+          {
+            "name": "Baptists From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:baptists_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:baptists_from_mississippi"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Dancers From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dancers_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dancers_from_mississippi"
+          },
+          {
+            "name": "Space Tourists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:space_tourists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:space_tourists"
+          },
+          {
+            "name": "Male Actors From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_mississippi"
+          },
+          {
+            "name": "American Child Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_singers"
+          },
+          {
+            "name": "The Circle (american Tv Series) Contestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:circle_american_tv_series_contestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:circle_american_tv_series_contestants"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "20th-century American Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_lgbt_people"
+          },
+          {
+            "name": "American Lgbt Rights Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_lgbt_rights_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_lgbt_rights_activists"
+          },
+          {
+            "name": "Nsync Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nsync_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nsync_members"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Film Producer",
+            "tag_id": "urn:tag:occupation:person:film_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_producer"
+          },
+          {
+            "name": "Lgbt Writers With Disabilities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_writers_disabilities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_writers_disabilities"
+          },
+          {
+            "name": "20th-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors"
+          },
+          {
+            "name": "20th-century American Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_singers"
+          },
+          {
+            "name": "Voice Actor",
+            "tag_id": "urn:tag:occupation:person:voice_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:voice_actor"
+          },
+          {
+            "name": "College",
+            "tag_id": "urn:tag:genre:media:media:college",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:college"
+          },
+          {
+            "name": "American Gay Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_gay_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_gay_actors"
+          },
+          {
+            "name": "Gay Memoirists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_memoirists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_memoirists"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "American Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_producers"
+          },
+          {
+            "name": "American Actors With Disabilities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_actors_disabilities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_actors_disabilities"
+          },
+          {
+            "name": "Lgbt People From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_mississippi"
+          },
+          {
+            "name": "American Gay Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_gay_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_gay_musicians"
+          },
+          {
+            "name": "American Male Dancers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_dancers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_dancers"
+          },
+          {
+            "name": "American Memoirists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_memoirists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_memoirists"
+          },
+          {
+            "name": "Gay Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_singers"
+          },
+          {
+            "name": "American Male Video Game Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_video_game_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_video_game_actors"
+          },
+          {
+            "name": "American Male Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_pop_singers"
+          },
+          {
+            "name": "Singers From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_mississippi"
+          },
+          {
+            "name": "Lgbt Film Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_film_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_film_producers"
+          },
+          {
+            "name": "Gay Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_christians"
+          },
+          {
+            "name": "Gay",
+            "tag_id": "urn:tag:genre:media:media:gay",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:gay"
+          },
+          {
+            "name": "Lgbt Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_television_producers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People With Attention Deficit Hyperactivity Disorder",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_attention_deficit_hyperactivity_disorder",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_attention_deficit_hyperactivity_disorder"
+          },
+          {
+            "name": "21st-century American Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singers"
+          },
+          {
+            "name": "21st-century American Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people"
+          },
+          {
+            "name": "American Gay Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_gay_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_gay_writers"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          }
+        ]
+      }
+    ]
+  }
+}

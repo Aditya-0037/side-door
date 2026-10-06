@@ -1,0 +1,1510 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Declan Rice",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Declan Rice",
+        "entity_id": "93C09BBE-4C19-40B2-8735-4E44CE9872B1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "เดคลัน ไรซ์"
+            },
+            {
+              "language": "h",
+              "value": "เดคลัน ไรซ์"
+            },
+            {
+              "language": "r",
+              "value": "Райс, Деклан"
+            },
+            {
+              "language": "u",
+              "value": "Райс, Деклан"
+            },
+            {
+              "language": "f",
+              "value": "دکلان رایس"
+            },
+            {
+              "language": "a",
+              "value": "دکلان رایس"
+            },
+            {
+              "language": "r",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "o",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "f",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "r",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "z",
+              "value": "德克蘭·賴斯"
+            },
+            {
+              "language": "h",
+              "value": "德克蘭·賴斯"
+            },
+            {
+              "language": "p",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "t",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "h",
+              "value": "Դեկլան Ռայս"
+            },
+            {
+              "language": "y",
+              "value": "Դեկլան Ռայս"
+            },
+            {
+              "language": "d",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "a",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "h",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "r",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "v",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "t",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "r",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "h",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "a",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "v",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "i",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "m",
+              "value": "Деклан Рајс"
+            },
+            {
+              "language": "k",
+              "value": "Деклан Рајс"
+            },
+            {
+              "language": "z",
+              "value": "迪格蘭·賴斯"
+            },
+            {
+              "language": "h",
+              "value": "迪格蘭·賴斯"
+            },
+            {
+              "language": "e",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "t",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "k",
+              "value": "데클런 라이스"
+            },
+            {
+              "language": "o",
+              "value": "데클런 라이스"
+            },
+            {
+              "language": "c",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "y",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "r",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "u",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "c",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "n",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "l",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "h",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "u",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Деклан Рајс"
+            },
+            {
+              "language": "r",
+              "value": "Деклан Рајс"
+            },
+            {
+              "language": "l",
+              "value": "Deklans Raiss"
+            },
+            {
+              "language": "v",
+              "value": "Deklans Raiss"
+            },
+            {
+              "language": "b",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "f",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "i",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "p",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "l",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "d",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "e",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "n",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "b",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "m",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "i",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "d",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "i",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "t",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "l",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "k",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "h",
+              "value": "דקלן רייס"
+            },
+            {
+              "language": "e",
+              "value": "דקלן רייס"
+            },
+            {
+              "language": "b",
+              "value": "ডেকলান রাইস"
+            },
+            {
+              "language": "n",
+              "value": "ডেকলান রাইস"
+            },
+            {
+              "language": "e",
+              "value": "Ντέκλαν Ράις"
+            },
+            {
+              "language": "l",
+              "value": "Ντέκλαν Ράις"
+            },
+            {
+              "language": "k",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "k",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "a",
+              "value": "ديكلان رايس"
+            },
+            {
+              "language": "r",
+              "value": "ديكلان رايس"
+            },
+            {
+              "language": "u",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "z",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "e",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "s",
+              "value": "Declan Rice"
+            },
+            {
+              "language": "u",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "k",
+              "value": "Деклан Райс"
+            },
+            {
+              "language": "k",
+              "value": "დეკლან რაისი"
+            },
+            {
+              "language": "a",
+              "value": "დეკლან რაისი"
+            },
+            {
+              "language": "j",
+              "value": "デクラン・ライス"
+            },
+            {
+              "language": "a",
+              "value": "デクラン・ライス"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "declanrice"
+            },
+            "twitter": {
+              "id": "_DeclanRice"
+            },
+            "imdb": {
+              "id": "nm10651778"
+            }
+          },
+          "citizenship": [
+            "England"
+          ],
+          "date_of_birth": "1999-01-14",
+          "image": {
+            "url": "https://images.qloo.com/i/93C09BBE-4C19-40B2-8735-4E44CE9872B1-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Republic of Ireland national under-17 football team",
+            "England national association football team",
+            "Republic of Ireland national association football team",
+            "Arsenal F.C.",
+            "West Ham United F.C.",
+            "Republic of Ireland national under-21 football team",
+            "Republic of Ireland national under-19 football team"
+          ],
+          "work_period_start": "2015-01-01",
+          "short_description": "English association football player (born 1999)"
+        },
+        "popularity": 0.8777954142703385,
+        "disambiguation": "1999-01-14",
+        "tags": [
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Republic Of Ireland Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Republic Of Ireland Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_international_footballers"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Republic Of Ireland Mens Association Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_association_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_association_footballers"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "Arsenal F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "Uefa Euro 2020 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players"
+          },
+          {
+            "name": "Dual Internationalists (mens Football)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dual_internationalists_mens_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dual_internationalists_mens_football"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          },
+          {
+            "name": "Uefa Conference League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_conference_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_conference_league_winning_players"
+          },
+          {
+            "name": "Footballers From The Royal Borough Of Kingston Upon Thames",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_royal_borough_kingston_upon_thames",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_royal_borough_kingston_upon_thames"
+          },
+          {
+            "name": "English People Of Irish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_irish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_irish_descent"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Engvarb From November 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2022"
+          },
+          {
+            "name": "England Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Republic Of Ireland Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_ireland_mens_youth_international_footballers"
+          },
+          {
+            "name": "People From Kingston Upon Thames",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_kingston_upon_thames",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_kingston_upon_thames"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "West Ham United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_ham_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_ham_united_f_c_players"
+          }
+        ]
+      },
+      {
+        "name": "RiceGum",
+        "entity_id": "93684D0F-237F-4587-9616-571BAC017995",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "RiceGum"
+            },
+            {
+              "language": "e",
+              "value": "RiceGum"
+            },
+            {
+              "language": "n",
+              "value": "RiceGum"
+            },
+            {
+              "language": "b",
+              "value": "RiceGum"
+            },
+            {
+              "language": "s",
+              "value": "RiceGum"
+            },
+            {
+              "language": "l",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "RiceGum"
+            },
+            {
+              "language": "d",
+              "value": "RiceGum"
+            },
+            {
+              "language": "z",
+              "value": "RiceGum"
+            },
+            {
+              "language": "h",
+              "value": "RiceGum"
+            },
+            {
+              "language": "p",
+              "value": "RiceGum"
+            },
+            {
+              "language": "t",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "t",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "d",
+              "value": "RiceGum"
+            },
+            {
+              "language": "a",
+              "value": "RiceGum"
+            },
+            {
+              "language": "n",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "b",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "p",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "t",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "n",
+              "value": "RiceCum"
+            },
+            {
+              "language": "b",
+              "value": "RiceCum"
+            },
+            {
+              "language": "s",
+              "value": "RiceGum"
+            },
+            {
+              "language": "q",
+              "value": "RiceGum"
+            },
+            {
+              "language": "f",
+              "value": "RiceCum"
+            },
+            {
+              "language": "i",
+              "value": "RiceCum"
+            },
+            {
+              "language": "f",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "i",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "f",
+              "value": "RiceGum"
+            },
+            {
+              "language": "r",
+              "value": "RiceGum"
+            },
+            {
+              "language": "e",
+              "value": "RiceGum"
+            },
+            {
+              "language": "s",
+              "value": "RiceGum"
+            },
+            {
+              "language": "f",
+              "value": "رایس گام"
+            },
+            {
+              "language": "a",
+              "value": "رایس گام"
+            },
+            {
+              "language": "e",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "n",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "f",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "i",
+              "value": "Bryan Quang Le"
+            },
+            {
+              "language": "f",
+              "value": "رایس ‌گام (یوتیوبر)"
+            },
+            {
+              "language": "a",
+              "value": "رایس ‌گام (یوتیوبر)"
+            },
+            {
+              "language": "e",
+              "value": "RiceCum"
+            },
+            {
+              "language": "n",
+              "value": "RiceCum"
+            },
+            {
+              "language": "v",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "RiceGum"
+            },
+            {
+              "language": "k",
+              "value": "라이스검"
+            },
+            {
+              "language": "o",
+              "value": "라이스검"
+            },
+            {
+              "language": "n",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "b",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "g",
+              "value": "RiceGum"
+            },
+            {
+              "language": "a",
+              "value": "RiceGum"
+            },
+            {
+              "language": "e",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "n",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "c",
+              "value": "RiceGum"
+            },
+            {
+              "language": "a",
+              "value": "RiceGum"
+            },
+            {
+              "language": "j",
+              "value": "RiceGum"
+            },
+            {
+              "language": "a",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "RiceCum"
+            },
+            {
+              "language": "t",
+              "value": "RiceCum"
+            },
+            {
+              "language": "s",
+              "value": "RiceGum"
+            },
+            {
+              "language": "v",
+              "value": "RiceGum"
+            },
+            {
+              "language": "f",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "RiceGum"
+            },
+            {
+              "language": "i",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "t",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "n",
+              "value": "RiceGum"
+            },
+            {
+              "language": "l",
+              "value": "RiceGum"
+            },
+            {
+              "language": "z",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "h",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "p",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "t",
+              "value": "Bryan Le"
+            },
+            {
+              "language": "i",
+              "value": "RiceGum"
+            },
+            {
+              "language": "t",
+              "value": "RiceGum"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "rice"
+            },
+            "twitter": {
+              "id": "ricegum"
+            },
+            "musicbrainz": {
+              "id": "e150f414-8b11-433d-bd2b-1e37e1cfc5c0"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1996-11-19",
+          "image": {
+            "url": "https://images.qloo.com/i/93684D0F-237F-4587-9616-571BAC017995-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "short_description": "American YouTube personality and rapper (born 1996)"
+        },
+        "popularity": 0.9922320914101825,
+        "disambiguation": "1996-11-19",
+        "tags": [
+          {
+            "name": "Comedy Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedy_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedy_youtubers"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "21st-century American Male Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_musicians"
+          },
+          {
+            "name": "American Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_twitch_service_streamers"
+          },
+          {
+            "name": "Musicians From Las Vegas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_vegas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_vegas"
+          },
+          {
+            "name": "West Coast Hip Hop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_coast_hip_hop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_coast_hip_hop_musicians"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "American Musicians Of Vietnamese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_musicians_vietnamese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_musicians_vietnamese_descent"
+          },
+          {
+            "name": "21st-century American Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians"
+          },
+          {
+            "name": "21st-century American Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_rappers"
+          },
+          {
+            "name": "Rapper",
+            "tag_id": "urn:tag:occupation:person:rapper",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rapper"
+          },
+          {
+            "name": "People From Las Vegas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_vegas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_vegas"
+          },
+          {
+            "name": "Youtube Vloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtube_vloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtube_vloggers"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Music Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:music_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:music_youtubers"
+          },
+          {
+            "name": "Comedians From Nevada",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_nevada",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_nevada"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "American Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_comedians"
+          },
+          {
+            "name": "Sidemen Charity Match Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sidemen_charity_match_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sidemen_charity_match_players"
+          },
+          {
+            "name": "Rappers From Nevada",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rappers_from_nevada",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rappers_from_nevada"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Youtubers From Nevada",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_from_nevada",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_from_nevada"
+          },
+          {
+            "name": "American Musicians Of Chinese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_musicians_chinese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_musicians_chinese_descent"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          }
+        ]
+      },
+      {
+        "name": "Kaycee Rice",
+        "entity_id": "A07AD20E-33BA-42EC-8942-4A901304D726",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {}
+        },
+        "popularity": 0.9640251791130777,
+        "disambiguation": ""
+      },
+      {
+        "name": "Kaycee Rice",
+        "entity_id": "2C521E9C-1ABE-4888-B06B-27BB7EF9B101",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Kaycee Caitlin Rice"
+            },
+            {
+              "language": "n",
+              "value": "Kaycee Caitlin Rice"
+            },
+            {
+              "language": "c",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "a",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "s",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "q",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "e",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "s",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "n",
+              "value": "Kaycee Rice"
+            },
+            {
+              "language": "l",
+              "value": "Kaycee Rice"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kayceericeofficial"
+            },
+            "twitter": {
+              "id": "KayceeRice"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "2002-10-21",
+          "gender": [
+            "female"
+          ],
+          "short_description": "American dancer"
+        },
+        "popularity": 0.9618345093008339,
+        "disambiguation": "2002-10-21",
+        "tags": [
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:occupation:person:dancer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dancer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Personal Trainer",
+            "tag_id": "urn:tag:occupation:person:personal_trainer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:personal_trainer"
+          }
+        ]
+      },
+      {
+        "name": "Chase Rice",
+        "entity_id": "D4672961-9A89-4A0F-BDE3-B0E81C8BF58C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "چیس رایس"
+            },
+            {
+              "language": "a",
+              "value": "چیس رایس"
+            },
+            {
+              "language": "p",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "t",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "a",
+              "value": "تشيس رايس"
+            },
+            {
+              "language": "r",
+              "value": "تشيس رايس"
+            },
+            {
+              "language": "z",
+              "value": "切斯·賴斯"
+            },
+            {
+              "language": "h",
+              "value": "切斯·賴斯"
+            },
+            {
+              "language": "i",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "d",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "n",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "l",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "s",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "u",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "s",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "v",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "u",
+              "value": "Чейз Райс"
+            },
+            {
+              "language": "k",
+              "value": "Чейз Райс"
+            },
+            {
+              "language": "i",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "t",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "k",
+              "value": "체이스 라이스"
+            },
+            {
+              "language": "o",
+              "value": "체이스 라이스"
+            },
+            {
+              "language": "d",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "e",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "s",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "l",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "e",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "s",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "j",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "v",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "s",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "q",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "c",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "a",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "f",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "r",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "h",
+              "value": "צ'ייס רייס"
+            },
+            {
+              "language": "e",
+              "value": "צ'ייס רייס"
+            },
+            {
+              "language": "n",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "b",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "n",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "n",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "d",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "a",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "f",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "i",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "g",
+              "value": "Chase Rice"
+            },
+            {
+              "language": "a",
+              "value": "Chase Rice"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Chase+Rice"
+            },
+            "instagram": {
+              "id": "chaserice"
+            },
+            "twitter": {
+              "id": "ChaseRiceMusic"
+            },
+            "spotify": {
+              "id": "6pBNfggcZZDCmb0p92OnGn"
+            },
+            "imdb": {
+              "id": "nm4016502"
+            },
+            "library_of_congress": {
+              "id": "no2014169813"
+            },
+            "musicbrainz": {
+              "id": "79c478c4-9bd7-42f1-8d26-f3c45ac49258"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1986-09-19",
+          "image": {
+            "url": "https://images.qloo.com/i/D4672961-9A89-4A0F-BDE3-B0E81C8BF58C-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "sport": [
+            "American football"
+          ],
+          "member_of_sports_team": [
+            "North Carolina Tar Heels football"
+          ],
+          "work_period_start": "2010-01-01",
+          "short_description": "American singer-songwriter and football player"
+        },
+        "popularity": 0.9583718376621259,
+        "disambiguation": "1986-09-19",
+        "tags": [
+          {
+            "name": "Columbia Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:columbia_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:columbia_records_artists"
+          },
+          {
+            "name": "Singer-songwriters From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_north_carolina"
+          },
+          {
+            "name": "Country Pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:country_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:country_pop_musicians"
+          },
+          {
+            "name": "Reality Television Participant",
+            "tag_id": "urn:tag:occupation:person:reality_television_participant",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:reality_television_participant"
+          },
+          {
+            "name": "Thirty Tigers Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thirty_tigers_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thirty_tigers_artists"
+          },
+          {
+            "name": "21st-century American Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters"
+          },
+          {
+            "name": "North Carolina Tar Heels Football Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:north_carolina_tar_heels_football_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:north_carolina_tar_heels_football_players"
+          },
+          {
+            "name": "Country Musicians From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:country_musicians_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:country_musicians_from_north_carolina"
+          },
+          {
+            "name": "American Football Player",
+            "tag_id": "urn:tag:occupation:person:american_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:american_football_player"
+          },
+          {
+            "name": "Country Musicians From Florida",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:country_musicians_from_florida",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:country_musicians_from_florida"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Singer-songwriters From Florida",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_florida",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_florida"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "Participants In American Reality Television Series",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:participants_in_american_reality_television_series",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:participants_in_american_reality_television_series"
+          },
+          {
+            "name": "American Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_singer_songwriters"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "American Country Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_country_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_country_singer_songwriters"
+          },
+          {
+            "name": "Bbr Music Group Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bbr_music_group_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bbr_music_group_artists"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "21st-century American Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_singers"
+          }
+        ]
+      }
+    ]
+  }
+}

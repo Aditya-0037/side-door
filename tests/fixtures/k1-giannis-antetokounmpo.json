@@ -1,0 +1,2836 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Giannis Antetokounmpo",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Giannis Antetokounmpo",
+        "entity_id": "8993CBD1-B83D-4A25-B151-4F2CA4D4D3E7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "扬尼斯·阿德托昆博"
+            },
+            {
+              "language": "h",
+              "value": "扬尼斯·阿德托昆博"
+            },
+            {
+              "language": "h",
+              "value": "יאניס אנדטוקומבו"
+            },
+            {
+              "language": "e",
+              "value": "יאניס אנדטוקומבו"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "r",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "o",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "c",
+              "value": "Jannis Antetokunmpo"
+            },
+            {
+              "language": "s",
+              "value": "Jannis Antetokunmpo"
+            },
+            {
+              "language": "p",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Ougko Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Ougko Antetokounmpo"
+            },
+            {
+              "language": "m",
+              "value": "Јанис Адетокунбо"
+            },
+            {
+              "language": "k",
+              "value": "Јанис Адетокунбо"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "q",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Yannis Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Yannis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "f",
+              "value": "Giánnis Antetokoúnmpo"
+            },
+            {
+              "language": "r",
+              "value": "Giánnis Antetokoúnmpo"
+            },
+            {
+              "language": "f",
+              "value": "Yánnis Antetokoúnmpo"
+            },
+            {
+              "language": "r",
+              "value": "Yánnis Antetokoúnmpo"
+            },
+            {
+              "language": "e",
+              "value": "Γιάννης Αντετοκούνμπο"
+            },
+            {
+              "language": "l",
+              "value": "Γιάννης Αντετοκούνμπο"
+            },
+            {
+              "language": "h",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "u",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "g",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "w",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "h",
+              "value": "Görög Szörny"
+            },
+            {
+              "language": "u",
+              "value": "Görög Szörny"
+            },
+            {
+              "language": "b",
+              "value": "ইয়ানিস আদেতোকুম্বো"
+            },
+            {
+              "language": "n",
+              "value": "ইয়ানিস আদেতোকুম্বো"
+            },
+            {
+              "language": "k",
+              "value": "야니스 시나 우고 아데토쿤보"
+            },
+            {
+              "language": "o",
+              "value": "야니스 시나 우고 아데토쿤보"
+            },
+            {
+              "language": "r",
+              "value": "Адетокунбо, Яннис"
+            },
+            {
+              "language": "u",
+              "value": "Адетокунбо, Яннис"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "v",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "b",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "w",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "s",
+              "value": "Akumpo"
+            },
+            {
+              "language": "w",
+              "value": "Akumpo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "u",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "f",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Yannis Adetokunbo"
+            },
+            {
+              "language": "r",
+              "value": "Yannis Adetokunbo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "h",
+              "value": "Jannisz Szina-Ugo Andetokumpo"
+            },
+            {
+              "language": "u",
+              "value": "Jannisz Szina-Ugo Andetokumpo"
+            },
+            {
+              "language": "b",
+              "value": "Янис Андетокумбо"
+            },
+            {
+              "language": "g",
+              "value": "Янис Андетокумбо"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "z",
+              "value": "字母哥"
+            },
+            {
+              "language": "h",
+              "value": "字母哥"
+            },
+            {
+              "language": "h",
+              "value": "Jannisz Szina-Ugo Andetokumbo"
+            },
+            {
+              "language": "u",
+              "value": "Jannisz Szina-Ugo Andetokumbo"
+            },
+            {
+              "language": "z",
+              "value": "揚尼斯·阿德托昆博"
+            },
+            {
+              "language": "h",
+              "value": "揚尼斯·阿德托昆博"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "k",
+              "value": "야니스 아데토쿤보"
+            },
+            {
+              "language": "o",
+              "value": "야니스 아데토쿤보"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "يانيس أنتيتوكونمبو"
+            },
+            {
+              "language": "r",
+              "value": "يانيس أنتيتوكونمبو"
+            },
+            {
+              "language": "v",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Janis Adetokunbo"
+            },
+            {
+              "language": "v",
+              "value": "Janis Adetokunbo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Яннис Адетокунбо"
+            },
+            {
+              "language": "u",
+              "value": "Яннис Адетокунбо"
+            },
+            {
+              "language": "c",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "e",
+              "value": "Akumpo"
+            },
+            {
+              "language": "n",
+              "value": "Akumpo"
+            },
+            {
+              "language": "v",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "o",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "z",
+              "value": "揚尼斯·安迪度安寶"
+            },
+            {
+              "language": "h",
+              "value": "揚尼斯·安迪度安寶"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "k",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "k",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "h",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "u",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "m",
+              "value": "Яннис Адетокумбо"
+            },
+            {
+              "language": "n",
+              "value": "Яннис Адетокумбо"
+            },
+            {
+              "language": "v",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "d",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "e",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Adetokoubo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Adetokoubo"
+            },
+            {
+              "language": "a",
+              "value": "Yannis Andetokunmbo"
+            },
+            {
+              "language": "z",
+              "value": "Yannis Andetokunmbo"
+            },
+            {
+              "language": "e",
+              "value": "Γιάννης Σίνα Ούγκο Αντετοκούνμπο"
+            },
+            {
+              "language": "l",
+              "value": "Γιάννης Σίνα Ούγκο Αντετοκούνμπο"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "j",
+              "value": "ヤニス・アデトクンボ"
+            },
+            {
+              "language": "a",
+              "value": "ヤニス・アデトクンボ"
+            },
+            {
+              "language": "h",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "u",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannīs Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannīs Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "p",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "h",
+              "value": "Յաննիս Ադետոկունբո"
+            },
+            {
+              "language": "y",
+              "value": "Յաննիս Ադետոկունբո"
+            },
+            {
+              "language": "e",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "n",
+              "value": "Greek Freak"
+            },
+            {
+              "language": "u",
+              "value": "Янніс Адетокумбо"
+            },
+            {
+              "language": "k",
+              "value": "Янніс Адетокумбо"
+            },
+            {
+              "language": "y",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "o",
+              "value": "Giannis Adetokunbo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "q",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Giannis Sina Ougko Antetokounmpo"
+            },
+            {
+              "language": "g",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Јанис Андетокумбо"
+            },
+            {
+              "language": "r",
+              "value": "Јанис Андетокумбо"
+            },
+            {
+              "language": "g",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Sina Ugo Antetokounmpo"
+            },
+            {
+              "language": "f",
+              "value": "Ioánnis Antetokoúnmpo"
+            },
+            {
+              "language": "r",
+              "value": "Ioánnis Antetokoúnmpo"
+            },
+            {
+              "language": "p",
+              "value": "Janis Andetokunmbo"
+            },
+            {
+              "language": "l",
+              "value": "Janis Andetokunmbo"
+            },
+            {
+              "language": "h",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "h",
+              "value": "Jánisz Antetokúnmpo"
+            },
+            {
+              "language": "u",
+              "value": "Jánisz Antetokúnmpo"
+            },
+            {
+              "language": "s",
+              "value": "Yannis Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Yannis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "f",
+              "value": "یانیس آنتتوکونمپو"
+            },
+            {
+              "language": "a",
+              "value": "یانیس آنتتوکونمپو"
+            },
+            {
+              "language": "c",
+              "value": "Iannis Adetokunbo"
+            },
+            {
+              "language": "a",
+              "value": "Iannis Adetokunbo"
+            },
+            {
+              "language": "z",
+              "value": "扬尼斯·安特托昆博"
+            },
+            {
+              "language": "h",
+              "value": "扬尼斯·安特托昆博"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Giannis Antetokounmpo"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "giannis_an34"
+            },
+            "twitter": {
+              "id": "giannis_an34"
+            },
+            "library_of_congress": {
+              "id": "n2017063890"
+            }
+          },
+          "citizenship": [
+            "Nigeria",
+            "Greece"
+          ],
+          "date_of_birth": "1994-12-06",
+          "image": {
+            "url": "https://images.qloo.com/i/8993CBD1-B83D-4A25-B151-4F2CA4D4D3E7-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Filathlitikos B.C.",
+            "Milwaukee Bucks"
+          ],
+          "work_period_start": "2012-01-01",
+          "short_description": "Greek professional basketball player"
+        },
+        "popularity": 0.9889324969287135,
+        "disambiguation": "1994-12-06",
+        "tags": [
+          {
+            "name": "Nigerian Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_emigrants_to_united_states"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          },
+          {
+            "name": "Olympic Basketball Players For Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_greece"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Basketball Players From Athens",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_athens",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_athens"
+          },
+          {
+            "name": "Yoruba Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:yoruba_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:yoruba_sportspeople"
+          },
+          {
+            "name": "Small Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:small_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:small_forwards"
+          },
+          {
+            "name": "Greek People Of Nigerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_nigerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_nigerian_descent"
+          },
+          {
+            "name": "Greek Expatriate Sportspeople In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_expatriate_sportspeople_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_expatriate_sportspeople_in_united_states"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Nba Players From Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_players_from_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_players_from_greece"
+          },
+          {
+            "name": "Naturalized Citizens Of The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states"
+          },
+          {
+            "name": "Greek People Of Igbo Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_igbo_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_igbo_descent"
+          },
+          {
+            "name": "2014 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Milwaukee Bucks Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_draft_picks"
+          },
+          {
+            "name": "Nba Most Valuable Player Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners"
+          },
+          {
+            "name": "Antetokounmpo Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:antetokounmpo_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:antetokounmpo_family"
+          },
+          {
+            "name": "Naturalized Citizens Of Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_greece"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Power Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:power_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:power_forwards"
+          },
+          {
+            "name": "2019 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Igbo Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:igbo_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:igbo_sportspeople"
+          },
+          {
+            "name": "Basketball Players At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics"
+          },
+          {
+            "name": "Greek People Of Yoruba Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_yoruba_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_yoruba_descent"
+          },
+          {
+            "name": "Milwaukee Bucks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_players"
+          },
+          {
+            "name": "Greek Expatriate Basketball People In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_united_states"
+          },
+          {
+            "name": "Efao Zografou B.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:efao_zografou_b_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:efao_zografou_b_c_players"
+          },
+          {
+            "name": "Greek Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_mens_basketball_players"
+          },
+          {
+            "name": "Eastern Orthodox Christians From Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eastern_orthodox_christians_from_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eastern_orthodox_christians_from_greece"
+          }
+        ]
+      },
+      {
+        "name": "Yanni",
+        "entity_id": "69D28242-DC27-4804-8A14-06AB0627294A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "b",
+              "value": "Яни"
+            },
+            {
+              "language": "g",
+              "value": "Яни"
+            },
+            {
+              "language": "h",
+              "value": "Jánisz Hriszomálisz"
+            },
+            {
+              "language": "u",
+              "value": "Jánisz Hriszomálisz"
+            },
+            {
+              "language": "n",
+              "value": "Yanni"
+            },
+            {
+              "language": "b",
+              "value": "Yanni"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Khrysomallis"
+            },
+            {
+              "language": "b",
+              "value": "Giannis Khrysomallis"
+            },
+            {
+              "language": "c",
+              "value": "Yanni Chryssomalis"
+            },
+            {
+              "language": "s",
+              "value": "Yanni Chryssomalis"
+            },
+            {
+              "language": "r",
+              "value": "Хрисомаллис"
+            },
+            {
+              "language": "u",
+              "value": "Хрисомаллис"
+            },
+            {
+              "language": "t",
+              "value": "Iannis Chrysomallis"
+            },
+            {
+              "language": "l",
+              "value": "Iannis Chrysomallis"
+            },
+            {
+              "language": "b",
+              "value": "Yanni"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "k",
+              "value": "Yanni"
+            },
+            {
+              "language": "u",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Iánnis Chrysomállis"
+            },
+            {
+              "language": "l",
+              "value": "Iánnis Chrysomállis"
+            },
+            {
+              "language": "g",
+              "value": "Yanni"
+            },
+            {
+              "language": "a",
+              "value": "Yanni"
+            },
+            {
+              "language": "n",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yanni"
+            },
+            {
+              "language": "z",
+              "value": "雅尼"
+            },
+            {
+              "language": "h",
+              "value": "雅尼"
+            },
+            {
+              "language": "j",
+              "value": "Yanni"
+            },
+            {
+              "language": "v",
+              "value": "Yanni"
+            },
+            {
+              "language": "f",
+              "value": "یانی کریسومالیس"
+            },
+            {
+              "language": "a",
+              "value": "یانی کریسومالیس"
+            },
+            {
+              "language": "r",
+              "value": "Янни"
+            },
+            {
+              "language": "u",
+              "value": "Янни"
+            },
+            {
+              "language": "f",
+              "value": "Yiannis Chrysomallis"
+            },
+            {
+              "language": "r",
+              "value": "Yiannis Chrysomallis"
+            },
+            {
+              "language": "t",
+              "value": "John Yanni Christopher"
+            },
+            {
+              "language": "h",
+              "value": "John Yanni Christopher"
+            },
+            {
+              "language": "b",
+              "value": "ইয়ানী"
+            },
+            {
+              "language": "n",
+              "value": "ইয়ানী"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "q",
+              "value": "Yanni"
+            },
+            {
+              "language": "u",
+              "value": "Янніс Хрисомалліс"
+            },
+            {
+              "language": "k",
+              "value": "Янніс Хрисомалліс"
+            },
+            {
+              "language": "a",
+              "value": "Yanni"
+            },
+            {
+              "language": "z",
+              "value": "Yanni"
+            },
+            {
+              "language": "p",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Yanni"
+            },
+            {
+              "language": "h",
+              "value": "Yanni"
+            },
+            {
+              "language": "p",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Yanni Chrysomallis"
+            },
+            {
+              "language": "l",
+              "value": "Yanni Chrysomallis"
+            },
+            {
+              "language": "c",
+              "value": "Yanni Chrysomallis"
+            },
+            {
+              "language": "a",
+              "value": "Yanni Chrysomallis"
+            },
+            {
+              "language": "e",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yanni"
+            },
+            {
+              "language": "c",
+              "value": "Yanni"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "i",
+              "value": "Yannis Hrysomallis"
+            },
+            {
+              "language": "t",
+              "value": "Yannis Hrysomallis"
+            },
+            {
+              "language": "f",
+              "value": "Yanni"
+            },
+            {
+              "language": "i",
+              "value": "Yanni"
+            },
+            {
+              "language": "f",
+              "value": "یانی"
+            },
+            {
+              "language": "a",
+              "value": "یانی"
+            },
+            {
+              "language": "t",
+              "value": "Yanni"
+            },
+            {
+              "language": "r",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yiannis Chryssomallis"
+            },
+            {
+              "language": "t",
+              "value": "Yiannis Chryssomallis"
+            },
+            {
+              "language": "z",
+              "value": "Yanni"
+            },
+            {
+              "language": "h",
+              "value": "Yanni"
+            },
+            {
+              "language": "m",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yanni"
+            },
+            {
+              "language": "h",
+              "value": "Յաննի"
+            },
+            {
+              "language": "y",
+              "value": "Յաննի"
+            },
+            {
+              "language": "e",
+              "value": "Yanni"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "จอห์น ยานนี คริสโตเฟอร์"
+            },
+            {
+              "language": "h",
+              "value": "จอห์น ยานนี คริสโตเฟอร์"
+            },
+            {
+              "language": "m",
+              "value": "Янни"
+            },
+            {
+              "language": "n",
+              "value": "Янни"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "v",
+              "value": "Yanni"
+            },
+            {
+              "language": "r",
+              "value": "Хрисомаллис, Янни"
+            },
+            {
+              "language": "u",
+              "value": "Хрисомаллис, Янни"
+            },
+            {
+              "language": "e",
+              "value": "Γιάννης Χρυσομάλλης"
+            },
+            {
+              "language": "l",
+              "value": "Γιάννης Χρυσομάλλης"
+            },
+            {
+              "language": "m",
+              "value": "Yiannis Hrysomallis"
+            },
+            {
+              "language": "l",
+              "value": "Yiannis Hrysomallis"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Chrysomallis"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Chrysomallis"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Chrysomallis"
+            },
+            {
+              "language": "f",
+              "value": "Giannis Chrysomallis"
+            },
+            {
+              "language": "u",
+              "value": "Янні"
+            },
+            {
+              "language": "k",
+              "value": "Янні"
+            },
+            {
+              "language": "d",
+              "value": "Yanni"
+            },
+            {
+              "language": "e",
+              "value": "Yanni"
+            },
+            {
+              "language": "i",
+              "value": "Yanni"
+            },
+            {
+              "language": "d",
+              "value": "Yanni"
+            },
+            {
+              "language": "v",
+              "value": "Yanni"
+            },
+            {
+              "language": "i",
+              "value": "Yanni"
+            },
+            {
+              "language": "j",
+              "value": "ヤニー"
+            },
+            {
+              "language": "a",
+              "value": "ヤニー"
+            },
+            {
+              "language": "m",
+              "value": "Yanni"
+            },
+            {
+              "language": "s",
+              "value": "Yanni"
+            },
+            {
+              "language": "c",
+              "value": "Yanni"
+            },
+            {
+              "language": "a",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "ยานนี"
+            },
+            {
+              "language": "h",
+              "value": "ยานนี"
+            },
+            {
+              "language": "t",
+              "value": "Yanni"
+            },
+            {
+              "language": "l",
+              "value": "Yanni"
+            },
+            {
+              "language": "i",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Yanni"
+            },
+            {
+              "language": "z",
+              "value": "雅尼·赫里索马利斯"
+            },
+            {
+              "language": "h",
+              "value": "雅尼·赫里索马利斯"
+            },
+            {
+              "language": "a",
+              "value": "Yanni"
+            },
+            {
+              "language": "f",
+              "value": "Yanni"
+            },
+            {
+              "language": "r",
+              "value": "Хрисомаллис Янни"
+            },
+            {
+              "language": "u",
+              "value": "Хрисомаллис Янни"
+            },
+            {
+              "language": "j",
+              "value": "ヤニ"
+            },
+            {
+              "language": "a",
+              "value": "ヤニ"
+            },
+            {
+              "language": "k",
+              "value": "야니"
+            },
+            {
+              "language": "o",
+              "value": "야니"
+            },
+            {
+              "language": "n",
+              "value": "Yanni Chryssomallis"
+            },
+            {
+              "language": "l",
+              "value": "Yanni Chryssomallis"
+            },
+            {
+              "language": "r",
+              "value": "Янни Хрисомаллис"
+            },
+            {
+              "language": "u",
+              "value": "Янни Хрисомаллис"
+            },
+            {
+              "language": "m",
+              "value": "യാനി"
+            },
+            {
+              "language": "l",
+              "value": "യാനി"
+            },
+            {
+              "language": "a",
+              "value": "ياني"
+            },
+            {
+              "language": "r",
+              "value": "ياني"
+            },
+            {
+              "language": "e",
+              "value": "Yanni Chryssomallis"
+            },
+            {
+              "language": "s",
+              "value": "Yanni Chryssomallis"
+            },
+            {
+              "language": "r",
+              "value": "Yanni"
+            },
+            {
+              "language": "u",
+              "value": "Yanni"
+            },
+            {
+              "language": "h",
+              "value": "Yanni"
+            },
+            {
+              "language": "u",
+              "value": "Yanni"
+            },
+            {
+              "language": "h",
+              "value": "יאני"
+            },
+            {
+              "language": "e",
+              "value": "יאני"
+            },
+            {
+              "language": "t",
+              "value": "ยานนิส คริโซมัลลิส"
+            },
+            {
+              "language": "h",
+              "value": "ยานนิส คริโซมัลลิส"
+            },
+            {
+              "language": "i",
+              "value": "Yiannis Chrysomallis"
+            },
+            {
+              "language": "t",
+              "value": "Yiannis Chrysomallis"
+            },
+            {
+              "language": "f",
+              "value": "Yanni"
+            },
+            {
+              "language": "r",
+              "value": "Yanni"
+            },
+            {
+              "language": "t",
+              "value": "Yannis Hrisomallis"
+            },
+            {
+              "language": "r",
+              "value": "Yannis Hrisomallis"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Yanni"
+            },
+            "instagram": {
+              "id": "officialyanni"
+            },
+            "twitter": {
+              "id": "yanni"
+            },
+            "spotify": {
+              "id": "72qxDp6R6v22pai96pZioz"
+            },
+            "imdb": {
+              "id": "nm0946183"
+            },
+            "library_of_congress": {
+              "id": "n92007084"
+            },
+            "musicbrainz": {
+              "id": "9a2afb1e-504c-443e-acff-6c40ce75b1a1"
+            }
+          },
+          "child": [
+            "Krystal Ann"
+          ],
+          "citizenship": [
+            "Greece"
+          ],
+          "date_of_birth": "1954-11-14",
+          "image": {
+            "url": "https://images.qloo.com/i/69D28242-DC27-4804-8A14-06AB0627294A-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "piano"
+          ],
+          "notable_work": [
+            "Love Songs"
+          ],
+          "sport": [
+            "swimming"
+          ],
+          "short_description": "Greek pianist, keyboardist, composer, and music producer"
+        },
+        "popularity": 0.9735271414748699,
+        "disambiguation": "1954-11-14",
+        "tags": [
+          {
+            "name": "Private Music Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:private_music_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:private_music_artists"
+          },
+          {
+            "name": "Greek Electronic Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_electronic_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_electronic_musicians"
+          },
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:occupation:person:pianist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:pianist"
+          },
+          {
+            "name": "New-age Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_age_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_age_pianists"
+          },
+          {
+            "name": "20th-century Greek Male Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_greek_male_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_greek_male_musicians"
+          },
+          {
+            "name": "New-age Synthesizer Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_age_synthesizer_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_age_synthesizer_players"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Greek Keyboardists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_keyboardists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_keyboardists"
+          },
+          {
+            "name": "20th-century Classical Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_classical_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_classical_composers"
+          },
+          {
+            "name": "Greek Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_emigrants_to_united_states"
+          },
+          {
+            "name": "Greek Classical Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_classical_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_classical_musicians"
+          },
+          {
+            "name": "New-age Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_age_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_age_composers"
+          },
+          {
+            "name": "21st-century Classical Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_classical_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_classical_composers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Electronic Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:electronic_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:electronic_composers"
+          },
+          {
+            "name": "Virgin Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:virgin_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:virgin_records_artists"
+          },
+          {
+            "name": "University Of Minnesota College Of Liberal Arts Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:university_minnesota_college_liberal_arts_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:university_minnesota_college_liberal_arts_alumni"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "20th-century Classical Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_classical_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_classical_pianists"
+          },
+          {
+            "name": "21st-century Classical Pianists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_classical_pianists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_classical_pianists"
+          },
+          {
+            "name": "Windham Hill Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:windham_hill_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:windham_hill_records_artists"
+          },
+          {
+            "name": "Concert Band Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:concert_band_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:concert_band_composers"
+          },
+          {
+            "name": "People From Kalamata",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_kalamata",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_kalamata"
+          }
+        ]
+      },
+      {
+        "name": "Thanasis Antetokounmpo",
+        "entity_id": "F284EFA1-3954-4C6F-B6E0-0675546FFBF2",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "j",
+              "value": "タナシス・アデトクンボ"
+            },
+            {
+              "language": "a",
+              "value": "タナシス・アデトクンボ"
+            },
+            {
+              "language": "p",
+              "value": "Tanasis Andetokunmbo"
+            },
+            {
+              "language": "l",
+              "value": "Tanasis Andetokunmbo"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "q",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "i",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "h",
+              "value": "Thanászész Antetokúnmpo"
+            },
+            {
+              "language": "u",
+              "value": "Thanászész Antetokúnmpo"
+            },
+            {
+              "language": "f",
+              "value": "Thanasis Adetokoubo"
+            },
+            {
+              "language": "r",
+              "value": "Thanasis Adetokoubo"
+            },
+            {
+              "language": "d",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "h",
+              "value": "ת'נאסיס אדטוקומבו"
+            },
+            {
+              "language": "e",
+              "value": "ת'נאסיס אדטוקומבו"
+            },
+            {
+              "language": "e",
+              "value": "Θανάσης Αντετοκούνμπο"
+            },
+            {
+              "language": "l",
+              "value": "Θανάσης Αντετοκούνμπο"
+            },
+            {
+              "language": "f",
+              "value": "Thanásis Antetokoúnmpo"
+            },
+            {
+              "language": "r",
+              "value": "Thanásis Antetokoúnmpo"
+            },
+            {
+              "language": "m",
+              "value": "Танасис Адетокунбо"
+            },
+            {
+              "language": "k",
+              "value": "Танасис Адетокунбо"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "v",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Танасис Адетокунбо"
+            },
+            {
+              "language": "u",
+              "value": "Танасис Адетокунбо"
+            },
+            {
+              "language": "r",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "o",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Thanasis Adetokoubo"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Adetokoubo"
+            },
+            {
+              "language": "z",
+              "value": "薩納西斯·阿德托昆波"
+            },
+            {
+              "language": "h",
+              "value": "薩納西斯·阿德托昆波"
+            },
+            {
+              "language": "k",
+              "value": "타나시스 아데토쿤보"
+            },
+            {
+              "language": "o",
+              "value": "타나시스 아데토쿤보"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Adetokunbo"
+            },
+            {
+              "language": "w",
+              "value": "Thanasis Adetokunbo"
+            },
+            {
+              "language": "e",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "n",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "z",
+              "value": "塔納西斯·恩特托考姆波"
+            },
+            {
+              "language": "h",
+              "value": "塔納西斯·恩特托考姆波"
+            },
+            {
+              "language": "b",
+              "value": "থানাসিস আদেতোকুম্বো"
+            },
+            {
+              "language": "n",
+              "value": "থানাসিস আদেতোকুম্বো"
+            },
+            {
+              "language": "p",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "f",
+              "value": "Athanásios Antetokoúnmpo"
+            },
+            {
+              "language": "r",
+              "value": "Athanásios Antetokoúnmpo"
+            },
+            {
+              "language": "i",
+              "value": "Thanasīs Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Thanasīs Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Thanasis Adetokounbo"
+            },
+            {
+              "language": "n",
+              "value": "Thanasis Adetokounbo"
+            },
+            {
+              "language": "d",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "v",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "o",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "ثاناسيس أنتيتوكونمبو"
+            },
+            {
+              "language": "r",
+              "value": "ثاناسيس أنتيتوكونمبو"
+            },
+            {
+              "language": "s",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "w",
+              "value": "Athanasios Antetokounmpo"
+            },
+            {
+              "language": "k",
+              "value": "아타나시오스 로티미 아데토쿤보"
+            },
+            {
+              "language": "o",
+              "value": "아타나시오스 로티미 아데토쿤보"
+            },
+            {
+              "language": "s",
+              "value": "Танасис Андетокумбо"
+            },
+            {
+              "language": "r",
+              "value": "Танасис Андетокумбо"
+            },
+            {
+              "language": "e",
+              "value": "Thanasis Adetokunbo"
+            },
+            {
+              "language": "n",
+              "value": "Thanasis Adetokunbo"
+            },
+            {
+              "language": "d",
+              "value": "Athanasios „Thanasis“ Antetokounmpo"
+            },
+            {
+              "language": "e",
+              "value": "Athanasios „Thanasis“ Antetokounmpo"
+            },
+            {
+              "language": "g",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "a",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "r",
+              "value": "Адетокунбо, Танасис"
+            },
+            {
+              "language": "u",
+              "value": "Адетокунбо, Танасис"
+            },
+            {
+              "language": "s",
+              "value": "Thanasis Adetokounbo"
+            },
+            {
+              "language": "w",
+              "value": "Thanasis Adetokounbo"
+            },
+            {
+              "language": "g",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "l",
+              "value": "Thanasis Antetokounmpo"
+            },
+            {
+              "language": "p",
+              "value": "Athanasios Rotimi Antetokounmpo"
+            },
+            {
+              "language": "t",
+              "value": "Athanasios Rotimi Antetokounmpo"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "thanasis_ante43"
+            },
+            "twitter": {
+              "id": "T123ant"
+            }
+          },
+          "citizenship": [
+            "Greece"
+          ],
+          "date_of_birth": "1992-07-17",
+          "image": {
+            "url": "https://images.qloo.com/i/F284EFA1-3954-4C6F-B6E0-0675546FFBF2-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Delaware 87ers",
+            "Wisconsin Herd",
+            "Filathlitikos B.C.",
+            "BC Andorra",
+            "Westchester Knicks",
+            "Panathinaikos B.C.",
+            "Milwaukee Bucks",
+            "New York Knicks"
+          ],
+          "work_period_start": "2010-01-01",
+          "short_description": "Greek basketball player"
+        },
+        "popularity": 0.931632619780172,
+        "disambiguation": "1992-07-17",
+        "tags": [
+          {
+            "name": "Delaware 87ers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:delaware_87ers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:delaware_87ers_players"
+          },
+          {
+            "name": "Greek People Of Yoruba Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_yoruba_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_yoruba_descent"
+          },
+          {
+            "name": "Naturalized Citizens Of The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states"
+          },
+          {
+            "name": "Wisconsin Herd Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisconsin_herd_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisconsin_herd_players"
+          },
+          {
+            "name": "New York Knicks Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_knicks_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_knicks_draft_picks"
+          },
+          {
+            "name": "Efao Zografou B.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:efao_zografou_b_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:efao_zografou_b_c_players"
+          },
+          {
+            "name": "Antetokounmpo Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:antetokounmpo_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:antetokounmpo_family"
+          },
+          {
+            "name": "Basketball Players From Athens",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_athens",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_athens"
+          },
+          {
+            "name": "Greek Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_mens_basketball_players"
+          },
+          {
+            "name": "Greek People Of Igbo Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_igbo_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_igbo_descent"
+          },
+          {
+            "name": "Greek Expatriate Basketball People In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_united_states"
+          },
+          {
+            "name": "Panathinaikos B.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:panathinaikos_b_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:panathinaikos_b_c_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Shooting Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shooting_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shooting_guards"
+          },
+          {
+            "name": "Players Drafted From The Nba Development League",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:players_drafted_from_nba_development_league",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:players_drafted_from_nba_development_league"
+          },
+          {
+            "name": "Bc Andorra Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bc_andorra_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bc_andorra_players"
+          },
+          {
+            "name": "Greek Basket League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_basket_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_basket_league_players"
+          },
+          {
+            "name": "Nba Players From Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_players_from_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_players_from_greece"
+          },
+          {
+            "name": "Greek Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_emigrants_to_united_states"
+          },
+          {
+            "name": "Igbo Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:igbo_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:igbo_sportspeople"
+          },
+          {
+            "name": "Power Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:power_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:power_forwards"
+          },
+          {
+            "name": "Small Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:small_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:small_forwards"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Greek Expatriate Basketball People In Andorra",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_andorra",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_expatriate_basketball_people_in_andorra"
+          },
+          {
+            "name": "Milwaukee Bucks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:milwaukee_bucks_players"
+          },
+          {
+            "name": "Westchester Knicks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:westchester_knicks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:westchester_knicks_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Yoruba Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:yoruba_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:yoruba_sportspeople"
+          },
+          {
+            "name": "2019 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "2023 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2023_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2023_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Greek People Of Nigerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_people_nigerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_people_nigerian_descent"
+          },
+          {
+            "name": "Greek Expatriate Sportspeople In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_expatriate_sportspeople_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_expatriate_sportspeople_in_united_states"
+          },
+          {
+            "name": "Naturalized Citizens Of Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_greece"
+          },
+          {
+            "name": "New York Knicks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_knicks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_knicks_players"
+          },
+          {
+            "name": "Liga Acb Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_acb_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_acb_players"
+          }
+        ]
+      },
+      {
+        "name": "Yannis Spanos",
+        "entity_id": "D9CAEF97-545B-407C-AD2F-4597009B0FCD",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "m",
+              "value": "Јанис Спанос"
+            },
+            {
+              "language": "k",
+              "value": "Јанис Спанос"
+            },
+            {
+              "language": "d",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "e",
+              "value": "Γιάννης Σπανός"
+            },
+            {
+              "language": "l",
+              "value": "Γιάννης Σπανός"
+            },
+            {
+              "language": "h",
+              "value": "יאניס ספנוס"
+            },
+            {
+              "language": "e",
+              "value": "יאניס ספנוס"
+            },
+            {
+              "language": "r",
+              "value": "Яннис Спанос"
+            },
+            {
+              "language": "u",
+              "value": "Яннис Спанос"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "g",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "a",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "f",
+              "value": "Yánnis Spanós"
+            },
+            {
+              "language": "r",
+              "value": "Yánnis Spanós"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "q",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Spanos"
+            },
+            {
+              "language": "r",
+              "value": "Спанос, Яннис"
+            },
+            {
+              "language": "u",
+              "value": "Спанос, Яннис"
+            },
+            {
+              "language": "f",
+              "value": "Yani Spanos"
+            },
+            {
+              "language": "r",
+              "value": "Yani Spanos"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm0816890"
+            },
+            "library_of_congress": {
+              "id": "n2004117035"
+            },
+            "musicbrainz": {
+              "id": "048e7a0e-0a2b-4773-b2c8-071a111fdb69"
+            }
+          },
+          "citizenship": [
+            "Greece"
+          ],
+          "date_of_birth": "1934-07-26",
+          "date_of_death": "2019-10-30",
+          "image": {
+            "url": "https://images.qloo.com/i/D9CAEF97-545B-407C-AD2F-4597009B0FCD-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "piano"
+          ],
+          "work_period_start": "1961-01-01",
+          "short_description": "Greek composer"
+        },
+        "popularity": 0.7921146758569705,
+        "disambiguation": "1934-07-26",
+        "tags": [
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Game-show",
+            "tag_id": "urn:tag:genre:media:media:game_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:game_show"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:media:media:crime",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:crime"
+          },
+          {
+            "name": "Greek Lyricists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_lyricists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_lyricists"
+          },
+          {
+            "name": "Greek Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_composers"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:media:media:horror",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:horror"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Short",
+            "tag_id": "urn:tag:genre:media:media:short",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:short"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "History",
+            "tag_id": "urn:tag:genre:media:media:history",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:history"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Director",
+            "tag_id": "urn:tag:genre:person:director",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:director"
+          },
+          {
+            "name": "People From Sikyona",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_sikyona",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_sikyona"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Adult",
+            "tag_id": "urn:tag:genre:media:media:adult",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adult"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Sci-fi",
+            "tag_id": "urn:tag:genre:media:media:sci_fi",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sci_fi"
+          },
+          {
+            "name": "Greek Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_musicians"
+          }
+        ]
+      },
+      {
+        "name": "Yannis Bouzoukis",
+        "entity_id": "AA3FFB3E-4450-4810-B34A-8664EA32CFCB",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "l",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "n",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "r",
+              "value": "Бузукис, Яннис"
+            },
+            {
+              "language": "u",
+              "value": "Бузукис, Яннис"
+            },
+            {
+              "language": "e",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "s",
+              "value": "Giannis Bouzoukis"
+            },
+            {
+              "language": "f",
+              "value": "Ioánnis Bouzoúkis"
+            },
+            {
+              "language": "r",
+              "value": "Ioánnis Bouzoúkis"
+            },
+            {
+              "language": "d",
+              "value": "Ioannis Bouzoukis"
+            },
+            {
+              "language": "e",
+              "value": "Ioannis Bouzoukis"
+            },
+            {
+              "language": "e",
+              "value": "Ioannis Bouzoukis"
+            },
+            {
+              "language": "n",
+              "value": "Ioannis Bouzoukis"
+            },
+            {
+              "language": "e",
+              "value": "Ιωάννης Μπουζούκης"
+            },
+            {
+              "language": "l",
+              "value": "Ιωάννης Μπουζούκης"
+            },
+            {
+              "language": "r",
+              "value": "Яннис Бузукис"
+            },
+            {
+              "language": "u",
+              "value": "Яннис Бузукис"
+            },
+            {
+              "language": "i",
+              "value": "Giannīs Mpouzoukīs"
+            },
+            {
+              "language": "t",
+              "value": "Giannīs Mpouzoukīs"
+            },
+            {
+              "language": "f",
+              "value": "Yánnis Bouzoúkis"
+            },
+            {
+              "language": "r",
+              "value": "Yánnis Bouzoúkis"
+            },
+            {
+              "language": "e",
+              "value": "Γιάννης Μπουζούκης"
+            },
+            {
+              "language": "l",
+              "value": "Γιάννης Μπουζούκης"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Greece"
+          ],
+          "date_of_birth": "1998-03-27",
+          "image": {
+            "url": "https://images.qloo.com/i/AA3FFB3E-4450-4810-B34A-8664EA32CFCB-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Panathinaikos F.C."
+          ],
+          "short_description": "Greek association football player"
+        },
+        "popularity": 0.6688500886052554,
+        "disambiguation": "1998-03-27",
+        "tags": [
+          {
+            "name": "Super League Greece Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_league_greece_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_league_greece_players"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Panathinaikos F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:panathinaikos_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:panathinaikos_f_c_players"
+          },
+          {
+            "name": "Ofi Crete F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ofi_crete_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ofi_crete_f_c_players"
+          },
+          {
+            "name": "Footballers From Preveza",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_preveza",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_preveza"
+          },
+          {
+            "name": "Greece Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greece_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greece_mens_youth_international_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Greek Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greek_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greek_mens_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Greece Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greece_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greece_mens_under_21_international_footballers"
+          }
+        ]
+      }
+    ]
+  }
+}

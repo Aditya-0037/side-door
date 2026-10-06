@@ -1,0 +1,2973 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Esteban Ocon",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Esteban Ocon",
+        "entity_id": "12A3A005-4444-4A97-A15A-B761C0B3283B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "p",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "d",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "i",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "g",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "h",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "u",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "c",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "k",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "u",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "z",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "v",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "d",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "c",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "j",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Okon"
+            },
+            {
+              "language": "z",
+              "value": "Esteban Okon"
+            },
+            {
+              "language": "o",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "c",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "v",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "i",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "j",
+              "value": "エステバン・オコン"
+            },
+            {
+              "language": "a",
+              "value": "エステバン・オコン"
+            },
+            {
+              "language": "c",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "u",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "k",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "w",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Окон, Эстебан"
+            },
+            {
+              "language": "u",
+              "value": "Окон, Эстебан"
+            },
+            {
+              "language": "h",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "n",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "p",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "l",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "z",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "h",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Estebans Okons"
+            },
+            {
+              "language": "v",
+              "value": "Estebans Okons"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "u",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Эстебан Окон"
+            },
+            {
+              "language": "u",
+              "value": "Эстебан Окон"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "q",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "إستيبان اوكون"
+            },
+            {
+              "language": "r",
+              "value": "إستيبان اوكون"
+            },
+            {
+              "language": "p",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "m",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Εστεμπάν Οκόν"
+            },
+            {
+              "language": "l",
+              "value": "Εστεμπάν Οκόν"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "i",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "h",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "استابان اوکون"
+            },
+            {
+              "language": "a",
+              "value": "استابان اوکون"
+            },
+            {
+              "language": "u",
+              "value": "Естебан Окон"
+            },
+            {
+              "language": "k",
+              "value": "Естебан Окон"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "g",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "d",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "s",
+              "value": "Esteban José Jean-Pierre Ocon-Khelfane"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "b",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "i",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "h",
+              "value": "एस्टेबन ओकोन"
+            },
+            {
+              "language": "i",
+              "value": "एस्टेबन ओकोन"
+            },
+            {
+              "language": "i",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "d",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "o",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Естебан Окон"
+            },
+            {
+              "language": "r",
+              "value": "Естебан Окон"
+            },
+            {
+              "language": "n",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "b",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "h",
+              "value": "אסטבן אוקון"
+            },
+            {
+              "language": "e",
+              "value": "אסטבן אוקון"
+            },
+            {
+              "language": "b",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "c",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "o",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "g",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "z",
+              "value": "埃斯特萬·奧孔"
+            },
+            {
+              "language": "h",
+              "value": "埃斯特萬·奧孔"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "o",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "m",
+              "value": "Эстебан Окон"
+            },
+            {
+              "language": "n",
+              "value": "Эстебан Окон"
+            },
+            {
+              "language": "l",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "v",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "f",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "y",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "b",
+              "value": "Esteban Ocon"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Ocon"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "estebanocon"
+            },
+            "twitter": {
+              "id": "OconEsteban"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1996-09-17",
+          "image": {
+            "url": "https://images.qloo.com/i/12A3A005-4444-4A97-A15A-B761C0B3283B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula One",
+            "auto racing",
+            "kart racing"
+          ],
+          "member_of_sports_team": [
+            "Manor Motorsport",
+            "Force India",
+            "Renault F1 Team",
+            "Racing Point F1 Team",
+            "Alpine F1 Team"
+          ],
+          "short_description": "French racing driver"
+        },
+        "popularity": 0.9527511116426218,
+        "disambiguation": "1996-09-17",
+        "tags": [
+          {
+            "name": "French Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_gp3_series_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Racing Point Force India Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_point_force_india_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_point_force_india_formula_one_drivers"
+          },
+          {
+            "name": "Comtec Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comtec_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comtec_racing_drivers"
+          },
+          {
+            "name": "Force India Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:force_india_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:force_india_formula_one_drivers"
+          },
+          {
+            "name": "R-ace Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers"
+          },
+          {
+            "name": "Alpine Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alpine_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alpine_formula_one_drivers"
+          },
+          {
+            "name": "French Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_racing_drivers"
+          },
+          {
+            "name": "French People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_spanish_descent"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Alps Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers"
+          },
+          {
+            "name": "Art Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "French Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_formula_one_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Gp3 Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp3_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp3_series_champions"
+          },
+          {
+            "name": "Sportspeople Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_spanish_descent"
+          },
+          {
+            "name": "World Series Formula V8 3.5 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers"
+          },
+          {
+            "name": "Renault Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "French Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Manor Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manor_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manor_formula_one_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Koiranen Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Engvarb From November 2017",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2017",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2017"
+          },
+          {
+            "name": "Sportspeople From Évreux",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_evreux",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_evreux"
+          }
+        ]
+      },
+      {
+        "name": "Belén Esteban",
+        "entity_id": "4FBD3630-847A-45F7-B78E-A31144D8A5F7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Белен Эстебан"
+            },
+            {
+              "language": "u",
+              "value": "Белен Эстебан"
+            },
+            {
+              "language": "f",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "r",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "g",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "a",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "i",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "t",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "e",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "s",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "e",
+              "value": "La princesa del pueblo"
+            },
+            {
+              "language": "s",
+              "value": "La princesa del pueblo"
+            },
+            {
+              "language": "n",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "b",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "c",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "a",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "f",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "i",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "e",
+              "value": "Belen Esteban"
+            },
+            {
+              "language": "s",
+              "value": "Belen Esteban"
+            },
+            {
+              "language": "d",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "e",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "s",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "l",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "r",
+              "value": "Эстебан, Белен"
+            },
+            {
+              "language": "u",
+              "value": "Эстебан, Белен"
+            },
+            {
+              "language": "n",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "l",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "e",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "n",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "g",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "l",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "p",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "l",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "s",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "q",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "g",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "l",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "f",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "r",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "j",
+              "value": "ベレン・エステバン・メネンデス"
+            },
+            {
+              "language": "a",
+              "value": "ベレン・エステバン・メネンデス"
+            },
+            {
+              "language": "e",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "u",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "n",
+              "value": "Belen Esteban"
+            },
+            {
+              "language": "l",
+              "value": "Belen Esteban"
+            },
+            {
+              "language": "s",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "v",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "e",
+              "value": "La princesa del pueblo"
+            },
+            {
+              "language": "n",
+              "value": "La princesa del pueblo"
+            },
+            {
+              "language": "e",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "s",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "c",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "a",
+              "value": "Belén Esteban Menéndez"
+            },
+            {
+              "language": "p",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "t",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "d",
+              "value": "Belén Esteban"
+            },
+            {
+              "language": "a",
+              "value": "Belén Esteban"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "belenestebanmenendez"
+            },
+            "twitter": {
+              "id": "BelenEstebanM"
+            },
+            "imdb": {
+              "id": "nm1543206"
+            }
+          },
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "1973-11-09",
+          "gender": [
+            "female"
+          ],
+          "short_description": "Spanish television personality"
+        },
+        "popularity": 0.9694828279753427,
+        "disambiguation": "1973-11-09",
+        "tags": [
+          {
+            "name": "Mass Media People From Madrid",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mass_media_people_from_madrid",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mass_media_people_from_madrid"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Spanish Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_television_personalities"
+          },
+          {
+            "name": "Reality-tv",
+            "tag_id": "urn:tag:genre:media:media:reality_tv",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:reality_tv"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Tv Debater",
+            "tag_id": "urn:tag:occupation:person:tv_debater",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:tv_debater"
+          },
+          {
+            "name": "Big Brother (franchise) Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:big_brother_franchise_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:big_brother_franchise_winners"
+          },
+          {
+            "name": "Game-show",
+            "tag_id": "urn:tag:genre:media:media:game_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:game_show"
+          }
+        ]
+      },
+      {
+        "name": "Juanes",
+        "entity_id": "35552417-C753-4AB8-8F6A-0A6202932996",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Хуанес"
+            },
+            {
+              "language": "k",
+              "value": "Хуанес"
+            },
+            {
+              "language": "y",
+              "value": "דזשואַנעס"
+            },
+            {
+              "language": "i",
+              "value": "דזשואַנעס"
+            },
+            {
+              "language": "c",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "f",
+              "value": "Juanes"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "s",
+              "value": "A Dios Le Piod"
+            },
+            {
+              "language": "v",
+              "value": "A Dios Le Piod"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "d",
+              "value": "Juanes"
+            },
+            {
+              "language": "j",
+              "value": "Juanes"
+            },
+            {
+              "language": "v",
+              "value": "Juanes"
+            },
+            {
+              "language": "v",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "جيانز"
+            },
+            {
+              "language": "r",
+              "value": "جيانز"
+            },
+            {
+              "language": "h",
+              "value": "חואנס"
+            },
+            {
+              "language": "e",
+              "value": "חואנס"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "b",
+              "value": "Хуанес"
+            },
+            {
+              "language": "g",
+              "value": "Хуанес"
+            },
+            {
+              "language": "r",
+              "value": "Хуанес"
+            },
+            {
+              "language": "u",
+              "value": "Хуанес"
+            },
+            {
+              "language": "f",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "r",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "r",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizabal Vasquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizabal Vasquez"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juan Esteban Aristizábal Vázquez"
+            },
+            {
+              "language": "a",
+              "value": "Juan Esteban Aristizábal Vázquez"
+            },
+            {
+              "language": "n",
+              "value": "Juanes"
+            },
+            {
+              "language": "b",
+              "value": "Juanes"
+            },
+            {
+              "language": "c",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban"
+            },
+            {
+              "language": "r",
+              "value": "Juan Esteban"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Χουάνες"
+            },
+            {
+              "language": "l",
+              "value": "Χουάνες"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "z",
+              "value": "Juanes"
+            },
+            {
+              "language": "d",
+              "value": "Juan Esteban Aristizabal Vazquez"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizabal Vazquez"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "f",
+              "value": "Juanes"
+            },
+            {
+              "language": "n",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "b",
+              "value": "হুয়ানেস"
+            },
+            {
+              "language": "n",
+              "value": "হুয়ানেস"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "f",
+              "value": "خوانس"
+            },
+            {
+              "language": "a",
+              "value": "خوانس"
+            },
+            {
+              "language": "i",
+              "value": "Juan Esteban"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "s",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "g",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "z",
+              "value": "Juanes"
+            },
+            {
+              "language": "n",
+              "value": "Juanes"
+            },
+            {
+              "language": "n",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes Aristizábal Vásquez"
+            },
+            {
+              "language": "s",
+              "value": "Juanes Aristizábal Vásquez"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "q",
+              "value": "Juanes"
+            },
+            {
+              "language": "d",
+              "value": "Juan Esteban Aristizábal"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizábal"
+            },
+            {
+              "language": "e",
+              "value": "Fijate bien"
+            },
+            {
+              "language": "l",
+              "value": "Fijate bien"
+            },
+            {
+              "language": "c",
+              "value": "Juanes"
+            },
+            {
+              "language": "o",
+              "value": "Juanes"
+            },
+            {
+              "language": "b",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "o",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Querubín Rebelde"
+            },
+            {
+              "language": "s",
+              "value": "Querubín Rebelde"
+            },
+            {
+              "language": "s",
+              "value": "Јуанес"
+            },
+            {
+              "language": "r",
+              "value": "Јуанес"
+            },
+            {
+              "language": "d",
+              "value": "Juan Esteban Aristizábal Vázquez"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizábal Vázquez"
+            },
+            {
+              "language": "z",
+              "value": "璜斯"
+            },
+            {
+              "language": "h",
+              "value": "璜斯"
+            },
+            {
+              "language": "g",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "b",
+              "value": "Хуанес"
+            },
+            {
+              "language": "e",
+              "value": "Хуанес"
+            },
+            {
+              "language": "c",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "a",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "m",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "n",
+              "value": "Juanes"
+            },
+            {
+              "language": "c",
+              "value": "Juan Esteban Aristizabal"
+            },
+            {
+              "language": "s",
+              "value": "Juan Esteban Aristizabal"
+            },
+            {
+              "language": "f",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "o",
+              "value": "Juanes"
+            },
+            {
+              "language": "c",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "w",
+              "value": "Juanes"
+            },
+            {
+              "language": "h",
+              "value": "Juanes"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juannes"
+            },
+            {
+              "language": "s",
+              "value": "Juannes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "c",
+              "value": "Juanes"
+            },
+            {
+              "language": "j",
+              "value": "フアネス"
+            },
+            {
+              "language": "a",
+              "value": "フアネス"
+            },
+            {
+              "language": "p",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "k",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "m",
+              "value": "Хуанес"
+            },
+            {
+              "language": "k",
+              "value": "Хуанес"
+            },
+            {
+              "language": "d",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "m",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "h",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "u",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "p",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "f",
+              "value": "خوانز"
+            },
+            {
+              "language": "a",
+              "value": "خوانز"
+            },
+            {
+              "language": "l",
+              "value": "Huaness"
+            },
+            {
+              "language": "v",
+              "value": "Huaness"
+            },
+            {
+              "language": "l",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizábal"
+            },
+            {
+              "language": "s",
+              "value": "Juan Esteban Aristizábal"
+            },
+            {
+              "language": "r",
+              "value": "Juanes"
+            },
+            {
+              "language": "o",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juan Esteban Aristizabal Vasquez"
+            },
+            {
+              "language": "t",
+              "value": "Juan Esteban Aristizabal Vasquez"
+            },
+            {
+              "language": "c",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "s",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "i",
+              "value": "Juanes"
+            },
+            {
+              "language": "t",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "v",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "o",
+              "value": "Juanes"
+            },
+            {
+              "language": "k",
+              "value": "후아네스"
+            },
+            {
+              "language": "o",
+              "value": "후아네스"
+            },
+            {
+              "language": "h",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Хуанес"
+            },
+            {
+              "language": "r",
+              "value": "Хуанес"
+            },
+            {
+              "language": "d",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "a",
+              "value": "Juan Esteban Aristizábal Vásquez"
+            },
+            {
+              "language": "q",
+              "value": "Juanes"
+            },
+            {
+              "language": "u",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "k",
+              "value": "Juanes"
+            },
+            {
+              "language": "d",
+              "value": "Juan Esteban Aristizabal"
+            },
+            {
+              "language": "e",
+              "value": "Juan Esteban Aristizabal"
+            },
+            {
+              "language": "e",
+              "value": "Vásquez, Juan Esteban Aristizábal"
+            },
+            {
+              "language": "u",
+              "value": "Vásquez, Juan Esteban Aristizábal"
+            },
+            {
+              "language": "e",
+              "value": "Querubín Rebelde"
+            },
+            {
+              "language": "n",
+              "value": "Querubín Rebelde"
+            },
+            {
+              "language": "m",
+              "value": "Хуанес"
+            },
+            {
+              "language": "n",
+              "value": "Хуанес"
+            },
+            {
+              "language": "e",
+              "value": "Juanes Aristizábal"
+            },
+            {
+              "language": "s",
+              "value": "Juanes Aristizábal"
+            },
+            {
+              "language": "d",
+              "value": "Juanes"
+            },
+            {
+              "language": "a",
+              "value": "Juanes"
+            },
+            {
+              "language": "s",
+              "value": "Juanes"
+            },
+            {
+              "language": "e",
+              "value": "Juanes"
+            },
+            {
+              "language": "l",
+              "value": "Juanes"
+            },
+            {
+              "language": "v",
+              "value": "Juanes"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Juanes"
+            },
+            "instagram": {
+              "id": "juanes"
+            },
+            "twitter": {
+              "id": "juanes"
+            },
+            "spotify": {
+              "id": "0UWZUmn7sybxMCqrw9tGa7"
+            },
+            "imdb": {
+              "id": "nm1535150"
+            },
+            "library_of_congress": {
+              "id": "no2002098345"
+            },
+            "musicbrainz": {
+              "id": "8b0f05ce-354e-4121-9e0b-8b4732ea844f"
+            }
+          },
+          "citizenship": [
+            "Colombia"
+          ],
+          "date_of_birth": "1972-08-09",
+          "image": {
+            "url": "https://images.qloo.com/i/35552417-C753-4AB8-8F6A-0A6202932996-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "guitar",
+            "voice"
+          ],
+          "spouse": [
+            "Karen Martínez"
+          ],
+          "work_period_start": "1988-01-01",
+          "short_description": "Colombian musician (born 1972)"
+        },
+        "popularity": 0.9969124058229417,
+        "disambiguation": "1972-08-09",
+        "tags": [
+          {
+            "name": "Chevaliers Of The Ordre Des Arts Et Des Lettres",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chevaliers_ordre_des_arts_et_des_lettres",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chevaliers_ordre_des_arts_et_des_lettres"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Latin Grammy Award For Best New Artist",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_best_new_artist",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_best_new_artist"
+          },
+          {
+            "name": "Music Arranger",
+            "tag_id": "urn:tag:occupation:person:music_arranger",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:music_arranger"
+          },
+          {
+            "name": "Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grammy_award_winners"
+          },
+          {
+            "name": "Latin Recording Academy Person Of The Year Honorees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_recording_academy_person_year_honorees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_recording_academy_person_year_honorees"
+          },
+          {
+            "name": "Latin Music Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_music_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_music_songwriters"
+          },
+          {
+            "name": "Musicians From Medellín",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_medellin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_medellin"
+          },
+          {
+            "name": "Colombian Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_emigrants_to_united_states"
+          },
+          {
+            "name": "Colombian Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_male_singer_songwriters"
+          },
+          {
+            "name": "Colombian People Of Basque Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_people_basque_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_people_basque_descent"
+          },
+          {
+            "name": "Colombian Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_singer_songwriters"
+          },
+          {
+            "name": "Colombian Rock Guitarists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_rock_guitarists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_rock_guitarists"
+          },
+          {
+            "name": "Colombian Rock Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_rock_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_rock_singers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Latin Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Juanes",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:juanes",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:juanes"
+          },
+          {
+            "name": "Wrasse Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wrasse_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wrasse_records_artists"
+          },
+          {
+            "name": "Colombian Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_pop_singers"
+          },
+          {
+            "name": "Universal Music Latin Entertainment Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:universal_music_latin_entertainment_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:universal_music_latin_entertainment_artists"
+          },
+          {
+            "name": "21st-century Colombian Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_colombian_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_colombian_male_singers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Colombian People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_people_spanish_descent"
+          },
+          {
+            "name": "Guitarist",
+            "tag_id": "urn:tag:occupation:person:guitarist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:guitarist"
+          },
+          {
+            "name": "People Named In The Panama Papers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_named_in_panama_papers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_named_in_panama_papers"
+          }
+        ]
+      },
+      {
+        "name": "Alejandro Fernández",
+        "entity_id": "4061FB94-F3BB-4858-B322-CDAAFA1F34F1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Алехандро Фернандес"
+            },
+            {
+              "language": "u",
+              "value": "Алехандро Фернандес"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "o",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "p",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "f",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández Abarca"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández Abarca"
+            },
+            {
+              "language": "b",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "v",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Фернандес, Алехандро"
+            },
+            {
+              "language": "u",
+              "value": "Фернандес, Алехандро"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντρο Φερναντέζ"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντρο Φερναντέζ"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "f",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "k",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "k",
+              "value": "알레한드로 페르난데스"
+            },
+            {
+              "language": "o",
+              "value": "알레한드로 페르난데스"
+            },
+            {
+              "language": "i",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "a",
+              "value": "اليخاندرو فرنانديز"
+            },
+            {
+              "language": "r",
+              "value": "اليخاندرو فرنانديز"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Emiliano Hernandez Baez"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Emiliano Hernandez Baez"
+            },
+            {
+              "language": "i",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "f",
+              "value": "آلخاندرو فرناندس"
+            },
+            {
+              "language": "a",
+              "value": "آلخاندرو فرناندس"
+            },
+            {
+              "language": "h",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "d",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "d",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández Abarca"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández Abarca"
+            },
+            {
+              "language": "c",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "k",
+              "value": "알레한드로 페르난데스 아바르카"
+            },
+            {
+              "language": "o",
+              "value": "알레한드로 페르난데스 아바르카"
+            },
+            {
+              "language": "d",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "i",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "a",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "j",
+              "value": "アレハンドロ・フェルナンデス"
+            },
+            {
+              "language": "a",
+              "value": "アレハンドロ・フェルナンデス"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernandez Abarca"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernandez Abarca"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "y",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "El caballero"
+            },
+            {
+              "language": "n",
+              "value": "El caballero"
+            },
+            {
+              "language": "g",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "h",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "q",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "p",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "c",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "o",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "f",
+              "value": "الخاندرو فرناندس"
+            },
+            {
+              "language": "a",
+              "value": "الخاندرو فرناندس"
+            },
+            {
+              "language": "i",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernandez"
+            },
+            {
+              "language": "z",
+              "value": "亚历杭德罗·费尔南德斯"
+            },
+            {
+              "language": "h",
+              "value": "亚历杭德罗·费尔南德斯"
+            },
+            {
+              "language": "c",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "n",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "b",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "l",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "g",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "a",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "e",
+              "value": "Αλεχάντρο Φερνάντες"
+            },
+            {
+              "language": "l",
+              "value": "Αλεχάντρο Φερνάντες"
+            },
+            {
+              "language": "t",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "r",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "s",
+              "value": "Alejandro Fernández"
+            },
+            {
+              "language": "u",
+              "value": "Alejandro Fernández"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Alejandro+Fern"
+            },
+            "instagram": {
+              "id": "alexoficial"
+            },
+            "twitter": {
+              "id": "alexoficial"
+            },
+            "spotify": {
+              "id": "6sq1yF0OZEWA4xoXVKW1L9"
+            },
+            "imdb": {
+              "id": "nm0273370"
+            },
+            "library_of_congress": {
+              "id": "no98100228"
+            },
+            "musicbrainz": {
+              "id": "772a8360-e81e-4647-92e2-195c19efddad"
+            }
+          },
+          "child": [
+            "Camila Fernández"
+          ],
+          "citizenship": [
+            "Mexico"
+          ],
+          "date_of_birth": "1971-04-24",
+          "image": {
+            "url": "https://images.qloo.com/i/4061FB94-F3BB-4858-B322-CDAAFA1F34F1-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "1988-01-01",
+          "short_description": "Mexican recording artist; singer"
+        },
+        "popularity": 0.9944445048433915,
+        "disambiguation": "1971-04-24",
+        "tags": [
+          {
+            "name": "Singers From Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_mexico_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_mexico_city"
+          },
+          {
+            "name": "Male Actors From Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_mexico_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_mexico_city"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "Mexican Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_pop_singers"
+          },
+          {
+            "name": "Mexican Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_male_film_actors"
+          },
+          {
+            "name": "21st-century Mexican Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_mexican_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_mexican_male_singers"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Universal Music Latin Entertainment Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:universal_music_latin_entertainment_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:universal_music_latin_entertainment_artists"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Mexican Baritones",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_baritones",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_baritones"
+          },
+          {
+            "name": "Latin Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Latin Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_pop_singers"
+          }
+        ]
+      },
+      {
+        "name": "Facundo Gómez Bruera",
+        "entity_id": "5BC8FFA2-AFE8-41C4-8C18-1E50360190AA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "n",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "d",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "e",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "s",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "l",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "n",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "b",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "i",
+              "value": "Facundo"
+            },
+            {
+              "language": "t",
+              "value": "Facundo"
+            },
+            {
+              "language": "e",
+              "value": "Facundo Gomez Bruera"
+            },
+            {
+              "language": "s",
+              "value": "Facundo Gomez Bruera"
+            },
+            {
+              "language": "e",
+              "value": "Facundo Gomez Bruera"
+            },
+            {
+              "language": "n",
+              "value": "Facundo Gomez Bruera"
+            },
+            {
+              "language": "c",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "a",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "n",
+              "value": "Facundo"
+            },
+            {
+              "language": "l",
+              "value": "Facundo"
+            },
+            {
+              "language": "e",
+              "value": "Facundo Gómez Bruera"
+            },
+            {
+              "language": "s",
+              "value": "Facundo Gómez Bruera"
+            },
+            {
+              "language": "s",
+              "value": "Esteban Facundo Gomez Bruera"
+            },
+            {
+              "language": "q",
+              "value": "Esteban Facundo Gomez Bruera"
+            },
+            {
+              "language": "e",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "t",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "g",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "a",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "p",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "t",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "d",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "a",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "f",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "r",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "e",
+              "value": "Facundo"
+            },
+            {
+              "language": "n",
+              "value": "Facundo"
+            },
+            {
+              "language": "s",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "v",
+              "value": "Facundo Gómez Brueda"
+            },
+            {
+              "language": "r",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "o",
+              "value": "Esteban Facundo Gómez Bruera"
+            },
+            {
+              "language": "f",
+              "value": "Facundo Gómez"
+            },
+            {
+              "language": "i",
+              "value": "Facundo Gómez"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm1212872"
+            }
+          },
+          "citizenship": [
+            "Mexico"
+          ],
+          "date_of_birth": "1978-04-29",
+          "image": {
+            "url": "https://images.qloo.com/i/5BC8FFA2-AFE8-41C4-8C18-1E50360190AA-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1995-01-01",
+          "short_description": "Mexican actor and TV host"
+        },
+        "popularity": 0.9933084006479599,
+        "disambiguation": "1978-04-29",
+        "tags": [
+          {
+            "name": "Mexican Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_male_television_actors"
+          },
+          {
+            "name": "Mexican Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_male_comedians"
+          },
+          {
+            "name": "Presenter",
+            "tag_id": "urn:tag:occupation:person:presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:presenter"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "Big Brother (franchise) Contestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:big_brother_franchise_contestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:big_brother_franchise_contestants"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Reality-tv",
+            "tag_id": "urn:tag:genre:media:media:reality_tv",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:reality_tv"
+          },
+          {
+            "name": "Mexican Television Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_television_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_television_biography_stubs"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Mexican People Of Argentine Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_people_argentine_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_people_argentine_descent"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Male Actors From Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_mexico_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_mexico_city"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Mexican Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_television_personalities"
+          },
+          {
+            "name": "Comedians From Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_mexico_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_mexico_city"
+          }
+        ]
+      }
+    ]
+  }
+}

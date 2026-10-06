@@ -1,0 +1,3325 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Interstellar",
+    "take": 5,
+    "types": "urn:entity:movie"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Interstellar",
+        "entity_id": "057DA9D9-399B-437E-8BCA-A80E499125EF",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "th",
+              "value": "\"อินเตอร์สเตลลาร์ ทะยานดาวกู้โลก\""
+            },
+            {
+              "language": "ar",
+              "value": "\"بين النجوم\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Yıldızlararası\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "de",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "it",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Interstellar\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Интерстеллар\""
+            },
+            {
+              "language": "ta",
+              "value": "\"இன்டர்‌ஸ்டெலர்\""
+            },
+            {
+              "language": "zh",
+              "value": "\"星際穿越\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Interstellaire\""
+            },
+            {
+              "language": "hi",
+              "value": "\"इंटरस्टेलर\""
+            },
+            {
+              "language": "he",
+              "value": "\"בין כוכבים\""
+            },
+            {
+              "language": "bn",
+              "value": "\"ইন্টারস্টেলার\""
+            },
+            {
+              "language": "et",
+              "value": "\"Tähtedevaheline\""
+            },
+            {
+              "language": "ja",
+              "value": "\"インターステラー\""
+            },
+            {
+              "language": "ko",
+              "value": "\"인터스텔라\""
+            },
+            {
+              "language": "te",
+              "value": "\"ఇంటర్ స్టెల్లర్\""
+            },
+            {
+              "language": "ml",
+              "value": "\"ഇന്റർസ്റ്റെല്ലാർ\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Interestelar\""
+            },
+            {
+              "language": "es",
+              "value": "\"Interestelar\""
+            }
+          ],
+          "content_rating": "PG-13",
+          "description": "Interstellar (2014), directed by Christopher Nolan and co-written with Jonathan Nolan, is an adventure-drama starring Matthew McConaughey, Anne Hathaway and Jessica Chastain that blends hard science-fiction with a human family story. As Earth's environment collapses, a former pilot leads an expedition through a wormhole to seek new worlds, confronting relativistic physics, moral dilemmas, and enormous personal sacrifice. The film foregrounds themes of survival, parental bonds, love transcending time, and the tension between scientific vision and political short-sightedness. Its emotional core and monumental visuals create a contemplative, often moving experience.",
+          "external": {
+            "facebook": {
+              "id": "interstellarmovie"
+            },
+            "imdb": {
+              "id": "tt0816692",
+              "user_rating": 8.7,
+              "user_rating_count": 2612273
+            },
+            "instagram": {
+              "id": "interstellarmovie"
+            },
+            "metacritic": {
+              "critic_rating": 74,
+              "id": "interstellar",
+              "user_rating": 8.5
+            },
+            "twitter": {
+              "id": "interstellar"
+            },
+            "wikidata": {
+              "id": "q13417189"
+            }
+          },
+          "filming_location": "Iceland, Svínafellsjökull, Vatnajökull, Austurland, Iceland, Calgary, Alberta, Canada, Canmore, Alberta, Canada, 200 block of 24th St, Fort Macleod, Alberta, Canada, Lethbridge, Alberta, Canada, Okotoks, Alberta, Canada, Westin Bonaventure Hotel & Suites - 404 S. Figueroa Street, Downtown, Los Angeles, California, USA, Nanton, Alberta, Canada, Longview, Alberta, Canada, Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA, Torrance, California, USA, Downtown, Los Angeles, California, USA, Cheyenne Mountain Complex, Colorado, USA, Altadena, California, USA, Los Angeles Convention Center - 1201 S. Figueroa Street, Downtown, Los Angeles, California, USA, 1525 Industrial St, Los Angeles, California, USA, Los Angeles, California, USA, Canada, California, USA, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/057DA9D9-399B-437E-8BCA-A80E499125EF-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Paramount Pictures",
+          "release_country": "United States",
+          "release_date": "2014-11-07",
+          "release_year": 2014,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A former pilot leads a mission through a wormhole to find a habitable planet as Earth's environment collapses."
+            },
+            {
+              "language": "de",
+              "value": "Ein ehemaliger Pilot führt ein Team durch ein Wurmloch, um einen bewohnbaren Planeten zu finden, während die Erde unbewohnbar wird."
+            },
+            {
+              "language": "es",
+              "value": "Un ex piloto lidera una misión a través de un agujero de gusano para hallar un planeta habitable mientras la Tierra se deteriora."
+            },
+            {
+              "language": "fr",
+              "value": "Un ancien pilote dirige une mission à travers un trou de ver pour trouver une planète habitable alors que la Terre décline."
+            }
+          ],
+          "website": "http://www.rogerebert.com/reviews/interstellar-2014"
+        },
+        "popularity": 0.9999784012613664,
+        "disambiguation": "2014",
+        "tags": [
+          {
+            "name": "Ambiguous ending",
+            "tag_id": "urn:tag:keyword:media:ambiguous_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Beer",
+            "tag_id": "urn:tag:keyword:media:beer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Scientist",
+            "tag_id": "urn:tag:keyword:media:scientist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Desperation",
+            "tag_id": "urn:tag:keyword:media:desperation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mountain",
+            "tag_id": "urn:tag:keyword:media:mountain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Widower",
+            "tag_id": "urn:tag:keyword:media:widower",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Subterranean",
+            "tag_id": "urn:tag:keyword:media:subterranean",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Spacecraft",
+            "tag_id": "urn:tag:keyword:media:spacecraft",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic adventure",
+            "tag_id": "urn:tag:keyword:media:epic_adventure",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cryosleep",
+            "tag_id": "urn:tag:keyword:media:cryosleep",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Desert",
+            "tag_id": "urn:tag:keyword:media:desert",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Haunted",
+            "tag_id": "urn:tag:character:qloo:haunted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cult film",
+            "tag_id": "urn:tag:keyword:media:cult_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death",
+            "tag_id": "urn:tag:keyword:media:death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Philosophy of time",
+            "tag_id": "urn:tag:interests:qloo:philosophy_of_time",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Fistfight",
+            "tag_id": "urn:tag:keyword:media:fistfight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Practical effects forward",
+            "tag_id": "urn:tag:style:qloo:practical_effects_forward",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Coughing",
+            "tag_id": "urn:tag:keyword:media:coughing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family relationships",
+            "tag_id": "urn:tag:keyword:media:family_relationships",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Temporal visuals",
+            "tag_id": "urn:tag:style:qloo:temporal_visuals",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Fight",
+            "tag_id": "urn:tag:keyword:media:fight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Physicist",
+            "tag_id": "urn:tag:keyword:media:physicist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Plot twist",
+            "tag_id": "urn:tag:keyword:media:plot_twist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drowning",
+            "tag_id": "urn:tag:keyword:media:drowning",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Snowy planet",
+            "tag_id": "urn:tag:keyword:media:snowy_planet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "70mm film",
+            "tag_id": "urn:tag:keyword:media:70mm_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bending spacetime",
+            "tag_id": "urn:tag:keyword:media:bending_spacetime",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Suspense",
+            "tag_id": "urn:tag:keyword:media:suspense",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dying",
+            "tag_id": "urn:tag:keyword:media:dying",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drawing",
+            "tag_id": "urn:tag:keyword:media:drawing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ex pilot",
+            "tag_id": "urn:tag:keyword:media:ex_pilot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Outer space",
+            "tag_id": "urn:tag:keyword:media:outer_space",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic",
+            "tag_id": "urn:tag:style:qloo:epic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Space sci fi",
+            "tag_id": "urn:tag:keyword:media:space_sci_fi",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Singularity",
+            "tag_id": "urn:tag:keyword:media:singularity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brane cosmology",
+            "tag_id": "urn:tag:keyword:media:brane_cosmology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Imaginative",
+            "tag_id": "urn:tag:audience:qloo:imaginative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Thought provoking",
+            "tag_id": "urn:tag:plot:qloo:thought_provoking",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Saving the world",
+            "tag_id": "urn:tag:keyword:media:saving_the_world",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Farming",
+            "tag_id": "urn:tag:keyword:media:farming",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rocket launch",
+            "tag_id": "urn:tag:keyword:media:rocket_launch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Crash landing",
+            "tag_id": "urn:tag:keyword:media:crash_landing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Future shock",
+            "tag_id": "urn:tag:keyword:media:future_shock",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Crop failure",
+            "tag_id": "urn:tag:keyword:media:crop_failure",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Black hole",
+            "tag_id": "urn:tag:keyword:qloo:black_hole",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Title spoken by character",
+            "tag_id": "urn:tag:keyword:media:title_spoken_by_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wormhole",
+            "tag_id": "urn:tag:keyword:media:wormhole",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fatherly",
+            "tag_id": "urn:tag:character:qloo:fatherly",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Food",
+            "tag_id": "urn:tag:keyword:media:food",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gas mask",
+            "tag_id": "urn:tag:keyword:media:gas_mask",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Giant wave",
+            "tag_id": "urn:tag:keyword:media:giant_wave",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father daughter relationship",
+            "tag_id": "urn:tag:keyword:media:father_daughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American midwest",
+            "tag_id": "urn:tag:keyword:media:american_midwest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pickup truck",
+            "tag_id": "urn:tag:keyword:media:pickup_truck",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Astronaut",
+            "tag_id": "urn:tag:keyword:media:astronaut",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Professor",
+            "tag_id": "urn:tag:keyword:media:professor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:keyword:media:love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dimension",
+            "tag_id": "urn:tag:keyword:media:dimension",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alien world",
+            "tag_id": "urn:tag:keyword:media:alien_world",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "One word title",
+            "tag_id": "urn:tag:keyword:media:one_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Courage",
+            "tag_id": "urn:tag:keyword:media:courage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Environmental science",
+            "tag_id": "urn:tag:interests:qloo:environmental_science",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Time dilation",
+            "tag_id": "urn:tag:keyword:media:time_dilation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famine",
+            "tag_id": "urn:tag:keyword:media:famine",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lens flare",
+            "tag_id": "urn:tag:keyword:media:lens_flare",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Interstellar",
+            "tag_id": "urn:tag:keyword:media:interstellar",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Spaceship",
+            "tag_id": "urn:tag:keyword:media:spaceship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time",
+            "tag_id": "urn:tag:keyword:media:time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Melodrama",
+            "tag_id": "urn:tag:keyword:media:melodrama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cornfield",
+            "tag_id": "urn:tag:keyword:media:cornfield",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by director",
+            "tag_id": "urn:tag:keyword:media:written_by_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Self sacrifice",
+            "tag_id": "urn:tag:keyword:media:self_sacrifice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alien planet",
+            "tag_id": "urn:tag:keyword:media:alien_planet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Waves",
+            "tag_id": "urn:tag:keyword:media:waves",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Corn",
+            "tag_id": "urn:tag:keyword:media:corn",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tesseract",
+            "tag_id": "urn:tag:keyword:media:tesseract",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Speculative scientific",
+            "tag_id": "urn:tag:plot:qloo:speculative_scientific",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "School principal",
+            "tag_id": "urn:tag:keyword:media:school_principal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Obsessive",
+            "tag_id": "urn:tag:character:qloo:obsessive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Surrealism",
+            "tag_id": "urn:tag:keyword:media:surrealism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Near death experience",
+            "tag_id": "urn:tag:keyword:media:near_death_experience",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rocket",
+            "tag_id": "urn:tag:keyword:media:rocket",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sacrifice",
+            "tag_id": "urn:tag:keyword:qloo:sacrifice",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Fighter jet",
+            "tag_id": "urn:tag:keyword:media:fighter_jet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reverse footage",
+            "tag_id": "urn:tag:keyword:media:reverse_footage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cryostasis",
+            "tag_id": "urn:tag:keyword:media:cryostasis",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Protective",
+            "tag_id": "urn:tag:character:qloo:protective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Saturn the planet",
+            "tag_id": "urn:tag:keyword:media:saturn_the_planet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Analytical",
+            "tag_id": "urn:tag:audience:qloo:analytical",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Asphyxiation",
+            "tag_id": "urn:tag:keyword:media:asphyxiation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Galaxy",
+            "tag_id": "urn:tag:keyword:media:galaxy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Floating in space",
+            "tag_id": "urn:tag:keyword:media:floating_in_space",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Set in future",
+            "tag_id": "urn:tag:keyword:media:set_in_future",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The journey",
+            "tag_id": "urn:tag:archetype:qloo:the_journey",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Reference to dylan thomas",
+            "tag_id": "urn:tag:keyword:media:reference_to_dylan_thomas",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Flood",
+            "tag_id": "urn:tag:keyword:media:flood",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deception",
+            "tag_id": "urn:tag:keyword:media:deception",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Environmental damage",
+            "tag_id": "urn:tag:keyword:media:environmental_damage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Book",
+            "tag_id": "urn:tag:keyword:media:book",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alternate reality",
+            "tag_id": "urn:tag:keyword:media:alternate_reality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wristwatch",
+            "tag_id": "urn:tag:keyword:media:wristwatch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to isaac newton",
+            "tag_id": "urn:tag:keyword:media:reference_to_isaac_newton",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Moral dilemma",
+            "tag_id": "urn:tag:keyword:media:moral_dilemma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gasoline",
+            "tag_id": "urn:tag:keyword:media:gasoline",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Black hole",
+            "tag_id": "urn:tag:keyword:media:black_hole",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hospital",
+            "tag_id": "urn:tag:keyword:media:hospital",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time dilation",
+            "tag_id": "urn:tag:keyword:qloo:time_dilation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Toy",
+            "tag_id": "urn:tag:keyword:media:toy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Expedition",
+            "tag_id": "urn:tag:keyword:media:expedition",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Science",
+            "tag_id": "urn:tag:keyword:media:science",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space travel",
+            "tag_id": "urn:tag:keyword:media:space_travel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Race against time",
+            "tag_id": "urn:tag:keyword:media:race_against_time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Surprise ending",
+            "tag_id": "urn:tag:keyword:media:surprise_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Live action",
+            "tag_id": "urn:tag:keyword:media:live_action",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Psychological",
+            "tag_id": "urn:tag:plot:qloo:psychological",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Gravity",
+            "tag_id": "urn:tag:keyword:media:gravity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dust storm",
+            "tag_id": "urn:tag:keyword:media:dust_storm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wrench",
+            "tag_id": "urn:tag:keyword:media:wrench",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to moon landing conspiracy",
+            "tag_id": "urn:tag:keyword:media:reference_to_moon_landing_conspiracy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:audience:qloo:curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Attempted murder",
+            "tag_id": "urn:tag:keyword:media:attempted_murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Imax scale",
+            "tag_id": "urn:tag:style:qloo:imax_scale",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Clock",
+            "tag_id": "urn:tag:keyword:media:clock",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Hard science fiction",
+            "tag_id": "urn:tag:keyword:media:hard_science_fiction",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Farmer",
+            "tag_id": "urn:tag:keyword:media:farmer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Binary code",
+            "tag_id": "urn:tag:keyword:media:binary_code",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The father",
+            "tag_id": "urn:tag:archetype:qloo:the_father",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Backward time travel",
+            "tag_id": "urn:tag:keyword:media:backward_time_travel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Environmental collapse",
+            "tag_id": "urn:tag:theme:qloo:environmental_collapse",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Sphere",
+            "tag_id": "urn:tag:keyword:media:sphere",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:keyword:media:survival",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambush",
+            "tag_id": "urn:tag:keyword:media:ambush",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to apollo mission",
+            "tag_id": "urn:tag:keyword:media:reference_to_apollo_mission",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nightmare",
+            "tag_id": "urn:tag:keyword:media:nightmare",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pilot",
+            "tag_id": "urn:tag:keyword:media:pilot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Telemetry",
+            "tag_id": "urn:tag:keyword:media:telemetry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Robot",
+            "tag_id": "urn:tag:keyword:media:robot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Planet",
+            "tag_id": "urn:tag:keyword:media:planet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Colorado",
+            "tag_id": "urn:tag:keyword:media:colorado",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Monumental framing",
+            "tag_id": "urn:tag:style:qloo:monumental_framing",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Near future",
+            "tag_id": "urn:tag:keyword:media:near_future",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Oberth maneuver",
+            "tag_id": "urn:tag:keyword:media:oberth_maneuver",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Helmet",
+            "tag_id": "urn:tag:keyword:media:helmet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Parallel dimension",
+            "tag_id": "urn:tag:keyword:media:parallel_dimension",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father son relationship",
+            "tag_id": "urn:tag:keyword:media:father_son_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lush",
+            "tag_id": "urn:tag:style:qloo:lush",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:character:qloo:complex",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Scientific",
+            "tag_id": "urn:tag:character:qloo:scientific",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "School",
+            "tag_id": "urn:tag:keyword:media:school",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nasa",
+            "tag_id": "urn:tag:keyword:qloo:nasa",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Morse code",
+            "tag_id": "urn:tag:keyword:media:morse_code",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bookcase",
+            "tag_id": "urn:tag:keyword:media:bookcase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Quest adventure",
+            "tag_id": "urn:tag:keyword:media:quest_adventure",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Psychological drama",
+            "tag_id": "urn:tag:keyword:media:psychological_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mission",
+            "tag_id": "urn:tag:keyword:media:mission",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Food shortage",
+            "tag_id": "urn:tag:keyword:media:food_shortage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Future",
+            "tag_id": "urn:tag:keyword:media:future",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time traveler",
+            "tag_id": "urn:tag:keyword:media:time_traveler",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Organ",
+            "tag_id": "urn:tag:keyword:media:organ",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ice planets",
+            "tag_id": "urn:tag:keyword:media:ice_planets",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wormhole explained by folding paper",
+            "tag_id": "urn:tag:keyword:media:wormhole_explained_by_folding_paper",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male protagonist",
+            "tag_id": "urn:tag:keyword:media:male_protagonist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space opera",
+            "tag_id": "urn:tag:subgenre:qloo:space_opera",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Original story",
+            "tag_id": "urn:tag:keyword:media:original_story",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space station",
+            "tag_id": "urn:tag:keyword:media:space_station",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Blight",
+            "tag_id": "urn:tag:keyword:qloo:blight",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Top secret",
+            "tag_id": "urn:tag:keyword:media:top_secret",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Snow",
+            "tag_id": "urn:tag:keyword:media:snow",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fire",
+            "tag_id": "urn:tag:keyword:media:fire",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Blockbuster",
+            "tag_id": "urn:tag:keyword:media:blockbuster",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space time",
+            "tag_id": "urn:tag:keyword:media:space_time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dust cloud",
+            "tag_id": "urn:tag:keyword:media:dust_cloud",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Spacecraft",
+            "tag_id": "urn:tag:keyword:qloo:spacecraft",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "End of the world",
+            "tag_id": "urn:tag:keyword:media:end_of_the_world",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "In medias res",
+            "tag_id": "urn:tag:keyword:media:in_medias_res",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dystopia",
+            "tag_id": "urn:tag:keyword:media:dystopia",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic drama",
+            "tag_id": "urn:tag:keyword:media:epic_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Farmhouse",
+            "tag_id": "urn:tag:keyword:media:farmhouse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Title directed by male",
+            "tag_id": "urn:tag:keyword:media:title_directed_by_male",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Science versus politics",
+            "tag_id": "urn:tag:theme:qloo:science_versus_politics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Escape pod",
+            "tag_id": "urn:tag:keyword:media:escape_pod",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Robots",
+            "tag_id": "urn:tag:keyword:qloo:robots",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time dilatation",
+            "tag_id": "urn:tag:keyword:media:time_dilatation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Futuristic",
+            "tag_id": "urn:tag:keyword:media:futuristic",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American flag",
+            "tag_id": "urn:tag:keyword:media:american_flag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:style:qloo:polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Father daughter relationship",
+            "tag_id": "urn:tag:keyword:qloo:father_daughter_relationship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Genetic ark",
+            "tag_id": "urn:tag:keyword:media:genetic_ark",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:adventure",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Event horizon",
+            "tag_id": "urn:tag:keyword:media:event_horizon",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resourceful",
+            "tag_id": "urn:tag:character:qloo:resourceful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Truck",
+            "tag_id": "urn:tag:keyword:media:truck",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematography",
+            "tag_id": "urn:tag:interests:qloo:cinematography",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Original screenplay",
+            "tag_id": "urn:tag:keyword:media:original_screenplay",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to murphys law",
+            "tag_id": "urn:tag:keyword:media:reference_to_murphys_law",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mind bending",
+            "tag_id": "urn:tag:plot:qloo:mind_bending",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Double cross",
+            "tag_id": "urn:tag:keyword:media:double_cross",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic",
+            "tag_id": "urn:tag:keyword:media:epic",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hope",
+            "tag_id": "urn:tag:keyword:media:hope",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rescue",
+            "tag_id": "urn:tag:keyword:media:rescue",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Variable aspect ratio",
+            "tag_id": "urn:tag:keyword:media:variable_aspect_ratio",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:theme:qloo:survival",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Farmer",
+            "tag_id": "urn:tag:keyword:qloo:farmer",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Time paradox",
+            "tag_id": "urn:tag:keyword:media:time_paradox",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Spacesuit",
+            "tag_id": "urn:tag:keyword:media:spacesuit",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploding ship",
+            "tag_id": "urn:tag:keyword:media:exploding_ship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Combine harvester",
+            "tag_id": "urn:tag:keyword:media:combine_harvester",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time loop",
+            "tag_id": "urn:tag:keyword:media:time_loop",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ocean",
+            "tag_id": "urn:tag:keyword:media:ocean",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Title written by male",
+            "tag_id": "urn:tag:keyword:media:title_written_by_male",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space",
+            "tag_id": "urn:tag:keyword:media:space",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Escape",
+            "tag_id": "urn:tag:keyword:media:escape",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dust storms",
+            "tag_id": "urn:tag:keyword:qloo:dust_storms",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Teenager",
+            "tag_id": "urn:tag:keyword:media:teenager",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Video message",
+            "tag_id": "urn:tag:keyword:media:video_message",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sacrifice",
+            "tag_id": "urn:tag:theme:qloo:sacrifice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Brawl",
+            "tag_id": "urn:tag:keyword:media:brawl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Artificial intelligence",
+            "tag_id": "urn:tag:keyword:media:artificial_intelligence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Astrophysics",
+            "tag_id": "urn:tag:interests:qloo:astrophysics",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Destiny",
+            "tag_id": "urn:tag:keyword:media:destiny",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Aerial camera shot",
+            "tag_id": "urn:tag:keyword:media:aerial_camera_shot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Grandfather grandson relationship",
+            "tag_id": "urn:tag:keyword:media:grandfather_grandson_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Baseball game",
+            "tag_id": "urn:tag:keyword:media:baseball_game",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chase",
+            "tag_id": "urn:tag:keyword:media:chase",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The sacrifice",
+            "tag_id": "urn:tag:archetype:qloo:the_sacrifice",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Relativity",
+            "tag_id": "urn:tag:keyword:media:relativity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "No opening credits",
+            "tag_id": "urn:tag:keyword:media:no_opening_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Popcorn",
+            "tag_id": "urn:tag:keyword:media:popcorn",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bookshelf",
+            "tag_id": "urn:tag:keyword:media:bookshelf",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Birthday",
+            "tag_id": "urn:tag:keyword:media:birthday",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Baseball",
+            "tag_id": "urn:tag:keyword:media:baseball",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Parent child relationship",
+            "tag_id": "urn:tag:theme:qloo:parent_child_relationship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Brave",
+            "tag_id": "urn:tag:character:qloo:brave",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Dust",
+            "tag_id": "urn:tag:keyword:media:dust",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Apocalypse",
+            "tag_id": "urn:tag:keyword:media:apocalypse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Crying",
+            "tag_id": "urn:tag:keyword:media:crying",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bed",
+            "tag_id": "urn:tag:keyword:media:bed",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploration",
+            "tag_id": "urn:tag:theme:qloo:exploration",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Alternate dimension",
+            "tag_id": "urn:tag:keyword:media:alternate_dimension",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Disaster",
+            "tag_id": "urn:tag:keyword:media:disaster",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Science focused drama",
+            "tag_id": "urn:tag:subgenre:qloo:science_focused_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Sabotage",
+            "tag_id": "urn:tag:keyword:media:sabotage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hard science fiction",
+            "tag_id": "urn:tag:subgenre:qloo:hard_science_fiction",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Loss of father",
+            "tag_id": "urn:tag:keyword:media:loss_of_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Biologist",
+            "tag_id": "urn:tag:keyword:media:biologist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wormhole",
+            "tag_id": "urn:tag:keyword:qloo:wormhole",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Corpse",
+            "tag_id": "urn:tag:keyword:media:corpse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic sci fi",
+            "tag_id": "urn:tag:keyword:media:epic_sci_fi",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Helmet camera",
+            "tag_id": "urn:tag:keyword:media:helmet_camera",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Postmodern",
+            "tag_id": "urn:tag:keyword:media:postmodern",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time travel sci fi",
+            "tag_id": "urn:tag:keyword:media:time_travel_sci_fi",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zero gravity",
+            "tag_id": "urn:tag:keyword:media:zero_gravity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Montage",
+            "tag_id": "urn:tag:keyword:media:montage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The unknown",
+            "tag_id": "urn:tag:archetype:qloo:the_unknown",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Embryo",
+            "tag_id": "urn:tag:keyword:media:embryo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sci fi",
+            "tag_id": "urn:tag:genre:media:sci_fi",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "General relativity",
+            "tag_id": "urn:tag:keyword:media:general_relativity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Quantum physics",
+            "tag_id": "urn:tag:keyword:media:quantum_physics",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exploration",
+            "tag_id": "urn:tag:keyword:qloo:exploration",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Single father",
+            "tag_id": "urn:tag:keyword:media:single_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ice",
+            "tag_id": "urn:tag:keyword:media:ice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cryopreservation",
+            "tag_id": "urn:tag:keyword:media:cryopreservation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Laboratory",
+            "tag_id": "urn:tag:keyword:media:laboratory",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Water",
+            "tag_id": "urn:tag:keyword:media:water",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Deathbed confession",
+            "tag_id": "urn:tag:keyword:media:deathbed_confession",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Immersive",
+            "tag_id": "urn:tag:style:qloo:immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Imax",
+            "tag_id": "urn:tag:keyword:media:imax",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gravitational pull",
+            "tag_id": "urn:tag:keyword:media:gravitational_pull",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Love connection",
+            "tag_id": "urn:tag:keyword:media:love_connection",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death of father",
+            "tag_id": "urn:tag:keyword:media:death_of_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Engineer",
+            "tag_id": "urn:tag:keyword:media:engineer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Glacier",
+            "tag_id": "urn:tag:keyword:media:glacier",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Supermassive black hole",
+            "tag_id": "urn:tag:keyword:media:supermassive_black_hole",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time",
+            "tag_id": "urn:tag:theme:qloo:time",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Babe scientist",
+            "tag_id": "urn:tag:keyword:media:babe_scientist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nasa",
+            "tag_id": "urn:tag:keyword:media:nasa",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Water planet",
+            "tag_id": "urn:tag:keyword:media:water_planet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Farm",
+            "tag_id": "urn:tag:keyword:media:farm",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space adventure",
+            "tag_id": "urn:tag:keyword:media:space_adventure",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Astrophysics",
+            "tag_id": "urn:tag:keyword:media:astrophysics",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bootstrap paradox",
+            "tag_id": "urn:tag:keyword:media:bootstrap_paradox",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Soundtrack composition",
+            "tag_id": "urn:tag:interests:qloo:soundtrack_composition",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Gravitational slingshot",
+            "tag_id": "urn:tag:keyword:media:gravitational_slingshot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Interstellar travel",
+            "tag_id": "urn:tag:keyword:media:interstellar_travel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Time travel",
+            "tag_id": "urn:tag:keyword:media:time_travel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "21st century",
+            "tag_id": "urn:tag:keyword:media:21st_century",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cryogenics",
+            "tag_id": "urn:tag:keyword:media:cryogenics",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drone",
+            "tag_id": "urn:tag:keyword:media:drone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The mentor",
+            "tag_id": "urn:tag:archetype:qloo:the_mentor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Pilot",
+            "tag_id": "urn:tag:keyword:qloo:pilot",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Grandfather granddaughter relationship",
+            "tag_id": "urn:tag:keyword:media:grandfather_granddaughter_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Younger version of character",
+            "tag_id": "urn:tag:keyword:media:younger_version_of_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space exploration",
+            "tag_id": "urn:tag:keyword:media:space_exploration",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Scientific realism",
+            "tag_id": "urn:tag:style:qloo:scientific_realism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Electronic music score",
+            "tag_id": "urn:tag:keyword:media:electronic_music_score",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Lung disease",
+            "tag_id": "urn:tag:keyword:media:lung_disease",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Single parent",
+            "tag_id": "urn:tag:keyword:media:single_parent",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tidal wave",
+            "tag_id": "urn:tag:keyword:media:tidal_wave",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Betrayal",
+            "tag_id": "urn:tag:keyword:media:betrayal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Explosion",
+            "tag_id": "urn:tag:keyword:media:explosion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Humanity in jeopardy",
+            "tag_id": "urn:tag:keyword:media:humanity_in_jeopardy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The explorer",
+            "tag_id": "urn:tag:archetype:qloo:the_explorer",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Flashback",
+            "tag_id": "urn:tag:keyword:media:flashback",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Space shuttle",
+            "tag_id": "urn:tag:keyword:media:space_shuttle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Science fiction",
+            "tag_id": "urn:tag:genre:qloo:science_fiction",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Altered version of studio logo",
+            "tag_id": "urn:tag:keyword:media:altered_version_of_studio_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Epic",
+            "tag_id": "urn:tag:plot:qloo:epic",
+            "type": "urn:tag:plot:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Interstellar: Nolan's Odyssey",
+        "entity_id": "B78D795F-8932-4BC9-BFDE-8A68C684D578",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "Interstellar: Nolan's Odyssey (2014) is a 23-minute UK television documentary released alongside a contemporary science-fiction blockbuster. The program features on-camera conversations with principal actors and brief film clips, offering behind-the-scenes anecdotes and contextual commentary. While it supplies some informative cast perspectives, the presentation is frequently promotional and hampered by an intrusive host; the director's interview presence is brief and peripheral. The piece functions primarily as a short, fan-oriented companion to the feature film.",
+          "external": {
+            "imdb": {
+              "id": "tt4172224",
+              "user_rating": 7.1,
+              "user_rating_count": 265
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/B78D795F-8932-4BC9-BFDE-8A68C684D578-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Sky Movies",
+          "release_country": "United Kingdom",
+          "release_date": "2014-11-05",
+          "release_year": 2014,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A short TV documentary of interviews and film clips that explores the making and impact of a major science-fiction feature."
+            },
+            {
+              "language": "de",
+              "value": "Eine kurze TV-Dokumentation mit Interviews und Ausschnitten, die Entstehung und Wirkung eines großen Science-Fiction-Films beleuchtet."
+            },
+            {
+              "language": "es",
+              "value": "Un breve documental televisivo con entrevistas y fragmentos que exploran la realización y el impacto de un gran filme de ciencia ficción."
+            },
+            {
+              "language": "fr",
+              "value": "Un court documentaire télé d'interviews et d'extraits qui explore la réalisation et l'impact d'un grand film de science-fiction."
+            }
+          ],
+          "website": "http://www.youtube.com/watch?v=56RrlWKEM7A&list=PLqksGEIS41X4Oo43uHDsUPXDJpfFNp1y1&index=1"
+        },
+        "popularity": 0.8066156936434912,
+        "disambiguation": "2014",
+        "tags": [
+          {
+            "name": "Actor interviews",
+            "tag_id": "urn:tag:interests:qloo:actor_interviews",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Television documentary",
+            "tag_id": "urn:tag:subgenre:qloo:television_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Promotional",
+            "tag_id": "urn:tag:plot:qloo:promotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:audience:qloo:curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Host centric",
+            "tag_id": "urn:tag:style:qloo:host_centric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cast perspectives",
+            "tag_id": "urn:tag:theme:qloo:cast_perspectives",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Film production",
+            "tag_id": "urn:tag:interests:qloo:film_production",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Short form",
+            "tag_id": "urn:tag:style:qloo:short_form",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Film clips",
+            "tag_id": "urn:tag:keyword:qloo:film_clips",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Observational",
+            "tag_id": "urn:tag:style:qloo:observational",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Special effects",
+            "tag_id": "urn:tag:interests:qloo:special_effects",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:plot:qloo:intimate",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:plot:qloo:reflective",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Investigative",
+            "tag_id": "urn:tag:plot:qloo:investigative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Short",
+            "tag_id": "urn:tag:subgenre:qloo:short",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Thought provoking",
+            "tag_id": "urn:tag:plot:qloo:thought_provoking",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:documentary",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:qloo:documentary",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Panel style",
+            "tag_id": "urn:tag:style:qloo:panel_style",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Film history",
+            "tag_id": "urn:tag:interests:qloo:film_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Making of",
+            "tag_id": "urn:tag:subgenre:qloo:making_of",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Promo focused",
+            "tag_id": "urn:tag:style:qloo:promo_focused",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Filmmaking",
+            "tag_id": "urn:tag:theme:qloo:filmmaking",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Actors",
+            "tag_id": "urn:tag:keyword:qloo:actors",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Documentary like",
+            "tag_id": "urn:tag:style:qloo:documentary_like",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Television",
+            "tag_id": "urn:tag:keyword:qloo:television",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Promotion",
+            "tag_id": "urn:tag:theme:qloo:promotion",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Behind the scenes",
+            "tag_id": "urn:tag:theme:qloo:behind_the_scenes",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Clip driven",
+            "tag_id": "urn:tag:style:qloo:clip_driven",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Behind the scenes",
+            "tag_id": "urn:tag:plot:qloo:behind_the_scenes",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Interviews",
+            "tag_id": "urn:tag:keyword:qloo:interviews",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Promotion",
+            "tag_id": "urn:tag:keyword:qloo:promotion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Space exploration",
+            "tag_id": "urn:tag:interests:qloo:space_exploration",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Behind the scenes",
+            "tag_id": "urn:tag:keyword:qloo:behind_the_scenes",
+            "type": "urn:tag:keyword:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Interstellar Wars",
+        "entity_id": "0A62BAA1-A0D4-4F0B-86CE-A889DD1AA697",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "\"Independence Wars – Die Rückkehr\""
+            },
+            {
+              "language": "ko",
+              "value": "\"인터스텔라: 우주전쟁\""
+            }
+          ],
+          "content_rating": "TV-MA",
+          "description": "Interstellar Wars (2016), directed by Marlene Mc'Cohen and starring Brian Lally, Marlene Mc'Cohen, and Robert Woods, is a low-budget science fiction B-movie about a portal beyond the dark side of the moon that releases an alien species which invades Earth. The invaders appear to zombify humans, setting off violent, chaotic scenes and a focus on one family's attempts to survive amid inept defenses and sensational media coverage. The film leans into parody and camp, satirizing political and media responses while delivering intentionally cheesy performances and effects. Its tone is tongue-in-cheek and aimed at viewers who enjoy so‑bad‑it's‑good cult fare.",
+          "external": {
+            "imdb": {
+              "id": "tt5083736",
+              "user_rating": 1.7,
+              "user_rating_count": 476
+            },
+            "rottentomatoes": {
+              "critic_rating": "100.0",
+              "critic_rating_count": "5",
+              "id": "interstellar_wars",
+              "user_rating": "40.0",
+              "user_rating_count": "5"
+            },
+            "wikidata": {
+              "id": "q42895876"
+            }
+          },
+          "filming_location": "Los Angeles, California, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/0A62BAA1-A0D4-4F0B-86CE-A889DD1AA697-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Mc'Cohen Films",
+          "release_country": "United States",
+          "release_date": "2016-03-12",
+          "release_year": 2016,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A portal beyond the moon unleashes a ruthless alien species that invades Earth and turns people into zombie-like attackers."
+            },
+            {
+              "language": "de",
+              "value": "Ein Portal jenseits der dunklen Seite des Mondes setzt eine außerirdische Spezies frei, die die Erde angreift und Menschen in zombieartige Angreifer verwandelt."
+            },
+            {
+              "language": "es",
+              "value": "Un portal más allá del lado oscuro de la Luna desata una especie alienígena que invade la Tierra y convierte a la gente en atacantes zombificados."
+            },
+            {
+              "language": "fr",
+              "value": "Un portail au‑delà du côté obscur de la Lune libère une espèce extraterrestre qui envahit la Terre et transforme les humains en sortes de zombies."
+            }
+          ],
+          "website": "https://dienachtderlebendentexte.wordpress.com/2017/01/02/independence-wars-die-rueckkehr/"
+        },
+        "popularity": 0.15843754724724077,
+        "disambiguation": "2016",
+        "tags": [
+          {
+            "name": "Alien invasion",
+            "tag_id": "urn:tag:keyword:media:alien_invasion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alien invasion",
+            "tag_id": "urn:tag:subgenre:qloo:alien_invasion",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Newscaster",
+            "tag_id": "urn:tag:keyword:qloo:newscaster",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:theme:qloo:survival",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The family",
+            "tag_id": "urn:tag:archetype:qloo:the_family",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "President",
+            "tag_id": "urn:tag:keyword:qloo:president",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:audience:qloo:casual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "B movie",
+            "tag_id": "urn:tag:subgenre:qloo:b_movie",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Lighthearted",
+            "tag_id": "urn:tag:plot:qloo:lighthearted",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Sequel hook",
+            "tag_id": "urn:tag:keyword:qloo:sequel_hook",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Spoof",
+            "tag_id": "urn:tag:plot:qloo:spoof",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Raw",
+            "tag_id": "urn:tag:style:qloo:raw",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Tongue in cheek pastiche",
+            "tag_id": "urn:tag:style:qloo:tongue_in_cheek_pastiche",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cheesy",
+            "tag_id": "urn:tag:character:qloo:cheesy",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Portal",
+            "tag_id": "urn:tag:keyword:qloo:portal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Practical effects collecting",
+            "tag_id": "urn:tag:interests:qloo:practical_effects_collecting",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "B movie watching",
+            "tag_id": "urn:tag:interests:qloo:b_movie_watching",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Science fiction",
+            "tag_id": "urn:tag:genre:qloo:science_fiction",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:keyword:qloo:family",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Sci fi",
+            "tag_id": "urn:tag:genre:media:sci_fi",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Theatrical",
+            "tag_id": "urn:tag:style:qloo:theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:character:qloo:playful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Zombification",
+            "tag_id": "urn:tag:theme:qloo:zombification",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Cheesy practical effects",
+            "tag_id": "urn:tag:style:qloo:cheesy_practical_effects",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Campy diy aesthetic",
+            "tag_id": "urn:tag:style:qloo:campy_diy_aesthetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The scientist",
+            "tag_id": "urn:tag:archetype:qloo:the_scientist",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Parodic",
+            "tag_id": "urn:tag:plot:qloo:parodic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Spaceship",
+            "tag_id": "urn:tag:keyword:qloo:spaceship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Camp",
+            "tag_id": "urn:tag:subgenre:qloo:camp",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Wormhole",
+            "tag_id": "urn:tag:keyword:qloo:wormhole",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Tacky green screen",
+            "tag_id": "urn:tag:style:qloo:tacky_green_screen",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The authority figure",
+            "tag_id": "urn:tag:archetype:qloo:the_authority_figure",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Satirical",
+            "tag_id": "urn:tag:plot:qloo:satirical",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Moon",
+            "tag_id": "urn:tag:keyword:qloo:moon",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Whimsical",
+            "tag_id": "urn:tag:plot:qloo:whimsical",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Parody",
+            "tag_id": "urn:tag:subgenre:qloo:parody",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Inept",
+            "tag_id": "urn:tag:character:qloo:inept",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The invader",
+            "tag_id": "urn:tag:archetype:qloo:the_invader",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Low budget",
+            "tag_id": "urn:tag:plot:qloo:low_budget",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Green screen",
+            "tag_id": "urn:tag:keyword:qloo:green_screen",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Zombification",
+            "tag_id": "urn:tag:keyword:qloo:zombification",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Alien invasion",
+            "tag_id": "urn:tag:theme:qloo:alien_invasion",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Humorous",
+            "tag_id": "urn:tag:plot:qloo:humorous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Low budget filmmaking",
+            "tag_id": "urn:tag:interests:qloo:low_budget_filmmaking",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Eccentric",
+            "tag_id": "urn:tag:character:qloo:eccentric",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "So bad its good fans",
+            "tag_id": "urn:tag:audience:qloo:so_bad_it_s_good_fans",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Protective",
+            "tag_id": "urn:tag:character:qloo:protective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "B movie",
+            "tag_id": "urn:tag:plot:qloo:b_movie",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Cult cinema appreciation",
+            "tag_id": "urn:tag:interests:qloo:cult_cinema_appreciation",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Media satire",
+            "tag_id": "urn:tag:theme:qloo:media_satire",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Flawed",
+            "tag_id": "urn:tag:character:qloo:flawed",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Campy",
+            "tag_id": "urn:tag:plot:qloo:campy",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Melodramatic",
+            "tag_id": "urn:tag:plot:qloo:melodramatic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "The everyman",
+            "tag_id": "urn:tag:archetype:qloo:the_everyman",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Family dynamics",
+            "tag_id": "urn:tag:theme:qloo:family_dynamics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Alien",
+            "tag_id": "urn:tag:keyword:media:alien",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Amateurish charm",
+            "tag_id": "urn:tag:style:qloo:amateurish_charm",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Government leadership",
+            "tag_id": "urn:tag:theme:qloo:government_leadership",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:style:qloo:playful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Cheesy",
+            "tag_id": "urn:tag:plot:qloo:cheesy",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Humor loving",
+            "tag_id": "urn:tag:audience:qloo:humor_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Campy",
+            "tag_id": "urn:tag:character:qloo:campy",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Midnight movie culture",
+            "tag_id": "urn:tag:interests:qloo:midnight_movie_culture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "The portal",
+            "tag_id": "urn:tag:archetype:qloo:the_portal",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Zombie",
+            "tag_id": "urn:tag:keyword:media:zombie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Special effects",
+            "tag_id": "urn:tag:keyword:qloo:special_effects",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Alien species",
+            "tag_id": "urn:tag:keyword:qloo:alien_species",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:style:qloo:nostalgic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Grainy",
+            "tag_id": "urn:tag:style:qloo:grainy",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Camp appreciators",
+            "tag_id": "urn:tag:audience:qloo:camp_appreciators",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The plague",
+            "tag_id": "urn:tag:archetype:qloo:the_plague",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Low budget sci fi",
+            "tag_id": "urn:tag:subgenre:qloo:low_budget_sci_fi",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Ruthless",
+            "tag_id": "urn:tag:character:qloo:ruthless",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Psychotronic film",
+            "tag_id": "urn:tag:keyword:media:psychotronic_film",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "Interstellar Civil War: Shadows of the Empire",
+        "entity_id": "019C713C-C0DA-4719-9228-47A4E4EA5258",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "Interstellar Civil War: Shadows of the Empire (2017), directed by Albert Pyun and starring Kenzie Phillips, Brad Thornton, and Clare Hoak, is a color, English-language science-fiction action-adventure thriller about an imperial rescue mission. Empress Nobu dispatches a fleet commander to assemble elite Galactic Rangers and recover a cyborg believed to hold the key to defeating a fanatical rebel movement; the search unfolds amid the ruins of a ravaged planet and clashes with mystic cultists wielding Dark Energy. The film blends military sci-fi and space-opera spectacle with surreal, dreamlike visuals, a music-forward score, and themes of power, fanaticism, and the ethics of technology.",
+          "external": {
+            "imdb": {
+              "id": "tt5056352",
+              "user_rating": 6.4,
+              "user_rating_count": 87
+            },
+            "rottentomatoes": {
+              "id": "interstellar_civil_war_shadows_of_the_empire",
+              "user_rating_count": "0"
+            }
+          },
+          "filming_location": "Las Vegas, Nevada, USA, Hong Kong, China, Adventure Combat Ops, Las Vegas, Nevada, USA, Jean, Nevada, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/019C713C-C0DA-4719-9228-47A4E4EA5258-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Freezer Burn",
+          "release_country": "United States",
+          "release_date": "2017-03-17",
+          "release_year": 2017,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "An imperial commander leads elite soldiers on a desperate mission to rescue a cyborg from a battle-ravaged planet before fanatical rebel mystics can capture her."
+            },
+            {
+              "language": "de",
+              "value": "Ein imperialer Kommandant führt Elite-Soldaten in einer verzweifelten Mission, um eine Cyborg von einem verwüsteten Planeten zu retten, bevor fanatische Rebellen sie gefangen nehmen."
+            },
+            {
+              "language": "es",
+              "value": "Un comandante imperial lidera a soldados de élite en una misión desesperada para rescatar a una cyborg de un planeta en ruinas antes de que místicos rebeldes la capturen."
+            },
+            {
+              "language": "fr",
+              "value": "Un commandant impérial dirige des soldats d'élite dans une mission désespérée pour sauver une cyborg sur une planète dévastée avant que des mystiques rebelles ne la capturent."
+            }
+          ],
+          "website": "https://411mania.com/movies/interstellar-civil-war-review/"
+        },
+        "disambiguation": "2017",
+        "tags": [
+          {
+            "name": "Painterly",
+            "tag_id": "urn:tag:style:qloo:painterly",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Heroic",
+            "tag_id": "urn:tag:character:qloo:heroic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Mystical",
+            "tag_id": "urn:tag:character:qloo:mystical",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Empire",
+            "tag_id": "urn:tag:keyword:qloo:empire",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Empress",
+            "tag_id": "urn:tag:keyword:qloo:empress",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Technology vs humanity",
+            "tag_id": "urn:tag:theme:qloo:technology_vs_humanity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Cult film enthusiasts",
+            "tag_id": "urn:tag:audience:qloo:cult_film_enthusiasts",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:action",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Sci fi",
+            "tag_id": "urn:tag:genre:media:sci_fi",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Surreal",
+            "tag_id": "urn:tag:plot:qloo:surreal",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Mystics",
+            "tag_id": "urn:tag:keyword:qloo:mystics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Dark energy",
+            "tag_id": "urn:tag:keyword:qloo:dark_energy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Adventurous",
+            "tag_id": "urn:tag:plot:qloo:adventurous",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Power and authority",
+            "tag_id": "urn:tag:theme:qloo:power_and_authority",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Dark force",
+            "tag_id": "urn:tag:archetype:qloo:dark_force",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Space opera",
+            "tag_id": "urn:tag:subgenre:qloo:space_opera",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Cyborg",
+            "tag_id": "urn:tag:character:qloo:cyborg",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Fanatical",
+            "tag_id": "urn:tag:character:qloo:fanatical",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:qloo:thriller",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Colorful",
+            "tag_id": "urn:tag:style:qloo:colorful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Model making",
+            "tag_id": "urn:tag:interests:qloo:model_making",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Traumatized",
+            "tag_id": "urn:tag:character:qloo:traumatized",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Galactic rangers",
+            "tag_id": "urn:tag:keyword:qloo:galactic_rangers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cyborg",
+            "tag_id": "urn:tag:keyword:qloo:cyborg",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Man vs machine",
+            "tag_id": "urn:tag:archetype:qloo:man_vs_machine",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Action oriented",
+            "tag_id": "urn:tag:audience:qloo:action_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Calculating",
+            "tag_id": "urn:tag:character:qloo:calculating",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Fanaticism",
+            "tag_id": "urn:tag:theme:qloo:fanaticism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Dreamlike",
+            "tag_id": "urn:tag:style:qloo:dreamlike",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:style:qloo:stylized",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Space war",
+            "tag_id": "urn:tag:subgenre:qloo:space_war",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Fleet commander",
+            "tag_id": "urn:tag:keyword:qloo:fleet_commander",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Military science fiction",
+            "tag_id": "urn:tag:subgenre:qloo:military_science_fiction",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Battle",
+            "tag_id": "urn:tag:keyword:qloo:battle",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Ruthless",
+            "tag_id": "urn:tag:character:qloo:ruthless",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The rebel",
+            "tag_id": "urn:tag:archetype:qloo:the_rebel",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Science fiction",
+            "tag_id": "urn:tag:genre:qloo:science_fiction",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Imaginative",
+            "tag_id": "urn:tag:audience:qloo:imaginative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Loyalty",
+            "tag_id": "urn:tag:theme:qloo:loyalty",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Cult cinema",
+            "tag_id": "urn:tag:interests:qloo:cult_cinema",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Collage like",
+            "tag_id": "urn:tag:style:qloo:collage_like",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Retro futuristic",
+            "tag_id": "urn:tag:style:qloo:retro_futuristic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:character:qloo:ambitious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Hypnagogic",
+            "tag_id": "urn:tag:style:qloo:hypnagogic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Obsessive",
+            "tag_id": "urn:tag:character:qloo:obsessive",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The rescue mission",
+            "tag_id": "urn:tag:archetype:qloo:the_rescue_mission",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Rebels",
+            "tag_id": "urn:tag:keyword:qloo:rebels",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:thriller",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Sacrifice",
+            "tag_id": "urn:tag:theme:qloo:sacrifice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The quest",
+            "tag_id": "urn:tag:archetype:qloo:the_quest",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Experimental music",
+            "tag_id": "urn:tag:interests:qloo:experimental_music",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Visual arts",
+            "tag_id": "urn:tag:interests:qloo:visual_arts",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Surreal",
+            "tag_id": "urn:tag:style:qloo:surreal",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Rebellion",
+            "tag_id": "urn:tag:theme:qloo:rebellion",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The fallen world",
+            "tag_id": "urn:tag:archetype:qloo:the_fallen_world",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "War and its aftermath",
+            "tag_id": "urn:tag:theme:qloo:war_and_its_aftermath",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Fast paced",
+            "tag_id": "urn:tag:plot:qloo:fast_paced",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:adventure",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Outlaws",
+            "tag_id": "urn:tag:keyword:qloo:outlaws",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Rescue",
+            "tag_id": "urn:tag:theme:qloo:rescue",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Planet",
+            "tag_id": "urn:tag:keyword:qloo:planet",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cosmic mythology",
+            "tag_id": "urn:tag:interests:qloo:cosmic_mythology",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Insurgency",
+            "tag_id": "urn:tag:keyword:qloo:insurgency",
+            "type": "urn:tag:keyword:qloo"
+          }
+        ]
+      },
+      {
+        "name": "The Science of Interstellar",
+        "entity_id": "3D3B05AA-A859-41CB-973A-A4AAA52196FB",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "The Science of Interstellar (2015), directed by Gail Willumsen and narrated by Matthew McConaughey, is a documentary that examines the scientific ideas behind the film Interstellar, featuring physicist Kip Thorne and commentary from Christopher Nolan. Combining interviews, behind-the-scenes insight, and polished visualizations, it explores black holes, relativity, and other astrophysical concepts while noting the speculative edges of current theory. The tone is explanatory and evocative, aiming to clarify difficult concepts for a general audience while inspiring awe about space and time.",
+          "external": {
+            "imdb": {
+              "id": "tt4415360",
+              "user_rating": 7.1,
+              "user_rating_count": 716
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/3D3B05AA-A859-41CB-973A-A4AAA52196FB-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Gemini Productions",
+          "release_country": "United States",
+          "release_date": "2015-03-31",
+          "release_year": 2014,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A concise documentary that explains the scientific ideas—like black holes and relativity—behind a blockbuster sci‑fi film using expert interviews, narration, and vivid visualizations."
+            },
+            {
+              "language": "de",
+              "value": "Eine prägnante Dokumentation, die wissenschaftliche Konzepte wie Schwarze Löcher und Relativität hinter einem Science‑Fiction‑Film anhand von Experteninterviews, Erzählertext und Visualisierungen erklärt."
+            },
+            {
+              "language": "es",
+              "value": "Un documental conciso que explica las ideas científicas —como agujeros negros y relatividad— detrás de una película de ciencia ficción, con entrevistas de expertos, narración y visualizaciones impresionantes."
+            },
+            {
+              "language": "fr",
+              "value": "Un documentaire concis qui explique les concepts scientifiques —trous noirs, relativité— derrière un film de science‑fiction, par des interviews d'experts, une narration claire et des visualisations marquantes."
+            }
+          ],
+          "website": "https://mubi.com/films/the-science-of-interstellar"
+        },
+        "popularity": 0.36848528045962115,
+        "disambiguation": "2014",
+        "tags": [
+          {
+            "name": "Articulate",
+            "tag_id": "urn:tag:character:qloo:articulate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Astrophysics",
+            "tag_id": "urn:tag:theme:qloo:astrophysics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Space exploration",
+            "tag_id": "urn:tag:interests:qloo:space_exploration",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Clear voiced",
+            "tag_id": "urn:tag:character:qloo:clear_voiced",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Explanatory",
+            "tag_id": "urn:tag:plot:qloo:explanatory",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Analytical",
+            "tag_id": "urn:tag:audience:qloo:analytical",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Poetic exposition",
+            "tag_id": "urn:tag:style:qloo:poetic_exposition",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:audience:qloo:curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Thought provoking",
+            "tag_id": "urn:tag:plot:qloo:thought_provoking",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Astrophysics",
+            "tag_id": "urn:tag:keyword:qloo:astrophysics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cinematic visualizations",
+            "tag_id": "urn:tag:style:qloo:cinematic_visualizations",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:character:qloo:reflective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Expert interview",
+            "tag_id": "urn:tag:keyword:qloo:expert_interview",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Narration",
+            "tag_id": "urn:tag:keyword:qloo:narration",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "High fidelity space imagery",
+            "tag_id": "urn:tag:style:qloo:high_fidelity_space_imagery",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Theoretical physics",
+            "tag_id": "urn:tag:interests:qloo:theoretical_physics",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Science communication",
+            "tag_id": "urn:tag:theme:qloo:science_communication",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Educational",
+            "tag_id": "urn:tag:plot:qloo:educational",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Relativity",
+            "tag_id": "urn:tag:theme:qloo:relativity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Intelligent",
+            "tag_id": "urn:tag:character:qloo:intelligent",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Cosmology",
+            "tag_id": "urn:tag:interests:qloo:cosmology",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Astrophysics",
+            "tag_id": "urn:tag:interests:qloo:astrophysics",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Space travel",
+            "tag_id": "urn:tag:keyword:qloo:space_travel",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Science documentary",
+            "tag_id": "urn:tag:subgenre:qloo:science_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Detail oriented",
+            "tag_id": "urn:tag:audience:qloo:detail_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Space exploration",
+            "tag_id": "urn:tag:theme:qloo:space_exploration",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Documentary like",
+            "tag_id": "urn:tag:style:qloo:documentary_like",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Speculation vs evidence",
+            "tag_id": "urn:tag:theme:qloo:speculation_vs_evidence",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:style:qloo:polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Black hole",
+            "tag_id": "urn:tag:keyword:qloo:black_hole",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Black holes",
+            "tag_id": "urn:tag:theme:qloo:black_holes",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Curious",
+            "tag_id": "urn:tag:character:qloo:curious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Science oriented",
+            "tag_id": "urn:tag:audience:qloo:science_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Relativity",
+            "tag_id": "urn:tag:keyword:qloo:relativity",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Immersive",
+            "tag_id": "urn:tag:style:qloo:immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Narrated scientific analysis",
+            "tag_id": "urn:tag:style:qloo:narrated_scientific_analysis",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Analytical",
+            "tag_id": "urn:tag:plot:qloo:analytical",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Making of",
+            "tag_id": "urn:tag:keyword:media:making_of",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Authoritative",
+            "tag_id": "urn:tag:character:qloo:authoritative",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "The quest",
+            "tag_id": "urn:tag:archetype:qloo:the_quest",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:character:qloo:passionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:documentary",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Cosmology",
+            "tag_id": "urn:tag:keyword:qloo:cosmology",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Charismatic",
+            "tag_id": "urn:tag:character:qloo:charismatic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Theoretical physics",
+            "tag_id": "urn:tag:keyword:qloo:theoretical_physics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Investigative",
+            "tag_id": "urn:tag:plot:qloo:investigative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:plot:qloo:atmospheric",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Popular science",
+            "tag_id": "urn:tag:subgenre:qloo:popular_science",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "The sage",
+            "tag_id": "urn:tag:archetype:qloo:the_sage",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Science communication",
+            "tag_id": "urn:tag:interests:qloo:science_communication",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:plot:qloo:reflective",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Film analysis",
+            "tag_id": "urn:tag:subgenre:qloo:film_analysis",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Visualization",
+            "tag_id": "urn:tag:keyword:qloo:visualization",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Scientific explanation",
+            "tag_id": "urn:tag:keyword:qloo:scientific_explanation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Scientific inquiry",
+            "tag_id": "urn:tag:theme:qloo:scientific_inquiry",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:qloo:documentary",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Interview led structure",
+            "tag_id": "urn:tag:style:qloo:interview_led_structure",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Intellectually curious",
+            "tag_id": "urn:tag:audience:qloo:intellectually_curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The explorer",
+            "tag_id": "urn:tag:archetype:qloo:the_explorer",
+            "type": "urn:tag:archetype:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

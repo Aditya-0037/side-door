@@ -1,0 +1,4924 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Nikola Jokic",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Nikola Jokić",
+        "entity_id": "5AF61EDC-ADE9-4C54-A337-FD0A94E19D3D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "w",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "u",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "f",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "r",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "f",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "i",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "i",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "t",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "r",
+              "value": "Йокич, Никола"
+            },
+            {
+              "language": "u",
+              "value": "Йокич, Никола"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "t",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "j",
+              "value": "ニコラ・ヨキッチ"
+            },
+            {
+              "language": "a",
+              "value": "ニコラ・ヨキッチ"
+            },
+            {
+              "language": "e",
+              "value": "the Joker"
+            },
+            {
+              "language": "n",
+              "value": "the Joker"
+            },
+            {
+              "language": "n",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "b",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "t",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "n",
+              "value": "Nikola Jokic"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokic"
+            },
+            {
+              "language": "k",
+              "value": "니콜라 요키치"
+            },
+            {
+              "language": "o",
+              "value": "니콜라 요키치"
+            },
+            {
+              "language": "n",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "c",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "u",
+              "value": "Нікола Йокич"
+            },
+            {
+              "language": "k",
+              "value": "Нікола Йокич"
+            },
+            {
+              "language": "t",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "r",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "i",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "m",
+              "value": "Никола Јокиќ"
+            },
+            {
+              "language": "k",
+              "value": "Никола Јокиќ"
+            },
+            {
+              "language": "b",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "d",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "g",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Џокер"
+            },
+            {
+              "language": "r",
+              "value": "Џокер"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "i",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "p",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "z",
+              "value": "尼古拉·約基奇"
+            },
+            {
+              "language": "h",
+              "value": "尼古拉·約基奇"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "q",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "j",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "a",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "The Serbian King"
+            },
+            {
+              "language": "n",
+              "value": "The Serbian King"
+            },
+            {
+              "language": "a",
+              "value": "نيكولا يوكيتش"
+            },
+            {
+              "language": "r",
+              "value": "نيكولا يوكيتش"
+            },
+            {
+              "language": "h",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "u",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "o",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "f",
+              "value": "نیکولا یوکیچ"
+            },
+            {
+              "language": "a",
+              "value": "نیکولا یوکیچ"
+            },
+            {
+              "language": "r",
+              "value": "Никола Йокич"
+            },
+            {
+              "language": "u",
+              "value": "Никола Йокич"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Jokičs"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Jokičs"
+            },
+            {
+              "language": "c",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "a",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "e",
+              "value": "Νίκολα Γιόκιτς"
+            },
+            {
+              "language": "l",
+              "value": "Νίκολα Γιόκιτς"
+            },
+            {
+              "language": "h",
+              "value": "ניקולה יוקיץ'"
+            },
+            {
+              "language": "e",
+              "value": "ניקולה יוקיץ'"
+            },
+            {
+              "language": "h",
+              "value": "Նիկոլա Յոկիչ"
+            },
+            {
+              "language": "y",
+              "value": "Նիկոլա Յոկիչ"
+            },
+            {
+              "language": "d",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "a",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "the Joker"
+            },
+            {
+              "language": "w",
+              "value": "the Joker"
+            },
+            {
+              "language": "i",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "d",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "g",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "a",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "s",
+              "value": "Никола Јокић"
+            },
+            {
+              "language": "r",
+              "value": "Никола Јокић"
+            },
+            {
+              "language": "b",
+              "value": "Никола Йокич"
+            },
+            {
+              "language": "g",
+              "value": "Никола Йокич"
+            },
+            {
+              "language": "p",
+              "value": "Nikola Jokić"
+            },
+            {
+              "language": "t",
+              "value": "Nikola Jokić"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "jokara95"
+            },
+            "twitter": {
+              "id": "NJokic15"
+            }
+          },
+          "citizenship": [
+            "Serbia"
+          ],
+          "date_of_birth": "1995-02-19",
+          "image": {
+            "url": "https://images.qloo.com/i/5AF61EDC-ADE9-4C54-A337-FD0A94E19D3D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Denver Nuggets",
+            "Serbia men's national basketball team",
+            "KK Mega Basket"
+          ],
+          "work_period_start": "2012-01-01",
+          "short_description": "Serbian basketball player"
+        },
+        "popularity": 0.6906969917700395,
+        "disambiguation": "1995-02-19",
+        "tags": [
+          {
+            "name": "Nba Most Valuable Player Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners"
+          },
+          {
+            "name": "Nba Players From Serbia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_players_from_serbia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_players_from_serbia"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Kk Mega Basket Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kk_mega_basket_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kk_mega_basket_players"
+          },
+          {
+            "name": "Serbian Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serbian_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serbian_mens_basketball_players"
+          },
+          {
+            "name": "Basketball Players At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics"
+          },
+          {
+            "name": "Olympic Silver Medalists For Serbia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_serbia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_serbia"
+          },
+          {
+            "name": "Olympic Medalists In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_basketball"
+          },
+          {
+            "name": "Olympic Basketball Players For Serbia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_serbia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_serbia"
+          },
+          {
+            "name": "Centers (basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:centers_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:centers_basketball"
+          },
+          {
+            "name": "Denver Nuggets Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:denver_nuggets_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:denver_nuggets_players"
+          },
+          {
+            "name": "Medalists At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics"
+          },
+          {
+            "name": "Serbia Mens National Basketball Team Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serbia_mens_national_basketball_team_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serbia_mens_national_basketball_team_players"
+          },
+          {
+            "name": "Sportspeople From Sombor",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sombor",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sombor"
+          },
+          {
+            "name": "Denver Nuggets Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:denver_nuggets_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:denver_nuggets_draft_picks"
+          },
+          {
+            "name": "Basketball Players At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2016_summer_olympics"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Serbian Expatriate Basketball People In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serbian_expatriate_basketball_people_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serbian_expatriate_basketball_people_in_united_states"
+          },
+          {
+            "name": "2019 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Scherzinger",
+        "entity_id": "4CA03237-56A9-46DD-9524-A25C291D1912",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "z",
+              "value": "妮歌·舒可琴"
+            },
+            {
+              "language": "h",
+              "value": "妮歌·舒可琴"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "นิโคล เชอร์ซิงเงอร์"
+            },
+            {
+              "language": "h",
+              "value": "นิโคล เชอร์ซิงเงอร์"
+            },
+            {
+              "language": "k",
+              "value": "ನಿಕೋಲ್‌ ಶೆರ್ಜಿಂಜರ್‌"
+            },
+            {
+              "language": "n",
+              "value": "ನಿಕೋಲ್‌ ಶೆರ್ಜಿಂಜರ್‌"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Elikolani Valiente Prescovia Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Elikolani Valiente Prescovia Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "n",
+              "value": "निकोल शेर्जिङ्गर"
+            },
+            {
+              "language": "e",
+              "value": "निकोल शेर्जिङ्गर"
+            },
+            {
+              "language": "a",
+              "value": "Nikol Şerzinger"
+            },
+            {
+              "language": "z",
+              "value": "Nikol Şerzinger"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Sherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Sherzinger"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "r",
+              "value": "Шерзингер, Николь"
+            },
+            {
+              "language": "u",
+              "value": "Шерзингер, Николь"
+            },
+            {
+              "language": "a",
+              "value": "نيكول شيرزينغر"
+            },
+            {
+              "language": "r",
+              "value": "نيكول شيرزينغر"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Šerzingere"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Šerzingere"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "o",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "نيكول شيرزنغر"
+            },
+            {
+              "language": "r",
+              "value": "نيكول شيرزنغر"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "b",
+              "value": "Никол Шерцингер"
+            },
+            {
+              "language": "g",
+              "value": "Никол Шерцингер"
+            },
+            {
+              "language": "u",
+              "value": "Шерцінгер"
+            },
+            {
+              "language": "k",
+              "value": "Шерцінгер"
+            },
+            {
+              "language": "s",
+              "value": "Poison"
+            },
+            {
+              "language": "v",
+              "value": "Poison"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "z",
+              "value": "尼可·斯彻金格"
+            },
+            {
+              "language": "h",
+              "value": "尼可·斯彻金格"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "ნიკოლ შერცინგერი"
+            },
+            {
+              "language": "a",
+              "value": "ნიკოლ შერცინგერი"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "நிகோல் ஷெர்ஸிங்கர்"
+            },
+            {
+              "language": "a",
+              "value": "நிகோல் ஷெர்ஸிங்கர்"
+            },
+            {
+              "language": "f",
+              "value": "نیکول شرزینگر"
+            },
+            {
+              "language": "a",
+              "value": "نیکول شرزینگر"
+            },
+            {
+              "language": "u",
+              "value": "Ніколь Шерзінгер"
+            },
+            {
+              "language": "k",
+              "value": "Ніколь Шерзінгер"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "j",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "z",
+              "value": "妮高·舒可辛格"
+            },
+            {
+              "language": "h",
+              "value": "妮高·舒可辛格"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "j",
+              "value": "ニコール・シャージンガー"
+            },
+            {
+              "language": "a",
+              "value": "ニコール・シャージンガー"
+            },
+            {
+              "language": "b",
+              "value": "Ніколь Шэрзінгер"
+            },
+            {
+              "language": "e",
+              "value": "Ніколь Шэрзінгер"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "निकोल शर्ज़िंगर"
+            },
+            {
+              "language": "i",
+              "value": "निकोल शर्ज़िंगर"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Ніколь Шерцінгер"
+            },
+            {
+              "language": "k",
+              "value": "Ніколь Шерцінгер"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "z",
+              "value": "妮可·奇亞"
+            },
+            {
+              "language": "h",
+              "value": "妮可·奇亞"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "g",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "o",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "u",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "r",
+              "value": "Шерзингер Николь"
+            },
+            {
+              "language": "u",
+              "value": "Шерзингер Николь"
+            },
+            {
+              "language": "k",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzingerová"
+            },
+            {
+              "language": "k",
+              "value": "Nicole Scherzingerová"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "q",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "w",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Prascovia Elikolani Valiente"
+            },
+            {
+              "language": "y",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "o",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "y",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "k",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "니콜 셰르징거"
+            },
+            {
+              "language": "o",
+              "value": "니콜 셰르징거"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "b",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "نيكول شيرزينجر"
+            },
+            {
+              "language": "r",
+              "value": "نيكول شيرزينجر"
+            },
+            {
+              "language": "h",
+              "value": "ניקול קאה"
+            },
+            {
+              "language": "e",
+              "value": "ניקול קאה"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Шерзингер Н."
+            },
+            {
+              "language": "u",
+              "value": "Шерзингер Н."
+            },
+            {
+              "language": "p",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Elikolani Prescovia Valiente Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Elikolani Prescovia Valiente Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "ניקול שרזינגר"
+            },
+            {
+              "language": "e",
+              "value": "ניקול שרזינגר"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "o",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "r",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Kea"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Prescovia Elikolani Valiente"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Prescovia Elikolani Valiente"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Scherzingerová"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzingerová"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "z",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "h",
+              "value": "निकोल शेर्ज़िंगर"
+            },
+            {
+              "language": "i",
+              "value": "निकोल शेर्ज़िंगर"
+            },
+            {
+              "language": "c",
+              "value": "Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Scherzinger"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "y",
+              "value": "Николь Шерзингер"
+            },
+            {
+              "language": "k",
+              "value": "ნიკოლ შერზინგერი"
+            },
+            {
+              "language": "a",
+              "value": "ნიკოლ შერზინგერი"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Шерзингер"
+            },
+            {
+              "language": "u",
+              "value": "Шерзингер"
+            },
+            {
+              "language": "j",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "z",
+              "value": "妮可·舒可辛格"
+            },
+            {
+              "language": "h",
+              "value": "妮可·舒可辛格"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Prescoiva Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Prescoiva Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Elikolani Prescovia Scherzinger"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "نيكول شيرزنجر"
+            },
+            {
+              "language": "r",
+              "value": "نيكول شيرزنجر"
+            },
+            {
+              "language": "z",
+              "value": "妮可·舒辛格"
+            },
+            {
+              "language": "h",
+              "value": "妮可·舒辛格"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "b",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Prescovia Elikolani Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Prescovia Elikolani Scherzinger"
+            },
+            {
+              "language": "m",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "t",
+              "value": "நிக்கோல் செர்சிங்கர்"
+            },
+            {
+              "language": "a",
+              "value": "நிக்கோல் செர்சிங்கர்"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "m",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "k",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "s",
+              "value": "Никол Шерцингер"
+            },
+            {
+              "language": "r",
+              "value": "Никол Шерцингер"
+            },
+            {
+              "language": "b",
+              "value": "Nicole scherzinger"
+            },
+            {
+              "language": "g",
+              "value": "Nicole scherzinger"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "e",
+              "value": "Νικόλ Σέρζινγκερ"
+            },
+            {
+              "language": "l",
+              "value": "Νικόλ Σέρζινγκερ"
+            },
+            {
+              "language": "h",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "y",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "u",
+              "value": "Шерцінгер Ніколь"
+            },
+            {
+              "language": "k",
+              "value": "Шерцінгер Ніколь"
+            },
+            {
+              "language": "n",
+              "value": "निकोल प्रेस्कोविया एलिकोलानी वलिएंटे शेर्जिङ्गर"
+            },
+            {
+              "language": "e",
+              "value": "निकोल प्रेस्कोविया एलिकोलानी वलिएंटे शेर्जिङ्गर"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Scherzinger"
+            },
+            {
+              "language": "v",
+              "value": "Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "k",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "m",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Prescovia Elikolani Valiente Scherzinger"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Šercingere"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Šercingere"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Scherzinger"
+            },
+            {
+              "language": "b",
+              "value": "Никол Шерзингер"
+            },
+            {
+              "language": "g",
+              "value": "Никол Шерзингер"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Nicole+Scherzinger"
+            },
+            "instagram": {
+              "id": "nicolescherzinger"
+            },
+            "twitter": {
+              "id": "NicoleScherzy"
+            },
+            "spotify": {
+              "id": "40xbWSB4JPdOkRyuTDy1oP"
+            },
+            "imdb": {
+              "id": "nm0970122"
+            },
+            "library_of_congress": {
+              "id": "no2005046439"
+            },
+            "musicbrainz": {
+              "id": "0f7534a6-dc5f-46ca-a2e0-13d214cdd52b"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1978-06-29",
+          "image": {
+            "url": "https://images.qloo.com/i/4CA03237-56A9-46DD-9524-A25C291D1912-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice",
+            "piano"
+          ],
+          "work_period_start": "2000-01-01",
+          "short_description": "American singer, songwriter, dancer, actress, and television personality"
+        },
+        "popularity": 0.988378034594101,
+        "disambiguation": "1978-06-29",
+        "tags": [
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:occupation:person:pianist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:pianist"
+          },
+          {
+            "name": "American People Of Ukrainian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_ukrainian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_ukrainian_descent"
+          },
+          {
+            "name": "Catholics From Kentucky",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:catholics_from_kentucky",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:catholics_from_kentucky"
+          },
+          {
+            "name": "American Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_philanthropists"
+          },
+          {
+            "name": "American Lgbt Rights Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_lgbt_rights_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_lgbt_rights_activists"
+          },
+          {
+            "name": "American People Of Native Hawaiian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_native_hawaiian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_native_hawaiian_descent"
+          },
+          {
+            "name": "Epic Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:epic_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:epic_records_artists"
+          },
+          {
+            "name": "Singer-songwriters From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_california"
+          },
+          {
+            "name": "American Voice Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_voice_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_voice_actresses"
+          },
+          {
+            "name": "Voice Actor",
+            "tag_id": "urn:tag:occupation:person:voice_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:voice_actor"
+          },
+          {
+            "name": "Native Hawaiian People Of Filipino Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_hawaiian_people_filipino_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_hawaiian_people_filipino_descent"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "American Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_actresses"
+          },
+          {
+            "name": "Singer-songwriters From Hawaii",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_hawaii",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_hawaii"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Fashion Designers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_fashion_designers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_fashion_designers"
+          },
+          {
+            "name": "Kentucky Women Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kentucky_women_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kentucky_women_musicians"
+          },
+          {
+            "name": "Nicole Scherzinger",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nicole_scherzinger",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nicole_scherzinger"
+          },
+          {
+            "name": "Interscope Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:interscope_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:interscope_records_artists"
+          },
+          {
+            "name": "American People Of Polish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_polish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_polish_descent"
+          },
+          {
+            "name": "American Musicians Of Filipino Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_musicians_filipino_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_musicians_filipino_descent"
+          },
+          {
+            "name": "Fashion Designer",
+            "tag_id": "urn:tag:occupation:person:fashion_designer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:fashion_designer"
+          },
+          {
+            "name": "American Women Hip Hop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_hip_hop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_hip_hop_singers"
+          },
+          {
+            "name": "Judges In American Reality Television Series",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:judges_in_american_reality_television_series",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:judges_in_american_reality_television_series"
+          },
+          {
+            "name": "American Contemporary R&b Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_contemporary_r_b_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_contemporary_r_b_singers"
+          },
+          {
+            "name": "American Sopranos",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_sopranos",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_sopranos"
+          },
+          {
+            "name": "Catholics From Hawaii",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:catholics_from_hawaii",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:catholics_from_hawaii"
+          },
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:occupation:person:dancer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dancer"
+          },
+          {
+            "name": "A&m Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:a_m_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:a_m_records_artists"
+          },
+          {
+            "name": "American Women Fashion Designers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_fashion_designers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_fashion_designers"
+          },
+          {
+            "name": "American Adoptees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_adoptees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_adoptees"
+          },
+          {
+            "name": "American Women Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Popstars Contestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:popstars_contestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:popstars_contestants"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "American Synth-pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_synth_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_synth_pop_singers"
+          },
+          {
+            "name": "Actresses From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_los_angeles"
+          },
+          {
+            "name": "Singers From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_los_angeles"
+          },
+          {
+            "name": "American Dance Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_dance_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_dance_musicians"
+          },
+          {
+            "name": "American Hip Hop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers"
+          },
+          {
+            "name": "Dancing With The Stars (american Tv Series) Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dancing_stars_american_tv_series_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dancing_stars_american_tv_series_winners"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Songwriters From Kentucky",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:songwriters_from_kentucky",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:songwriters_from_kentucky"
+          },
+          {
+            "name": "Dupont Manual High School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dupont_manual_high_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dupont_manual_high_school_alumni"
+          },
+          {
+            "name": "21st-century American Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers"
+          },
+          {
+            "name": "Musicians From Honolulu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_honolulu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_honolulu"
+          },
+          {
+            "name": "American Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_film_actresses"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "American Women Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters"
+          },
+          {
+            "name": "Laurence Olivier Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:laurence_olivier_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:laurence_olivier_award_winners"
+          },
+          {
+            "name": "American Actresses Of Filipino Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_actresses_filipino_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_actresses_filipino_descent"
+          },
+          {
+            "name": "Actresses From Honolulu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_honolulu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_honolulu"
+          },
+          {
+            "name": "Rca Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rca_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rca_records_artists"
+          },
+          {
+            "name": "Record Producer",
+            "tag_id": "urn:tag:occupation:person:record_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:record_producer"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Wright State University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wright_state_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wright_state_university_alumni"
+          },
+          {
+            "name": "American Expatriates In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriates_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriates_in_england"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "21st-century American Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          }
+        ]
+      },
+      {
+        "name": "Hayley Williams",
+        "entity_id": "A781730C-AF9D-461B-83BA-5408AB79B0DA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "h",
+              "value": "Հեյլի Ուիլյամս"
+            },
+            {
+              "language": "y",
+              "value": "Հեյլի Ուիլյամս"
+            },
+            {
+              "language": "f",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Хэйли Вилльямс"
+            },
+            {
+              "language": "u",
+              "value": "Хэйли Вилльямс"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Haley Williams"
+            },
+            {
+              "language": "v",
+              "value": "Haley Williams"
+            },
+            {
+              "language": "b",
+              "value": "Хейли Уилямс"
+            },
+            {
+              "language": "g",
+              "value": "Хейли Уилямс"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "k",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "h",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "เฮย์ลีย์ วิลเลียมส์"
+            },
+            {
+              "language": "h",
+              "value": "เฮย์ลีย์ วิลเลียมส์"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "o",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "p",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "k",
+              "value": "Хейли Уильямс"
+            },
+            {
+              "language": "k",
+              "value": "Хейли Уильямс"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "b",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "m",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "u",
+              "value": "Гейлі Вільямс"
+            },
+            {
+              "language": "k",
+              "value": "Гейлі Вільямс"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "b",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Хэйли Уилльямс"
+            },
+            {
+              "language": "u",
+              "value": "Хэйли Уилльямс"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "m",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "f",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "l",
+              "value": "Heilija Viljamsa"
+            },
+            {
+              "language": "v",
+              "value": "Heilija Viljamsa"
+            },
+            {
+              "language": "h",
+              "value": "היילי וויליאמס"
+            },
+            {
+              "language": "e",
+              "value": "היילי וויליאמס"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "f",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "p",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Уильямс, Хейли"
+            },
+            {
+              "language": "u",
+              "value": "Уильямс, Хейли"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "o",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "f",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Хэйли Уильямс"
+            },
+            {
+              "language": "u",
+              "value": "Хэйли Уильямс"
+            },
+            {
+              "language": "l",
+              "value": "Heilija Nikola Viljamsa"
+            },
+            {
+              "language": "v",
+              "value": "Heilija Nikola Viljamsa"
+            },
+            {
+              "language": "f",
+              "value": "هیلی ویلیامز"
+            },
+            {
+              "language": "a",
+              "value": "هیلی ویلیامز"
+            },
+            {
+              "language": "k",
+              "value": "ჰეილი უილიამსი"
+            },
+            {
+              "language": "a",
+              "value": "ჰეილი უილიამსი"
+            },
+            {
+              "language": "h",
+              "value": "היילי ויליאמס"
+            },
+            {
+              "language": "e",
+              "value": "היילי ויליאמס"
+            },
+            {
+              "language": "k",
+              "value": "헤일리 윌리엄스"
+            },
+            {
+              "language": "o",
+              "value": "헤일리 윌리엄스"
+            },
+            {
+              "language": "k",
+              "value": "헤일리 윌리암스"
+            },
+            {
+              "language": "o",
+              "value": "헤일리 윌리암스"
+            },
+            {
+              "language": "n",
+              "value": "00468848395 IPI"
+            },
+            {
+              "language": "b",
+              "value": "00468848395 IPI"
+            },
+            {
+              "language": "m",
+              "value": "Хејли Вилијамс"
+            },
+            {
+              "language": "k",
+              "value": "Хејли Вилијамс"
+            },
+            {
+              "language": "g",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "z",
+              "value": "海莉·威廉斯"
+            },
+            {
+              "language": "h",
+              "value": "海莉·威廉斯"
+            },
+            {
+              "language": "b",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "k",
+              "value": "ჰეილი ვილიამსი"
+            },
+            {
+              "language": "a",
+              "value": "ჰეილი ვილიამსი"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "o",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "p",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "p",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "o",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Уилльямс, Хэйли"
+            },
+            {
+              "language": "u",
+              "value": "Уилльямс, Хэйли"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "q",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "w",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "k",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "s",
+              "value": "Williams"
+            },
+            {
+              "language": "v",
+              "value": "Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "n",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Хейли Уильямс"
+            },
+            {
+              "language": "u",
+              "value": "Хейли Уильямс"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Уильямс, Хэйли"
+            },
+            {
+              "language": "u",
+              "value": "Уильямс, Хэйли"
+            },
+            {
+              "language": "d",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "m",
+              "value": "ഹെയ്ലി വില്യംസ്"
+            },
+            {
+              "language": "l",
+              "value": "ഹെയ്ലി വില്യംസ്"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "y",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "z",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "h",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "r",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "g",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "a",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "e",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "l",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "j",
+              "value": "ヘイリー・ウィリアムス"
+            },
+            {
+              "language": "a",
+              "value": "ヘイリー・ウィリアムス"
+            },
+            {
+              "language": "s",
+              "value": "Hejli Vilijams"
+            },
+            {
+              "language": "r",
+              "value": "Hejli Vilijams"
+            },
+            {
+              "language": "a",
+              "value": "هايلي ويليامز"
+            },
+            {
+              "language": "r",
+              "value": "هايلي ويليامز"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "i",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "c",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Nichole Williams"
+            },
+            {
+              "language": "t",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "y",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "v",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "s",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "k",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "h",
+              "value": "Հեյլի Նիկոլ Ուիլյամս"
+            },
+            {
+              "language": "y",
+              "value": "Հեյլի Նիկոլ Ուիլյամս"
+            },
+            {
+              "language": "u",
+              "value": "Hayley Williams"
+            },
+            {
+              "language": "z",
+              "value": "Hayley Williams"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Hayley+Williams"
+            },
+            "instagram": {
+              "id": "yelyahwilliams"
+            },
+            "twitter": {
+              "id": "yelyahwilliams"
+            },
+            "spotify": {
+              "id": "6Rx1JKzBrSzoKQtmbVmBnM"
+            },
+            "imdb": {
+              "id": "nm3210471"
+            },
+            "library_of_congress": {
+              "id": "no2010094616"
+            },
+            "musicbrainz": {
+              "id": "b4b5b5a7-feff-47d0-9458-83d0d135a692"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1988-12-27",
+          "image": {
+            "url": "https://images.qloo.com/i/A781730C-AF9D-461B-83BA-5408AB79B0DA-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "keyboard instrument",
+            "guitar",
+            "bass guitar",
+            "drum kit",
+            "voice",
+            "piano"
+          ],
+          "spouse": [
+            "Chad Gilbert"
+          ],
+          "work_period_start": "2003-01-01",
+          "short_description": "American singer, songwriter and pianist, member of the music group Paramore"
+        },
+        "popularity": 0.9882203933421032,
+        "disambiguation": "1988-12-27",
+        "tags": [
+          {
+            "name": "American Acoustic Guitarists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_acoustic_guitarists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_acoustic_guitarists"
+          },
+          {
+            "name": "Pop Punk Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pop_punk_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pop_punk_singers"
+          },
+          {
+            "name": "American Rock Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_rock_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_rock_songwriters"
+          },
+          {
+            "name": "American Feminist Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_feminist_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_feminist_musicians"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "American Pop Guitarists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_pop_guitarists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_pop_guitarists"
+          },
+          {
+            "name": "Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grammy_award_winners"
+          },
+          {
+            "name": "American Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_christians"
+          },
+          {
+            "name": "Nme Awards Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nme_awards_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nme_awards_winners"
+          },
+          {
+            "name": "Singers With A Four-octave Vocal Range",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_a_four_octave_vocal_range",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_a_four_octave_vocal_range"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "American Child Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_singers"
+          },
+          {
+            "name": "American Child Pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_pop_musicians"
+          },
+          {
+            "name": "American Multi-instrumentalists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_multi_instrumentalists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_multi_instrumentalists"
+          },
+          {
+            "name": "Mtv Video Music Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_video_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mtv_video_music_award_winners"
+          },
+          {
+            "name": "American Women Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters"
+          },
+          {
+            "name": "American Pop Rock Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_pop_rock_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_pop_rock_singers"
+          },
+          {
+            "name": "American Women Punk Rock Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_punk_rock_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_punk_rock_singers"
+          },
+          {
+            "name": "21st-century American Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters"
+          },
+          {
+            "name": "Paramore Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:paramore_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:paramore_members"
+          },
+          {
+            "name": "American Indie Pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_indie_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_indie_pop_musicians"
+          },
+          {
+            "name": "American Women Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:occupation:person:musician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:musician"
+          },
+          {
+            "name": "21st-century American Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers"
+          },
+          {
+            "name": "Singer-songwriters From Tennessee",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_tennessee",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_tennessee"
+          },
+          {
+            "name": "American Sopranos",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_sopranos",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_sopranos"
+          },
+          {
+            "name": "Singer-songwriters From Mississippi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_mississippi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_mississippi"
+          },
+          {
+            "name": "Child Rock Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:child_rock_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:child_rock_musicians"
+          },
+          {
+            "name": "Pianist",
+            "tag_id": "urn:tag:occupation:person:pianist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:pianist"
+          }
+        ]
+      },
+      {
+        "name": "Nicole Aniston",
+        "entity_id": "D69AF8A6-8D4F-400B-B397-B00DF3A7A03A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "n",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "v",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "e",
+              "value": "prostitute and steals money from Mexicans"
+            },
+            {
+              "language": "s",
+              "value": "prostitute and steals money from Mexicans"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "f",
+              "value": "اشلی نیکول میلر"
+            },
+            {
+              "language": "a",
+              "value": "اشلی نیکول میلر"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "p",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "l",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "j",
+              "value": "ニコール・アニストン"
+            },
+            {
+              "language": "a",
+              "value": "ニコール・アニストン"
+            },
+            {
+              "language": "n",
+              "value": "निकोल एनिस्टन"
+            },
+            {
+              "language": "e",
+              "value": "निकोल एनिस्टन"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "q",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "i",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "a",
+              "value": "نيكول أنيستون"
+            },
+            {
+              "language": "r",
+              "value": "نيكول أنيستون"
+            },
+            {
+              "language": "k",
+              "value": "ნიკოლ ენისტონი"
+            },
+            {
+              "language": "a",
+              "value": "ნიკოლ ენისტონი"
+            },
+            {
+              "language": "u",
+              "value": "Ніколь Еністон"
+            },
+            {
+              "language": "k",
+              "value": "Ніколь Еністон"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "h",
+              "value": "निकोल एनिस्टन"
+            },
+            {
+              "language": "i",
+              "value": "निकोल एनिस्टन"
+            },
+            {
+              "language": "e",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "s",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "a",
+              "value": "Nikol Aniston"
+            },
+            {
+              "language": "z",
+              "value": "Nikol Aniston"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "b",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "g",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "k",
+              "value": "니콜 애니스턴"
+            },
+            {
+              "language": "o",
+              "value": "니콜 애니스턴"
+            },
+            {
+              "language": "b",
+              "value": "Никол Анистън"
+            },
+            {
+              "language": "g",
+              "value": "Никол Анистън"
+            },
+            {
+              "language": "n",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "l",
+              "value": "Nikola Anistone"
+            },
+            {
+              "language": "v",
+              "value": "Nikola Anistone"
+            },
+            {
+              "language": "d",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "e",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "c",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "a",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "t",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "r",
+              "value": "Ashley Nicole Miller"
+            },
+            {
+              "language": "f",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "r",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "r",
+              "value": "Николь Энистон"
+            },
+            {
+              "language": "u",
+              "value": "Николь Энистон"
+            },
+            {
+              "language": "h",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "u",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "o",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "b",
+              "value": "নিকোল অ্যানিস্টন"
+            },
+            {
+              "language": "n",
+              "value": "নিকোল অ্যানিস্টন"
+            },
+            {
+              "language": "d",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "e",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "u",
+              "value": "نکول انسیٹن"
+            },
+            {
+              "language": "r",
+              "value": "نکول انسیٹن"
+            },
+            {
+              "language": "p",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "t",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "z",
+              "value": "妮可·安妮斯頓"
+            },
+            {
+              "language": "h",
+              "value": "妮可·安妮斯頓"
+            },
+            {
+              "language": "f",
+              "value": "نیکول انیستون"
+            },
+            {
+              "language": "a",
+              "value": "نیکول انیستون"
+            },
+            {
+              "language": "s",
+              "value": "Nicole Aniston"
+            },
+            {
+              "language": "l",
+              "value": "Nicole Aniston"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "realnicoleaniston"
+            },
+            "twitter": {
+              "id": "XNicoleAnistonX"
+            },
+            "imdb": {
+              "id": "nm4243672"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1987-09-09",
+          "image": {
+            "url": "https://images.qloo.com/i/D69AF8A6-8D4F-400B-B397-B00DF3A7A03A-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "American pornographic actress"
+        },
+        "popularity": 0.978245507224318,
+        "disambiguation": "1987-09-09",
+        "tags": [
+          {
+            "name": "Erotic Photography Model",
+            "tag_id": "urn:tag:occupation:person:erotic_photography_model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:erotic_photography_model"
+          },
+          {
+            "name": "American People Of Greek Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_greek_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_greek_descent"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "American Female Adult Models",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_female_adult_models",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_female_adult_models"
+          },
+          {
+            "name": "American Cannabis Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_cannabis_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_cannabis_activists"
+          },
+          {
+            "name": "Penthouse Pets Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:penthouse_pets_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:penthouse_pets_year"
+          },
+          {
+            "name": "American People Of German Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_german_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_german_descent"
+          },
+          {
+            "name": "21st-century American Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_actresses"
+          },
+          {
+            "name": "Adult",
+            "tag_id": "urn:tag:genre:media:media:adult",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adult"
+          },
+          {
+            "name": "Penthouse Pets",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:penthouse_pets",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:penthouse_pets"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Nicolas Sarkozy",
+        "entity_id": "0CCA3A1E-E43B-41DB-881E-529A3494B531",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "k",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "k",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "h",
+              "value": "निकोला सार्कोज़ी"
+            },
+            {
+              "language": "i",
+              "value": "निकोला सार्कोज़ी"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "d",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nikolya Sarkozi"
+            },
+            {
+              "language": "z",
+              "value": "Nikolya Sarkozi"
+            },
+            {
+              "language": "d",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "u",
+              "value": "Ніколя Саркозі"
+            },
+            {
+              "language": "k",
+              "value": "Ніколя Саркозі"
+            },
+            {
+              "language": "z",
+              "value": "尼古拉·薩爾科齊"
+            },
+            {
+              "language": "h",
+              "value": "尼古拉·薩爾科齊"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Сарко"
+            },
+            {
+              "language": "u",
+              "value": "Сарко"
+            },
+            {
+              "language": "h",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "b",
+              "value": "ནི་ཀོ་ལ་ས་ར་ཀོ་ཟི།"
+            },
+            {
+              "language": "o",
+              "value": "ནི་ཀོ་ལ་ས་ར་ཀོ་ཟི།"
+            },
+            {
+              "language": "h",
+              "value": "Նիկոլա Սարկոզի"
+            },
+            {
+              "language": "y",
+              "value": "Նիկոլա Սարկոզի"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarközy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarközy"
+            },
+            {
+              "language": "h",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "z",
+              "value": "尼古拉·萨科奇"
+            },
+            {
+              "language": "h",
+              "value": "尼古拉·萨科奇"
+            },
+            {
+              "language": "a",
+              "value": "نيكولا ساركوزي"
+            },
+            {
+              "language": "r",
+              "value": "نيكولا ساركوزي"
+            },
+            {
+              "language": "m",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "h",
+              "value": "ניקולא סרקוזי"
+            },
+            {
+              "language": "e",
+              "value": "ניקולא סרקוזי"
+            },
+            {
+              "language": "b",
+              "value": "Нікаля Сарказі"
+            },
+            {
+              "language": "e",
+              "value": "Нікаля Сарказі"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "q",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nikolā Sarkozī"
+            },
+            {
+              "language": "v",
+              "value": "Nikolā Sarkozī"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarközy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarközy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "h",
+              "value": "סרקוזי"
+            },
+            {
+              "language": "e",
+              "value": "סרקוזי"
+            },
+            {
+              "language": "a",
+              "value": "ኒኮላ ሳርኮዚ"
+            },
+            {
+              "language": "m",
+              "value": "ኒኮላ ሳርኮዚ"
+            },
+            {
+              "language": "b",
+              "value": "নিকোলা সার্কোজি"
+            },
+            {
+              "language": "n",
+              "value": "নিকোলা সার্কোজি"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "k",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Sarko"
+            },
+            {
+              "language": "n",
+              "value": "Sarko"
+            },
+            {
+              "language": "m",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "u",
+              "value": "نىكولا ساركوزى"
+            },
+            {
+              "language": "g",
+              "value": "نىكولا ساركوزى"
+            },
+            {
+              "language": "b",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "g",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "m",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "g",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "h",
+              "value": "ניקולה סרקוזי"
+            },
+            {
+              "language": "e",
+              "value": "ניקולה סרקוזי"
+            },
+            {
+              "language": "f",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "r",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "n",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "l",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "m",
+              "value": "निकोला सार्कोझी"
+            },
+            {
+              "language": "r",
+              "value": "निकोला सार्कोझी"
+            },
+            {
+              "language": "m",
+              "value": "നിക്കോളാസ് സർക്കോസി"
+            },
+            {
+              "language": "l",
+              "value": "നിക്കോളാസ് സർക്കോസി"
+            },
+            {
+              "language": "e",
+              "value": "Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "v",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "نیکولا سارکوزی"
+            },
+            {
+              "language": "a",
+              "value": "نیکولا سارکوزی"
+            },
+            {
+              "language": "r",
+              "value": "Саркози, Николя"
+            },
+            {
+              "language": "u",
+              "value": "Саркози, Николя"
+            },
+            {
+              "language": "v",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "w",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Николь Саркози"
+            },
+            {
+              "language": "u",
+              "value": "Николь Саркози"
+            },
+            {
+              "language": "c",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "a",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "m",
+              "value": "နီကိုလပ်စ် ဆာကိုဇီ"
+            },
+            {
+              "language": "y",
+              "value": "နီကိုလပ်စ် ဆာကိုဇီ"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Sarko"
+            },
+            {
+              "language": "s",
+              "value": "Sarko"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Νικολά Σαρκοζί"
+            },
+            {
+              "language": "l",
+              "value": "Νικολά Σαρκοζί"
+            },
+            {
+              "language": "k",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "w",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Николя Поль Стефан Саркози де Надь-Боча"
+            },
+            {
+              "language": "u",
+              "value": "Николя Поль Стефан Саркози де Надь-Боча"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "d",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "e",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "ניקאלא סארקאזי"
+            },
+            {
+              "language": "i",
+              "value": "ניקאלא סארקאזי"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "f",
+              "value": "Sarko"
+            },
+            {
+              "language": "r",
+              "value": "Sarko"
+            },
+            {
+              "language": "i",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "t",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "q",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "w",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "s",
+              "value": "Paul Bismuth"
+            },
+            {
+              "language": "h",
+              "value": "Nicolas Paul Stéphane Sarkozy de Nagy-Bocsa"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Paul Stéphane Sarkozy de Nagy-Bocsa"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "p",
+              "value": "نیکولاس سرکوزي"
+            },
+            {
+              "language": "s",
+              "value": "نیکولاس سرکوزي"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "z",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "นีกอลา ซาร์กอซี"
+            },
+            {
+              "language": "h",
+              "value": "นีกอลา ซาร์กอซี"
+            },
+            {
+              "language": "u",
+              "value": "نکولس سرکوزی"
+            },
+            {
+              "language": "r",
+              "value": "نکولس سرکوزی"
+            },
+            {
+              "language": "v",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "k",
+              "value": "ნიკოლა სარკოზი"
+            },
+            {
+              "language": "a",
+              "value": "ნიკოლა სარკოზი"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "j",
+              "value": "ニコラ・サルコジ"
+            },
+            {
+              "language": "a",
+              "value": "ニコラ・サルコジ"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "k",
+              "value": "ಸರ್ಕೋಜಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಸರ್ಕೋಜಿ"
+            },
+            {
+              "language": "t",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "t",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "e",
+              "value": "Sarko"
+            },
+            {
+              "language": "l",
+              "value": "Sarko"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "d",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "g",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Paul Stéphane Sárközy de Nagy-Bócsa"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Paul Stéphane Sárközy de Nagy-Bócsa"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "m",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "m",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "n",
+              "value": "Николя Саркози"
+            },
+            {
+              "language": "p",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "n",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "k",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "z",
+              "value": "萨科齐"
+            },
+            {
+              "language": "h",
+              "value": "萨科齐"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "h",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "p",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Саркози, Николь"
+            },
+            {
+              "language": "u",
+              "value": "Саркози, Николь"
+            },
+            {
+              "language": "t",
+              "value": "Николас Саркози"
+            },
+            {
+              "language": "g",
+              "value": "Николас Саркози"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Саркози, Николь"
+            },
+            {
+              "language": "b",
+              "value": "Саркози, Николь"
+            },
+            {
+              "language": "n",
+              "value": "Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "g",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "v",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "p",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "z",
+              "value": "尼古拉·萨科齐"
+            },
+            {
+              "language": "h",
+              "value": "尼古拉·萨科齐"
+            },
+            {
+              "language": "k",
+              "value": "니콜라 사르코지"
+            },
+            {
+              "language": "o",
+              "value": "니콜라 사르코지"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "r",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "h",
+              "value": "Նիքոլա Սարքոզի"
+            },
+            {
+              "language": "y",
+              "value": "Նիքոլա Սարքոզի"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "o",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "h",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "m",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "k",
+              "value": "Никола Саркози"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "y",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "n",
+              "value": "निकोला सार्कोजी"
+            },
+            {
+              "language": "e",
+              "value": "निकोला सार्कोजी"
+            },
+            {
+              "language": "b",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "f",
+              "value": "Nicolas Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "r",
+              "value": "Nicolas Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "c",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "s",
+              "value": "Nicolas Paul Stéphane Sarközy de Nagy-Bocsa"
+            },
+            {
+              "language": "g",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "d",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "g",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "i",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "z",
+              "value": "尼古拉·萨尔科齐"
+            },
+            {
+              "language": "h",
+              "value": "尼古拉·萨尔科齐"
+            },
+            {
+              "language": "t",
+              "value": "நிக்கொலா சார்கோசி"
+            },
+            {
+              "language": "a",
+              "value": "நிக்கொலா சார்கோசி"
+            },
+            {
+              "language": "t",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "k",
+              "value": "니콜라 폴 스테판 사르코지"
+            },
+            {
+              "language": "o",
+              "value": "니콜라 폴 스테판 사르코지"
+            },
+            {
+              "language": "e",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "u",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "j",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "v",
+              "value": "Nicolas Sarkozy"
+            },
+            {
+              "language": "l",
+              "value": "Nicolaus Sarkozy"
+            },
+            {
+              "language": "a",
+              "value": "Nicolaus Sarkozy"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "2772714"
+            },
+            "instagram": {
+              "id": "nicolassarkozy"
+            },
+            "metacritic": {
+              "id": "person/nicolas-sarkozy"
+            },
+            "twitter": {
+              "id": "NicolasSarkozy"
+            },
+            "imdb": {
+              "id": "nm0765324"
+            },
+            "library_of_congress": {
+              "id": "no94036859"
+            },
+            "goodreads_author": {
+              "id": "2772714"
+            }
+          },
+          "child": [
+            "Louis Sarkozy",
+            "Giulia Sarkozy",
+            "Pierre Sarkozy",
+            "Jean Sarkozy"
+          ],
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1955-01-28",
+          "image": {
+            "url": "https://images.qloo.com/i/0CCA3A1E-E43B-41DB-881E-529A3494B531-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Marie-Dominique Culioli",
+            "Carla Bruni",
+            "Cécilia Attias"
+          ],
+          "short_description": "President of France from 2007 to 2012"
+        },
+        "popularity": 0.9772616083756428,
+        "disambiguation": "1955-01-28",
+        "tags": [
+          {
+            "name": "True story",
+            "tag_id": "urn:tag:genre:media:media:true_story",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:true_story"
+          },
+          {
+            "name": "Paris Nanterre University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:paris_nanterre_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:paris_nanterre_university_alumni"
+          },
+          {
+            "name": "Princes Of Andorra",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:princes_andorra",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:princes_andorra"
+          },
+          {
+            "name": "Politicians From Paris",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:politicians_from_paris",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:politicians_from_paris"
+          },
+          {
+            "name": "People Appearing On C-span",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span"
+          },
+          {
+            "name": "Presidents Of France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:presidents_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:presidents_france"
+          },
+          {
+            "name": "Nicolas Sarkozy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nicolas_sarkozy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nicolas_sarkozy"
+          },
+          {
+            "name": "Honorary Knights Grand Cross Of The Order Of The Bath",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:honorary_knights_grand_cross_order_bath",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:honorary_knights_grand_cross_order_bath"
+          },
+          {
+            "name": "French People Of Hungarian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_hungarian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_hungarian_descent"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Budget Ministers Of France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:budget_ministers_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:budget_ministers_france"
+          },
+          {
+            "name": "Government Spokespersons Of France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:government_spokespersons_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:government_spokespersons_france"
+          },
+          {
+            "name": "Presidents Of The General Council Of Hauts-de-seine",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:presidents_general_council_hauts_seine",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:presidents_general_council_hauts_seine"
+          },
+          {
+            "name": "French Politicians Convicted Of Corruption",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_politicians_convicted_corruption",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_politicians_convicted_corruption"
+          },
+          {
+            "name": "Knights Of The Golden Fleece Of Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:knights_golden_fleece_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:knights_golden_fleece_spain"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Statesperson",
+            "tag_id": "urn:tag:occupation:person:statesperson",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:statesperson"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Finance Ministers Of France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:finance_ministers_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:finance_ministers_france"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Recipients Of St. Georges Order Of Victory",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_st_georges_order_victory",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_st_georges_order_victory"
+          },
+          {
+            "name": "21st-century Princes Of Andorra",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_princes_andorra",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_princes_andorra"
+          },
+          {
+            "name": "Mayors Of Places In Île-de-france",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mayors_places_in_ile_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mayors_places_in_ile_france"
+          },
+          {
+            "name": "Lawyer",
+            "tag_id": "urn:tag:occupation:person:lawyer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:lawyer"
+          },
+          {
+            "name": "Grand Crosses Of The Order Of Saint-charles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grand_crosses_order_saint_charles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grand_crosses_order_saint_charles"
+          },
+          {
+            "name": "Candidates In The 2007 French Presidential Election",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:candidates_in_2007_french_presidential_election",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:candidates_in_2007_french_presidential_election"
+          },
+          {
+            "name": "The Republicans (france) Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republicans_france_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republicans_france_politicians"
+          },
+          {
+            "name": "Candidates In The 2012 French Presidential Election",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:candidates_in_2012_french_presidential_election",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:candidates_in_2012_french_presidential_election"
+          },
+          {
+            "name": "Jurist",
+            "tag_id": "urn:tag:occupation:person:jurist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:jurist"
+          },
+          {
+            "name": "Presidents Of The European Council",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:presidents_european_council",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:presidents_european_council"
+          },
+          {
+            "name": "French People Of Greek-jewish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_greek_jewish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_greek_jewish_descent"
+          },
+          {
+            "name": "French Interior Ministers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_interior_ministers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_interior_ministers"
+          },
+          {
+            "name": "Sarkozy Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sarkozy_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sarkozy_family"
+          },
+          {
+            "name": "Commanders Of The Order Of The Crown (belgium)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:commanders_order_crown_belgium",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:commanders_order_crown_belgium"
+          },
+          {
+            "name": "University Of Paris Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:university_paris_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:university_paris_alumni"
+          },
+          {
+            "name": "Government Of Andorra",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:government_andorra",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:government_andorra"
+          },
+          {
+            "name": "Sciences Po Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sciences_po_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sciences_po_alumni"
+          },
+          {
+            "name": "Hungarian Nobility",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hungarian_nobility",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hungarian_nobility"
+          },
+          {
+            "name": "Politics",
+            "tag_id": "urn:tag:genre:media:media:politics",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:politics"
+          },
+          {
+            "name": "21st-century French Criminals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_french_criminals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_french_criminals"
+          },
+          {
+            "name": "Grand Cross Of The Legion Of Honour",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grand_cross_legion_honour",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grand_cross_legion_honour"
+          },
+          {
+            "name": "20th-century French Lawyers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_french_lawyers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_french_lawyers"
+          },
+          {
+            "name": "Heads Of Government Who Were Later Imprisoned",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:heads_government_who_were_later_imprisoned",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:heads_government_who_were_later_imprisoned"
+          },
+          {
+            "name": "French Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_roman_catholics"
+          },
+          {
+            "name": "21st-century Presidents Of France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_presidents_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_presidents_france"
+          },
+          {
+            "name": "Vague Or Ambiguous Time From July 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_july_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_july_2022"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1319 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Minecraft",
+    "take": 5,
+    "types": "urn:entity:videogame"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Minecraft",
+        "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "ماين كرافت"
+            },
+            {
+              "language": "cs",
+              "value": "Minecraft"
+            },
+            {
+              "language": "et",
+              "value": "Minecraft"
+            },
+            {
+              "language": "fi",
+              "value": "Minecraft"
+            },
+            {
+              "language": "he",
+              "value": "מיינקראפט"
+            },
+            {
+              "language": "ko",
+              "value": "마인크래프트"
+            },
+            {
+              "language": "ml",
+              "value": "മൈൻക്രാഫ്റ്റ്"
+            },
+            {
+              "language": "ro",
+              "value": "Minecraft"
+            },
+            {
+              "language": "ru",
+              "value": "Майнкрафт"
+            },
+            {
+              "language": "sv",
+              "value": "Minecraft"
+            },
+            {
+              "language": "zh",
+              "value": "我的世界"
+            }
+          ],
+          "content_rating": "E10+",
+          "description": "Minecraft is an open-ended sandbox game where players explore procedurally generated, blocky 3D worlds, gather resources, craft tools and structures, and choose between creative building or survival against environmental threats and enemies. It supports extensive user-generated content, mods, and multiplayer servers with diverse game modes.",
+          "developer": "Mojang AB",
+          "external": {
+            "facebook": {
+              "id": "minecraft"
+            },
+            "igdb": {
+              "id": "minecraft"
+            },
+            "instagram": {
+              "id": "minecraft"
+            },
+            "metacritic": {
+              "critic_rating": 93,
+              "id": "1400526283"
+            },
+            "twitch": {
+              "id": "minecraft: java edition"
+            },
+            "twitter": {
+              "id": "minecraft"
+            },
+            "wikidata": {
+              "id": "q49740"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/CDBDE254-71F0-4640-8D04-5373BEAE5278-420x-auto.jpg"
+          },
+          "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 5",
+            "3DS",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation Vita",
+            "Wii U",
+            "Xbox 360",
+            "Xbox One"
+          ],
+          "publisher": "Mojang AB",
+          "release_date": "2011-11-18",
+          "release_year": 2011,
+          "short_description": "Players explore, gather resources, craft items, and build or survive in a procedurally generated blocky 3D world, solo or with others.",
+          "short_descriptions": [
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2011 desenvolvido pela Mojang"
+            },
+            {
+              "language": "ja",
+              "value": "2011年よりMojangが開発、販売しているゲームソフト"
+            },
+            {
+              "language": "en",
+              "value": "2011 sandbox game developed by Mojang"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو من تطوير موجانغ"
+            },
+            {
+              "language": "es",
+              "value": "videojuego sandbox y de supervivencia desarrollado por Mojang AB en 2011"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2011 года"
+            },
+            {
+              "language": "cy",
+              "value": "gêm fideo 2011 gan Mojang"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel van Mojang Studios"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu sandbox 2011 nke Mojang mepụtara"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc sandbox desenvolupat per Mojang el 2011"
+            },
+            {
+              "language": "it",
+              "value": "videogioco sandbox del 2011 sviluppato da Mojang"
+            },
+            {
+              "language": "sl",
+              "value": "peskovniška videoigra družbe Mojang (2011)"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel"
+            },
+            {
+              "language": "de",
+              "value": "Sandbox-Computerspiel aus dem Jahr 2011"
+            },
+            {
+              "language": "is",
+              "value": "tölvuleikur frá 2011"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de món obert desenvolupat per Mojang"
+            },
+            {
+              "language": "yi",
+              "value": "זאמדקאסטן ווידעא שפיל"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2011 година"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная инди-игра 2011 года в жанре песочницы"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2011"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche a foilsíodh sa bhliain 2011"
+            },
+            {
+              "language": "lv",
+              "value": "2011. gadā videospēle"
+            },
+            {
+              "language": "so",
+              "value": "ciyaar muuqaal sandbox oo furan oo asal ahaan uu sameeyay Markus \"Notch\" Persson"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو من تطوير شركة موجانغ"
+            },
+            {
+              "language": "ja",
+              "value": "コンピュータゲーム"
+            },
+            {
+              "language": "zh",
+              "value": "2011年電子遊戲"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра из 2011. године"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video kotak pasir tahun 2011 keluaran Mojang"
+            },
+            {
+              "language": "th",
+              "value": "วีดีโอเกม วางจำหน่ายเมื่อ ค.ศ. 2011"
+            },
+            {
+              "language": "nb",
+              "value": "sandkasse- og overlevelsesvideospill fra 2011"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2011"
+            },
+            {
+              "language": "cs",
+              "value": "indie hra s otevřeným světem"
+            },
+            {
+              "language": "hy",
+              "value": "2011 թվականի համակարգչային խաղ"
+            },
+            {
+              "language": "fa",
+              "value": "پرفروش‌ترین بازی دنیا و ساخت شرکت موجنگ استودیوز"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2011 desenvolvido pela Mojang"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från år 2011 utvecklat av Mojang"
+            },
+            {
+              "language": "lb",
+              "value": "Computerspill aus dem Joer 2011"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu vidiyo 2011"
+            },
+            {
+              "language": "hu",
+              "value": "2011-es nyílt világú sandbox videójáték"
+            },
+            {
+              "language": "nl",
+              "value": "sandboxcomputerspel"
+            },
+            {
+              "language": "en",
+              "value": "2011 video game"
+            },
+            {
+              "language": "sc",
+              "value": "videojòcu de 2011"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2011"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2011 roku"
+            },
+            {
+              "language": "nn",
+              "value": "sandkasse- og overlevingsspel"
+            },
+            {
+              "language": "lt",
+              "value": "2011 m. kompiuterinis žaidimas"
+            },
+            {
+              "language": "sq",
+              "value": "video lojë e vitit 2011"
+            },
+            {
+              "language": "oc",
+              "value": "videojòc de 2011"
+            },
+            {
+              "language": "it",
+              "value": "videogioco indie sandbox del 2011"
+            },
+            {
+              "language": "gl",
+              "value": "videoxogo de mundo aberto"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2011"
+            },
+            {
+              "language": "et",
+              "value": "2011. aastal videomäng"
+            },
+            {
+              "language": "tr",
+              "value": "Mojang Studios tarafından geliştirilen 2011 sandbox video oyunu"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2011 року"
+            },
+            {
+              "language": "eu",
+              "value": "2011 bideo-joko"
+            },
+            {
+              "language": "la",
+              "value": "ludus computatralis"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2011"
+            },
+            {
+              "language": "ka",
+              "value": "2011 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "hi",
+              "value": "२०११ वीडियो गेम"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2011"
+            },
+            {
+              "language": "ko",
+              "value": "2011년 비디오 게임"
+            },
+            {
+              "language": "be",
+              "value": "камп’ютарная гульня 2011 года"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι"
+            },
+            {
+              "language": "fi",
+              "value": "indie-videopeli"
+            },
+            {
+              "language": "eo",
+              "value": "videoludo"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2011 година"
+            },
+            {
+              "language": "he",
+              "value": "משחק וידאו של חברת Mojang"
+            },
+            {
+              "language": "az",
+              "value": "Mojang tərəfindən hazırlanmış bir sandbox video oyunudur"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2011"
+            },
+            {
+              "language": "te",
+              "value": "2011 వీడియో గేమ్"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "af",
+              "value": "rekenaarspeletjie 2011"
+            },
+            {
+              "language": "bn",
+              "value": "২০১১ ভিডিও গেম"
+            },
+            {
+              "language": "id",
+              "value": "permainan bak pasir 2011 yang dikembangkan oleh Mojang"
+            },
+            {
+              "language": "de",
+              "value": "Spieler erkunden eine blockige Welt, bauen Strukturen und überleben gegen verschiedene Kreaturen und Herausforderungen."
+            },
+            {
+              "language": "es",
+              "value": "Los jugadores exploran un mundo de bloques, construyendo y sobreviviendo frente a diversas criaturas y desafíos."
+            },
+            {
+              "language": "fr",
+              "value": "Les joueurs explorent un monde en blocs, construisent des structures et survivent face à diverses créatures et défis."
+            },
+            {
+              "language": "en",
+              "value": "Players explore a blocky world, crafting and building structures while surviving against various creatures and challenges."
+            }
+          ]
+        },
+        "popularity": 0.9661198833076018,
+        "disambiguation": "2011-11-18, Mojang AB",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Voxel-based",
+            "tag_id": "urn:tag:art_style:qloo:voxel_based",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Blocky",
+            "tag_id": "urn:tag:art_style:qloo:blocky",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Pixelated textures",
+            "tag_id": "urn:tag:art_style:qloo:pixelated_textures",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "creative freedom",
+            "tag_id": "urn:tag:audience:qloo:creative_freedom",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "endless replayability",
+            "tag_id": "urn:tag:audience:qloo:endless_replayability",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "community-driven",
+            "tag_id": "urn:tag:audience:qloo:community_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "mod-friendly",
+            "tag_id": "urn:tag:audience:qloo:mod_friendly",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "family-friendly",
+            "tag_id": "urn:tag:audience:qloo:family_friendly",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "creative",
+            "tag_id": "urn:tag:emotional_tone:qloo:creative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "exploratory",
+            "tag_id": "urn:tag:emotional_tone:qloo:exploratory",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "relaxing",
+            "tag_id": "urn:tag:emotional_tone:qloo:relaxing",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "adventurous",
+            "tag_id": "urn:tag:emotional_tone:qloo:adventurous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "imaginative",
+            "tag_id": "urn:tag:emotional_tone:qloo:imaginative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:gameplay_type:qloo:open_world",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:gameplay_type:qloo:survival",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Creative",
+            "tag_id": "urn:tag:gameplay_type:qloo:creative",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:genre:qloo:sandbox",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:genre:qloo:survival",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Simulation",
+            "tag_id": "urn:tag:genre:qloo:simulation",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Nintendo Switch",
+            "tag_id": "urn:tag:platform:qloo:nintendo_switch",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 5",
+            "tag_id": "urn:tag:platform:qloo:playstation_5",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "3DS",
+            "tag_id": "urn:tag:platform:qloo:3ds",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 3",
+            "tag_id": "urn:tag:platform:qloo:playstation_3",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation Vita",
+            "tag_id": "urn:tag:platform:qloo:playstation_vita",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Wii U",
+            "tag_id": "urn:tag:platform:qloo:wii_u",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox 360",
+            "tag_id": "urn:tag:platform:qloo:xbox_360",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player, Multiplayer",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_multiplayer",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual to advanced",
+            "tag_id": "urn:tag:skill_level:qloo:casual_to_advanced",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:category:qloo:sandbox",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:category:qloo:open_world",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:category:qloo:survival",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Building",
+            "tag_id": "urn:tag:category:qloo:building",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Exploration",
+            "tag_id": "urn:tag:category:qloo:exploration",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Minecraft Dungeons",
+        "entity_id": "3D096247-9E91-4098-97EE-D1205BD417D9",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "en_au",
+              "value": "Minecraft: Dungeons"
+            },
+            {
+              "language": "de",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "es",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "es_ar",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "fr",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "it",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "nl",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "ar",
+              "value": "ماينكرافت دونجنس"
+            },
+            {
+              "language": "cs",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "et",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "fi",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "he",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "ja",
+              "value": "マインクラフトダンジョンズ"
+            },
+            {
+              "language": "ko",
+              "value": "마인크래프트 던전스"
+            },
+            {
+              "language": "pl",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "pt",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "ro",
+              "value": "Minecraft: Dungeons"
+            },
+            {
+              "language": "ru",
+              "value": "Minecraft: Dungeons"
+            },
+            {
+              "language": "sv",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "th",
+              "value": "ไมน์คราฟต์: ดันเจียน"
+            },
+            {
+              "language": "tr",
+              "value": "Minecraft Dungeons"
+            },
+            {
+              "language": "zh",
+              "value": "我的世界：地下城"
+            }
+          ],
+          "content_rating": "E10+",
+          "description": "An action-adventure, dungeon-crawler spin-off set in the Minecraft universe where players gather loot, fight through varied procedurally-influenced levels, and team up (up to four players) to save villagers and defeat the Arch-Illager.",
+          "developer": "Mojang AB",
+          "external": {
+            "igdb": {
+              "id": "minecraft-dungeons"
+            },
+            "metacritic": {
+              "critic_rating": 70,
+              "id": "1400619128"
+            },
+            "steam": {
+              "id": "1672970"
+            },
+            "twitch": {
+              "id": "minecraft dungeons"
+            },
+            "twitter": {
+              "id": "dungeonsgame"
+            },
+            "wikidata": {
+              "id": "q56884780"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/3D096247-9E91-4098-97EE-D1205BD417D9-420x-auto.jpg"
+          },
+          "platforms": [
+            "PC (Windows)",
+            "Xbox One",
+            "PlayStation 4",
+            "Nintendo Switch",
+            "Xbox Series X/S"
+          ],
+          "publisher": "Xbox Game Studios",
+          "release_date": "2020-05-26",
+          "release_year": 2020,
+          "short_description": "A loot-driven top-down action-adventure where up to four players fight through varied dungeons to save villagers and defeat the evil Arch-Illager.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Helden begeben sich auf eine Quest, um einen korrumpierten Illager zu besiegen und Dörfer von seiner Unterdrückung zu befreien."
+            },
+            {
+              "language": "es",
+              "value": "Héroes emprenden una misión para derrotar a un illager corrupto y liberar aldeas de su opresión."
+            },
+            {
+              "language": "fr",
+              "value": "Des héros se lancent dans une quête pour vaincre un illager corrompu et libérer les villages de son oppression."
+            },
+            {
+              "language": "en",
+              "value": "Heroes embark on a quest to defeat a corrupted illager and liberate villages from his oppressive rule."
+            }
+          ]
+        },
+        "popularity": 0.9743050221111753,
+        "disambiguation": "2020-05-26, Mojang AB",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:art_style:qloo:stylized",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Blocky",
+            "tag_id": "urn:tag:art_style:qloo:blocky",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Colorful",
+            "tag_id": "urn:tag:art_style:qloo:colorful",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "accessible",
+            "tag_id": "urn:tag:audience:qloo:accessible",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "family-friendly",
+            "tag_id": "urn:tag:audience:qloo:family_friendly",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "loot-focused",
+            "tag_id": "urn:tag:audience:qloo:loot_focused",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "cooperative",
+            "tag_id": "urn:tag:audience:qloo:cooperative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "casual-friendly",
+            "tag_id": "urn:tag:audience:qloo:casual_friendly",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Adventurous",
+            "tag_id": "urn:tag:emotional_tone:qloo:adventurous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Light-hearted",
+            "tag_id": "urn:tag:emotional_tone:qloo:light_hearted",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Action-packed",
+            "tag_id": "urn:tag:emotional_tone:qloo:action_packed",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Local Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:local_co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Online Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:online_co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Multiplayer (Co-op)",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer_co_op_",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Loot-driven Action RPG",
+            "tag_id": "urn:tag:gameplay_type:qloo:loot_driven_action_rpg",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Dungeon Crawler",
+            "tag_id": "urn:tag:gameplay_type:qloo:dungeon_crawler",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Role-Playing",
+            "tag_id": "urn:tag:genre:qloo:role_playing",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Action-Adventure",
+            "tag_id": "urn:tag:genre:qloo:action_adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Dungeon Crawler",
+            "tag_id": "urn:tag:genre:qloo:dungeon_crawler",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PC (Windows)",
+            "tag_id": "urn:tag:platform:qloo:pc_windows_",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Nintendo Switch",
+            "tag_id": "urn:tag:platform:qloo:nintendo_switch",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series X/S",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_x_s",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player and multiplayer (local and online co-op, up to 4 players)",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_and_multiplayer_local_and_online_co_op_up_to_4_players_",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual / Accessible",
+            "tag_id": "urn:tag:skill_level:qloo:casual_accessible",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:category:qloo:co_op",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action RPG",
+            "tag_id": "urn:tag:category:qloo:action_rpg",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Dungeon Crawler",
+            "tag_id": "urn:tag:category:qloo:dungeon_crawler",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Loot",
+            "tag_id": "urn:tag:category:qloo:loot",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Local Co-Op",
+            "tag_id": "urn:tag:category:qloo:local_co_op",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Family Friendly",
+            "tag_id": "urn:tag:category:qloo:family_friendly",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:category:qloo:adventure",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Minecraft: Pocket Edition",
+        "entity_id": "C85C011A-4541-40BB-89D0-983B6E9A0478",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "",
+          "description": "Minecraft: Pocket Edition is the mobile edition of Minecraft that brings the core sandbox experience to iPhone and iPad: explore procedurally generated block worlds, gather and craft resources, build structures, and play solo or with friends over local wireless. The mobile release focuses on creative building and survival gameplay in a compact, touch-friendly package.",
+          "developer": "Mojang AB",
+          "external": {
+            "metacritic": {
+              "critic_rating": 53,
+              "id": "1400131019"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/C85C011A-4541-40BB-89D0-983B6E9A0478-420x-auto.jpg"
+          },
+          "platforms": [
+            "iOS (iPhone)",
+            "iOS (iPad)"
+          ],
+          "publisher": "Mojang AB",
+          "release_date": "2011-11-17",
+          "release_year": 2011,
+          "short_description": "Create, explore, and survive in procedurally generated block worlds—build structures, craft tools, and play alone or with friends on the go.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Erstelle und erkunde endlose Welten unterwegs, baue mit Freunden alles Vorstellbare aus verschiedenen Blöcken."
+            },
+            {
+              "language": "es",
+              "value": "Crea y explora mundos infinitos en cualquier lugar, construyendo cualquier cosa imaginable con amigos usando varios bloques."
+            },
+            {
+              "language": "fr",
+              "value": "Créez et explorez des mondes infinis en déplacement, construisez tout ce que vous imaginez avec des amis en utilisant divers blocs."
+            },
+            {
+              "language": "en",
+              "value": "Create and explore endless worlds on the go, building anything imaginable with friends using various blocks."
+            }
+          ]
+        },
+        "popularity": 0.9665986858265198,
+        "disambiguation": "2011-11-17, Mojang AB",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Voxel",
+            "tag_id": "urn:tag:art_style:qloo:voxel",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Blocky",
+            "tag_id": "urn:tag:art_style:qloo:blocky",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Low-resolution textures",
+            "tag_id": "urn:tag:art_style:qloo:low_resolution_textures",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Endless creativity",
+            "tag_id": "urn:tag:audience:qloo:endless_creativity",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "High replayability",
+            "tag_id": "urn:tag:audience:qloo:high_replayability",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Family-friendly",
+            "tag_id": "urn:tag:audience:qloo:family_friendly",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Community-driven",
+            "tag_id": "urn:tag:audience:qloo:community_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Procedural worlds",
+            "tag_id": "urn:tag:audience:qloo:procedural_worlds",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Creative",
+            "tag_id": "urn:tag:emotional_tone:qloo:creative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Relaxing",
+            "tag_id": "urn:tag:emotional_tone:qloo:relaxing",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Adventurous",
+            "tag_id": "urn:tag:emotional_tone:qloo:adventurous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:emotional_tone:qloo:playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Local Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:local_multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:genre:qloo:sandbox",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:genre:qloo:survival",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "iOS (iPhone)",
+            "tag_id": "urn:tag:platform:qloo:ios_iphone_",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "iOS (iPad)",
+            "tag_id": "urn:tag:platform:qloo:ios_ipad_",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "single-player and local multiplayer",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_and_local_multiplayer",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "All Ages",
+            "tag_id": "urn:tag:skill_level:qloo:all_ages",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:category:qloo:sandbox",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:category:qloo:open_world",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Building",
+            "tag_id": "urn:tag:category:qloo:building",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Survival",
+            "tag_id": "urn:tag:category:qloo:survival",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Exploration",
+            "tag_id": "urn:tag:category:qloo:exploration",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Crafting",
+            "tag_id": "urn:tag:category:qloo:crafting",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Procedural Generation",
+            "tag_id": "urn:tag:category:qloo:procedural_generation",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Family Friendly",
+            "tag_id": "urn:tag:category:qloo:family_friendly",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Minecraft Legends",
+        "entity_id": "EED7C485-397B-4A49-BF76-5686F8CCDC69",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "ماينكرافت ليجيندز"
+            },
+            {
+              "language": "cs",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "et",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "fi",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "ja",
+              "value": "マインクラフト レジェンズ"
+            },
+            {
+              "language": "ko",
+              "value": "마인크래프트 레전드"
+            },
+            {
+              "language": "pl",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "pt",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "ro",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "ru",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "sv",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "tr",
+              "value": "Minecraft Legends"
+            },
+            {
+              "language": "zh",
+              "value": "Minecraft Legends"
+            }
+          ],
+          "content_rating": "E10+",
+          "developer": "Mojang AB",
+          "external": {
+            "igdb": {
+              "id": "minecraft-legends"
+            },
+            "metacritic": {
+              "critic_rating": 71,
+              "id": "1400675253"
+            },
+            "steam": {
+              "id": "1928870"
+            },
+            "twitter": {
+              "id": "legends_game"
+            },
+            "wikidata": {
+              "id": "q112430705"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/EED7C485-397B-4A49-BF76-5686F8CCDC69-420x-auto.jpg"
+          },
+          "publisher": "Xbox Game Studios",
+          "release_date": "2023-04-18",
+          "release_year": 2023,
+          "short_descriptions": []
+        },
+        "popularity": 0.9406024601651197,
+        "disambiguation": "2023-04-18, Mojang AB"
+      }
+    ]
+  }
+}

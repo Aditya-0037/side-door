@@ -1,0 +1,3788 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Lewis Hamilton",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Lewis Hamilton",
+        "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "z",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "لیوس ہیملٹن"
+            },
+            {
+              "language": "r",
+              "value": "لیوس ہیملٹن"
+            },
+            {
+              "language": "j",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "लुइस हॅमिल्टन"
+            },
+            {
+              "language": "r",
+              "value": "लुइस हॅमिल्टन"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "j",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Льюіс Хэмілтан"
+            },
+            {
+              "language": "e",
+              "value": "Льюіс Хэмілтан"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Гемілтон Льюїс Карл"
+            },
+            {
+              "language": "k",
+              "value": "Гемілтон Льюїс Карл"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Льюис Хэмилтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюис Хэмилтон"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Луис Хамилтън"
+            },
+            {
+              "language": "g",
+              "value": "Луис Хамилтън"
+            },
+            {
+              "language": "a",
+              "value": "لويس هاملتون"
+            },
+            {
+              "language": "r",
+              "value": "لويس هاملتون"
+            },
+            {
+              "language": "z",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "ლუის ჰემილტონი"
+            },
+            {
+              "language": "a",
+              "value": "ლუის ჰემილტონი"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Льюїс Гамільтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюїс Гамільтон"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Луїс Хемілтон"
+            },
+            {
+              "language": "k",
+              "value": "Луїс Хемілтон"
+            },
+            {
+              "language": "s",
+              "value": "Луис Хамилтон"
+            },
+            {
+              "language": "r",
+              "value": "Луис Хамилтон"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "Hamilton vs Vettel"
+            },
+            {
+              "language": "t",
+              "value": "Hamilton vs Vettel"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Carl Davidson Larbalestier Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Carl Davidson Larbalestier Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Hamilton"
+            },
+            {
+              "language": "y",
+              "value": "Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Sir Lewis Carl Davidson Larbalestier Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Larbalestier Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Хэмилтон, Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Хэмилтон, Льюис"
+            },
+            {
+              "language": "m",
+              "value": "Льюис Хамилтон"
+            },
+            {
+              "language": "n",
+              "value": "Льюис Хамилтон"
+            },
+            {
+              "language": "p",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "z",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Hammertime"
+            },
+            {
+              "language": "a",
+              "value": "Hammertime"
+            },
+            {
+              "language": "z",
+              "value": "劉易斯·咸美頓"
+            },
+            {
+              "language": "h",
+              "value": "劉易斯·咸美頓"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "लुईस हैमिल्टन"
+            },
+            {
+              "language": "i",
+              "value": "लुईस हैमिल्टन"
+            },
+            {
+              "language": "b",
+              "value": "লুইস হ্যামিল্টন"
+            },
+            {
+              "language": "n",
+              "value": "লুইস হ্যামিল্টন"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Луїс Гамілтон"
+            },
+            {
+              "language": "k",
+              "value": "Луїс Гамілтон"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "ลูวิส แฮมิลตัน"
+            },
+            {
+              "language": "h",
+              "value": "ลูวิส แฮมิลตัน"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "z",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "y",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Льюис Хэмилтон"
+            },
+            {
+              "language": "u",
+              "value": "Льюис Хэмилтон"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Льюіс Гамільтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюіс Гамільтон"
+            },
+            {
+              "language": "d",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "g",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Carl Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Carl Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "y",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Ham"
+            },
+            {
+              "language": "y",
+              "value": "Ham"
+            },
+            {
+              "language": "t",
+              "value": "లెవీస్ హామిల్టన్"
+            },
+            {
+              "language": "e",
+              "value": "లెవీస్ హామిల్టన్"
+            },
+            {
+              "language": "j",
+              "value": "ルイス・ハミルトン"
+            },
+            {
+              "language": "a",
+              "value": "ルイス・ハミルトン"
+            },
+            {
+              "language": "e",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Luis Hemilton"
+            },
+            {
+              "language": "z",
+              "value": "Luis Hemilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Sir Lewis Carl Davidson Hamilton Larbalestier"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton Larbalestier"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Луїс Гамільтон"
+            },
+            {
+              "language": "k",
+              "value": "Луїс Гамільтон"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Carl Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Carl Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Льюїс Карл Хемілтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюїс Карл Хемілтон"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "لوییس همیلتون"
+            },
+            {
+              "language": "a",
+              "value": "لوییس همیلتون"
+            },
+            {
+              "language": "h",
+              "value": "לואיס המילטון"
+            },
+            {
+              "language": "e",
+              "value": "לואיס המילטון"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "q",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Sir Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "y",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Гемілтон Льюїс"
+            },
+            {
+              "language": "k",
+              "value": "Гемілтон Льюїс"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Hamilton"
+            },
+            {
+              "language": "p",
+              "value": "ਲੂਇਸ ਹੈਮਿਲਟਨ"
+            },
+            {
+              "language": "a",
+              "value": "ਲੂਇਸ ਹੈਮਿਲਟਨ"
+            },
+            {
+              "language": "k",
+              "value": "루이스 해밀턴"
+            },
+            {
+              "language": "o",
+              "value": "루이스 해밀턴"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "w",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "Луис Хамилтон"
+            },
+            {
+              "language": "k",
+              "value": "Луис Хамилтон"
+            },
+            {
+              "language": "l",
+              "value": "Luiss Hamiltons"
+            },
+            {
+              "language": "v",
+              "value": "Luiss Hamiltons"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Λιούις Χάμιλτον"
+            },
+            {
+              "language": "l",
+              "value": "Λιούις Χάμιλτον"
+            },
+            {
+              "language": "m",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "k",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "y",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Carl Davidson Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Льюїс Хемілтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюїс Хемілтон"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "லெவிஸ் ஹாமில்டன்"
+            },
+            {
+              "language": "a",
+              "value": "லெவிஸ் ஹாமில்டன்"
+            },
+            {
+              "language": "o",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Хемілтон Льюїс"
+            },
+            {
+              "language": "k",
+              "value": "Хемілтон Льюїс"
+            },
+            {
+              "language": "u",
+              "value": "Льюїс Гемілтон"
+            },
+            {
+              "language": "k",
+              "value": "Льюїс Гемілтон"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "lewishamilton"
+            },
+            "twitter": {
+              "id": "LewisHamilton"
+            },
+            "imdb": {
+              "id": "nm2619894"
+            },
+            "library_of_congress": {
+              "id": "no2008012823"
+            },
+            "musicbrainz": {
+              "id": "bdcee3ca-0bd2-46a9-b029-95ccc8c507b1"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1985-01-07",
+          "image": {
+            "url": "https://images.qloo.com/i/FD681F02-1EA5-4E8F-B036-3C93D80B81E7-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "lifestyle": [
+            "veganism"
+          ],
+          "sport": [
+            "auto racing",
+            "Formula One racing",
+            "kart racing"
+          ],
+          "member_of_sports_team": [
+            "Mercedes F1 Team",
+            "McLaren"
+          ],
+          "short_description": "British racing driver"
+        },
+        "popularity": 0.9977658429458258,
+        "disambiguation": "1985-01-07",
+        "tags": [
+          {
+            "name": "Formula One World Drivers Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions"
+          },
+          {
+            "name": "English People Of Grenadian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_grenadian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_grenadian_descent"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Lewis Hamilton",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lewis_hamilton",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lewis_hamilton"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "English Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers"
+          },
+          {
+            "name": "Sportspeople Awarded Knighthoods",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_awarded_knighthoods",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_awarded_knighthoods"
+          },
+          {
+            "name": "English Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_roman_catholics"
+          },
+          {
+            "name": "Denver Broncos Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:denver_broncos_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:denver_broncos_owners"
+          },
+          {
+            "name": "Members Of The Order Of The British Empire",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:members_order_british_empire",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:members_order_british_empire"
+          },
+          {
+            "name": "German Formula Renault 2.0 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_formula_renault_2_0_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_formula_renault_2_0_drivers"
+          },
+          {
+            "name": "Brdc Gold Star Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brdc_gold_star_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brdc_gold_star_winners"
+          },
+          {
+            "name": "English Male Karateka",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_karateka",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_karateka"
+          },
+          {
+            "name": "Bbc Sports Personality Of The Year Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bbc_sports_personality_year_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bbc_sports_personality_year_winners"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Sportspeople From Stevenage",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_stevenage",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_stevenage"
+          },
+          {
+            "name": "Motorsport Team Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:motorsport_team_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:motorsport_team_owners"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Honorary Fellows Of The Royal Academy Of Engineering",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:honorary_fellows_royal_academy_engineering",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:honorary_fellows_royal_academy_engineering"
+          },
+          {
+            "name": "Gp2 Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_series_champions"
+          },
+          {
+            "name": "British Formula Renault 2.0 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers"
+          },
+          {
+            "name": "British Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_catholics"
+          },
+          {
+            "name": "Segrave Trophy Recipients",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segrave_trophy_recipients",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segrave_trophy_recipients"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "English Humanitarians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_humanitarians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_humanitarians"
+          },
+          {
+            "name": "English Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_racing_drivers"
+          },
+          {
+            "name": "Sportspeople Of Grenadian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_grenadian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_grenadian_descent"
+          },
+          {
+            "name": "English Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_philanthropists"
+          },
+          {
+            "name": "Formula 3 Euro Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_champions"
+          },
+          {
+            "name": "Manor Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manor_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manor_motorsport_drivers"
+          },
+          {
+            "name": "Formula 3 Euro Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers"
+          },
+          {
+            "name": "Denver Broncos Personnel",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:denver_broncos_personnel",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:denver_broncos_personnel"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "Art Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers"
+          },
+          {
+            "name": "Gp2 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "English Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Mercedes-benz Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mercedes_benz_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mercedes_benz_formula_one_drivers"
+          },
+          {
+            "name": "Black British Sportsmen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:black_british_sportsmen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:black_british_sportsmen"
+          },
+          {
+            "name": "People Named In The Paradise Papers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_named_in_paradise_papers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_named_in_paradise_papers"
+          },
+          {
+            "name": "English Human Rights Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_human_rights_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_human_rights_activists"
+          },
+          {
+            "name": "Knights Bachelor",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:knights_bachelor",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:knights_bachelor"
+          },
+          {
+            "name": "Black Lives Matter People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:black_lives_matter_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:black_lives_matter_people"
+          },
+          {
+            "name": "English Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Engvarb From May 2023",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2023",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2023"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Hamilton",
+        "entity_id": "25C40722-5523-4A4D-BF2A-B484B708CCF1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "Люис Ҳамилтон"
+            },
+            {
+              "language": "g",
+              "value": "Люис Ҳамилтон"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Emmanuel Hamilton"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Emmanuel Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Emmanuel Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Emmanuel Hamilton"
+            },
+            {
+              "language": "t",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "d",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "e",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Lewis Hamilton (cầu thủ bóng đá)"
+            },
+            {
+              "language": "i",
+              "value": "Lewis Hamilton (cầu thủ bóng đá)"
+            },
+            {
+              "language": "c",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "a",
+              "value": "لويس هاميلتون"
+            },
+            {
+              "language": "r",
+              "value": "لويس هاميلتون"
+            },
+            {
+              "language": "b",
+              "value": "লুইস হ্যামিল্টন"
+            },
+            {
+              "language": "n",
+              "value": "লুইস হ্যামিল্টন"
+            },
+            {
+              "language": "h",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "u",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "f",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "r",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1984-11-21",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Horsham F.C.",
+            "Queens Park Rangers F.C.",
+            "Tonbridge Angels F.C.",
+            "Lewes F.C.",
+            "Aldershot Town F.C."
+          ],
+          "short_description": "English footballer (born 1984)"
+        },
+        "disambiguation": "1984-11-21",
+        "tags": [
+          {
+            "name": "Horsham F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:horsham_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:horsham_f_c_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Queens Park Rangers F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:queens_park_rangers_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:queens_park_rangers_f_c_players"
+          },
+          {
+            "name": "Lewes F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lewes_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lewes_f_c_players"
+          },
+          {
+            "name": "Derby County F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:derby_county_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:derby_county_f_c_players"
+          },
+          {
+            "name": "Footballers From Derby",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_derby",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_derby"
+          },
+          {
+            "name": "National League (english Football) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_league_english_football_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_league_english_football_players"
+          },
+          {
+            "name": "Aldershot Town F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aldershot_town_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aldershot_town_f_c_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Tonbridge Angels F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tonbridge_angels_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tonbridge_angels_f_c_players"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "English Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_football_league_players"
+          },
+          {
+            "name": "Mens Association Football Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Hamilton",
+        "entity_id": "46EB44DD-47E3-4179-963E-1544BCEF5115",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton"
+            },
+            {
+              "language": "b",
+              "value": "লুইস হ্যামিল্টন"
+            },
+            {
+              "language": "n",
+              "value": "লুইস হ্যামিল্টন"
+            }
+          ],
+          "external": {},
+          "gender": [
+            "male"
+          ],
+          "short_description": "Irish Anglican priest"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Christian Clergy From County Fermanagh",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:christian_clergy_from_county_fermanagh",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:christian_clergy_from_county_fermanagh"
+          },
+          {
+            "name": "People From Enniskillen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_enniskillen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_enniskillen"
+          },
+          {
+            "name": "Irish Anglican Clergy Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:irish_anglican_clergy_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:irish_anglican_clergy_stubs"
+          },
+          {
+            "name": "Deans Of Elphin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deans_elphin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deans_elphin"
+          },
+          {
+            "name": "Archdeacons Of Elphin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:archdeacons_elphin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:archdeacons_elphin"
+          },
+          {
+            "name": "18th-century Irish Anglican Priests",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:18th_century_irish_anglican_priests",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:18th_century_irish_anglican_priests"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "C. S. Lewis",
+        "entity_id": "EC41DFD4-0FF3-42AF-B1C7-935175E98FF0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "سي. إس. لويس"
+            },
+            {
+              "language": "r",
+              "value": "سي. إس. لويس"
+            },
+            {
+              "language": "o",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "r",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "h",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "j",
+              "value": "C・S・ルイス"
+            },
+            {
+              "language": "a",
+              "value": "C・S・ルイス"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "q",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "z",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "y",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "q",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "d",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Клайв Стэйплс Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Стэйплс Льюис"
+            },
+            {
+              "language": "t",
+              "value": "ซี. เอส. ลิวอิส"
+            },
+            {
+              "language": "h",
+              "value": "ซี. เอส. ลิวอิส"
+            },
+            {
+              "language": "g",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "Клайв Стэйплз Льюіс"
+            },
+            {
+              "language": "e",
+              "value": "Клайв Стэйплз Льюіс"
+            },
+            {
+              "language": "n",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "n",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "d",
+              "value": "Clive Staple Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staple Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Клайв Люис"
+            },
+            {
+              "language": "g",
+              "value": "Клайв Люис"
+            },
+            {
+              "language": "r",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "n",
+              "value": "सि. यस. लिविस्"
+            },
+            {
+              "language": "e",
+              "value": "सि. यस. लिविस्"
+            },
+            {
+              "language": "c",
+              "value": "Clive Hamilton"
+            },
+            {
+              "language": "s",
+              "value": "Clive Hamilton"
+            },
+            {
+              "language": "m",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Klaivas Steplesas Lujis"
+            },
+            {
+              "language": "t",
+              "value": "Klaivas Steplesas Lujis"
+            },
+            {
+              "language": "e",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "m",
+              "value": "सी.एस. लुईस"
+            },
+            {
+              "language": "r",
+              "value": "सी.एस. लुईस"
+            },
+            {
+              "language": "k",
+              "value": "Клайв Стайплс Луис"
+            },
+            {
+              "language": "k",
+              "value": "Клайв Стайплс Луис"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "z",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "m",
+              "value": "Клајв Луис"
+            },
+            {
+              "language": "k",
+              "value": "Клајв Луис"
+            },
+            {
+              "language": "o",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "o",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "j",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "y",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "u",
+              "value": "سی ایس لوئس"
+            },
+            {
+              "language": "r",
+              "value": "سی ایس لوئس"
+            },
+            {
+              "language": "h",
+              "value": "ק. ס. לואיס"
+            },
+            {
+              "language": "e",
+              "value": "ק. ס. לואיס"
+            },
+            {
+              "language": "r",
+              "value": "Льюис, Клайв Стейплс"
+            },
+            {
+              "language": "u",
+              "value": "Льюис, Клайв Стейплс"
+            },
+            {
+              "language": "m",
+              "value": "Клајв Стејплс Луис"
+            },
+            {
+              "language": "k",
+              "value": "Клајв Стејплс Луис"
+            },
+            {
+              "language": "c",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "y",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "p",
+              "value": "سي. اس. لوئیس"
+            },
+            {
+              "language": "s",
+              "value": "سي. اس. لوئیس"
+            },
+            {
+              "language": "d",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "เอ็น. ดับเบิลยู. คลาร์ค"
+            },
+            {
+              "language": "h",
+              "value": "เอ็น. ดับเบิลยู. คลาร์ค"
+            },
+            {
+              "language": "p",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "m",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "z",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Lewis"
+            },
+            {
+              "language": "n",
+              "value": "Clive Lewis"
+            },
+            {
+              "language": "t",
+              "value": "ไคลฟ์ แฮมิลตัน"
+            },
+            {
+              "language": "h",
+              "value": "ไคลฟ์ แฮมิลตัน"
+            },
+            {
+              "language": "p",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "z",
+              "value": "克利夫·史戴普·路易斯"
+            },
+            {
+              "language": "h",
+              "value": "克利夫·史戴普·路易斯"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "c",
+              "value": "Jack Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Jack Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "k",
+              "value": "N. W. 클러크"
+            },
+            {
+              "language": "o",
+              "value": "N. W. 클러크"
+            },
+            {
+              "language": "t",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "CS Lewis"
+            },
+            {
+              "language": "n",
+              "value": "CS Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Клайв Стейплз Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Стейплз Льюис"
+            },
+            {
+              "language": "h",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "ไคลฟ์ สเตเปิลส์ ลิวอิส"
+            },
+            {
+              "language": "h",
+              "value": "ไคลฟ์ สเตเปิลส์ ลิวอิส"
+            },
+            {
+              "language": "k",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "w",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "q",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "h",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "w",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Стейплз Льюїс"
+            },
+            {
+              "language": "k",
+              "value": "Клайв Стейплз Льюїс"
+            },
+            {
+              "language": "p",
+              "value": "ਸੀ ਐਸ ਲੂਇਸ"
+            },
+            {
+              "language": "a",
+              "value": "ਸੀ ਐਸ ਲੂਇਸ"
+            },
+            {
+              "language": "c",
+              "value": "N. W. Clerk"
+            },
+            {
+              "language": "s",
+              "value": "N. W. Clerk"
+            },
+            {
+              "language": "q",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "u",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "p",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "p",
+              "value": "C S Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C S Lewis"
+            },
+            {
+              "language": "s",
+              "value": "K. С. Луис"
+            },
+            {
+              "language": "r",
+              "value": "K. С. Луис"
+            },
+            {
+              "language": "r",
+              "value": "К. С. Льюис"
+            },
+            {
+              "language": "u",
+              "value": "К. С. Льюис"
+            },
+            {
+              "language": "m",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "d",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "j",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "z",
+              "value": "C·S·路易斯"
+            },
+            {
+              "language": "h",
+              "value": "C·S·路易斯"
+            },
+            {
+              "language": "h",
+              "value": "ק.ס. לואיס"
+            },
+            {
+              "language": "e",
+              "value": "ק.ס. לואיס"
+            },
+            {
+              "language": "b",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Клайв Льюис"
+            },
+            {
+              "language": "t",
+              "value": "Клайв Льюис"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "v",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "z",
+              "value": "魯益師"
+            },
+            {
+              "language": "h",
+              "value": "魯益師"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "h",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "u",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "o",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "c",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "ክላይቭ ሉዊስ"
+            },
+            {
+              "language": "m",
+              "value": "ክላይቭ ሉዊስ"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "o",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Klaivs Steiplss Lūiss"
+            },
+            {
+              "language": "v",
+              "value": "Klaivs Steiplss Lūiss"
+            },
+            {
+              "language": "e",
+              "value": "N. W. Clerk"
+            },
+            {
+              "language": "n",
+              "value": "N. W. Clerk"
+            },
+            {
+              "language": "i",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "m",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Κλάιβ Στέιπλς Λιούις"
+            },
+            {
+              "language": "l",
+              "value": "Κλάιβ Στέιπλς Λιούις"
+            },
+            {
+              "language": "b",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "g",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "d",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "h",
+              "value": "קלייב סטפלס לואיס"
+            },
+            {
+              "language": "e",
+              "value": "קלייב סטפלס לואיס"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "h",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "Клайв Стейпълс Луис"
+            },
+            {
+              "language": "g",
+              "value": "Клайв Стейпълс Луис"
+            },
+            {
+              "language": "p",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "t",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "k",
+              "value": "კლაივ ლუისი"
+            },
+            {
+              "language": "a",
+              "value": "კლაივ ლუისი"
+            },
+            {
+              "language": "p",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "k",
+              "value": "클라이브 스테이플스 루이스"
+            },
+            {
+              "language": "o",
+              "value": "클라이브 스테이플스 루이스"
+            },
+            {
+              "language": "a",
+              "value": "Klayv Steyplz Lyuis"
+            },
+            {
+              "language": "z",
+              "value": "Klayv Steyplz Lyuis"
+            },
+            {
+              "language": "g",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "m",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "k",
+              "value": "К. С. Луис"
+            },
+            {
+              "language": "d",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Клайв Стейплс Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Стейплс Льюис"
+            },
+            {
+              "language": "k",
+              "value": "C. S. 루이스"
+            },
+            {
+              "language": "o",
+              "value": "C. S. 루이스"
+            },
+            {
+              "language": "f",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "y",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "ไคลฟ์ ลิวอิส"
+            },
+            {
+              "language": "h",
+              "value": "ไคลฟ์ ลิวอิส"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "k",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Клайв Стэйплз Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Стэйплз Льюис"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "k",
+              "value": "Клайв Стейплс Льюис"
+            },
+            {
+              "language": "y",
+              "value": "Клайв Стейплс Льюис"
+            },
+            {
+              "language": "l",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "f",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "k",
+              "value": "클라이브 해밀턴"
+            },
+            {
+              "language": "o",
+              "value": "클라이브 해밀턴"
+            },
+            {
+              "language": "j",
+              "value": "C.S.Lewis"
+            },
+            {
+              "language": "v",
+              "value": "C.S.Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Hamilton"
+            },
+            {
+              "language": "n",
+              "value": "Clive Hamilton"
+            },
+            {
+              "language": "v",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "k",
+              "value": "К. С. Лүис"
+            },
+            {
+              "language": "y",
+              "value": "К. С. Лүис"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "d",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "k",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "l",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Κ. Σ. Λιούις"
+            },
+            {
+              "language": "l",
+              "value": "Κ. Σ. Λιούις"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Льюис, Клайв"
+            },
+            {
+              "language": "u",
+              "value": "Льюис, Клайв"
+            },
+            {
+              "language": "f",
+              "value": "سی. اس. لوئیس"
+            },
+            {
+              "language": "a",
+              "value": "سی. اس. لوئیس"
+            },
+            {
+              "language": "w",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "o",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "d",
+              "value": "Clive S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "k",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "w",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "n",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "r",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "Counter Strike Lewis"
+            },
+            {
+              "language": "y",
+              "value": "Counter Strike Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "q",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "r",
+              "value": "Клайв Льюис"
+            },
+            {
+              "language": "u",
+              "value": "Клайв Льюис"
+            },
+            {
+              "language": "k",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "w",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "i",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "a",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "h",
+              "value": "Քլայվ Սթեյփլս Լյուիս"
+            },
+            {
+              "language": "y",
+              "value": "Քլայվ Սթեյփլս Լյուիս"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "n",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "m",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "f",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "g",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "l",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "c",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "b",
+              "value": "সি. এস. লিউইস"
+            },
+            {
+              "language": "n",
+              "value": "সি. এস. লিউইস"
+            },
+            {
+              "language": "c",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "f",
+              "value": "C.S. Lewis"
+            },
+            {
+              "language": "i",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "s",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "e",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "s",
+              "value": "Clive Staples Lewis"
+            },
+            {
+              "language": "h",
+              "value": "Clive S. Lewis"
+            },
+            {
+              "language": "u",
+              "value": "Clive S. Lewis"
+            },
+            {
+              "language": "a",
+              "value": "K.S. Luis"
+            },
+            {
+              "language": "z",
+              "value": "K.S. Luis"
+            },
+            {
+              "language": "e",
+              "value": "C. S. Lewis"
+            },
+            {
+              "language": "t",
+              "value": "C. S. Lewis"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "1069006"
+            },
+            "imdb": {
+              "id": "nm0507000"
+            },
+            "library_of_congress": {
+              "id": "n79003974"
+            },
+            "goodreads_author": {
+              "id": "1069006"
+            },
+            "musicbrainz": {
+              "id": "fad434cc-5fae-411c-918e-096f1adfa37d"
+            }
+          },
+          "child": [
+            "Douglas Gresham",
+            "David Gresham"
+          ],
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1898-11-29",
+          "date_of_death": "1963-11-22",
+          "image": {
+            "url": "https://images.qloo.com/i/EC41DFD4-0FF3-42AF-B1C7-935175E98FF0-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "influenced_by": [
+            "John Milton",
+            "J. R. R. Tolkien",
+            "Joseph Butler",
+            "Evelyn Underhill",
+            "H. G. Wells",
+            "William Morris",
+            "Arthur Balfour",
+            "Beatrix Potter",
+            "Aristotle",
+            "G. K. Chesterton",
+            "Geoffrey Chaucer",
+            "Thomas Traherne",
+            "William Butler Yeats",
+            "Dante Alighieri",
+            "Edward Plunkett, 18th Baron of Dunsany",
+            "Edith Nesbit",
+            "William Blake",
+            "H. Rider Haggard",
+            "Plato",
+            "George MacDonald"
+          ],
+          "notable_work": [
+            "Mere Christianity",
+            "The Chronicles of Narnia",
+            "Surprised by Joy",
+            "The Screwtape Letters",
+            "Till We Have Faces",
+            "The Space Trilogy",
+            "Fern-seed and elephants and other essays on Christianity"
+          ],
+          "spouse": [
+            "Joy Davidman"
+          ],
+          "work_period_start": "1919-01-01",
+          "short_description": "British writer, lay theologian and scholar (1898–1963)"
+        },
+        "popularity": 0.7377773670649374,
+        "disambiguation": "1898-11-29",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "Novelist",
+            "tag_id": "urn:tag:occupation:person:novelist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:novelist"
+          },
+          {
+            "name": "Childrens Writer",
+            "tag_id": "urn:tag:occupation:person:childrens_writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:childrens_writer"
+          },
+          {
+            "name": "Autobiographer",
+            "tag_id": "urn:tag:occupation:person:autobiographer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:autobiographer"
+          },
+          {
+            "name": "Christianity",
+            "tag_id": "urn:tag:genre:media:media:christianity",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:christianity"
+          },
+          {
+            "name": "Poet",
+            "tag_id": "urn:tag:occupation:person:poet",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:poet"
+          },
+          {
+            "name": "Faith",
+            "tag_id": "urn:tag:genre:media:media:faith",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:faith"
+          },
+          {
+            "name": "Nonfiction",
+            "tag_id": "urn:tag:genre:media:media:nonfiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:nonfiction"
+          },
+          {
+            "name": "Religion",
+            "tag_id": "urn:tag:genre:media:media:religion",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:religion"
+          },
+          {
+            "name": "Literary Scholar",
+            "tag_id": "urn:tag:occupation:person:literary_scholar",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:literary_scholar"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Literary Historian",
+            "tag_id": "urn:tag:occupation:person:literary_historian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:literary_historian"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Philosopher",
+            "tag_id": "urn:tag:occupation:person:philosopher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:philosopher"
+          },
+          {
+            "name": "Broadcaster",
+            "tag_id": "urn:tag:occupation:person:broadcaster",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:broadcaster"
+          },
+          {
+            "name": "Man Of Letters",
+            "tag_id": "urn:tag:occupation:person:man_letters",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:man_letters"
+          },
+          {
+            "name": "Classics",
+            "tag_id": "urn:tag:genre:media:media:classics",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:classics"
+          },
+          {
+            "name": "Philosophy",
+            "tag_id": "urn:tag:genre:media:media:philosophy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:philosophy"
+          },
+          {
+            "name": "Science Fiction Writer",
+            "tag_id": "urn:tag:occupation:person:science_fiction_writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:science_fiction_writer"
+          },
+          {
+            "name": "Linguist",
+            "tag_id": "urn:tag:occupation:person:linguist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:linguist"
+          },
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Christian",
+            "tag_id": "urn:tag:genre:media:media:christian",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:christian"
+          },
+          {
+            "name": "Literary Critic",
+            "tag_id": "urn:tag:occupation:person:literary_critic",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:literary_critic"
+          },
+          {
+            "name": "Theologian",
+            "tag_id": "urn:tag:occupation:person:theologian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:theologian"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Theology",
+            "tag_id": "urn:tag:genre:media:media:theology",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:theology"
+          },
+          {
+            "name": "Essayist",
+            "tag_id": "urn:tag:occupation:person:essayist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:essayist"
+          },
+          {
+            "name": "Medievalist",
+            "tag_id": "urn:tag:occupation:person:medievalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:medievalist"
+          },
+          {
+            "name": "Philologist",
+            "tag_id": "urn:tag:occupation:person:philologist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:philologist"
+          }
+        ]
+      },
+      {
+        "name": "Lewis Hamilton Redfield",
+        "entity_id": "AE29C6CF-6A2B-457B-9F09-4171A0B3F566",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "L. H. Redfield"
+            },
+            {
+              "language": "n",
+              "value": "L. H. Redfield"
+            },
+            {
+              "language": "s",
+              "value": "Lewis Hamilton Redfield"
+            },
+            {
+              "language": "q",
+              "value": "Lewis Hamilton Redfield"
+            },
+            {
+              "language": "n",
+              "value": "Lewis Hamilton Redfield"
+            },
+            {
+              "language": "l",
+              "value": "Lewis Hamilton Redfield"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "nr2002001380"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1792-01-01",
+          "date_of_death": "1882-01-01",
+          "image": {
+            "url": "https://images.qloo.com/i/AE29C6CF-6A2B-457B-9F09-4171A0B3F566-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Anna Maria Redfield"
+          ],
+          "short_description": "American printer and publisher"
+        },
+        "disambiguation": "1792-01-01",
+        "tags": [
+          {
+            "name": "Publisher",
+            "tag_id": "urn:tag:occupation:person:publisher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:publisher"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Printer",
+            "tag_id": "urn:tag:occupation:person:printer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:printer"
+          }
+        ]
+      }
+    ]
+  }
+}

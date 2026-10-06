@@ -1,0 +1,1715 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Stephen Curry",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Stephen Curry",
+        "entity_id": "FEB63CEE-D890-4648-B54A-F45E176EA6D8",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "h",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "r",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "p",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "l",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stefen Karri"
+            },
+            {
+              "language": "z",
+              "value": "Stefen Karri"
+            },
+            {
+              "language": "u",
+              "value": "Стівен Каррі"
+            },
+            {
+              "language": "k",
+              "value": "Стівен Каррі"
+            },
+            {
+              "language": "r",
+              "value": "Стивен Карри"
+            },
+            {
+              "language": "u",
+              "value": "Стивен Карри"
+            },
+            {
+              "language": "b",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "m",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "g",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "s",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "z",
+              "value": "库里"
+            },
+            {
+              "language": "h",
+              "value": "库里"
+            },
+            {
+              "language": "v",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "o",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "w",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "Ստեֆեն Քարի"
+            },
+            {
+              "language": "y",
+              "value": "Ստեֆեն Քարի"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "s",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "e",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "n",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "استفن کری"
+            },
+            {
+              "language": "a",
+              "value": "استفن کری"
+            },
+            {
+              "language": "g",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "k",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "u",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "סטיבן קארי"
+            },
+            {
+              "language": "e",
+              "value": "סטיבן קארי"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Вордел Стефен Кари II"
+            },
+            {
+              "language": "r",
+              "value": "Вордел Стефен Кари II"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "c",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "y",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "v",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "i",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "u",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "z",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "c",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "t",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "s",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "r",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "סטפן קרי"
+            },
+            {
+              "language": "e",
+              "value": "סטפן קרי"
+            },
+            {
+              "language": "a",
+              "value": "ستيفن كاري"
+            },
+            {
+              "language": "r",
+              "value": "ستيفن كاري"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen \"Steph\" Curry II"
+            },
+            {
+              "language": "n",
+              "value": "Wardell Stephen \"Steph\" Curry II"
+            },
+            {
+              "language": "e",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "s",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stefens Karijs"
+            },
+            {
+              "language": "v",
+              "value": "Stefens Karijs"
+            },
+            {
+              "language": "k",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "y",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "b",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "סטיבן קורי"
+            },
+            {
+              "language": "e",
+              "value": "סטיבן קורי"
+            },
+            {
+              "language": "d",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "g",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "v",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "r",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "u",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "o",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "Стывен Кары"
+            },
+            {
+              "language": "e",
+              "value": "Стывен Кары"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "o",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "l",
+              "value": "Stīvens Karijs"
+            },
+            {
+              "language": "v",
+              "value": "Stīvens Karijs"
+            },
+            {
+              "language": "k",
+              "value": "სტეფან კარი"
+            },
+            {
+              "language": "a",
+              "value": "სტეფან კარი"
+            },
+            {
+              "language": "c",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "a",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "r",
+              "value": "Карри, Стивен"
+            },
+            {
+              "language": "u",
+              "value": "Карри, Стивен"
+            },
+            {
+              "language": "z",
+              "value": "斯蒂芬·克里"
+            },
+            {
+              "language": "h",
+              "value": "斯蒂芬·克里"
+            },
+            {
+              "language": "v",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "স্টেফেন কারি"
+            },
+            {
+              "language": "n",
+              "value": "স্টেফেন কারি"
+            },
+            {
+              "language": "h",
+              "value": "סטפון קארי"
+            },
+            {
+              "language": "e",
+              "value": "סטפון קארי"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "m",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "סטפן קורי"
+            },
+            {
+              "language": "e",
+              "value": "סטפן קורי"
+            },
+            {
+              "language": "f",
+              "value": "استف کری"
+            },
+            {
+              "language": "a",
+              "value": "استف کری"
+            },
+            {
+              "language": "h",
+              "value": "स्टेफेन करी"
+            },
+            {
+              "language": "i",
+              "value": "स्टेफेन करी"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "n",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "s",
+              "value": "Стефен Кари"
+            },
+            {
+              "language": "r",
+              "value": "Стефен Кари"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "v",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "d",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "k",
+              "value": "스테판 커리"
+            },
+            {
+              "language": "o",
+              "value": "스테판 커리"
+            },
+            {
+              "language": "s",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "w",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "స్టీఫెన్ కర్రీ"
+            },
+            {
+              "language": "e",
+              "value": "స్టీఫెన్ కర్రీ"
+            },
+            {
+              "language": "z",
+              "value": "史提芬·居里"
+            },
+            {
+              "language": "h",
+              "value": "史提芬·居里"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "j",
+              "value": "ステフィン・カリー"
+            },
+            {
+              "language": "a",
+              "value": "ステフィン・カリー"
+            },
+            {
+              "language": "h",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "r",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "a",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "n",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "m",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "n",
+              "value": "Стефен Карри"
+            },
+            {
+              "language": "z",
+              "value": "史蒂芬·柯瑞"
+            },
+            {
+              "language": "h",
+              "value": "史蒂芬·柯瑞"
+            },
+            {
+              "language": "b",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "s",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "p",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "z",
+              "value": "沃德尔·斯蒂芬·库里 二世"
+            },
+            {
+              "language": "h",
+              "value": "沃德尔·斯蒂芬·库里 二世"
+            },
+            {
+              "language": "i",
+              "value": "Wardell Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Wardell Stephen Curry"
+            },
+            {
+              "language": "h",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Стеф Кари"
+            },
+            {
+              "language": "r",
+              "value": "Стеф Кари"
+            },
+            {
+              "language": "m",
+              "value": "Стефен Кари"
+            },
+            {
+              "language": "k",
+              "value": "Стефен Кари"
+            },
+            {
+              "language": "e",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "u",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "j",
+              "value": "ス テ フ ァ ン ・ カ リ ー"
+            },
+            {
+              "language": "a",
+              "value": "ス テ フ ァ ン ・ カ リ ー"
+            },
+            {
+              "language": "b",
+              "value": "Стивън Къри"
+            },
+            {
+              "language": "g",
+              "value": "Стивън Къри"
+            },
+            {
+              "language": "y",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "o",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "ستيف كاري"
+            },
+            {
+              "language": "r",
+              "value": "ستيف كاري"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "r",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "s",
+              "value": "Stephen curry"
+            },
+            {
+              "language": "q",
+              "value": "Stephen curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "r",
+              "value": "Wardell Stephen Curry II"
+            },
+            {
+              "language": "e",
+              "value": "Στέφεν Κάρι"
+            },
+            {
+              "language": "l",
+              "value": "Στέφεν Κάρι"
+            },
+            {
+              "language": "h",
+              "value": "סטפון קורי"
+            },
+            {
+              "language": "e",
+              "value": "סטפון קורי"
+            },
+            {
+              "language": "z",
+              "value": "斯蒂芬·库里"
+            },
+            {
+              "language": "h",
+              "value": "斯蒂芬·库里"
+            },
+            {
+              "language": "h",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "u",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "e",
+              "value": "Steph Curry"
+            },
+            {
+              "language": "s",
+              "value": "Mchezaji wa mpira wa kikapu wa Marekani (aliyezaliwa 1984)"
+            },
+            {
+              "language": "w",
+              "value": "Mchezaji wa mpira wa kikapu wa Marekani (aliyezaliwa 1984)"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "o",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "z",
+              "value": "斯蒂芬·科里"
+            },
+            {
+              "language": "h",
+              "value": "斯蒂芬·科里"
+            },
+            {
+              "language": "h",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "p",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "josephpresley"
+            },
+            {
+              "language": "s",
+              "value": "josephpresley"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "o",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "c",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "استفان کوری"
+            },
+            {
+              "language": "a",
+              "value": "استفان کوری"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Wardell Stephen \"Steph\" Curry II"
+            },
+            {
+              "language": "w",
+              "value": "Wardell Stephen \"Steph\" Curry II"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "stephencurry30"
+            },
+            "twitter": {
+              "id": "stephencurry30"
+            },
+            "library_of_congress": {
+              "id": "no2014060072"
+            },
+            "musicbrainz": {
+              "id": "53474120-1d04-4927-9bb4-badf73ebd8e0"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1988-03-14",
+          "image": {
+            "url": "https://images.qloo.com/i/FEB63CEE-D890-4648-B54A-F45E176EA6D8-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "spouse": [
+            "Ayesha Curry"
+          ],
+          "member_of_sports_team": [
+            "Davidson Wildcats men's basketball",
+            "Golden State Warriors"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "American basketball player (born 1988)"
+        },
+        "popularity": 0.999021537056566,
+        "disambiguation": "1988-03-14",
+        "tags": [
+          {
+            "name": "American Pentecostals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_pentecostals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_pentecostals"
+          },
+          {
+            "name": "American Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_philanthropists"
+          },
+          {
+            "name": "Nba Most Valuable Player Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "2014 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Basketball Players At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics"
+          },
+          {
+            "name": "21st-century Protestants",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_protestants",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_protestants"
+          },
+          {
+            "name": "Davidson Wildcats Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:davidson_wildcats_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:davidson_wildcats_mens_basketball_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Fiba World Championship-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fiba_world_championship_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fiba_world_championship_winning_players"
+          },
+          {
+            "name": "Golden State Warriors Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:golden_state_warriors_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:golden_state_warriors_draft_picks"
+          },
+          {
+            "name": "Charlotte Christian School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:charlotte_christian_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:charlotte_christian_school_alumni"
+          },
+          {
+            "name": "United States Mens National Basketball Team Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players"
+          },
+          {
+            "name": "All-american College Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players"
+          },
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          },
+          {
+            "name": "African-american Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_christians"
+          },
+          {
+            "name": "Fiba Basketball World Cup-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fiba_basketball_world_cup_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fiba_basketball_world_cup_winning_players"
+          },
+          {
+            "name": "Shorty Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shorty_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shorty_award_winners"
+          },
+          {
+            "name": "2010 Fiba World Championship Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2010_fiba_world_championship_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2010_fiba_world_championship_players"
+          },
+          {
+            "name": "Point Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:point_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:point_guards"
+          },
+          {
+            "name": "Curry Family",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:curry_family",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:curry_family"
+          },
+          {
+            "name": "Olympic Basketball Players For The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_united_states"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "Golden State Warriors Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:golden_state_warriors_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:golden_state_warriors_players"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Curry",
+        "entity_id": "D4A82720-6ECA-4475-9292-6F630684BF8E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "স্টিভেন কারি"
+            },
+            {
+              "language": "n",
+              "value": "স্টিভেন কারি"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "Stephen_Curry"
+            }
+          },
+          "gender": [
+            "male"
+          ],
+          "short_description": "structural biologist"
+        },
+        "popularity": 0.4648786162359618,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Stephen Curry",
+        "entity_id": "9EBCE1D8-DA59-42AA-AC6E-5D018C750DA5",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "স্টিভেন কারি"
+            },
+            {
+              "language": "n",
+              "value": "স্টিভেন কারি"
+            },
+            {
+              "language": "h",
+              "value": "Սթիվեն Քերրի"
+            },
+            {
+              "language": "y",
+              "value": "Սթիվեն Քերրի"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "q",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "b",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "u",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "ستيفن كاري"
+            },
+            {
+              "language": "r",
+              "value": "ستيفن كاري"
+            },
+            {
+              "language": "t",
+              "value": "สตีเฟน เคอร์รี"
+            },
+            {
+              "language": "h",
+              "value": "สตีเฟน เคอร์รี"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry (komediant)"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry (komediant)"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "v",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "j",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "v",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "g",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "p",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "c",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "r",
+              "value": "Стефен Керри"
+            },
+            {
+              "language": "u",
+              "value": "Стефен Керри"
+            },
+            {
+              "language": "m",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "e",
+              "value": "Στίβεν Κάρι"
+            },
+            {
+              "language": "l",
+              "value": "Στίβεν Κάρι"
+            },
+            {
+              "language": "z",
+              "value": "史提芬·庫里"
+            },
+            {
+              "language": "h",
+              "value": "史提芬·庫里"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "a",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Curry"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm0193135"
+            },
+            "library_of_congress": {
+              "id": "no2009117405"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "1976-05-26",
+          "image": {
+            "url": "https://images.qloo.com/i/9EBCE1D8-DA59-42AA-AC6E-5D018C750DA5-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1992-01-01",
+          "short_description": "Australian comedian and actor"
+        },
+        "disambiguation": "1976-05-26",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Australian Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_male_television_actors"
+          },
+          {
+            "name": "Comedians From Melbourne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_melbourne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_melbourne"
+          },
+          {
+            "name": "20th-century Australian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_australian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_australian_male_actors"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Australian Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_male_film_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "21st-century Australian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_australian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_australian_male_actors"
+          },
+          {
+            "name": "Australian Sketch Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_sketch_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_sketch_comedians"
+          },
+          {
+            "name": "Aacta Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aacta_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aacta_award_winners"
+          },
+          {
+            "name": "Male Actors From Melbourne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_melbourne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_melbourne"
+          },
+          {
+            "name": "Australian Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_male_comedians"
+          },
+          {
+            "name": "Logie Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:logie_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:logie_award_winners"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          }
+        ]
+      },
+      {
+        "name": "Stephen H Curry",
+        "entity_id": "98001E63-822B-44CB-A2B2-0DEFDE06711B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "b",
+              "value": "স্টিভেন এইচ কারি"
+            },
+            {
+              "language": "n",
+              "value": "স্টিভেন এইচ কারি"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Curry"
+            },
+            {
+              "language": "n",
+              "value": "Stephen H Curry"
+            },
+            {
+              "language": "l",
+              "value": "Stephen H Curry"
+            }
+          ],
+          "external": {},
+          "short_description": "researcher"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          },
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          }
+        ]
+      },
+      {
+        "name": "StephenCurry",
+        "entity_id": "52CA876B-60AC-40B8-AFB9-9D705C8F43B9",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Kong Doo-hyeon"
+            },
+            {
+              "language": "n",
+              "value": "Kong Doo-hyeon"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "doo_curry"
+            },
+            "twitter": {
+              "id": "KORcurry"
+            }
+          },
+          "citizenship": [
+            "South Korea"
+          ],
+          "date_of_birth": "1994-06-03",
+          "sport": [
+            "esports"
+          ],
+          "short_description": "Korean progamer"
+        },
+        "disambiguation": "1994-06-03",
+        "tags": [
+          {
+            "name": "Professional Gamer",
+            "tag_id": "urn:tag:occupation:person:professional_gamer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:professional_gamer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

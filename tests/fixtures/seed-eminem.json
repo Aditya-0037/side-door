@@ -1,0 +1,414 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Eminem",
+    "take": 5,
+    "types": "urn:entity:artist"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Eminem",
+        "entity_id": "B2A31C73-792E-4400-B279-8D43E5B1367B",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "facebook": {
+              "id": "eminem"
+            },
+            "instagram": {
+              "id": "eminem"
+            },
+            "lastfm": {
+              "id": "eminem",
+              "listeners": 6948114,
+              "scrobbles": 458719594
+            },
+            "musicbrainz": {
+              "id": "9091bc03-ee73-476b-8d29-840b29388762"
+            },
+            "spotify": {
+              "id": "7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "twitter": {
+              "id": "eminem"
+            },
+            "wikidata": {
+              "id": "q5608"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/B2A31C73-792E-4400-B279-8D43E5B1367B-420x-auto.jpg"
+          },
+          "short_description": "American rapper, songwriter, and record producer known for his complex lyrics and controversial themes."
+        },
+        "popularity": 0.9999426472027017,
+        "disambiguation": "Eminem",
+        "tags": [
+          {
+            "name": "Hip - Hop",
+            "tag_id": "urn:tag:genre:hip_hop",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:hip_hop"
+          },
+          {
+            "name": "Rap",
+            "tag_id": "urn:tag:genre:rap",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:rap"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:audience:qloo:loyal",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:loyal"
+          },
+          {
+            "name": "Diverse",
+            "tag_id": "urn:tag:audience:qloo:diverse",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:diverse"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:audience:qloo:passionate",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:passionate"
+          },
+          {
+            "name": "Dedicated",
+            "tag_id": "urn:tag:audience:qloo:dedicated",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:dedicated"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:music:qloo:complex",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:complex"
+          },
+          {
+            "name": "Provocative",
+            "tag_id": "urn:tag:music:qloo:provocative",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:provocative"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:music:qloo:emotional",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:emotional"
+          },
+          {
+            "name": "Energetic",
+            "tag_id": "urn:tag:music:qloo:energetic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:energetic"
+          },
+          {
+            "name": "Raw",
+            "tag_id": "urn:tag:music:qloo:raw",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:raw"
+          },
+          {
+            "name": "Energetic",
+            "tag_id": "urn:tag:style:qloo:energetic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:energetic"
+          },
+          {
+            "name": "Intense",
+            "tag_id": "urn:tag:style:qloo:intense",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:intense"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:style:qloo:expressive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:expressive"
+          },
+          {
+            "name": "Dynamic",
+            "tag_id": "urn:tag:style:qloo:dynamic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:dynamic"
+          },
+          {
+            "name": "Provocative",
+            "tag_id": "urn:tag:characteristic:qloo:provocative",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:provocative"
+          },
+          {
+            "name": "Lyrical",
+            "tag_id": "urn:tag:characteristic:qloo:lyrical",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:lyrical"
+          },
+          {
+            "name": "Controversial",
+            "tag_id": "urn:tag:characteristic:qloo:controversial",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:controversial"
+          },
+          {
+            "name": "Complex",
+            "tag_id": "urn:tag:characteristic:qloo:complex",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:complex"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:characteristic:qloo:emotional",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:emotional"
+          },
+          {
+            "name": "Hardcore Hip Hop",
+            "tag_id": "urn:tag:style:qloo:hardcore_hip_hop",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:hardcore_hip_hop"
+          },
+          {
+            "name": "Comedy Hip Hop",
+            "tag_id": "urn:tag:style:qloo:comedy_hip_hop",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:comedy_hip_hop"
+          },
+          {
+            "name": "Gangsta Rap",
+            "tag_id": "urn:tag:style:qloo:gangsta_rap",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:gangsta_rap"
+          },
+          {
+            "name": "Pop Rap",
+            "tag_id": "urn:tag:style:qloo:pop_rap",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:pop_rap"
+          },
+          {
+            "name": "Rap Rock",
+            "tag_id": "urn:tag:style:qloo:rap_rock",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:rap_rock"
+          },
+          {
+            "name": "Hip Hop",
+            "tag_id": "urn:tag:influence:qloo:hip_hop",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:hip_hop"
+          },
+          {
+            "name": "Rap",
+            "tag_id": "urn:tag:influence:qloo:rap",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:rap"
+          },
+          {
+            "name": "Pop Rap",
+            "tag_id": "urn:tag:influence:qloo:pop_rap",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:pop_rap"
+          },
+          {
+            "name": "Dr. Dre",
+            "tag_id": "urn:tag:influenced_by:qloo:dr_dre",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:dr_dre"
+          },
+          {
+            "name": "Tupac Shakur",
+            "tag_id": "urn:tag:influenced_by:qloo:tupac_shakur",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:tupac_shakur"
+          },
+          {
+            "name": "The Notorious B.I.G.",
+            "tag_id": "urn:tag:influenced_by:qloo:the_notorious_b_i_g_",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:the_notorious_b_i_g_"
+          },
+          {
+            "name": "Nas",
+            "tag_id": "urn:tag:influenced_by:qloo:nas",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:nas"
+          },
+          {
+            "name": "Vocals",
+            "tag_id": "urn:tag:instrument:qloo:vocals",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:vocals"
+          },
+          {
+            "name": "Personal Struggle",
+            "tag_id": "urn:tag:theme:qloo:personal_struggle",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:personal_struggle"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:theme:qloo:violence",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:violence"
+          },
+          {
+            "name": "Social Issues",
+            "tag_id": "urn:tag:theme:qloo:social_issues",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:social_issues"
+          },
+          {
+            "name": "Fame",
+            "tag_id": "urn:tag:theme:qloo:fame",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:fame"
+          },
+          {
+            "name": "Addiction",
+            "tag_id": "urn:tag:theme:qloo:addiction",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:addiction"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:family"
+          },
+          {
+            "name": "Hip Hop",
+            "tag_id": "urn:tag:genre:qloo:hip_hop",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:hip_hop"
+          },
+          {
+            "name": "Rap",
+            "tag_id": "urn:tag:genre:qloo:rap",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:rap"
+          },
+          {
+            "name": "Hardcore Hip Hop",
+            "tag_id": "urn:tag:subgenre:qloo:hardcore_hip_hop",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:hardcore_hip_hop"
+          },
+          {
+            "name": "Comedy Hip Hop",
+            "tag_id": "urn:tag:subgenre:qloo:comedy_hip_hop",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:comedy_hip_hop"
+          },
+          {
+            "name": "Gangsta Rap",
+            "tag_id": "urn:tag:subgenre:qloo:gangsta_rap",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:gangsta_rap"
+          },
+          {
+            "name": "Baritone",
+            "tag_id": "urn:tag:artist:qloo:baritone",
+            "type": "urn:tag:artist:qloo",
+            "value": "urn:tag:artist:qloo:baritone"
+          }
+        ]
+      },
+      {
+        "name": "Eminem, Royce da 5'9\"",
+        "entity_id": "51D9F57F-8A9B-4E8C-8A4A-42441332833D",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/51D9F57F-8A9B-4E8C-8A4A-42441332833D-420x-auto.jpg"
+          },
+          "short_description": "American hip hop duo known for their lyrical skill and collaboration as Bad Meets Evil."
+        },
+        "popularity": 0.653673446666959,
+        "disambiguation": "Eminem, Royce da 5'9\""
+      },
+      {
+        "name": "Eminem & Jay-Z",
+        "entity_id": "E07FE33B-DF1B-49F8-8687-7C0A601C447E",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/E07FE33B-DF1B-49F8-8687-7C0A601C447E-420x-auto.jpg"
+          },
+          "short_description": "A collaborative hip hop duo consisting of Eminem and Jay-Z."
+        },
+        "popularity": 0.5836760444113073,
+        "disambiguation": "Eminem & Jay-Z"
+      },
+      {
+        "name": "Eminem, Joyner Lucas",
+        "entity_id": "E468F18B-A94B-43D9-A06A-31D2547E6BFA",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/E468F18B-A94B-43D9-A06A-31D2547E6BFA-420x-auto.jpg"
+          },
+          "short_description": "American rapper known for his complex lyrics and influential hip hop career."
+        },
+        "popularity": 0.5245115734571254,
+        "disambiguation": "Eminem, Joyner Lucas"
+      },
+      {
+        "name": "Eminem & Skylar Grey",
+        "entity_id": "58A3AFE6-A1F1-42B4-B9C8-0DA3B675DFBC",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/58A3AFE6-A1F1-42B4-B9C8-0DA3B675DFBC-420x-auto.jpg"
+          },
+          "short_description": "Collaborative music duo known for blending rap and melodic vocals."
+        },
+        "popularity": 0.5080040889170779,
+        "disambiguation": "Eminem & Skylar Grey"
+      }
+    ]
+  }
+}

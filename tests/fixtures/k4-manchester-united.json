@@ -1,0 +1,3255 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Manchester United",
+    "take": 5
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Manchester United",
+        "entity_id": "D05FCD62-1BE1-4466-9F98-94052E2C0B3B",
+        "types": [
+          "urn:entity:place"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "",
+              "value": "Manchester United, Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom"
+            }
+          ],
+          "address": "Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+          "business_rating": 4.6,
+          "description": "World-renowned English football club based at Old Trafford stadium, a historic, trophy-winning club offering stadium tours, a museum, and large matchday experiences.",
+          "external": {
+            "google_place": {
+              "id": "c69495f08b49cc49",
+              "place_id": "ChIJaX_k53Kue0gRScxJi_CVlMY"
+            }
+          },
+          "geocode": {
+            "name": "Wharfside",
+            "city": "Trafford",
+            "admin1_region": "England",
+            "admin2_region": "Greater Manchester",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "hours": {
+            "sunday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "monday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "tuesday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "wednesday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "thursday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "friday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "saturday": [
+              {
+                "closed": false,
+                "opens": "T09:00:00",
+                "closes": "T17:00:00"
+              }
+            ]
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/D05FCD62-1BE1-4466-9F98-94052E2C0B3B-420x-auto.jpg"
+          },
+          "is_closed": false,
+          "neighborhood": "Wharfside",
+          "phone": "+441616767770",
+          "price_range": {
+            "currency": "usd"
+          },
+          "website": "https://www.manutd.com/",
+          "primary_genre": {
+            "id": "urn:tag:genre:place:football_club",
+            "name": "Football club",
+            "type": "urn:tag:genre:place",
+            "akas": [
+              {
+                "language": "nl",
+                "value": "\"Voetbalclub\""
+              },
+              {
+                "language": "sr",
+                "value": "\"Фудбалски клуб\""
+              },
+              {
+                "language": "mk",
+                "value": "\"Фудбалски клуб\""
+              },
+              {
+                "language": "km",
+                "value": "\"ក្លឹបបាល់ទាត់\""
+              },
+              {
+                "language": "ar",
+                "value": "\"نادي كرة قدم\""
+              },
+              {
+                "language": "ko",
+                "value": "\"축구 클럽\""
+              },
+              {
+                "language": "pt",
+                "value": "\"Clube de futebol\""
+              },
+              {
+                "language": "pt_pt",
+                "value": "\"Clube de futebol\""
+              },
+              {
+                "language": "zh",
+                "value": "\"足球俱乐部\""
+              },
+              {
+                "language": "ca",
+                "value": "\"Club de futbol\""
+              },
+              {
+                "language": "ka",
+                "value": "\"საფეხბურთო კლუბი\""
+              },
+              {
+                "language": "lt",
+                "value": "\"Futbolo klubas\""
+              },
+              {
+                "language": "af",
+                "value": "\"Sokkerklub\""
+              },
+              {
+                "language": "da",
+                "value": "\"Fodboldklub\""
+              },
+              {
+                "language": "zh_tw",
+                "value": "\"足球俱樂部\""
+              },
+              {
+                "language": "th",
+                "value": "\"สโมสรฟุตบอล\""
+              },
+              {
+                "language": "pl",
+                "value": "\"Klub piłkarski\""
+              },
+              {
+                "language": "nb",
+                "value": "\"Fotballklubb\""
+              },
+              {
+                "language": "fi",
+                "value": "\"Jalkapalloseura\""
+              },
+              {
+                "language": "bs",
+                "value": "\"Fudbalski klub\""
+              },
+              {
+                "language": "sl",
+                "value": "\"Nogometni klub\""
+              },
+              {
+                "language": "hr",
+                "value": "\"Nogometni klub\""
+              },
+              {
+                "language": "hu",
+                "value": "\"Labdarúgóklub\""
+              },
+              {
+                "language": "sk",
+                "value": "\"Futbalový klub\""
+              },
+              {
+                "language": "hi",
+                "value": "\"फुटबॉल क्लब\""
+              },
+              {
+                "language": "ja",
+                "value": "\"サッカークラブ\""
+              },
+              {
+                "language": "my",
+                "value": "\"ဘောလုံးကလပ်\""
+              },
+              {
+                "language": "ru",
+                "value": "\"Футбольный клуб\""
+              },
+              {
+                "language": "et",
+                "value": "\"Jalgpalliklubi\""
+              },
+              {
+                "language": "bn",
+                "value": "\"ফুটবল ক্লাব\""
+              },
+              {
+                "language": "az",
+                "value": "\"Futbol klubu\""
+              },
+              {
+                "language": "sv",
+                "value": "\"Fotbollsklubb\""
+              },
+              {
+                "language": "kk",
+                "value": "\"Футбол клубы\""
+              },
+              {
+                "language": "te",
+                "value": "\"ఫుట్‌బాల్ క్లబ్\""
+              },
+              {
+                "language": "tr",
+                "value": "\"Futbol kulübü\""
+              },
+              {
+                "language": "ms",
+                "value": "\"Kelab bola sepak\""
+              },
+              {
+                "language": "bg",
+                "value": "\"Футболен клуб\""
+              },
+              {
+                "language": "sw",
+                "value": "\"Klabu ya soka\""
+              },
+              {
+                "language": "lo",
+                "value": "\"ສະໂມສອນບານເຕະ\""
+              },
+              {
+                "language": "el",
+                "value": "\"Ποδοσφαιρικός σύλλογος\""
+              },
+              {
+                "language": "sq",
+                "value": "\"Klub futbolli\""
+              },
+              {
+                "language": "ro",
+                "value": "\"Club de fotbal\""
+              },
+              {
+                "language": "he",
+                "value": "\"מועדון כדורגל\""
+              },
+              {
+                "language": "en_gb",
+                "value": "\"Football club\""
+              },
+              {
+                "language": "tl",
+                "value": "\"Football club\""
+              },
+              {
+                "language": "uk",
+                "value": "\"Футбольний клуб\""
+              },
+              {
+                "language": "cs",
+                "value": "\"Fotbalový klub\""
+              },
+              {
+                "language": "lv",
+                "value": "\"Futbola klubs\""
+              },
+              {
+                "language": "fr_ca",
+                "value": "\"Club de football\""
+              },
+              {
+                "language": "fr",
+                "value": "\"Club de football\""
+              },
+              {
+                "language": "it",
+                "value": "\"Club di calcio\""
+              },
+              {
+                "language": "vi",
+                "value": "\"Câu lạc bộ bóng đá\""
+              },
+              {
+                "language": "es",
+                "value": "\"Club de fútbol\""
+              },
+              {
+                "language": "es_ar",
+                "value": "\"Club de fútbol\""
+              },
+              {
+                "language": "es_la",
+                "value": "\"Club de fútbol\""
+              },
+              {
+                "language": "gl",
+                "value": "\"Club de fútbol\""
+              },
+              {
+                "language": "ta",
+                "value": "\"கால்பந்து கிளப்\""
+              },
+              {
+                "language": "de",
+                "value": "\"Fußballverein\""
+              },
+              {
+                "language": "eu",
+                "value": "\"Futbol kluba\""
+              },
+              {
+                "language": "id",
+                "value": "\"Klub sepak bola\""
+              }
+            ]
+          }
+        },
+        "popularity": 0.9789433977402779,
+        "disambiguation": "Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+        "location": {
+          "lat": 53.4626394,
+          "lon": -2.2919723999999997
+        },
+        "tags": [
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:historic",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:historic"
+          },
+          {
+            "name": "Culture arts",
+            "tag_id": "urn:tag:activity_type:qloo:culture_arts",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:culture_arts"
+          },
+          {
+            "name": "Wheelchair accessible entrance",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_entrance",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_entrance"
+          },
+          {
+            "name": "City center",
+            "tag_id": "urn:tag:setting:qloo:city_center",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:city_center"
+          },
+          {
+            "name": "Welcoming",
+            "tag_id": "urn:tag:ambience:qloo:welcoming",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:welcoming"
+          },
+          {
+            "name": "Salford quays",
+            "tag_id": "urn:tag:nearby_attraction:qloo:salford_quays",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:salford_quays"
+          },
+          {
+            "name": "Parking",
+            "tag_id": "urn:tag:amenity:qloo:parking",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:parking"
+          },
+          {
+            "name": "Paid street parking",
+            "tag_id": "urn:tag:parking:place:paid_street_parking",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:paid_street_parking"
+          },
+          {
+            "name": "Community engagement",
+            "tag_id": "urn:tag:interests:qloo:community_engagement",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:community_engagement"
+          },
+          {
+            "name": "Bustling",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:bustling",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:bustling"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot"
+          },
+          {
+            "name": "Accessibility services",
+            "tag_id": "urn:tag:amenity:qloo:accessibility_services",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:accessibility_services"
+          },
+          {
+            "name": "Football stadium",
+            "tag_id": "urn:tag:setting:qloo:football_stadium",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:football_stadium"
+          },
+          {
+            "name": "Paid parking lot",
+            "tag_id": "urn:tag:parking:place:paid_parking_lot",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:paid_parking_lot"
+          },
+          {
+            "name": "Sports recreation",
+            "tag_id": "urn:tag:activity_type:qloo:sports_recreation",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:sports_recreation"
+          },
+          {
+            "name": "Stadium tours",
+            "tag_id": "urn:tag:amenity:qloo:stadium_tours",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:stadium_tours"
+          },
+          {
+            "name": "Imperial war museum north",
+            "tag_id": "urn:tag:nearby_attraction:qloo:imperial_war_museum_north",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:imperial_war_museum_north"
+          },
+          {
+            "name": "Tourist attraction",
+            "tag_id": "urn:tag:genre:place:tourist_attraction",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:tourist_attraction"
+          },
+          {
+            "name": "Lively",
+            "tag_id": "urn:tag:ambience:qloo:lively",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:lively"
+          },
+          {
+            "name": "Stadium",
+            "tag_id": "urn:tag:genre:place:stadium",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:stadium"
+          },
+          {
+            "name": "Sightseeing",
+            "tag_id": "urn:tag:activity_type:qloo:sightseeing",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:sightseeing"
+          },
+          {
+            "name": "Destination",
+            "tag_id": "urn:tag:visit_intent:qloo:destination",
+            "type": "urn:tag:visit_intent:qloo",
+            "value": "urn:tag:visit_intent:qloo:destination"
+          },
+          {
+            "name": "Restroom",
+            "tag_id": "urn:tag:amenities:place:restroom",
+            "type": "urn:tag:amenities:place",
+            "value": "urn:tag:amenities:place:restroom"
+          },
+          {
+            "name": "Tours",
+            "tag_id": "urn:tag:activity_type:qloo:tours",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:tours"
+          },
+          {
+            "name": "Football club",
+            "tag_id": "urn:tag:category:place:football_club",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:football_club"
+          },
+          {
+            "name": "Special occasion",
+            "tag_id": "urn:tag:visit_intent:qloo:special_occasion",
+            "type": "urn:tag:visit_intent:qloo",
+            "value": "urn:tag:visit_intent:qloo:special_occasion"
+          },
+          {
+            "name": "Free parking lot",
+            "tag_id": "urn:tag:parking:place:free_parking_lot",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:free_parking_lot"
+          },
+          {
+            "name": "Stadium",
+            "tag_id": "urn:tag:category:place:stadium",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:stadium"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:setting:qloo:historic",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:historic"
+          },
+          {
+            "name": "Morning",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:morning",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:morning"
+          },
+          {
+            "name": "Safe",
+            "tag_id": "urn:tag:ambience:qloo:safe",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:safe"
+          },
+          {
+            "name": "City view",
+            "tag_id": "urn:tag:view:qloo:city_view",
+            "type": "urn:tag:view:qloo",
+            "value": "urn:tag:view:qloo:city_view"
+          },
+          {
+            "name": "Club history",
+            "tag_id": "urn:tag:interests:qloo:club_history",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:club_history"
+          },
+          {
+            "name": "Mediacityuk",
+            "tag_id": "urn:tag:nearby_attraction:qloo:mediacityuk",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:mediacityuk"
+          },
+          {
+            "name": "Touristic",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:touristic",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:touristic"
+          },
+          {
+            "name": "Megastore",
+            "tag_id": "urn:tag:amenity:qloo:megastore",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:megastore"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_restroom",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_restroom"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:ambience:qloo:historic",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:historic"
+          },
+          {
+            "name": "Museum",
+            "tag_id": "urn:tag:amenity:qloo:museum",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:museum"
+          },
+          {
+            "name": "Midday",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:midday",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:midday"
+          },
+          {
+            "name": "Onsite services",
+            "tag_id": "urn:tag:service_options:place:onsite_services",
+            "type": "urn:tag:service_options:place",
+            "value": "urn:tag:service_options:place:onsite_services"
+          },
+          {
+            "name": "Travel and tourism",
+            "tag_id": "urn:tag:interests:qloo:travel_and_tourism",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:travel_and_tourism"
+          },
+          {
+            "name": "Stadium architecture",
+            "tag_id": "urn:tag:interests:qloo:stadium_architecture",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:stadium_architecture"
+          },
+          {
+            "name": "Walkable",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:walkable",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:walkable"
+          },
+          {
+            "name": "Football matches",
+            "tag_id": "urn:tag:activity_type:qloo:football_matches",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:football_matches"
+          },
+          {
+            "name": "Food and drink stalls",
+            "tag_id": "urn:tag:amenity:qloo:food_and_drink_stalls",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:food_and_drink_stalls"
+          },
+          {
+            "name": "Central",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:central",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:central"
+          },
+          {
+            "name": "Free street parking",
+            "tag_id": "urn:tag:parking:place:free_street_parking",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:free_street_parking"
+          },
+          {
+            "name": "Urban",
+            "tag_id": "urn:tag:setting:qloo:urban",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:urban"
+          },
+          {
+            "name": "Museum visits",
+            "tag_id": "urn:tag:activity_type:qloo:museum_visits",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:museum_visits"
+          },
+          {
+            "name": "Afternoon",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:afternoon",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:afternoon"
+          },
+          {
+            "name": "Hospitality suites",
+            "tag_id": "urn:tag:amenity:qloo:hospitality_suites",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:hospitality_suites"
+          },
+          {
+            "name": "Functional",
+            "tag_id": "urn:tag:decor:qloo:functional",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:functional"
+          },
+          {
+            "name": "The lowry",
+            "tag_id": "urn:tag:nearby_attraction:qloo:the_lowry",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:the_lowry"
+          },
+          {
+            "name": "Traditional",
+            "tag_id": "urn:tag:decor:qloo:traditional",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:traditional"
+          },
+          {
+            "name": "Place",
+            "tag_id": "urn:tag:genre:place",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place"
+          },
+          {
+            "name": "Football club",
+            "tag_id": "urn:tag:genre:place:football_club",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:football_club"
+          },
+          {
+            "name": "Professional sports",
+            "tag_id": "urn:tag:interests:qloo:professional_sports",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:professional_sports"
+          },
+          {
+            "name": "Evening",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:evening",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:evening"
+          },
+          {
+            "name": "Pitch view",
+            "tag_id": "urn:tag:view:qloo:pitch_view",
+            "type": "urn:tag:view:qloo",
+            "value": "urn:tag:view:qloo:pitch_view"
+          },
+          {
+            "name": "Electric atmosphere",
+            "tag_id": "urn:tag:ambience:qloo:electric_atmosphere",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:electric_atmosphere"
+          },
+          {
+            "name": "Sporting heritage",
+            "tag_id": "urn:tag:decor:qloo:sporting_heritage",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:sporting_heritage"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:decor:qloo:historic",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:historic"
+          },
+          {
+            "name": "Football centric",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:football_centric",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:football_centric"
+          }
+        ]
+      },
+      {
+        "name": "Manchester United F.C.",
+        "entity_id": "D719B77A-E9A2-4E07-BF7B-F6ED1C9521C6",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ka",
+              "value": "მანჩესტერ იუნაიტედი"
+            },
+            {
+              "language": "mk",
+              "value": "ФК Манчестер Јунајтед"
+            },
+            {
+              "language": "sr",
+              "value": "ФК Манчестер јунајтед"
+            },
+            {
+              "language": "lo",
+              "value": "ສະໂມສອນບານເຕະ ແມນເຊສເຕີ ຢູໄນເຕັດ"
+            },
+            {
+              "language": "az",
+              "value": "Mançester Yunayted"
+            },
+            {
+              "language": "my",
+              "value": "မန်ချက်စတာ ယူနိုက်တက်"
+            },
+            {
+              "language": "sq",
+              "value": "Mançester Junajtid"
+            },
+            {
+              "language": "vi",
+              "value": "Quỷ đỏ"
+            },
+            {
+              "language": "el",
+              "value": "Μάντσεστερ Γιουνάιτεντ"
+            },
+            {
+              "language": "bg",
+              "value": "Манчестър Юнайтед"
+            },
+            {
+              "language": "an",
+              "value": "Manchester United"
+            },
+            {
+              "language": "an",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "ar",
+              "value": "الشيطاين الحمر"
+            },
+            {
+              "language": "ar",
+              "value": "مان يونايتد"
+            },
+            {
+              "language": "ar",
+              "value": "نادي مانشستر يونايتد لكرة القدم"
+            },
+            {
+              "language": "ar",
+              "value": "مانشستر يونايتد"
+            },
+            {
+              "language": "ba",
+              "value": "Манчестер Юнайтед"
+            },
+            {
+              "language": "cs",
+              "value": "Manchester United"
+            },
+            {
+              "language": "cs",
+              "value": "Manchester Utd."
+            },
+            {
+              "language": "cs",
+              "value": "ManU"
+            },
+            {
+              "language": "cs",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "de",
+              "value": "Red Devils"
+            },
+            {
+              "language": "de",
+              "value": "United"
+            },
+            {
+              "language": "de",
+              "value": "ManU"
+            },
+            {
+              "language": "de",
+              "value": "Man U."
+            },
+            {
+              "language": "de",
+              "value": "Man United"
+            },
+            {
+              "language": "de",
+              "value": "Manchester United F.C."
+            },
+            {
+              "language": "de",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "de",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "de",
+              "value": "Manchester Utd."
+            },
+            {
+              "language": "de",
+              "value": "ManUtd"
+            },
+            {
+              "language": "de",
+              "value": "MUFC"
+            },
+            {
+              "language": "de",
+              "value": "Newton Heath F.C."
+            },
+            {
+              "language": "de",
+              "value": "Newton Heath FC"
+            },
+            {
+              "language": "de",
+              "value": "Manchester United"
+            },
+            {
+              "language": "en",
+              "value": "Manchester United"
+            },
+            {
+              "language": "en",
+              "value": "Red Devils"
+            },
+            {
+              "language": "en",
+              "value": "MUFC"
+            },
+            {
+              "language": "en",
+              "value": "Man U"
+            },
+            {
+              "language": "en",
+              "value": "Man United"
+            },
+            {
+              "language": "en",
+              "value": "Man Utd"
+            },
+            {
+              "language": "en",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "en",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "en",
+              "value": "Manchester United F.C."
+            },
+            {
+              "language": "es",
+              "value": "Manchester United"
+            },
+            {
+              "language": "es",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "et",
+              "value": "Manchester United"
+            },
+            {
+              "language": "et",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "eu",
+              "value": "Manchester United"
+            },
+            {
+              "language": "eu",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "fa",
+              "value": "باشگاه فوتبال منچستر یونایتد"
+            },
+            {
+              "language": "fi",
+              "value": "Manchester United"
+            },
+            {
+              "language": "fi",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "fr",
+              "value": "Man United"
+            },
+            {
+              "language": "fr",
+              "value": "Manchester United"
+            },
+            {
+              "language": "fr",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "fr",
+              "value": "MUFC"
+            },
+            {
+              "language": "fr",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "fy",
+              "value": "Manchester United"
+            },
+            {
+              "language": "ga",
+              "value": "Manchester United"
+            },
+            {
+              "language": "ga",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "gl",
+              "value": "Manchester United"
+            },
+            {
+              "language": "gl",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "he",
+              "value": "מנצ'סטר יונייטד"
+            },
+            {
+              "language": "hi",
+              "value": "मैनचेस्टर यूनाइटेड एफ़.सी."
+            },
+            {
+              "language": "hy",
+              "value": "Մանչեսթեր Յունայթեդ"
+            },
+            {
+              "language": "it",
+              "value": "Manchester United"
+            },
+            {
+              "language": "it",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "it",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "ja",
+              "value": "マンU"
+            },
+            {
+              "language": "ja",
+              "value": "マンチェスターユナイテッド"
+            },
+            {
+              "language": "ja",
+              "value": "マンチェスター・ユナイテッドFC"
+            },
+            {
+              "language": "ko",
+              "value": "맨유"
+            },
+            {
+              "language": "ko",
+              "value": "맨체스터 유나이티드"
+            },
+            {
+              "language": "ko",
+              "value": "맨체스터 유나이티드 FC"
+            },
+            {
+              "language": "nl",
+              "value": "Manchester United"
+            },
+            {
+              "language": "nl",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "pl",
+              "value": "Manchester United"
+            },
+            {
+              "language": "pl",
+              "value": "Manchester United F.C."
+            },
+            {
+              "language": "pt",
+              "value": "Man United"
+            },
+            {
+              "language": "pt",
+              "value": "Manchester United"
+            },
+            {
+              "language": "pt",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "pt",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "ro",
+              "value": "Manchester United"
+            },
+            {
+              "language": "ro",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "ru",
+              "value": "МЮ"
+            },
+            {
+              "language": "ru",
+              "value": "Красные"
+            },
+            {
+              "language": "ru",
+              "value": "Красные Дьяволы"
+            },
+            {
+              "language": "ru",
+              "value": "Ман Юнайтед"
+            },
+            {
+              "language": "ru",
+              "value": "Ман Ютд"
+            },
+            {
+              "language": "ru",
+              "value": "МЮН"
+            },
+            {
+              "language": "ru",
+              "value": "ФК МЮ"
+            },
+            {
+              "language": "ru",
+              "value": "Манчестер Юнайтед"
+            },
+            {
+              "language": "sv",
+              "value": "Manchester United"
+            },
+            {
+              "language": "sv",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "th",
+              "value": "นิวตันฮีต"
+            },
+            {
+              "language": "th",
+              "value": "นิวตันฮีตแอลวายอาร์"
+            },
+            {
+              "language": "th",
+              "value": "แมนเชสเตอร์ยูไนเต็ด"
+            },
+            {
+              "language": "th",
+              "value": "แมนยู"
+            },
+            {
+              "language": "th",
+              "value": "ยูไนเต็ด"
+            },
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลแมนเชสเตอร์ยูไนเต็ด"
+            },
+            {
+              "language": "tr",
+              "value": "Manchester"
+            },
+            {
+              "language": "tr",
+              "value": "Mençıstır"
+            },
+            {
+              "language": "tr",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "tt",
+              "value": "Манчестер Юнайтед"
+            },
+            {
+              "language": "ur",
+              "value": "مانچسٹر یونائیٹڈ"
+            },
+            {
+              "language": "zh",
+              "value": "曼切斯特联足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "曼彻斯特联"
+            },
+            {
+              "language": "zh",
+              "value": "曼彻斯特联合足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "曼彻斯特联足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "曼彻斯特联队"
+            },
+            {
+              "language": "zh",
+              "value": "曼徹斯特聯合足球俱樂部"
+            },
+            {
+              "language": "zh",
+              "value": "曼徹斯特聯足球會"
+            },
+            {
+              "language": "zh",
+              "value": "曼联"
+            },
+            {
+              "language": "zh",
+              "value": "曼联俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "曼联足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "曼聯"
+            },
+            {
+              "language": "zh",
+              "value": "曼聯足球會"
+            },
+            {
+              "language": "zh",
+              "value": "曼聯足球隊"
+            },
+            {
+              "language": "zh",
+              "value": "曼聯隊"
+            },
+            {
+              "language": "zh",
+              "value": "红魔"
+            },
+            {
+              "language": "zh",
+              "value": "曼徹斯特聯足球俱樂部"
+            },
+            {
+              "language": "bn",
+              "value": "ম্যানচেস্টার ইউনাইটেড ফুটবল ক্লাব"
+            },
+            {
+              "language": "gu",
+              "value": "માન્ચેસ્ટર યુનાઇટેડ ફૂટબોલ ક્લબ"
+            },
+            {
+              "language": "ha",
+              "value": "Manchester United F.C."
+            },
+            {
+              "language": "kn",
+              "value": "ಮ್ಯಾಂಚೆಸ್ಟರ್ ಯುನೈಟೆಡ್ F.C."
+            },
+            {
+              "language": "ml",
+              "value": "മാഞ്ചെസ്റ്റർ യുണൈറ്റഡ് എഫ്.സി."
+            },
+            {
+              "language": "mr",
+              "value": "मँचेस्टर युनायटेड एफ.सी."
+            },
+            {
+              "language": "pa",
+              "value": "ਮੈਨਚੈਸਟਰ ਯੂਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ"
+            },
+            {
+              "language": "sw",
+              "value": "Manchester United F.C."
+            },
+            {
+              "language": "ta",
+              "value": "மான்செஸ்டர் யுனைட்டெட் கால்பந்து அணி"
+            },
+            {
+              "language": "te",
+              "value": "మాంచెస్టర్ యునైటెడ్ F.C."
+            },
+            {
+              "language": "sw",
+              "value": "Manchester United"
+            },
+            {
+              "language": "sw",
+              "value": "Manchester United FC"
+            },
+            {
+              "language": "sw",
+              "value": "Manchester United Football Club"
+            },
+            {
+              "language": "sw",
+              "value": "MUFC"
+            },
+            {
+              "language": "te",
+              "value": "మాంచెస్టర్ యునైటెడ్"
+            }
+          ],
+          "description": "Manchester United F.C. is a world-renowned professional football club based in Manchester, England, with a history spanning over a century. Known globally as 'The Red Devils,' the club is one of the most successful and supported sports teams, holding significant cultural prestige within the English Premier League and international football. Beyond the pitch, it operates as a major commercial entity, managing stadium facilities, extensive merchandise, and digital media platforms. The club balances its deep-rooted heritage with modern ambitions, consistently aiming for top-tier competitive success while engaging a diverse global fanbase.",
+          "external": {
+            "facebook": {
+              "id": "manchesterunited"
+            },
+            "instagram": {
+              "id": "manchesterunited"
+            },
+            "twitter": {
+              "id": "manutd"
+            },
+            "wikidata": {
+              "id": "Q18656"
+            }
+          },
+          "founded_year": "1878",
+          "headquartered": "Manchester",
+          "image": {
+            "url": "https://images.qloo.com/i/D719B77A-E9A2-4E07-BF7B-F6ED1C9521C6-420x-auto.jpg"
+          },
+          "inception": "1878-01-01",
+          "industry": [],
+          "official_site": "http://www.manutd.com/",
+          "owned_by": "Manchester United Limited",
+          "parent_organization": "Manchester United Plc",
+          "products": [],
+          "short_description": "Manchester United F.C. is a professional football club based in Manchester, England, known for competing in the Premier League and European competitions.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Ein historischer und weltweit bekannter englischer Profifußballverein mit Sitz in Manchester, der für sportliche Exzellenz und eine riesige internationale Fangemeinde steht."
+            },
+            {
+              "language": "en",
+              "value": "A historic and globally recognized English professional football club based in Manchester, synonymous with top-tier athletic excellence and a massive international following."
+            },
+            {
+              "language": "es",
+              "value": "Un histórico y mundialmente reconocido club de fútbol inglés con sede en Manchester, sinónimo de excelencia atlética al más alto nivel y con una inmensa afición internacional."
+            },
+            {
+              "language": "fr",
+              "value": "Un club de football professionnel anglais historique et mondialement reconnu basé à Manchester, synonyme d'excellence sportive et suivi par une immense communauté internationale."
+            }
+          ],
+          "sport": "association football",
+          "subsidiary": []
+        },
+        "popularity": 0.9996948687087861,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Association football clubs established in 1878",
+            "tag_id": "urn:tag:wikipedia_category:association_football_clubs_established_in_1878",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "UEFA Champions League winning clubs",
+            "tag_id": "urn:tag:wikipedia_category:uefa_champions_league_winning_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Lists of association football stadiums in England",
+            "tag_id": "urn:tag:wikipedia_category:lists_of_association_football_stadiums_in_england",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "UEFA Europa League winning clubs",
+            "tag_id": "urn:tag:wikipedia_category:uefa_europa_league_winning_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "1878 establishments in England",
+            "tag_id": "urn:tag:wikipedia_category:1878_establishments_in_england",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "G-14 clubs",
+            "tag_id": "urn:tag:wikipedia_category:g_14_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Former English Football League clubs",
+            "tag_id": "urn:tag:wikipedia_category:former_english_football_league_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "UEFA Cup Winners\\ Cup winning clubs",
+            "tag_id": "urn:tag:wikipedia_category:uefa_cup_winners_cup_winning_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "FIFA Club World Cup winning clubs",
+            "tag_id": "urn:tag:wikipedia_category:fifa_club_world_cup_winning_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "FA Cup winners",
+            "tag_id": "urn:tag:wikipedia_category:fa_cup_winners",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Companies listed on the New York Stock Exchange",
+            "tag_id": "urn:tag:wikipedia_category:companies_listed_on_the_new_york_stock_exchange",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Companies established in 1878",
+            "tag_id": "urn:tag:wikipedia_category:companies_established_in_1878",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Companies formerly listed on the London Stock Exchange",
+            "tag_id": "urn:tag:wikipedia_category:companies_formerly_listed_on_the_london_stock_exchange",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Football clubs in Manchester",
+            "tag_id": "urn:tag:wikipedia_category:football_clubs_in_manchester",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Football clubs in Trafford",
+            "tag_id": "urn:tag:wikipedia_category:football_clubs_in_trafford",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Laureus World Sports Awards winners",
+            "tag_id": "urn:tag:wikipedia_category:laureus_world_sports_awards_winners",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Association football clubs established in 1902",
+            "tag_id": "urn:tag:wikipedia_category:association_football_clubs_established_in_1902",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Premier League clubs",
+            "tag_id": "urn:tag:wikipedia_category:premier_league_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Manchester United F.C.",
+            "tag_id": "urn:tag:wikipedia_category:manchester_united_f_c",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Publicly traded sports companies",
+            "tag_id": "urn:tag:wikipedia_category:publicly_traded_sports_companies",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "England Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer:england",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "EFL Cup winners",
+            "tag_id": "urn:tag:wikipedia_category:efl_cup_winners",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Football clubs in England",
+            "tag_id": "urn:tag:wikipedia_category:football_clubs_in_england",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "UEFA Super Cup winning clubs",
+            "tag_id": "urn:tag:wikipedia_category:uefa_super_cup_winning_clubs",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Bold Red And White Palette",
+            "tag_id": "urn:tag:aesthetic_property:qloo:bold_red_and_white_palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Iconic Crest Branding",
+            "tag_id": "urn:tag:aesthetic_property:qloo:iconic_crest_branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Classic Kit Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:classic_kit_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Stadium Architecture",
+            "tag_id": "urn:tag:aesthetic_property:qloo:stadium_architecture",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Professional Sporting Success",
+            "tag_id": "urn:tag:lifestyle:qloo:professional_sporting_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Legacy Building",
+            "tag_id": "urn:tag:lifestyle:qloo:legacy_building",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "International Recognition",
+            "tag_id": "urn:tag:lifestyle:qloo:international_recognition",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Royalties",
+            "tag_id": "urn:tag:business_model:qloo:royalties",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Manchester City F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_city_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Liverpool F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:liverpool_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Arsenal F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:arsenal_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Chelsea F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:chelsea_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Real Madrid C.F.",
+            "tag_id": "urn:tag:competitor_brand:qloo:real_madrid_c_f_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Tradition",
+            "tag_id": "urn:tag:core_value:qloo:tradition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:core_value:qloo:community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Ambition",
+            "tag_id": "urn:tag:core_value:qloo:ambition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Tenacity",
+            "tag_id": "urn:tag:core_value:qloo:tenacity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Football Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_football_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "British Sporting History",
+            "tag_id": "urn:tag:cultural_relevance:qloo:british_sporting_history",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Urban Community Identity",
+            "tag_id": "urn:tag:cultural_relevance:qloo:urban_community_identity",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Global Football Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:global_football_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Matchgoing Supporters",
+            "tag_id": "urn:tag:customer_segment:qloo:matchgoing_supporters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Youth Sports Participants",
+            "tag_id": "urn:tag:customer_segment:qloo:youth_sports_participants",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Intense",
+            "tag_id": "urn:tag:emotional_tone:qloo:intense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:emotional_tone:qloo:proud",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:emotional_tone:qloo:resilient",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:industry:qloo:professional_sports",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Celebrity Fans",
+            "tag_id": "urn:tag:influencer_appeal:qloo:celebrity_fans",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Football Analysts",
+            "tag_id": "urn:tag:influencer_appeal:qloo:football_analysts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Retired Legends",
+            "tag_id": "urn:tag:influencer_appeal:qloo:retired_legends",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Association Football",
+            "tag_id": "urn:tag:interest_adjacency:qloo:association_football",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Sports Journalism",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_journalism",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Stadium Culture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:stadium_culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Professional Athletics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:professional_athletics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Youth Academy Development",
+            "tag_id": "urn:tag:interest_adjacency:qloo:youth_academy_development",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "United States",
+            "tag_id": "urn:tag:key_market:qloo:united_states",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Asia",
+            "tag_id": "urn:tag:key_market:qloo:asia",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Old Trafford",
+            "tag_id": "urn:tag:keyword:qloo:old_trafford",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Premier League",
+            "tag_id": "urn:tag:keyword:qloo:premier_league",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Red Devils",
+            "tag_id": "urn:tag:keyword:qloo:red_devils",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Champions League",
+            "tag_id": "urn:tag:keyword:qloo:champions_league",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Adidas",
+            "tag_id": "urn:tag:partnership:qloo:adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Snapdragon",
+            "tag_id": "urn:tag:partnership:qloo:snapdragon",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "DXC Technology",
+            "tag_id": "urn:tag:partnership:qloo:dxc_technology",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Tezos",
+            "tag_id": "urn:tag:partnership:qloo:tezos",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Foster + Partners",
+            "tag_id": "urn:tag:partnership:qloo:foster_partners",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Matchday Rituals",
+            "tag_id": "urn:tag:lifestyle:qloo:matchday_rituals",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Sporting Fandom",
+            "tag_id": "urn:tag:lifestyle:qloo:sporting_fandom",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:community_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "sporty",
+            "tag_id": "urn:tag:personal_style:qloo:sporty",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "casual",
+            "tag_id": "urn:tag:personal_style:qloo:casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "athletic",
+            "tag_id": "urn:tag:personal_style:qloo:athletic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "retro/heritage",
+            "tag_id": "urn:tag:personal_style:qloo:retro_heritage",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "streetwear-inspired",
+            "tag_id": "urn:tag:personal_style:qloo:streetwear_inspired",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Professional Football Matches",
+            "tag_id": "urn:tag:product_service:qloo:professional_football_matches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Media Content",
+            "tag_id": "urn:tag:product_service:qloo:media_content",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Stadium Tours",
+            "tag_id": "urn:tag:product_service:qloo:stadium_tours",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Hospitality Services",
+            "tag_id": "urn:tag:product_service:qloo:hospitality_services",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "FC Bayern Munich",
+            "tag_id": "urn:tag:similar_brand:qloo:fc_bayern_munich",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "FC Barcelona",
+            "tag_id": "urn:tag:similar_brand:qloo:fc_barcelona",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Juventus F.C.",
+            "tag_id": "urn:tag:similar_brand:qloo:juventus_f_c_",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "AC Milan",
+            "tag_id": "urn:tag:similar_brand:qloo:ac_milan",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Paris Saint-Germain",
+            "tag_id": "urn:tag:similar_brand:qloo:paris_saint_germain",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Manchester United Women",
+            "tag_id": "urn:tag:subsidiary:qloo:manchester_united_women",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Manchester United Academy",
+            "tag_id": "urn:tag:subsidiary:qloo:manchester_united_academy",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Manchester United Foundation",
+            "tag_id": "urn:tag:subsidiary:qloo:manchester_united_foundation",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Manchester United Radio",
+            "tag_id": "urn:tag:subsidiary:qloo:manchester_united_radio",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Stadium Regeneration",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:stadium_regeneration",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Community Outreach",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:community_outreach",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Social Impact",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:target_age_group:qloo:children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Seniors",
+            "tag_id": "urn:tag:target_age_group:qloo:seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Low",
+            "tag_id": "urn:tag:target_income_level:qloo:low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Low to Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Manchester United",
+        "entity_id": "E09419E1-1568-4709-A0E2-BF04091C9C88",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/E09419E1-1568-4709-A0E2-BF04091C9C88-420x-auto.jpg"
+          },
+          "short_description": ""
+        },
+        "popularity": 0.8722213413132441,
+        "disambiguation": "Manchester United"
+      },
+      {
+        "name": "Manchester United Museum & Stadium Tour",
+        "entity_id": "457DF3C9-3B93-46A9-9BF8-84DCB04B63B2",
+        "types": [
+          "urn:entity:place"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "",
+              "value": "Manchester United Museum & Stadium Tour, Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom"
+            }
+          ],
+          "address": "Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+          "business_rating": 4.7,
+          "description": "Guided tour of a historic stadium with behind-the-scenes access to players' tunnel, changing rooms and pitch, plus museum exhibits celebrating the club's history.",
+          "external": {
+            "google_place": {
+              "id": "5dbbcb65efad08ab",
+              "place_id": "ChIJaX_k53Kue0gRqwit72XLu10"
+            }
+          },
+          "geocode": {
+            "name": "Wharfside",
+            "city": "Trafford",
+            "admin1_region": "England",
+            "admin2_region": "Greater Manchester",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "hours": {
+            "sunday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T16:00:00"
+              }
+            ],
+            "monday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T16:00:00"
+              }
+            ],
+            "tuesday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T16:00:00"
+              }
+            ],
+            "wednesday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T16:00:00"
+              }
+            ],
+            "thursday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T16:00:00"
+              }
+            ],
+            "friday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "saturday": [
+              {
+                "closed": false,
+                "opens": "T09:30:00",
+                "closes": "T17:00:00"
+              }
+            ]
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/457DF3C9-3B93-46A9-9BF8-84DCB04B63B2-420x-auto.jpg"
+          },
+          "is_closed": false,
+          "neighborhood": "Wharfside",
+          "phone": "+441616767770",
+          "price_range": {
+            "currency": "usd"
+          },
+          "website": "https://www.manutd.com/museum",
+          "good_for": [
+            {
+              "id": "urn:tag:children:place:good_kids",
+              "name": "Good for kids",
+              "type": "urn:tag:children:place",
+              "weight": 0.38888888888888884
+            }
+          ],
+          "primary_genre": {
+            "id": "urn:tag:genre:place:museum",
+            "name": "Museum",
+            "type": "urn:tag:genre:place",
+            "akas": [
+              {
+                "language": "ar",
+                "value": "\"متحف\""
+              },
+              {
+                "language": "pl",
+                "value": "\"Muzeum\""
+              },
+              {
+                "language": "cs",
+                "value": "\"Muzeum\""
+              },
+              {
+                "language": "sw",
+                "value": "\"Makumbusho\""
+              },
+              {
+                "language": "zh",
+                "value": "\"博物馆\""
+              },
+              {
+                "language": "tr",
+                "value": "\"Müze\""
+              },
+              {
+                "language": "el",
+                "value": "\"Μουσείο\""
+              },
+              {
+                "language": "zh_tw",
+                "value": "\"博物館\""
+              },
+              {
+                "language": "ja",
+                "value": "\"博物館\""
+              },
+              {
+                "language": "ro",
+                "value": "\"Muzeu\""
+              },
+              {
+                "language": "lv",
+                "value": "\"Muzejs\""
+              },
+              {
+                "language": "es_la",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "gl",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "es",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "tl",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "it",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "fi",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "eu",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "es_ar",
+                "value": "\"Museo\""
+              },
+              {
+                "language": "my",
+                "value": "\"ပြတိုက်\""
+              },
+              {
+                "language": "sq",
+                "value": "\"Muze\""
+              },
+              {
+                "language": "he",
+                "value": "\"מוזיאון\""
+              },
+              {
+                "language": "kk",
+                "value": "\"Мұражай\""
+              },
+              {
+                "language": "bg",
+                "value": "\"Музей\""
+              },
+              {
+                "language": "uk",
+                "value": "\"Музей\""
+              },
+              {
+                "language": "ru",
+                "value": "\"Музей\""
+              },
+              {
+                "language": "ta",
+                "value": "\"அருங்காட்சியகம்\""
+              },
+              {
+                "language": "fr",
+                "value": "\"Musée\""
+              },
+              {
+                "language": "fr_ca",
+                "value": "\"Musée\""
+              },
+              {
+                "language": "hr",
+                "value": "\"Muzej\""
+              },
+              {
+                "language": "bs",
+                "value": "\"Muzej\""
+              },
+              {
+                "language": "sl",
+                "value": "\"Muzej\""
+              },
+              {
+                "language": "sr",
+                "value": "\"Музеј\""
+              },
+              {
+                "language": "mk",
+                "value": "\"Музеј\""
+              },
+              {
+                "language": "ca",
+                "value": "\"Museu\""
+              },
+              {
+                "language": "pt_pt",
+                "value": "\"Museu\""
+              },
+              {
+                "language": "pt",
+                "value": "\"Museu\""
+              },
+              {
+                "language": "ms",
+                "value": "\"Muzium\""
+              },
+              {
+                "language": "id",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "sv",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "af",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "en_gb",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "da",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "de",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "nl",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "nb",
+                "value": "\"Museum\""
+              },
+              {
+                "language": "bn",
+                "value": "\"জাদুঘর\""
+              },
+              {
+                "language": "ko",
+                "value": "\"박물관\""
+              },
+              {
+                "language": "vi",
+                "value": "\"Bảo tàng\""
+              },
+              {
+                "language": "th",
+                "value": "\"พิพิธภัณฑ์\""
+              },
+              {
+                "language": "ka",
+                "value": "\"მუზეუმი\""
+              },
+              {
+                "language": "hi",
+                "value": "\"संग्रहालय\""
+              },
+              {
+                "language": "hu",
+                "value": "\"Múzeum\""
+              },
+              {
+                "language": "sk",
+                "value": "\"Múzeum\""
+              },
+              {
+                "language": "lt",
+                "value": "\"Muziejus\""
+              },
+              {
+                "language": "az",
+                "value": "\"Muzey\""
+              },
+              {
+                "language": "km",
+                "value": "\"សារមន្ទីរ\""
+              },
+              {
+                "language": "te",
+                "value": "\"మ్యూజియం\""
+              },
+              {
+                "language": "et",
+                "value": "\"Muuseum\""
+              },
+              {
+                "language": "lo",
+                "value": "\"ພິພິທະພັນ\""
+              }
+            ]
+          }
+        },
+        "popularity": 0.963576403708479,
+        "disambiguation": "Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+        "location": {
+          "lat": 53.4634851,
+          "lon": -2.2898293
+        },
+        "tags": [
+          {
+            "name": "Onsite services",
+            "tag_id": "urn:tag:service_options:place:onsite_services",
+            "type": "urn:tag:service_options:place",
+            "value": "urn:tag:service_options:place:onsite_services"
+          },
+          {
+            "name": "Museum",
+            "tag_id": "urn:tag:category:place:museum",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:museum"
+          },
+          {
+            "name": "Paid parking lot",
+            "tag_id": "urn:tag:parking:place:paid_parking_lot",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:paid_parking_lot"
+          },
+          {
+            "name": "Stadium",
+            "tag_id": "urn:tag:category:place:stadium",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:stadium"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot"
+          },
+          {
+            "name": "Getting tickets in advance recommended",
+            "tag_id": "urn:tag:planning:place:getting_tickets_in_advance_recommended",
+            "type": "urn:tag:planning:place",
+            "value": "urn:tag:planning:place:getting_tickets_in_advance_recommended"
+          },
+          {
+            "name": "Place",
+            "tag_id": "urn:tag:genre:place",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place"
+          },
+          {
+            "name": "Museum",
+            "tag_id": "urn:tag:genre:place:museum",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:museum"
+          },
+          {
+            "name": "Restaurant",
+            "tag_id": "urn:tag:amenities:place:restaurant",
+            "type": "urn:tag:amenities:place",
+            "value": "urn:tag:amenities:place:restaurant"
+          },
+          {
+            "name": "Free street parking",
+            "tag_id": "urn:tag:parking:place:free_street_parking",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:free_street_parking"
+          },
+          {
+            "name": "Stadium",
+            "tag_id": "urn:tag:genre:place:stadium",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:stadium"
+          },
+          {
+            "name": "Wheelchair accessible seating",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_seating",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_seating"
+          },
+          {
+            "name": "Restroom",
+            "tag_id": "urn:tag:amenities:place:restroom",
+            "type": "urn:tag:amenities:place",
+            "value": "urn:tag:amenities:place:restroom"
+          },
+          {
+            "name": "Has changing table s",
+            "tag_id": "urn:tag:children:place:has_changing_tables",
+            "type": "urn:tag:children:place",
+            "value": "urn:tag:children:place:has_changing_tables"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_restroom",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_restroom"
+          },
+          {
+            "name": "Tourist attraction",
+            "tag_id": "urn:tag:genre:place:tourist_attraction",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:tourist_attraction"
+          },
+          {
+            "name": "Wheelchair accessible entrance",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_entrance",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Theater",
+            "tag_id": "urn:tag:offerings:place:theater",
+            "type": "urn:tag:offerings:place",
+            "value": "urn:tag:offerings:place:theater"
+          },
+          {
+            "name": "Free parking lot",
+            "tag_id": "urn:tag:parking:place:free_parking_lot",
+            "type": "urn:tag:parking:place",
+            "value": "urn:tag:parking:place:free_parking_lot"
+          },
+          {
+            "name": "Admission fee",
+            "tag_id": "urn:tag:payments:place:admission_fee",
+            "type": "urn:tag:payments:place",
+            "value": "urn:tag:payments:place:admission_fee"
+          },
+          {
+            "name": "Good for kids",
+            "tag_id": "urn:tag:children:place:good_for_kids",
+            "type": "urn:tag:children:place",
+            "value": "urn:tag:children:place:good_for_kids"
+          }
+        ]
+      },
+      {
+        "name": "Manchester United Megastore",
+        "entity_id": "51503586-9D7C-4047-8368-21735F83D995",
+        "types": [
+          "urn:entity:place"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "",
+              "value": "Manchester United Megastore, 1252 Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom"
+            }
+          ],
+          "address": "1252 Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+          "business_rating": 4.4,
+          "description": "World-renowned Old Trafford shop offering official Manchester United kits, souvenirs and matchday shirt printing across 17,000 sq ft.",
+          "external": {
+            "google_place": {
+              "id": "f2c80a77a25a0fe9",
+              "place_id": "ChIJNS2J03Kue0gR6Q9aoncKyPI"
+            }
+          },
+          "geocode": {
+            "name": "Wharfside",
+            "city": "Trafford",
+            "admin1_region": "England",
+            "admin2_region": "Greater Manchester",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "hours": {
+            "sunday": [
+              {
+                "closed": false,
+                "opens": "T11:00:00",
+                "closes": "T17:00:00"
+              }
+            ],
+            "monday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ],
+            "tuesday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ],
+            "wednesday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ],
+            "thursday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ],
+            "friday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ],
+            "saturday": [
+              {
+                "closed": false,
+                "opens": "T10:00:00",
+                "closes": "T18:00:00"
+              }
+            ]
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/51503586-9D7C-4047-8368-21735F83D995-420x-auto.jpg"
+          },
+          "is_closed": false,
+          "neighborhood": "Wharfside",
+          "price_range": {
+            "currency": "usd"
+          },
+          "primary_genre": {
+            "id": "urn:tag:genre:place:sports_memorabilia_store",
+            "name": "Sports memorabilia store",
+            "type": "urn:tag:genre:place",
+            "akas": [
+              {
+                "language": "az",
+                "value": "\"İdman xatirə əşyaları mağazası\""
+              },
+              {
+                "language": "tr",
+                "value": "\"Spor hatıra eşyaları mağazası\""
+              },
+              {
+                "language": "zh_tw",
+                "value": "\"運動紀念品店\""
+              },
+              {
+                "language": "ta",
+                "value": "\"விளையாட்டு நினைவுப்பொருள் கடை\""
+              },
+              {
+                "language": "lt",
+                "value": "\"Sporto suvenyrų parduotuvė\""
+              },
+              {
+                "language": "hr",
+                "value": "\"Trgovina sportskih memorabilija\""
+              },
+              {
+                "language": "fi",
+                "value": "\"Urheilumuistoesineiden kauppa\""
+              },
+              {
+                "language": "kk",
+                "value": "\"Спорттық естелік заттар дүкені\""
+              },
+              {
+                "language": "hi",
+                "value": "\"खेल यादगार वस्तुओं की दुकान\""
+              },
+              {
+                "language": "sr",
+                "value": "\"Продавница спортских сувенира\""
+              },
+              {
+                "language": "bg",
+                "value": "\"Магазин за спортни сувенири\""
+              },
+              {
+                "language": "pt",
+                "value": "\"Loja de artigos esportivos colecionáveis\""
+              },
+              {
+                "language": "eu",
+                "value": "\"Kirol oroigarrien denda\""
+              },
+              {
+                "language": "es_la",
+                "value": "\"Tienda de recuerdos deportivos\""
+              },
+              {
+                "language": "es",
+                "value": "\"Tienda de recuerdos deportivos\""
+              },
+              {
+                "language": "es_ar",
+                "value": "\"Tienda de recuerdos deportivos\""
+              },
+              {
+                "language": "te",
+                "value": "\"స్పోర్ట్స్ మెమోరాబిలియా స్టోర్\""
+              },
+              {
+                "language": "my",
+                "value": "\"အားကစားအမှတ်တရပစ္စည်းဆိုင်\""
+              },
+              {
+                "language": "da",
+                "value": "\"Butik med sportsmemorabilia\""
+              },
+              {
+                "language": "ro",
+                "value": "\"Magazin de suveniruri sportive\""
+              },
+              {
+                "language": "ja",
+                "value": "\"スポーツ記念品店\""
+              },
+              {
+                "language": "pl",
+                "value": "\"Sklep z pamiątkami sportowymi\""
+              },
+              {
+                "language": "el",
+                "value": "\"Κατάστημα αθλητικών αναμνηστικών\""
+              },
+              {
+                "language": "nb",
+                "value": "\"Butikk for sportsminner\""
+              },
+              {
+                "language": "ca",
+                "value": "\"Botiga de records esportius\""
+              },
+              {
+                "language": "id",
+                "value": "\"Toko memorabilia olahraga\""
+              },
+              {
+                "language": "bn",
+                "value": "\"স্পোর্টস মেমোরাবিলিয়া স্টোর\""
+              },
+              {
+                "language": "et",
+                "value": "\"Spordimeenete pood\""
+              },
+              {
+                "language": "lv",
+                "value": "\"Sporta piemiņas lietu veikals\""
+              },
+              {
+                "language": "sv",
+                "value": "\"Butik för sportmemorabilia\""
+              },
+              {
+                "language": "en_gb",
+                "value": "\"Sports memorabilia shop\""
+              },
+              {
+                "language": "tl",
+                "value": "\"Tindahan ng sports memorabilia\""
+              },
+              {
+                "language": "th",
+                "value": "\"ร้านขายของที่ระลึกกีฬา\""
+              },
+              {
+                "language": "af",
+                "value": "\"Sportmemorabilia-winkel\""
+              },
+              {
+                "language": "mk",
+                "value": "\"Продавница за спортски меморабилија\""
+              },
+              {
+                "language": "vi",
+                "value": "\"Cửa hàng kỷ vật thể thao\""
+              },
+              {
+                "language": "zh",
+                "value": "\"体育纪念品店\""
+              },
+              {
+                "language": "sw",
+                "value": "\"Duka la kumbukumbu za michezo\""
+              },
+              {
+                "language": "pt_pt",
+                "value": "\"Loja de recordações desportivas\""
+              },
+              {
+                "language": "ms",
+                "value": "\"Kedai memorabilia sukan\""
+              },
+              {
+                "language": "sk",
+                "value": "\"Obchod so športovými suvenírmi\""
+              },
+              {
+                "language": "de",
+                "value": "\"Sport-Memorabilien-Geschäft\""
+              },
+              {
+                "language": "km",
+                "value": "\"ហាងលក់វត្ថុអនុស្សាវរីយ៍កីឡា\""
+              },
+              {
+                "language": "ru",
+                "value": "\"Магазин спортивных сувениров\""
+              },
+              {
+                "language": "nl",
+                "value": "\"Winkel voor sportmemorabilia\""
+              },
+              {
+                "language": "lo",
+                "value": "\"ຮ້ານຂາຍເຄື່ອງທີ່ລະນຶກກິລາ\""
+              },
+              {
+                "language": "uk",
+                "value": "\"Магазин спортивних сувенірів\""
+              },
+              {
+                "language": "bs",
+                "value": "\"Prodavnica sportskih suvenira\""
+              },
+              {
+                "language": "cs",
+                "value": "\"Obchod se sportovními suvenýry\""
+              },
+              {
+                "language": "gl",
+                "value": "\"Tenda de recordos deportivos\""
+              },
+              {
+                "language": "ka",
+                "value": "\"სპორტული სუვენირების მაღაზია\""
+              },
+              {
+                "language": "ko",
+                "value": "\"스포츠 기념품점\""
+              },
+              {
+                "language": "hu",
+                "value": "\"Sportrelikvia-bolt\""
+              },
+              {
+                "language": "ar",
+                "value": "\"متجر تذكارات رياضية\""
+              },
+              {
+                "language": "it",
+                "value": "\"Negozio di cimeli sportivi\""
+              },
+              {
+                "language": "fr_ca",
+                "value": "\"Magasin de souvenirs sportifs\""
+              },
+              {
+                "language": "fr",
+                "value": "\"Magasin de souvenirs sportifs\""
+              },
+              {
+                "language": "he",
+                "value": "\"חנות מזכרות ספורט\""
+              },
+              {
+                "language": "sl",
+                "value": "\"Trgovina s športnimi spominki\""
+              },
+              {
+                "language": "sq",
+                "value": "\"Dyqan i suvenireve sportive\""
+              }
+            ]
+          }
+        },
+        "popularity": 0.9482079238483252,
+        "disambiguation": "1252 Sir Matt Busby Way Old Trafford, Stretford Manchester M16 0RA United Kingdom",
+        "location": {
+          "lat": 53.4632715,
+          "lon": -2.2894666
+        },
+        "tags": [
+          {
+            "name": "Sports memorabilia store",
+            "tag_id": "urn:tag:category:place:sports_memorabilia_store",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:sports_memorabilia_store"
+          },
+          {
+            "name": "Credit cards",
+            "tag_id": "urn:tag:payments:place:credit_cards",
+            "type": "urn:tag:payments:place",
+            "value": "urn:tag:payments:place:credit_cards"
+          },
+          {
+            "name": "Mastercard",
+            "tag_id": "urn:tag:credit_card:place:mastercard",
+            "type": "urn:tag:credit_card:place",
+            "value": "urn:tag:credit_card:place:mastercard"
+          },
+          {
+            "name": "Morning",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:morning",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:morning"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:interests:qloo:football",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:football"
+          },
+          {
+            "name": "Afternoon",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:afternoon",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:afternoon"
+          },
+          {
+            "name": "Sportswear store",
+            "tag_id": "urn:tag:category:place:sportswear_store",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:sportswear_store"
+          },
+          {
+            "name": "Stadium exterior",
+            "tag_id": "urn:tag:view:qloo:stadium_exterior",
+            "type": "urn:tag:view:qloo",
+            "value": "urn:tag:view:qloo:stadium_exterior"
+          },
+          {
+            "name": "Manchester united museum",
+            "tag_id": "urn:tag:nearby_attraction:qloo:manchester_united_museum",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:manchester_united_museum"
+          },
+          {
+            "name": "Visa",
+            "tag_id": "urn:tag:credit_card:place:visa",
+            "type": "urn:tag:credit_card:place",
+            "value": "urn:tag:credit_card:place:visa"
+          },
+          {
+            "name": "Security checkpoints",
+            "tag_id": "urn:tag:amenity:qloo:security_checkpoints",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:security_checkpoints"
+          },
+          {
+            "name": "Modern",
+            "tag_id": "urn:tag:decor:qloo:modern",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:modern"
+          },
+          {
+            "name": "Sports memorabilia store",
+            "tag_id": "urn:tag:genre:place:sports_memorabilia_store",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:sports_memorabilia_store"
+          },
+          {
+            "name": "In store shopping",
+            "tag_id": "urn:tag:service_options:place:in_store_shopping",
+            "type": "urn:tag:service_options:place",
+            "value": "urn:tag:service_options:place:in_store_shopping"
+          },
+          {
+            "name": "Card payment terminals",
+            "tag_id": "urn:tag:amenity:qloo:card_payment_terminals",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:card_payment_terminals"
+          },
+          {
+            "name": "Athletic apparel",
+            "tag_id": "urn:tag:interests:qloo:athletic_apparel",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:athletic_apparel"
+          },
+          {
+            "name": "Central",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:central",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:central"
+          },
+          {
+            "name": "Commercial",
+            "tag_id": "urn:tag:setting:qloo:commercial",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:commercial"
+          },
+          {
+            "name": "Football stadium precinct",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:football_stadium_precinct",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:football_stadium_precinct"
+          },
+          {
+            "name": "Shopping",
+            "tag_id": "urn:tag:genre:place:shopping",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:shopping"
+          },
+          {
+            "name": "Mirrors",
+            "tag_id": "urn:tag:amenity:qloo:mirrors",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:mirrors"
+          },
+          {
+            "name": "Bustling",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:bustling",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:bustling"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_parking_lot"
+          },
+          {
+            "name": "Clothing store",
+            "tag_id": "urn:tag:genre:place:clothing_store",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:clothing_store"
+          },
+          {
+            "name": "American express",
+            "tag_id": "urn:tag:credit_card:place:american_express",
+            "type": "urn:tag:credit_card:place",
+            "value": "urn:tag:credit_card:place:american_express"
+          },
+          {
+            "name": "Place",
+            "tag_id": "urn:tag:genre:place",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place"
+          },
+          {
+            "name": "Lively",
+            "tag_id": "urn:tag:ambience:qloo:lively",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:lively"
+          },
+          {
+            "name": "Functional",
+            "tag_id": "urn:tag:decor:qloo:functional",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:functional"
+          },
+          {
+            "name": "Same day delivery",
+            "tag_id": "urn:tag:service_options:place:same_day_delivery",
+            "type": "urn:tag:service_options:place",
+            "value": "urn:tag:service_options:place:same_day_delivery"
+          },
+          {
+            "name": "Souvenir store",
+            "tag_id": "urn:tag:category:place:souvenir_store",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:souvenir_store"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:historic",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:historic"
+          },
+          {
+            "name": "Commercial",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:commercial",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:commercial"
+          },
+          {
+            "name": "Convenient",
+            "tag_id": "urn:tag:ambience:qloo:convenient",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:convenient"
+          },
+          {
+            "name": "Stadium tours",
+            "tag_id": "urn:tag:interests:qloo:stadium_tours",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:stadium_tours"
+          },
+          {
+            "name": "Evening",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:evening",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:evening"
+          },
+          {
+            "name": "Collectible memorabilia",
+            "tag_id": "urn:tag:interests:qloo:collectible_memorabilia",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:collectible_memorabilia"
+          },
+          {
+            "name": "Sports history",
+            "tag_id": "urn:tag:interests:qloo:sports_history",
+            "type": "urn:tag:interests:qloo",
+            "value": "urn:tag:interests:qloo:sports_history"
+          },
+          {
+            "name": "Onsite services",
+            "tag_id": "urn:tag:service_options:place:onsite_services",
+            "type": "urn:tag:service_options:place",
+            "value": "urn:tag:service_options:place:onsite_services"
+          },
+          {
+            "name": "Stylish",
+            "tag_id": "urn:tag:ambience:qloo:stylish",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:stylish"
+          },
+          {
+            "name": "Modern",
+            "tag_id": "urn:tag:ambience:qloo:modern",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:modern"
+          },
+          {
+            "name": "Nfc mobile payments",
+            "tag_id": "urn:tag:payments:place:nfc_mobile_payments",
+            "type": "urn:tag:payments:place",
+            "value": "urn:tag:payments:place:nfc_mobile_payments"
+          },
+          {
+            "name": "High energy",
+            "tag_id": "urn:tag:ambience:qloo:high_energy",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:high_energy"
+          },
+          {
+            "name": "Football merchandise browsing",
+            "tag_id": "urn:tag:activity_type:qloo:football_merchandise_browsing",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:football_merchandise_browsing"
+          },
+          {
+            "name": "Touristic",
+            "tag_id": "urn:tag:neighborhood_characteristic:qloo:touristic",
+            "type": "urn:tag:neighborhood_characteristic:qloo",
+            "value": "urn:tag:neighborhood_characteristic:qloo:touristic"
+          },
+          {
+            "name": "Wheelchair accessible entrance",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_entrance",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Matchday souvenir hunting",
+            "tag_id": "urn:tag:activity_type:qloo:matchday_souvenir_hunting",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:matchday_souvenir_hunting"
+          },
+          {
+            "name": "City center",
+            "tag_id": "urn:tag:setting:qloo:city_center",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:city_center"
+          },
+          {
+            "name": "Sportswear store",
+            "tag_id": "urn:tag:genre:place:sportswear_store",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:sportswear_store"
+          },
+          {
+            "name": "Convenience stop",
+            "tag_id": "urn:tag:visit_intent:qloo:convenience_stop",
+            "type": "urn:tag:visit_intent:qloo",
+            "value": "urn:tag:visit_intent:qloo:convenience_stop"
+          },
+          {
+            "name": "Sightseeing",
+            "tag_id": "urn:tag:activity_type:qloo:sightseeing",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:sightseeing"
+          },
+          {
+            "name": "Car park",
+            "tag_id": "urn:tag:amenity:qloo:car_park",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:car_park"
+          },
+          {
+            "name": "Stadium store",
+            "tag_id": "urn:tag:setting:qloo:stadium_store",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:stadium_store"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:setting:qloo:historic",
+            "type": "urn:tag:setting:qloo",
+            "value": "urn:tag:setting:qloo:historic"
+          },
+          {
+            "name": "Sports focused",
+            "tag_id": "urn:tag:ambience:qloo:sports_focused",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:sports_focused"
+          },
+          {
+            "name": "Destination",
+            "tag_id": "urn:tag:visit_intent:qloo:destination",
+            "type": "urn:tag:visit_intent:qloo",
+            "value": "urn:tag:visit_intent:qloo:destination"
+          },
+          {
+            "name": "Shirt printing kiosk",
+            "tag_id": "urn:tag:amenity:qloo:shirt_printing_kiosk",
+            "type": "urn:tag:amenity:qloo",
+            "value": "urn:tag:amenity:qloo:shirt_printing_kiosk"
+          },
+          {
+            "name": "Bustling",
+            "tag_id": "urn:tag:ambience:qloo:bustling",
+            "type": "urn:tag:ambience:qloo",
+            "value": "urn:tag:ambience:qloo:bustling"
+          },
+          {
+            "name": "Souvenir store",
+            "tag_id": "urn:tag:genre:place:souvenir_store",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:souvenir_store"
+          },
+          {
+            "name": "Lgbtq+ friendly",
+            "tag_id": "urn:tag:inclusivity:place:lgbtq_friendly",
+            "type": "urn:tag:inclusivity:place",
+            "value": "urn:tag:inclusivity:place:lgbtq_friendly"
+          },
+          {
+            "name": "Debit cards",
+            "tag_id": "urn:tag:payments:place:debit_cards",
+            "type": "urn:tag:payments:place",
+            "value": "urn:tag:payments:place:debit_cards"
+          },
+          {
+            "name": "Branded commercial",
+            "tag_id": "urn:tag:decor:qloo:branded_commercial",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:branded_commercial"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_restroom",
+            "type": "urn:tag:accessibility:place",
+            "value": "urn:tag:accessibility:place:wheelchair_accessible_restroom"
+          },
+          {
+            "name": "Clothing store",
+            "tag_id": "urn:tag:category:place:clothing_store",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:clothing_store"
+          },
+          {
+            "name": "Sports retail",
+            "tag_id": "urn:tag:decor:qloo:sports_retail",
+            "type": "urn:tag:decor:qloo",
+            "value": "urn:tag:decor:qloo:sports_retail"
+          },
+          {
+            "name": "Old trafford stadium",
+            "tag_id": "urn:tag:nearby_attraction:qloo:old_trafford_stadium",
+            "type": "urn:tag:nearby_attraction:qloo",
+            "value": "urn:tag:nearby_attraction:qloo:old_trafford_stadium"
+          },
+          {
+            "name": "Shopping",
+            "tag_id": "urn:tag:activity_type:qloo:shopping",
+            "type": "urn:tag:activity_type:qloo",
+            "value": "urn:tag:activity_type:qloo:shopping"
+          },
+          {
+            "name": "Midday",
+            "tag_id": "urn:tag:time_of_day_fit:qloo:midday",
+            "type": "urn:tag:time_of_day_fit:qloo",
+            "value": "urn:tag:time_of_day_fit:qloo:midday"
+          }
+        ]
+      }
+    ]
+  }
+}

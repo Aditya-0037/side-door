@@ -1,0 +1,1631 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Bruno Fernandes",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Bruno Fernandes",
+        "entity_id": "906531C2-AD85-4B10-92B4-F898184AB213",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "z",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Бруну Фернандеш"
+            },
+            {
+              "language": "u",
+              "value": "Бруну Фернандеш"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "v",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "b",
+              "value": "ব্রুনো মিগুয়েল বোর্গেস ফের্নান্দেস"
+            },
+            {
+              "language": "n",
+              "value": "ব্রুনো মিগুয়েল বোর্গেস ফের্নান্দেস"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "브루누 페르난치"
+            },
+            {
+              "language": "o",
+              "value": "브루누 페르난치"
+            },
+            {
+              "language": "h",
+              "value": "ब्रूनो फर्नांडीस"
+            },
+            {
+              "language": "i",
+              "value": "ब्रूनो फर्नांडीस"
+            },
+            {
+              "language": "s",
+              "value": "Бруно Фернандес"
+            },
+            {
+              "language": "r",
+              "value": "Бруно Фернандес"
+            },
+            {
+              "language": "h",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "u",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "บรูนู ฟือร์นังดึช"
+            },
+            {
+              "language": "h",
+              "value": "บรูนู ฟือร์นังดึช"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "ბრუნუ ფერნანდეში"
+            },
+            {
+              "language": "a",
+              "value": "ბრუნუ ფერნანდეში"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "브루노 페르난데스"
+            },
+            {
+              "language": "o",
+              "value": "브루노 페르난데스"
+            },
+            {
+              "language": "b",
+              "value": "Бруно Фернандеш"
+            },
+            {
+              "language": "g",
+              "value": "Бруно Фернандеш"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "o",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "b",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "برونو فرناندش"
+            },
+            {
+              "language": "a",
+              "value": "برونو فرناندش"
+            },
+            {
+              "language": "a",
+              "value": "برونو فرنانديز"
+            },
+            {
+              "language": "r",
+              "value": "برونو فرنانديز"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "h",
+              "value": "ברונו פרננדש"
+            },
+            {
+              "language": "e",
+              "value": "ברונו פרננדש"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "g",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "v",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "w",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Brunu Fernandešs"
+            },
+            {
+              "language": "v",
+              "value": "Brunu Fernandešs"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "บรูนู มีแกล บอร์ฌึช ฟือร์นังดึช"
+            },
+            {
+              "language": "h",
+              "value": "บรูนู มีแกล บอร์ฌึช ฟือร์นังดึช"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "q",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "h",
+              "value": "Բրունու Ֆերնանդեշ"
+            },
+            {
+              "language": "y",
+              "value": "Բրունու Ֆերնանդեշ"
+            },
+            {
+              "language": "a",
+              "value": "الهلال"
+            },
+            {
+              "language": "r",
+              "value": "الهلال"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Miguel Borges Fenandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Miguel Borges Fenandes"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Μπρούνο Φερνάντες"
+            },
+            {
+              "language": "l",
+              "value": "Μπρούνο Φερνάντες"
+            },
+            {
+              "language": "v",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Бруно Фернандеш"
+            },
+            {
+              "language": "r",
+              "value": "Бруно Фернандеш"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "v",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "z",
+              "value": "布鲁诺·费尔南德斯"
+            },
+            {
+              "language": "h",
+              "value": "布鲁诺·费尔南德斯"
+            },
+            {
+              "language": "m",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "b",
+              "value": "ব্রুনো ফের্নান্দেস"
+            },
+            {
+              "language": "n",
+              "value": "ব্রুনো ফের্নান্দেস"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "g",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "브루누 페르난드스"
+            },
+            {
+              "language": "o",
+              "value": "브루누 페르난드스"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "o",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "Бруну Фернандеш"
+            },
+            {
+              "language": "k",
+              "value": "Бруну Фернандеш"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "برونو میگل بورژش فرناندش"
+            },
+            {
+              "language": "a",
+              "value": "برونو میگل بورژش فرناندش"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "m",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Фернандеш, Бруну"
+            },
+            {
+              "language": "u",
+              "value": "Фернандеш, Бруну"
+            },
+            {
+              "language": "z",
+              "value": "B费"
+            },
+            {
+              "language": "h",
+              "value": "B费"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "h",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "u",
+              "value": "Bruno Miguel Borges Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "j",
+              "value": "ブルーノ・フェルナンデス"
+            },
+            {
+              "language": "a",
+              "value": "ブルーノ・フェルナンデス"
+            },
+            {
+              "language": "k",
+              "value": "ព្រូណូ​​ ហ្វើណាន់ដេស"
+            },
+            {
+              "language": "m",
+              "value": "ព្រូណូ​​ ហ្វើណាន់ដេស"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "u",
+              "value": "Бруну Фернандіш"
+            },
+            {
+              "language": "k",
+              "value": "Бруну Фернандіш"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "brunofernandes8"
+            },
+            "twitter": {
+              "id": "B_Fernandes8"
+            }
+          },
+          "citizenship": [
+            "Portugal"
+          ],
+          "date_of_birth": "1994-09-08",
+          "image": {
+            "url": "https://images.qloo.com/i/906531C2-AD85-4B10-92B4-F898184AB213-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Portugal national under-19 football team",
+            "Portugal national under-20 football team",
+            "Portugal national under-21 football team",
+            "Udinese Calcio",
+            "U.C. Sampdoria",
+            "Portugal Olympic football team",
+            "Manchester United F.C.",
+            "Novara Calcio"
+          ],
+          "work_period_start": "2012-11-03",
+          "short_description": "Portuguese association football player"
+        },
+        "popularity": 0.9891934203802959,
+        "disambiguation": "1994-09-08",
+        "tags": [
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Portugal Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portugal_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portugal_mens_youth_international_footballers"
+          },
+          {
+            "name": "Serie B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serie_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serie_b_players"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Uc Sampdoria Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uc_sampdoria_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uc_sampdoria_players"
+          },
+          {
+            "name": "Footballers From Porto District",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_porto_district",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_porto_district"
+          },
+          {
+            "name": "Serie A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serie_a_players"
+          },
+          {
+            "name": "Manchester United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players"
+          },
+          {
+            "name": "Engvarb From February 2023",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2023",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2023"
+          },
+          {
+            "name": "Uefa Euro 2020 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "Portugal Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portugal_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portugal_mens_international_footballers"
+          },
+          {
+            "name": "Uefa Nations League-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_nations_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_nations_league_winning_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy"
+          },
+          {
+            "name": "Portugal Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portugal_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portugal_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Olympic Footballers For Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_portugal"
+          },
+          {
+            "name": "Footballers At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics"
+          },
+          {
+            "name": "Sporting Cp Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sporting_cp_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sporting_cp_footballers"
+          },
+          {
+            "name": "Udinese Calcio Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:udinese_calcio_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:udinese_calcio_players"
+          },
+          {
+            "name": "Novara Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:novara_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:novara_fc_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          },
+          {
+            "name": "Portuguese Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_mens_footballers"
+          },
+          {
+            "name": "Portuguese Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_mens_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Mooneyhan",
+        "entity_id": "241B7869-AC18-4A7B-9F13-6DC7F1915AFC",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "q",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Fernandes Mooneyhan Silva"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes Mooneyhan Silva"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes Mooneyhan Silva"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes Mooneyhan Silva"
+            },
+            {
+              "language": "g",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Mooneyhan"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Mooneyhan"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1990-01-01",
+          "gender": [
+            "male"
+          ],
+          "short_description": "Brazilian model"
+        },
+        "popularity": 0.7823572259488373,
+        "disambiguation": "1990-01-01",
+        "tags": [
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:genre:person:model",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:model"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Fernandes",
+        "entity_id": "94F249E5-5AA4-4253-B384-F156D9E4617D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "i",
+              "value": "Bruno João Nandinga Borges Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno João Nandinga Borges Fernandes"
+            },
+            {
+              "language": "z",
+              "value": "般奴費南迪斯"
+            },
+            {
+              "language": "h",
+              "value": "般奴費南迪斯"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "z",
+              "value": "布鲁诺·费尔南德斯"
+            },
+            {
+              "language": "h",
+              "value": "布鲁诺·费尔南德斯"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "k",
+              "value": "브루누 주앙 난딩가 보르즈스 페르난드스"
+            },
+            {
+              "language": "o",
+              "value": "브루누 주앙 난딩가 보르즈스 페르난드스"
+            },
+            {
+              "language": "a",
+              "value": "برونو فرناندس"
+            },
+            {
+              "language": "r",
+              "value": "برونو فرناندس"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "q",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "o",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "g",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno João Nandingna Borges Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno João Nandingna Borges Fernandes"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Portugal",
+            "Guinea-Bissau"
+          ],
+          "date_of_birth": "1978-11-06",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "ASA 2013 Târgu Mureș",
+            "Guinea-Bissau national association football team",
+            "PFC Beroe Stara Zagora",
+            "C.F. Os Belenenses",
+            "CSM Ceahlăul Piatra Neamț",
+            "Workington A.F.C.",
+            "FC Unirea Urziceni",
+            "Amora F.C.",
+            "Cefn Druids A.F.C.",
+            "Clube Desportivo das Aves",
+            "Droylsden F.C.",
+            "Alki Larnaca F.C."
+          ],
+          "work_period_start": "1997-01-01",
+          "short_description": "footballer"
+        },
+        "disambiguation": "1978-11-06",
+        "tags": [
+          {
+            "name": "Liga I Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_i_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_i_players"
+          },
+          {
+            "name": "Segunda Divisão Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_divisao_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_divisao_players"
+          },
+          {
+            "name": "Alki Larnaca Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alki_larnaca_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alki_larnaca_fc_players"
+          },
+          {
+            "name": "C.f. Os Belenenses Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_f_os_belenenses_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_f_os_belenenses_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Workington A.f.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:workington_a_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:workington_a_f_c_players"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Sportspeople In Cyprus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_cyprus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_cyprus"
+          },
+          {
+            "name": "C.d. Aves Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_d_aves_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_d_aves_players"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Sportspeople In Romania",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_romania",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_romania"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In Cyprus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_cyprus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_cyprus"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Cyprus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_cyprus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_cyprus"
+          },
+          {
+            "name": "First Professional Football League (bulgaria) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_professional_football_league_bulgaria_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_professional_football_league_bulgaria_players"
+          },
+          {
+            "name": "Cefn Druids A.f.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cefn_druids_a_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cefn_druids_a_f_c_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Romania",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_romania",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_romania"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Portuguese Sportspeople Of Bissau-guinean Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_sportspeople_bissau_guinean_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_sportspeople_bissau_guinean_descent"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In Wales",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_wales",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_wales"
+          },
+          {
+            "name": "Pfc Beroe Stara Zagora Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pfc_beroe_stara_zagora_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pfc_beroe_stara_zagora_players"
+          },
+          {
+            "name": "Asa 2013 Târgu Mureș Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asa_2013_targu_mures_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asa_2013_targu_mures_players"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Amora F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:amora_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:amora_f_c_players"
+          },
+          {
+            "name": "Mens Association Football Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders"
+          },
+          {
+            "name": "Csm Ceahlăul Piatra Neamț Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:csm_ceahlaul_piatra_neamt_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:csm_ceahlaul_piatra_neamt_players"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_mens_footballers"
+          },
+          {
+            "name": "Bissau-guinean Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_mens_footballers"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In Romania",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_romania",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_romania"
+          },
+          {
+            "name": "Cymru Premier Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cymru_premier_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cymru_premier_players"
+          },
+          {
+            "name": "Guinea-bissau Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:guinea_bissau_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:guinea_bissau_mens_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Sportspeople In Wales",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_wales",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_wales"
+          },
+          {
+            "name": "Liga Portugal 2 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players"
+          },
+          {
+            "name": "Portuguese Expatriate Sportspeople In Bulgaria",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_bulgaria",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_expatriate_sportspeople_in_bulgaria"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Cypriot First Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cypriot_first_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cypriot_first_division_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Bulgaria",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_bulgaria",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_bulgaria"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Wales",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_wales",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_wales"
+          },
+          {
+            "name": "Fc Unirea Urziceni Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_unirea_urziceni_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_unirea_urziceni_players"
+          },
+          {
+            "name": "National League (english Football) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_league_english_football_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_league_english_football_players"
+          },
+          {
+            "name": "Droylsden F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:droylsden_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:droylsden_f_c_players"
+          },
+          {
+            "name": "Bissau-guinean Expatriate Sportspeople In Bulgaria",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_bulgaria",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bissau_guinean_expatriate_sportspeople_in_bulgaria"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Fernandes",
+        "entity_id": "1E8AD7C9-CD4C-4F79-843E-228F8A9A8520",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "f",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "r",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "g",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "برونو فيرنانديز"
+            },
+            {
+              "language": "r",
+              "value": "برونو فيرنانديز"
+            },
+            {
+              "language": "i",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "d",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "e",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "p",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "t",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "c",
+              "value": "Bruno Fernandes"
+            },
+            {
+              "language": "a",
+              "value": "Bruno Fernandes"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Portugal"
+          ],
+          "date_of_birth": "1974-06-30",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "A.D. Machico",
+            "A.D. Camacha",
+            "C.D. Nacional",
+            "FC Porto",
+            "C.S. Marítimo",
+            "Moreirense F.C.",
+            "C.F. União"
+          ],
+          "short_description": "Portuguese association football player, born 1994"
+        },
+        "disambiguation": "1974-06-30",
+        "tags": [
+          {
+            "name": "Liga Portugal 2 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players"
+          },
+          {
+            "name": "C.d. Nacional Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_d_nacional_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_d_nacional_players"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "C.f. União Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_f_uniao_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_f_uniao_players"
+          },
+          {
+            "name": "Moreirense F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:moreirense_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:moreirense_f_c_players"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "C.s. Marítimo Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:c_s_maritimo_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:c_s_maritimo_players"
+          },
+          {
+            "name": "Uefa Europa League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players"
+          },
+          {
+            "name": "Segunda Divisão Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_divisao_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_divisao_players"
+          },
+          {
+            "name": "Footballers From Funchal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_funchal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_funchal"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Portuguese Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_mens_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Fc Porto Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_porto_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_porto_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          }
+        ]
+      },
+      {
+        "name": "Bruno Fernandes",
+        "entity_id": "FE1EE12F-8FC2-4265-BE3E-CDDA0A45B7FF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "B Fernandes"
+            },
+            {
+              "language": "s",
+              "value": "B Fernandes"
+            },
+            {
+              "language": "n",
+              "value": "B Fernandes"
+            },
+            {
+              "language": "l",
+              "value": "B Fernandes"
+            }
+          ],
+          "external": {},
+          "short_description": "researcher ORCID ID = 0000-0002-8333-6655"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

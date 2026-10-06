@@ -1,0 +1,1688 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Smriti Mandhana",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Smriti Mandhana",
+        "entity_id": "6A948CB2-50C3-46F7-91C1-E6D03EFBEE24",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Smriti Mandhana (hindistonlik kriketchi)"
+            },
+            {
+              "language": "z",
+              "value": "Smriti Mandhana (hindistonlik kriketchi)"
+            },
+            {
+              "language": "m",
+              "value": "സ്മൃതി മന്ഥന"
+            },
+            {
+              "language": "l",
+              "value": "സ്മൃതി മന്ഥന"
+            },
+            {
+              "language": "t",
+              "value": "స్మృతి మందాన"
+            },
+            {
+              "language": "e",
+              "value": "స్మృతి మందాన"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "t",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "p",
+              "value": "ਸਮ੍ਰਿਤੀ ਮੰਧਾਨਾ"
+            },
+            {
+              "language": "a",
+              "value": "ਸਮ੍ਰਿਤੀ ਮੰਧਾਨਾ"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "u",
+              "value": "اسمرتی مندھانا"
+            },
+            {
+              "language": "r",
+              "value": "اسمرتی مندھانا"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "r",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "c",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "a",
+              "value": "سمريتي ماندهانا"
+            },
+            {
+              "language": "r",
+              "value": "سمريتي ماندهانا"
+            },
+            {
+              "language": "e",
+              "value": "Woman cricket fighter"
+            },
+            {
+              "language": "n",
+              "value": "Woman cricket fighter"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "t",
+              "value": "ஸ்மிருதி மந்தனா"
+            },
+            {
+              "language": "a",
+              "value": "ஸ்மிருதி மந்தனா"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Shriniwas Mandhana"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Shriniwas Mandhana"
+            },
+            {
+              "language": "b",
+              "value": "স্মৃতি মন্ধনা"
+            },
+            {
+              "language": "n",
+              "value": "স্মৃতি মন্ধনা"
+            },
+            {
+              "language": "m",
+              "value": "स्म्रिती मन्धाना"
+            },
+            {
+              "language": "r",
+              "value": "स्म्रिती मन्धाना"
+            },
+            {
+              "language": "h",
+              "value": "स्मृति मंधाना"
+            },
+            {
+              "language": "i",
+              "value": "स्मृति मंधाना"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "g",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "t",
+              "value": "స్మృతి మంధన"
+            },
+            {
+              "language": "e",
+              "value": "స్మృతి మంధన"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "q",
+              "value": "Smriti Mandhana"
+            },
+            {
+              "language": "k",
+              "value": "ಸ್ಮ್ರಿತಿ ಮಂಧಾನ"
+            },
+            {
+              "language": "n",
+              "value": "ಸ್ಮ್ರಿತಿ ಮಂಧಾನ"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "smritimandhana"
+            },
+            "twitter": {
+              "id": "mandhana_smriti"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1996-07-18",
+          "image": {
+            "url": "https://images.qloo.com/i/6A948CB2-50C3-46F7-91C1-E6D03EFBEE24-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "member_of_sports_team": [
+            "India national cricket team"
+          ],
+          "short_description": "Indian cricketer"
+        },
+        "popularity": 0.9580076320109587,
+        "disambiguation": "1996-07-18",
+        "tags": [
+          {
+            "name": "Cricketers From Mumbai",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_mumbai",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_mumbai"
+          },
+          {
+            "name": "Asian Games Gold Medalists For India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_gold_medalists_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_gold_medalists_india"
+          },
+          {
+            "name": "Indian Expatriate Cricketers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_expatriate_cricketers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_expatriate_cricketers_in_england"
+          },
+          {
+            "name": "India Women Twenty20 International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_women_twenty20_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_women_twenty20_international_cricketers"
+          },
+          {
+            "name": "Royal Challengers Bangalore (wpl) Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:royal_challengers_bangalore_wpl_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:royal_challengers_bangalore_wpl_cricketers"
+          },
+          {
+            "name": "Medallists At The 2022 Commonwealth Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medallists_at_2022_commonwealth_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medallists_at_2022_commonwealth_games"
+          },
+          {
+            "name": "Wisden Leading Woman Cricketers In The World",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisden_leading_woman_cricketers_in_world",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisden_leading_woman_cricketers_in_world"
+          },
+          {
+            "name": "Recipients Of The Arjuna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award"
+          },
+          {
+            "name": "Womens Premier League (cricket) Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:womens_premier_league_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:womens_premier_league_cricket_captains"
+          },
+          {
+            "name": "Indian Women Cricket Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_women_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_women_cricket_captains"
+          },
+          {
+            "name": "Sydney Thunder (wbbl) Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sydney_thunder_wbbl_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sydney_thunder_wbbl_cricketers"
+          },
+          {
+            "name": "Commonwealth Games Silver Medallists For India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:commonwealth_games_silver_medallists_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:commonwealth_games_silver_medallists_india"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "India Women One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_women_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_women_one_day_international_cricketers"
+          },
+          {
+            "name": "Medalists At The 2022 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2022_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2022_asian_games"
+          },
+          {
+            "name": "Southern Brave Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:southern_brave_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:southern_brave_cricketers"
+          },
+          {
+            "name": "Cricketers At The 2022 Asian Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2022_asian_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2022_asian_games"
+          },
+          {
+            "name": "Indian Expatriate Cricketers In Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_expatriate_cricketers_in_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_expatriate_cricketers_in_australia"
+          },
+          {
+            "name": "Brisbane Heat (wbbl) Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brisbane_heat_wbbl_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brisbane_heat_wbbl_cricketers"
+          },
+          {
+            "name": "Asian Games Medalists In Cricket",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_cricket",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asian_games_medalists_in_cricket"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "Maharashtra Women Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:maharashtra_women_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:maharashtra_women_cricketers"
+          },
+          {
+            "name": "India Women Test Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_women_test_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_women_test_cricketers"
+          },
+          {
+            "name": "Indian Women Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_women_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_women_cricketers"
+          },
+          {
+            "name": "International Cricket Council Cricketer Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:international_cricket_council_cricketer_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:international_cricket_council_cricketer_year"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Hobart Hurricanes (wbbl) Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hobart_hurricanes_wbbl_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hobart_hurricanes_wbbl_cricketers"
+          },
+          {
+            "name": "Ipl Trailblazers Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ipl_trailblazers_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ipl_trailblazers_cricketers"
+          },
+          {
+            "name": "Commonwealth Games Medallists In Cricket",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:commonwealth_games_medallists_in_cricket",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:commonwealth_games_medallists_in_cricket"
+          },
+          {
+            "name": "Western Storm Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:western_storm_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:western_storm_cricketers"
+          },
+          {
+            "name": "Sportswomen From Maharashtra",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportswomen_from_maharashtra",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportswomen_from_maharashtra"
+          },
+          {
+            "name": "People From Sangli",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_sangli",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_sangli"
+          },
+          {
+            "name": "West Zone Women Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_zone_women_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_zone_women_cricketers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Cricketers At The 2022 Commonwealth Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2022_commonwealth_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2022_commonwealth_games"
+          }
+        ]
+      },
+      {
+        "name": "Smriti Irani",
+        "entity_id": "9E5D059A-3EC8-4A8D-9B83-12A63D66AE6E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "k",
+              "value": "ಸ್ಮೃತಿ ಇರಾನಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಸ್ಮೃತಿ ಇರಾನಿ"
+            },
+            {
+              "language": "u",
+              "value": "سمرتی ایرانی"
+            },
+            {
+              "language": "r",
+              "value": "سمرتی ایرانی"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "m",
+              "value": "स्मृती इराणी"
+            },
+            {
+              "language": "r",
+              "value": "स्मृती इराणी"
+            },
+            {
+              "language": "g",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "j",
+              "value": "スムリティ・イラニ"
+            },
+            {
+              "language": "a",
+              "value": "スムリティ・イラニ"
+            },
+            {
+              "language": "f",
+              "value": "اسمریتی ایرانی"
+            },
+            {
+              "language": "a",
+              "value": "اسمریتی ایرانی"
+            },
+            {
+              "language": "m",
+              "value": "സ്മൃതി ഇറാനി"
+            },
+            {
+              "language": "l",
+              "value": "സ്മൃതി ഇറാനി"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "u",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "b",
+              "value": "স্মৃতি ইরানি"
+            },
+            {
+              "language": "n",
+              "value": "স্মৃতি ইরানি"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "t",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "r",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "c",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "t",
+              "value": "இசுமிருதி சுபின் இராணி"
+            },
+            {
+              "language": "a",
+              "value": "இசுமிருதி சுபின் இராணி"
+            },
+            {
+              "language": "a",
+              "value": "স্মৃতি ইৰানী"
+            },
+            {
+              "language": "s",
+              "value": "স্মৃতি ইৰানী"
+            },
+            {
+              "language": "t",
+              "value": "Смритӣ Иронӣ"
+            },
+            {
+              "language": "g",
+              "value": "Смритӣ Иронӣ"
+            },
+            {
+              "language": "y",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "o",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "b",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "p",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "t",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "z",
+              "value": "斯姆里提·艾拉尼"
+            },
+            {
+              "language": "h",
+              "value": "斯姆里提·艾拉尼"
+            },
+            {
+              "language": "o",
+              "value": "ସ୍ମୃତି ଇରାନି"
+            },
+            {
+              "language": "r",
+              "value": "ସ୍ମୃତି ଇରାନି"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "q",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "u",
+              "value": "Смріті Ірані"
+            },
+            {
+              "language": "k",
+              "value": "Смріті Ірані"
+            },
+            {
+              "language": "r",
+              "value": "Смрити Зубин Ирани, Смрити Малхотра, Малхотра"
+            },
+            {
+              "language": "u",
+              "value": "Смрити Зубин Ирани, Смрити Малхотра, Малхотра"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "z",
+              "value": "斯姆丽蒂·伊拉尼"
+            },
+            {
+              "language": "h",
+              "value": "斯姆丽蒂·伊拉尼"
+            },
+            {
+              "language": "t",
+              "value": "இசுமிருதி இரானி"
+            },
+            {
+              "language": "a",
+              "value": "இசுமிருதி இரானி"
+            },
+            {
+              "language": "h",
+              "value": "स्मृति ईरानी"
+            },
+            {
+              "language": "i",
+              "value": "स्मृति ईरानी"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Malhotra"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Malhotra"
+            },
+            {
+              "language": "s",
+              "value": "स्मृति इरानी"
+            },
+            {
+              "language": "a",
+              "value": "स्मृति इरानी"
+            },
+            {
+              "language": "r",
+              "value": "Смрити Ирани"
+            },
+            {
+              "language": "u",
+              "value": "Смрити Ирани"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Zubin Irani"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Zubin Irani"
+            },
+            {
+              "language": "k",
+              "value": "სმრიტი ირანი"
+            },
+            {
+              "language": "a",
+              "value": "სმრიტი ირანი"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "h",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "u",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "b",
+              "value": "স্মৃতি জুবিন ইরানি"
+            },
+            {
+              "language": "n",
+              "value": "স্মৃতি জুবিন ইরানি"
+            },
+            {
+              "language": "g",
+              "value": "સ્મૃતિ ઈરાની"
+            },
+            {
+              "language": "u",
+              "value": "સ્મૃતિ ઈરાની"
+            },
+            {
+              "language": "z",
+              "value": "斯姆里蒂·祖宾·伊拉尼"
+            },
+            {
+              "language": "h",
+              "value": "斯姆里蒂·祖宾·伊拉尼"
+            },
+            {
+              "language": "j",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "v",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "t",
+              "value": "స్మృతి ఇరానీ"
+            },
+            {
+              "language": "e",
+              "value": "స్మృతి ఇరానీ"
+            },
+            {
+              "language": "n",
+              "value": "स्मृति ईरानी"
+            },
+            {
+              "language": "e",
+              "value": "स्मृति ईरानी"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Zubin Irani"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Zubin Irani"
+            },
+            {
+              "language": "p",
+              "value": "ਸਮ੍ਰਿਤੀ ਇਰਾਨੀ"
+            },
+            {
+              "language": "a",
+              "value": "ਸਮ੍ਰਿਤੀ ਇਰਾਨੀ"
+            },
+            {
+              "language": "k",
+              "value": "سمرتی ایرانی"
+            },
+            {
+              "language": "s",
+              "value": "سمرتی ایرانی"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Irani"
+            },
+            {
+              "language": "v",
+              "value": "Smriti Irani"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "smritiiraniofficial"
+            },
+            "twitter": {
+              "id": "smritiirani"
+            },
+            "imdb": {
+              "id": "nm0989397"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1972-03-23",
+          "image": {
+            "url": "https://images.qloo.com/i/9E5D059A-3EC8-4A8D-9B83-12A63D66AE6E-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "spouse": [
+            "Zubin Irani"
+          ],
+          "short_description": "Indian politician"
+        },
+        "popularity": 0.9973853295789348,
+        "disambiguation": "1972-03-23",
+        "tags": [
+          {
+            "name": "Bharatiya Janata Party Politicians From Gujarat",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bharatiya_janata_party_politicians_from_gujarat",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bharatiya_janata_party_politicians_from_gujarat"
+          },
+          {
+            "name": "Narendra Modi Ministry",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:narendra_modi_ministry",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:narendra_modi_ministry"
+          },
+          {
+            "name": "Rajya Sabha Members From Gujarat",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rajya_sabha_members_from_gujarat",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rajya_sabha_members_from_gujarat"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "People Of Punjabi Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent"
+          },
+          {
+            "name": "21st-century Indian Women Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_women_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_women_politicians"
+          },
+          {
+            "name": "Actresses In Bengali Cinema",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_in_bengali_cinema",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_in_bengali_cinema"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Women In Gujarat Politics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_in_gujarat_politics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_in_gujarat_politics"
+          },
+          {
+            "name": "Bengali Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bengali_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bengali_politicians"
+          },
+          {
+            "name": "National Democratic Alliance Candidates In The 2019 Indian General Election",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_democratic_alliance_candidates_in_2019_indian_general_election",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_democratic_alliance_candidates_in_2019_indian_general_election"
+          },
+          {
+            "name": "Women Members Of The Cabinet Of India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_members_cabinet_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_members_cabinet_india"
+          },
+          {
+            "name": "Indian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_television_actresses"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Women Members Of The Rajya Sabha",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_members_rajya_sabha",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_members_rajya_sabha"
+          },
+          {
+            "name": "after Parameter Includes The Word vacant",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_vacant",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_vacant"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Rashtriya Swayamsevak Sangh Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rashtriya_swayamsevak_sangh_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rashtriya_swayamsevak_sangh_members"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "History",
+            "tag_id": "urn:tag:genre:media:media:history",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:history"
+          },
+          {
+            "name": "Indian Soap Opera Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_soap_opera_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_soap_opera_actresses"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Indian Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_television_producers"
+          },
+          {
+            "name": "21st-century Indian Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_politicians"
+          },
+          {
+            "name": "Indian Hindus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_hindus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_hindus"
+          },
+          {
+            "name": "India Mps 2019–2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_mps_2019_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_mps_2019_2024"
+          },
+          {
+            "name": "Women Members Of The Lok Sabha",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_members_lok_sabha",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_members_lok_sabha"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Indian Actor-politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_actor_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_actor_politicians"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "People Who Fabricated Academic Degrees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_who_fabricated_academic_degrees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_who_fabricated_academic_degrees"
+          },
+          {
+            "name": "Education Ministers Of India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:education_ministers_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:education_ministers_india"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:media:media:horror",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:horror"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Indian Women Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_women_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_women_television_producers"
+          },
+          {
+            "name": "Actresses From Mumbai",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_mumbai",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_mumbai"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Social Worker",
+            "tag_id": "urn:tag:occupation:person:social_worker",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:social_worker"
+          },
+          {
+            "name": "Ministers For Information And Broadcasting Of India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ministers_information_broadcasting_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ministers_information_broadcasting_india"
+          },
+          {
+            "name": "Rajya Sabha Members From The Bharatiya Janata Party",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rajya_sabha_members_from_bharatiya_janata_party",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rajya_sabha_members_from_bharatiya_janata_party"
+          },
+          {
+            "name": "Members Of The Cabinet Of India",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:members_cabinet_india",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:members_cabinet_india"
+          },
+          {
+            "name": "National Democratic Alliance Candidates In The 2014 Indian General Election",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_democratic_alliance_candidates_in_2014_indian_general_election",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_democratic_alliance_candidates_in_2014_indian_general_election"
+          }
+        ]
+      },
+      {
+        "name": "Smriti Khanna",
+        "entity_id": "A7484857-FD7C-41DD-9090-F5EFC51B6B38",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "p",
+              "value": "ਸਮ੍ਰਿਤੀ ਖੰਨਾ"
+            },
+            {
+              "language": "a",
+              "value": "ਸਮ੍ਰਿਤੀ ਖੰਨਾ"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "q",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "r",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "u",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "j",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "v",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "g",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "c",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Khanna"
+            },
+            {
+              "language": "b",
+              "value": "স্মিটি খান্না"
+            },
+            {
+              "language": "n",
+              "value": "স্মিটি খান্না"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "smriti_khanna"
+            },
+            "twitter": {
+              "id": "smritikhanna123"
+            },
+            "imdb": {
+              "id": "nm5813457"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1990-07-06",
+          "image": {
+            "url": "https://images.qloo.com/i/A7484857-FD7C-41DD-9090-F5EFC51B6B38-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "work_period_start": "2013-01-01",
+          "short_description": "Indian actress"
+        },
+        "popularity": 0.9206412193822637,
+        "disambiguation": "1990-07-06",
+        "tags": [
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Indian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_television_actresses"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Indian Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_film_actresses"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Smriti Vidyarthi AKA Potent Victor",
+        "entity_id": "0FC666D3-68E7-4928-B6DA-75D72EED9BB0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "r",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Vidyarthi"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Vidyarthi"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "SmritiVidyarthi"
+            }
+          },
+          "citizenship": [
+            "South Africa"
+          ],
+          "gender": [
+            "female"
+          ],
+          "short_description": "Kenyan journalist"
+        },
+        "popularity": 0.9060349419988911,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Kenyan People Of Indian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kenyan_people_indian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kenyan_people_indian_descent"
+          },
+          {
+            "name": "Kenyan People Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kenyan_people_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kenyan_people_stubs"
+          },
+          {
+            "name": "Alumni Of The University Of Warwick",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alumni_university_warwick",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alumni_university_warwick"
+          },
+          {
+            "name": "Kenyan Women Television Journalists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kenyan_women_television_journalists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kenyan_women_television_journalists"
+          },
+          {
+            "name": "Kenyan Television Journalists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kenyan_television_journalists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kenyan_television_journalists"
+          },
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:occupation:person:journalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:journalist"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:genre:person:journalist",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:journalist"
+          }
+        ]
+      },
+      {
+        "name": "Smriti Kalra",
+        "entity_id": "4AAA5D96-E4FC-4267-9665-623B4625DFA3",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "b",
+              "value": "স্মিটি কালরা"
+            },
+            {
+              "language": "n",
+              "value": "স্মিটি কালরা"
+            },
+            {
+              "language": "n",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "p",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "t",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "e",
+              "value": "Smiriti Kalra"
+            },
+            {
+              "language": "n",
+              "value": "Smiriti Kalra"
+            },
+            {
+              "language": "p",
+              "value": "ਸਮਰਿਤੀ ਕਾਲੜਾ"
+            },
+            {
+              "language": "a",
+              "value": "ਸਮਰਿਤੀ ਕਾਲੜਾ"
+            },
+            {
+              "language": "j",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "v",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "g",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "d",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "e",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "c",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "a",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "i",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "t",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "h",
+              "value": "स्मृती कालरा"
+            },
+            {
+              "language": "i",
+              "value": "स्मृती कालरा"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "l",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "u",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "s",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "q",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "f",
+              "value": "Smriti Kalra"
+            },
+            {
+              "language": "r",
+              "value": "Smriti Kalra"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "smiritikalra5"
+            },
+            "imdb": {
+              "id": "nm5004320"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1987-10-26",
+          "image": {
+            "url": "https://images.qloo.com/i/4AAA5D96-E4FC-4267-9665-623B4625DFA3-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "Television actress"
+        },
+        "popularity": 0.6269610028157989,
+        "disambiguation": "1987-10-26",
+        "tags": [
+          {
+            "name": "People From Gurgaon",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_gurgaon",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_gurgaon"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Indian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_television_actresses"
+          },
+          {
+            "name": "Actresses From Haryana",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_haryana",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_haryana"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Film Director",
+            "tag_id": "urn:tag:occupation:person:film_director",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_director"
+          }
+        ]
+      }
+    ]
+  }
+}

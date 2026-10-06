@@ -1,0 +1,2216 @@
+{
+  "status": 200,
+  "params": {
+    "query": "MS Dhoni",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "MS Dhoni",
+        "entity_id": "5DF06D93-8AD1-47E5-B689-561775263898",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "q",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "தோனி"
+            },
+            {
+              "language": "a",
+              "value": "தோனி"
+            },
+            {
+              "language": "g",
+              "value": "મહેન્દ્ર સિંહ ધોની"
+            },
+            {
+              "language": "u",
+              "value": "મહેન્દ્ર સિંહ ધોની"
+            },
+            {
+              "language": "m",
+              "value": "महेंद्र सिंग धोणी"
+            },
+            {
+              "language": "r",
+              "value": "महेंद्र सिंग धोणी"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "j",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "ମହେନ୍ଦ୍ର ସିଂହ ଧୋନି"
+            },
+            {
+              "language": "r",
+              "value": "ମହେନ୍ଦ୍ର ସିଂହ ଧୋନି"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "ధోనీ"
+            },
+            {
+              "language": "e",
+              "value": "ధోనీ"
+            },
+            {
+              "language": "p",
+              "value": "ਮਹਿੰਦਰ ਸਿੰਘ ਧੋਨੀ"
+            },
+            {
+              "language": "a",
+              "value": "ਮਹਿੰਦਰ ਸਿੰਘ ਧੋਨੀ"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "ఏం.ఎస్.ధోని"
+            },
+            {
+              "language": "e",
+              "value": "ఏం.ఎస్.ధోని"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "مہندر سنگھ دھونی"
+            },
+            {
+              "language": "r",
+              "value": "مہندر سنگھ دھونی"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "માહી"
+            },
+            {
+              "language": "u",
+              "value": "માહી"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "மகேந்திர சிங் டோனி"
+            },
+            {
+              "language": "a",
+              "value": "மகேந்திர சிங் டோனி"
+            },
+            {
+              "language": "f",
+              "value": "M. S. Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "M. S. Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mr Cool"
+            },
+            {
+              "language": "n",
+              "value": "Mr Cool"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "एम.एस. धोणी"
+            },
+            {
+              "language": "r",
+              "value": "एम.एस. धोणी"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "q",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "d",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "p",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Махендра Сингх Дхони"
+            },
+            {
+              "language": "u",
+              "value": "Махендра Сингх Дхони"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "ಮಹೇಂದ್ರ ಸಿಂಗ್ ಧೋನಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಮಹೇಂದ್ರ ಸಿಂಗ್ ಧೋನಿ"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "ധോണി"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "d",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "j",
+              "value": "マヘンドラ・シン・ドーニ"
+            },
+            {
+              "language": "a",
+              "value": "マヘンドラ・シン・ドーニ"
+            },
+            {
+              "language": "v",
+              "value": "Ṭōn̲i,"
+            },
+            {
+              "language": "i",
+              "value": "Ṭōn̲i,"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "മഹേന്ദ്ര സിങ് ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "മഹേന്ദ്ര സിങ് ധോണി"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "x",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "महेंद्रसिंग धोनी"
+            },
+            {
+              "language": "r",
+              "value": "महेंद्रसिंग धोनी"
+            },
+            {
+              "language": "a",
+              "value": "মহেন্দ্ৰ সিং ধোনি"
+            },
+            {
+              "language": "s",
+              "value": "মহেন্দ্ৰ সিং ধোনি"
+            },
+            {
+              "language": "p",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "ಎಮ್ ಎಸ್ ಧೋನಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಎಮ್ ಎಸ್ ಧೋನಿ"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahi"
+            },
+            {
+              "language": "n",
+              "value": "Mahi"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Captain Cool"
+            },
+            {
+              "language": "n",
+              "value": "Captain Cool"
+            },
+            {
+              "language": "m",
+              "value": "महेन्द्रसिंग धोणी"
+            },
+            {
+              "language": "r",
+              "value": "महेन्द्रसिंग धोणी"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "மகேந்திர சிங் தோனி"
+            },
+            {
+              "language": "a",
+              "value": "மகேந்திர சிங் தோனி"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "महेंद्र सिंह धोनी"
+            },
+            {
+              "language": "i",
+              "value": "महेंद्र सिंह धोनी"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "ಮಹೇಂದ್ರ ಸಿಂಘ್ ಧೋನಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಮಹೇಂದ್ರ ಸಿಂಘ್ ಧೋನಿ"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "महेंद्रसिंग धोणी"
+            },
+            {
+              "language": "r",
+              "value": "महेंद्रसिंग धोणी"
+            },
+            {
+              "language": "m",
+              "value": "മഹേന്ദ്ര സിംഗ് ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "മഹേന്ദ്ര സിംഗ് ധോണി"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "y",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "माही"
+            },
+            {
+              "language": "i",
+              "value": "माही"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "j",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "j",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "എം.എസ്. ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "എം.എസ്. ധോണി"
+            },
+            {
+              "language": "b",
+              "value": "মহেন্দ্র সিং ধোনী"
+            },
+            {
+              "language": "n",
+              "value": "মহেন্দ্র সিং ধোনী"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "ધોની"
+            },
+            {
+              "language": "u",
+              "value": "ધોની"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "v",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "మాహి"
+            },
+            {
+              "language": "e",
+              "value": "మాహి"
+            },
+            {
+              "language": "n",
+              "value": "माही"
+            },
+            {
+              "language": "e",
+              "value": "माही"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "d",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "धोनी"
+            },
+            {
+              "language": "i",
+              "value": "धोनी"
+            },
+            {
+              "language": "p",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "M.S. DHONI"
+            },
+            {
+              "language": "l",
+              "value": "M.S. DHONI"
+            },
+            {
+              "language": "b",
+              "value": "এমএস ধোনী"
+            },
+            {
+              "language": "n",
+              "value": "এমএস ধোনী"
+            },
+            {
+              "language": "n",
+              "value": "महेन्द्र सिंह धोनी"
+            },
+            {
+              "language": "e",
+              "value": "महेन्द्र सिंह धोनी"
+            },
+            {
+              "language": "t",
+              "value": "మహేంద్రసింగ్ ధోని"
+            },
+            {
+              "language": "e",
+              "value": "మహేంద్రసింగ్ ధోని"
+            },
+            {
+              "language": "e",
+              "value": "Finisher"
+            },
+            {
+              "language": "n",
+              "value": "Finisher"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "මහේන්ද්‍ර සිං දෝනි"
+            },
+            {
+              "language": "i",
+              "value": "මහේන්ද්‍ර සිං දෝනි"
+            },
+            {
+              "language": "f",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "महेंद्रसिंह धोणी"
+            },
+            {
+              "language": "r",
+              "value": "महेंद्रसिंह धोणी"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "w",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "d",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "మహేంద్ర సింగ్ ధోని"
+            },
+            {
+              "language": "e",
+              "value": "మహేంద్ర సింగ్ ధోని"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "z",
+              "value": "馬亨德拉·辛格·多尼"
+            },
+            {
+              "language": "h",
+              "value": "馬亨德拉·辛格·多尼"
+            },
+            {
+              "language": "f",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "महेन्द्र सिंह धोनी"
+            },
+            {
+              "language": "a",
+              "value": "महेन्द्र सिंह धोनी"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "ಧೋನಿ"
+            },
+            {
+              "language": "n",
+              "value": "ಧೋನಿ"
+            },
+            {
+              "language": "m",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "М. С. Дхони"
+            },
+            {
+              "language": "u",
+              "value": "М. С. Дхони"
+            },
+            {
+              "language": "e",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "एम एस धोनी"
+            },
+            {
+              "language": "i",
+              "value": "एम एस धोनी"
+            },
+            {
+              "language": "m",
+              "value": "മഹേന്ദ്രസിങ് ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "മഹേന്ദ്രസിങ് ധോണി"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "ماهيندرا دوني"
+            },
+            {
+              "language": "r",
+              "value": "ماهيندرا دوني"
+            },
+            {
+              "language": "g",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "k",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "u",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "f",
+              "value": "ماهیندرا دونی"
+            },
+            {
+              "language": "a",
+              "value": "ماهیندرا دونی"
+            },
+            {
+              "language": "m",
+              "value": "മഹേന്ദ്രസിംഗ് ധോണി"
+            },
+            {
+              "language": "l",
+              "value": "മഹേന്ദ്രസിംഗ് ധോണി"
+            },
+            {
+              "language": "e",
+              "value": "MSD"
+            },
+            {
+              "language": "n",
+              "value": "MSD"
+            },
+            {
+              "language": "t",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "d",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "MS Dhoni"
+            },
+            {
+              "language": "b",
+              "value": "মহেন্দ্র সিং ধোনি"
+            },
+            {
+              "language": "n",
+              "value": "মহেন্দ্র সিং ধোনি"
+            },
+            {
+              "language": "g",
+              "value": "એમ એસ ધોની"
+            },
+            {
+              "language": "u",
+              "value": "એમ એસ ધોની"
+            },
+            {
+              "language": "m",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "i",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Mahendra Singh Dhoni"
+            },
+            {
+              "language": "o",
+              "value": "Mahendra Singh Dhoni"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "mahi7781"
+            },
+            "twitter": {
+              "id": "MSDhoni"
+            },
+            "imdb": {
+              "id": "nm2605014"
+            },
+            "library_of_congress": {
+              "id": "n2008208069"
+            }
+          },
+          "child": [
+            "Ziva Dhoni"
+          ],
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1981-07-07",
+          "image": {
+            "url": "https://images.qloo.com/i/5DF06D93-8AD1-47E5-B689-561775263898-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "spouse": [
+            "Sakshi Dhoni"
+          ],
+          "member_of_sports_team": [
+            "Bihar cricket team",
+            "Rising Pune Supergiant",
+            "India national cricket team",
+            "Chennai Super Kings",
+            "Jharkhand cricket team"
+          ],
+          "short_description": "Indian cricket player"
+        },
+        "popularity": 0.9983366129961623,
+        "disambiguation": "1981-07-07",
+        "tags": [
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Acc Asian Xi One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:acc_asian_xi_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:acc_asian_xi_one_day_international_cricketers"
+          },
+          {
+            "name": "India Blue Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_blue_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_blue_cricketers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Indian A Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_a_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_a_cricketers"
+          },
+          {
+            "name": "Wicket-keepers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wicket_keepers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wicket_keepers"
+          },
+          {
+            "name": "Jharkhand Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jharkhand_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jharkhand_cricketers"
+          },
+          {
+            "name": "Kumaoni People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kumaoni_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kumaoni_people"
+          },
+          {
+            "name": "Cricketers At The 2011 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2011_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2011_cricket_world_cup"
+          },
+          {
+            "name": "People From Ranchi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_ranchi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_ranchi"
+          },
+          {
+            "name": "Cricketers At The 2019 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup"
+          },
+          {
+            "name": "Rising Pune Supergiant Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rising_pune_supergiant_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rising_pune_supergiant_cricketers"
+          },
+          {
+            "name": "India One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers"
+          },
+          {
+            "name": "20th-century Indian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_indian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_indian_people"
+          },
+          {
+            "name": "21st-century Indian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people"
+          },
+          {
+            "name": "East Zone Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:east_zone_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:east_zone_cricketers"
+          },
+          {
+            "name": "India Test Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricketers"
+          },
+          {
+            "name": "India Twenty20 International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Recipients Of The Padma Bhushan In Sports",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_padma_bhushan_in_sports",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_padma_bhushan_in_sports"
+          },
+          {
+            "name": "Cricketers At The 2015 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup"
+          },
+          {
+            "name": "Cricketers At The 2007 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2007_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2007_cricket_world_cup"
+          },
+          {
+            "name": "Bihar Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bihar_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bihar_cricketers"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "Cricketers From Jharkhand",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_jharkhand",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_jharkhand"
+          },
+          {
+            "name": "Chennai Super Kings Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chennai_super_kings_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chennai_super_kings_cricketers"
+          },
+          {
+            "name": "Recipients Of The Khel Ratna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award"
+          },
+          {
+            "name": "People From Uttarakhand",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_uttarakhand",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_uttarakhand"
+          },
+          {
+            "name": "India Test Cricket Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains"
+          },
+          {
+            "name": "Recipients Of The Padma Shri In Sports",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_padma_shri_in_sports",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_padma_shri_in_sports"
+          }
+        ]
+      },
+      {
+        "name": "Addie MS",
+        "entity_id": "56059BE0-19E1-455C-875A-82FDECD74E8D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "d",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "q",
+              "value": "Addie MS"
+            },
+            {
+              "language": "m",
+              "value": "Addie MS"
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "n",
+              "value": "Addie MS"
+            },
+            {
+              "language": "n",
+              "value": "Addie MS"
+            },
+            {
+              "language": "i",
+              "value": "Adi MS"
+            },
+            {
+              "language": "d",
+              "value": "Adi MS"
+            },
+            {
+              "language": "n",
+              "value": "Addie MS"
+            },
+            {
+              "language": "l",
+              "value": "Addie MS"
+            },
+            {
+              "language": "e",
+              "value": "Addie MS"
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "j",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "v",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "v",
+              "value": "Addie MS"
+            },
+            {
+              "language": "i",
+              "value": "Addie ms"
+            },
+            {
+              "language": "d",
+              "value": "Addie ms"
+            },
+            {
+              "language": "s",
+              "value": "Adie MS"
+            },
+            {
+              "language": "u",
+              "value": "Adie MS"
+            },
+            {
+              "language": "d",
+              "value": "Addie MS"
+            },
+            {
+              "language": "a",
+              "value": "Addie MS"
+            },
+            {
+              "language": "i",
+              "value": "Addie M.S."
+            },
+            {
+              "language": "d",
+              "value": "Addie M.S."
+            },
+            {
+              "language": "g",
+              "value": "Addie MS"
+            },
+            {
+              "language": "a",
+              "value": "Addie MS"
+            },
+            {
+              "language": "p",
+              "value": "Addie MS"
+            },
+            {
+              "language": "l",
+              "value": "Addie MS"
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "l",
+              "value": "Addie MS"
+            },
+            {
+              "language": "d",
+              "value": "Addie MS"
+            },
+            {
+              "language": "e",
+              "value": "Addie MS"
+            },
+            {
+              "language": "f",
+              "value": "Addie MS"
+            },
+            {
+              "language": "r",
+              "value": "Addie MS"
+            },
+            {
+              "language": "i",
+              "value": "Addie M. S."
+            },
+            {
+              "language": "d",
+              "value": "Addie M. S."
+            },
+            {
+              "language": "s",
+              "value": "Addie MS"
+            },
+            {
+              "language": "u",
+              "value": "Addie MS"
+            },
+            {
+              "language": "m",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "s",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "i",
+              "value": "Adie MS"
+            },
+            {
+              "language": "d",
+              "value": "Adie MS"
+            },
+            {
+              "language": "i",
+              "value": "Addie MS"
+            },
+            {
+              "language": "d",
+              "value": "Addie MS"
+            },
+            {
+              "language": "n",
+              "value": "Addie MS"
+            },
+            {
+              "language": "b",
+              "value": "Addie MS"
+            },
+            {
+              "language": "e",
+              "value": "Addie Muljadi Sumaatmadja"
+            },
+            {
+              "language": "n",
+              "value": "Addie Muljadi Sumaatmadja"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "addiems"
+            },
+            "library_of_congress": {
+              "id": "no2004113196"
+            },
+            "musicbrainz": {
+              "id": "0778d723-257d-4bd2-9bee-0e7365c06b6d"
+            }
+          },
+          "child": [
+            "Kevin Aprilio",
+            "Tristan Juliano"
+          ],
+          "citizenship": [
+            "Indonesia"
+          ],
+          "date_of_birth": "1959-10-07",
+          "image": {
+            "url": "https://images.qloo.com/i/56059BE0-19E1-455C-875A-82FDECD74E8D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Memes"
+          ],
+          "work_period_start": "1977-01-01",
+          "short_description": "Indonesian musician, composer, conductor, songwriter, and record producer (born 1959)"
+        },
+        "popularity": 0.9831486937519706,
+        "disambiguation": "1959-10-07",
+        "tags": [
+          {
+            "name": "Indonesian Conductors (music)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_conductors_music",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_conductors_music"
+          },
+          {
+            "name": "Javanese People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:javanese_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:javanese_people"
+          },
+          {
+            "name": "21st-century Conductors (music)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_conductors_music",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_conductors_music"
+          },
+          {
+            "name": "Musicians From Jakarta",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_jakarta",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_jakarta"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Indonesian Muslims",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_muslims",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_muslims"
+          },
+          {
+            "name": "Sundanese People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sundanese_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sundanese_people"
+          },
+          {
+            "name": "Conductor",
+            "tag_id": "urn:tag:occupation:person:conductor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:conductor"
+          }
+        ]
+      },
+      {
+        "name": "Banda MS de Sergio Lizárraga",
+        "entity_id": "72FFA40C-D6D1-427A-836A-3439BE681FC5",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {}
+        },
+        "popularity": 0.9723475500375077,
+        "disambiguation": ""
+      },
+      {
+        "name": "Sakshi Dhoni",
+        "entity_id": "B091E31F-741B-42A5-8DCB-4B2DC443DAAF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "स्काक्षी सिंह रावत"
+            },
+            {
+              "language": "i",
+              "value": "स्काक्षी सिंह रावत"
+            },
+            {
+              "language": "t",
+              "value": "సాక్షి ధోని"
+            },
+            {
+              "language": "e",
+              "value": "సాక్షి ధోని"
+            },
+            {
+              "language": "f",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "r",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "h",
+              "value": "साक्षी धोनी"
+            },
+            {
+              "language": "i",
+              "value": "साक्षी धोनी"
+            },
+            {
+              "language": "b",
+              "value": "সাক্ষী ধোনি"
+            },
+            {
+              "language": "n",
+              "value": "সাক্ষী ধোনি"
+            },
+            {
+              "language": "f",
+              "value": "Sakshi Singh Rawat"
+            },
+            {
+              "language": "r",
+              "value": "Sakshi Singh Rawat"
+            },
+            {
+              "language": "g",
+              "value": "સાક્ષી ધોની"
+            },
+            {
+              "language": "u",
+              "value": "સાક્ષી ધોની"
+            },
+            {
+              "language": "s",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "c",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "a",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "n",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "l",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "t",
+              "value": "సాక్షి సింగ్ రావత్"
+            },
+            {
+              "language": "e",
+              "value": "సాక్షి సింగ్ రావత్"
+            },
+            {
+              "language": "e",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "s",
+              "value": "Sakshi Dhoni"
+            },
+            {
+              "language": "g",
+              "value": "સાક્ષી સિંહ ધોની"
+            },
+            {
+              "language": "u",
+              "value": "સાક્ષી સિંહ ધોની"
+            },
+            {
+              "language": "e",
+              "value": "Sakshi Singh Rawat"
+            },
+            {
+              "language": "n",
+              "value": "Sakshi Singh Rawat"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "sakshisingh_r"
+            },
+            "twitter": {
+              "id": "SaakshiSRawat"
+            }
+          },
+          "child": [
+            "Ziva Dhoni"
+          ],
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1988-11-19",
+          "gender": [
+            "female"
+          ],
+          "spouse": [
+            "MS Dhoni"
+          ],
+          "short_description": "Wife of MS Dhoni"
+        },
+        "popularity": 0.9662539002620106,
+        "disambiguation": "1988-11-19",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Ms Ntando Duma Mthombeni🇿🇦",
+        "entity_id": "DD3866C1-CBCD-48DD-A9E1-A87788677EA1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {}
+        },
+        "popularity": 0.960296148117546,
+        "disambiguation": ""
+      }
+    ]
+  }
+}

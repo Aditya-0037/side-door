@@ -1,0 +1,1751 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Virat Kohli",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Virat Kohli",
+        "entity_id": "67764010-965B-4787-A53B-0B8F60EDD5ED",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "k",
+              "value": "ವಿರಾಟ್ ಕೊಹ್ಲಿ"
+            },
+            {
+              "language": "n",
+              "value": "ವಿರಾಟ್ ಕೊಹ್ಲಿ"
+            },
+            {
+              "language": "s",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "v",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "u",
+              "value": "ورات کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "ورات کوہلی"
+            },
+            {
+              "language": "a",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "f",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "g",
+              "value": "વિરાટ કોહલી"
+            },
+            {
+              "language": "u",
+              "value": "વિરાટ કોહલી"
+            },
+            {
+              "language": "h",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "i",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "t",
+              "value": "วิราฏ โกห์ลี"
+            },
+            {
+              "language": "h",
+              "value": "วิราฏ โกห์ลี"
+            },
+            {
+              "language": "p",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Кохли, Вират"
+            },
+            {
+              "language": "u",
+              "value": "Кохли, Вират"
+            },
+            {
+              "language": "v",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "h",
+              "value": "Virát Kohli"
+            },
+            {
+              "language": "u",
+              "value": "Virát Kohli"
+            },
+            {
+              "language": "m",
+              "value": "വിരാട് കോഹ്ലി"
+            },
+            {
+              "language": "l",
+              "value": "വിരാട് കോഹ്ലി"
+            },
+            {
+              "language": "d",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "o",
+              "value": "ବିରାଟ କୋହଲୀ"
+            },
+            {
+              "language": "r",
+              "value": "ବିରାଟ କୋହଲୀ"
+            },
+            {
+              "language": "u",
+              "value": "ویرات کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "ویرات کوہلی"
+            },
+            {
+              "language": "z",
+              "value": "維拉·哥利"
+            },
+            {
+              "language": "h",
+              "value": "維拉·哥利"
+            },
+            {
+              "language": "t",
+              "value": "విరాట్ కోహ్లి"
+            },
+            {
+              "language": "e",
+              "value": "విరాట్ కోహ్లి"
+            },
+            {
+              "language": "f",
+              "value": "ویرات کوهلی"
+            },
+            {
+              "language": "a",
+              "value": "ویرات کوهلی"
+            },
+            {
+              "language": "k",
+              "value": "비라트 콜리"
+            },
+            {
+              "language": "o",
+              "value": "비라트 콜리"
+            },
+            {
+              "language": "e",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "u",
+              "value": "Вірат Кохлі"
+            },
+            {
+              "language": "k",
+              "value": "Вірат Кохлі"
+            },
+            {
+              "language": "p",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "u",
+              "value": "ویراٹ کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "ویراٹ کوہلی"
+            },
+            {
+              "language": "n",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "b",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "a",
+              "value": "فيرات كوهلي"
+            },
+            {
+              "language": "r",
+              "value": "فيرات كوهلي"
+            },
+            {
+              "language": "m",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "r",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "g",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "v",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "j",
+              "value": "ヴィラット・コーリ"
+            },
+            {
+              "language": "a",
+              "value": "ヴィラット・コーリ"
+            },
+            {
+              "language": "m",
+              "value": "വിരാട് കോഹ്‌ലി"
+            },
+            {
+              "language": "l",
+              "value": "വിരാട് കോഹ്‌ലി"
+            },
+            {
+              "language": "u",
+              "value": "وراٹ کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "وراٹ کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "Вират Коли"
+            },
+            {
+              "language": "u",
+              "value": "Вират Коли"
+            },
+            {
+              "language": "s",
+              "value": "विराट् कॊह्लि"
+            },
+            {
+              "language": "a",
+              "value": "विराट् कॊह्लि"
+            },
+            {
+              "language": "s",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "q",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "n",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "e",
+              "value": "विराट कोहली"
+            },
+            {
+              "language": "r",
+              "value": "Вират Кохли"
+            },
+            {
+              "language": "u",
+              "value": "Вират Кохли"
+            },
+            {
+              "language": "c",
+              "value": "Rei Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rei Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rey Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rey Kohli"
+            },
+            {
+              "language": "h",
+              "value": "ויראט קוהלי"
+            },
+            {
+              "language": "e",
+              "value": "ויראט קוהלי"
+            },
+            {
+              "language": "m",
+              "value": "വിരാട് കോലി"
+            },
+            {
+              "language": "l",
+              "value": "വിരാട് കോലി"
+            },
+            {
+              "language": "b",
+              "value": "বিরাট কোহলি"
+            },
+            {
+              "language": "n",
+              "value": "বিরাট কোহলি"
+            },
+            {
+              "language": "h",
+              "value": "Վիրատ Կոհլի"
+            },
+            {
+              "language": "y",
+              "value": "Վիրատ Կոհլի"
+            },
+            {
+              "language": "p",
+              "value": "ਵਿਰਾਟ ਕੋਹਲੀ"
+            },
+            {
+              "language": "a",
+              "value": "ਵਿਰਾਟ ਕੋਹਲੀ"
+            },
+            {
+              "language": "a",
+              "value": "বিৰাট ক'হলি"
+            },
+            {
+              "language": "s",
+              "value": "বিৰাট ক'হলি"
+            },
+            {
+              "language": "o",
+              "value": "ବିରାଟ କୋହଲି"
+            },
+            {
+              "language": "r",
+              "value": "ବିରାଟ କୋହଲି"
+            },
+            {
+              "language": "t",
+              "value": "விராட் கோலி"
+            },
+            {
+              "language": "a",
+              "value": "விராட் கோலி"
+            },
+            {
+              "language": "f",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Virat Kohli"
+            },
+            {
+              "language": "e",
+              "value": "chiko"
+            },
+            {
+              "language": "n",
+              "value": "chiko"
+            },
+            {
+              "language": "j",
+              "value": "ヴィラット・コハリー"
+            },
+            {
+              "language": "a",
+              "value": "ヴィラット・コハリー"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "virat.kohli"
+            },
+            "twitter": {
+              "id": "imVkohli"
+            },
+            "imdb": {
+              "id": "nm8667438"
+            },
+            "library_of_congress": {
+              "id": "n2017242720"
+            }
+          },
+          "child": [
+            "Vamika Kohli"
+          ],
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1988-11-05",
+          "image": {
+            "url": "https://images.qloo.com/i/67764010-965B-4787-A53B-0B8F60EDD5ED-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "spouse": [
+            "Anushka Sharma"
+          ],
+          "member_of_sports_team": [
+            "India Under-19 cricket team",
+            "India national cricket team",
+            "Delhi cricket team",
+            "Royal Challengers Bengaluru"
+          ],
+          "short_description": "Indian cricket player"
+        },
+        "popularity": 0.9998423587480023,
+        "disambiguation": "1988-11-05",
+        "tags": [
+          {
+            "name": "Wisden Leading Cricketers In The World",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisden_leading_cricketers_in_world",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisden_leading_cricketers_in_world"
+          },
+          {
+            "name": "Indian Hindus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_hindus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_hindus"
+          },
+          {
+            "name": "Recipients Of The Padma Shri In Sports",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_padma_shri_in_sports",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_padma_shri_in_sports"
+          },
+          {
+            "name": "Cricketers From Delhi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_delhi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_delhi"
+          },
+          {
+            "name": "North Zone Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:north_zone_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:north_zone_cricketers"
+          },
+          {
+            "name": "People Of Punjabi Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent"
+          },
+          {
+            "name": "India One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers"
+          },
+          {
+            "name": "Delhi Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:delhi_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:delhi_cricketers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Recipients Of The Arjuna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award"
+          },
+          {
+            "name": "Cricketers Who Have Acted In Films",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_who_have_acted_in_films",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_who_have_acted_in_films"
+          },
+          {
+            "name": "Cricketers At The 2019 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "Royal Challengers Bangalore Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:royal_challengers_bangalore_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:royal_challengers_bangalore_cricketers"
+          },
+          {
+            "name": "India Test Cricket Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains"
+          },
+          {
+            "name": "India Test Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricketers"
+          },
+          {
+            "name": "Virat Kohli",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:virat_kohli",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:virat_kohli"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "Punjabi Hindus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:punjabi_hindus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:punjabi_hindus"
+          },
+          {
+            "name": "Recipients Of The Khel Ratna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award"
+          },
+          {
+            "name": "Cricketers At The 2015 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup"
+          },
+          {
+            "name": "21st-century Indian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people"
+          },
+          {
+            "name": "Wisden Cricketers Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year"
+          },
+          {
+            "name": "Indian Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_cricketers"
+          },
+          {
+            "name": "Cricketers At The 2011 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2011_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2011_cricket_world_cup"
+          },
+          {
+            "name": "India Twenty20 International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers"
+          },
+          {
+            "name": "International Cricket Council Cricketer Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:international_cricket_council_cricketer_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:international_cricket_council_cricketer_year"
+          }
+        ]
+      },
+      {
+        "name": "virat Kohli",
+        "entity_id": "443FC7F0-1088-4C15-9079-558AB0C121E7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Sarah Fahmy"
+            },
+            {
+              "language": "l",
+              "value": "Sarah Fahmy"
+            }
+          ],
+          "external": {},
+          "gender": [
+            "female"
+          ],
+          "short_description": "researcher (ORCID 0000-0001-8204-7360)"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Researcher",
+            "tag_id": "urn:tag:occupation:person:researcher",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:researcher"
+          }
+        ]
+      },
+      {
+        "name": "Rahul Kohli",
+        "entity_id": "51CCC674-5EDD-4235-8B66-D1B7526F384A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "拉胡爾·科利"
+            },
+            {
+              "language": "h",
+              "value": "拉胡爾·科利"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "m",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "z",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "u",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "p",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "v",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "b",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "k",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "w",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "f",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "p",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "g",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "b",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "f",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "k",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "g",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "u",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "q",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "h",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "u",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "j",
+              "value": "ラフル・コーリ"
+            },
+            {
+              "language": "a",
+              "value": "ラフル・コーリ"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "f",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "v",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "m",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "راهول كوهلي"
+            },
+            {
+              "language": "r",
+              "value": "راهول كوهلي"
+            },
+            {
+              "language": "w",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "b",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "z",
+              "value": "拉胡尔·寇利"
+            },
+            {
+              "language": "h",
+              "value": "拉胡尔·寇利"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Рахул Коли"
+            },
+            {
+              "language": "u",
+              "value": "Рахул Коли"
+            },
+            {
+              "language": "b",
+              "value": "রাহুল কোহলি"
+            },
+            {
+              "language": "n",
+              "value": "রাহুল কোহলি"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "m",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "g",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "g",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "y",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "h",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "i",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "w",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "z",
+              "value": "拉胡爾·寇理"
+            },
+            {
+              "language": "h",
+              "value": "拉胡爾·寇理"
+            },
+            {
+              "language": "g",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "z",
+              "value": "勞爾·柯利"
+            },
+            {
+              "language": "h",
+              "value": "勞爾·柯利"
+            },
+            {
+              "language": "s",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "v",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "k",
+              "value": "라훌 콜리"
+            },
+            {
+              "language": "o",
+              "value": "라훌 콜리"
+            },
+            {
+              "language": "h",
+              "value": "רהול קולי"
+            },
+            {
+              "language": "e",
+              "value": "רהול קולי"
+            },
+            {
+              "language": "o",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "c",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "t",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "n",
+              "value": "Rahul Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rahul Kohli"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "rahulkohli13"
+            },
+            "twitter": {
+              "id": "RahulKohli13"
+            },
+            "imdb": {
+              "id": "nm3418510"
+            },
+            "library_of_congress": {
+              "id": "no2020072620"
+            },
+            "musicbrainz": {
+              "id": "b10bc5b6-d7e2-4c86-8a07-211c1b15494c"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1985-11-13",
+          "image": {
+            "url": "https://images.qloo.com/i/51CCC674-5EDD-4235-8B66-D1B7526F384A-420x-auto.jpg"
+          },
+          "gender": [
+            "cisgender man"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "British actor"
+        },
+        "popularity": 0.8931953338189409,
+        "disambiguation": "1985-11-13",
+        "tags": [
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "English Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors"
+          },
+          {
+            "name": "English Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_television_actors"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Actors From The London Borough Of Brent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actors_from_london_borough_brent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actors_from_london_borough_brent"
+          },
+          {
+            "name": "British Male Actors Of Asian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_male_actors_asian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_male_actors_asian_descent"
+          },
+          {
+            "name": "English People Of Indian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_indian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_indian_descent"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Sci-fi",
+            "tag_id": "urn:tag:genre:media:media:sci_fi",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sci_fi"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:media:media:horror",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:horror"
+          },
+          {
+            "name": "Actors From The London Borough Of Ealing",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actors_from_london_borough_ealing",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actors_from_london_borough_ealing"
+          },
+          {
+            "name": "English People Of Punjabi Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_punjabi_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_punjabi_descent"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "21st-century English Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors"
+          },
+          {
+            "name": "English Male Stage Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_stage_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_stage_actors"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "English Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_film_actors"
+          },
+          {
+            "name": "Male Actors From London",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_london",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_london"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          }
+        ]
+      },
+      {
+        "name": "Rochak Kohli",
+        "entity_id": "F771E67B-D336-40B3-BCB1-F0D3E02501A1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "d",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "j",
+              "value": "ローチャク・コーリ"
+            },
+            {
+              "language": "a",
+              "value": "ローチャク・コーリ"
+            },
+            {
+              "language": "e",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "f",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "h",
+              "value": "रोचक कोहली"
+            },
+            {
+              "language": "i",
+              "value": "रोचक कोहली"
+            },
+            {
+              "language": "b",
+              "value": "রোচাক কোহলি"
+            },
+            {
+              "language": "n",
+              "value": "রোচাক কোহলি"
+            },
+            {
+              "language": "c",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "a",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "j",
+              "value": "ロチャック・コーリ"
+            },
+            {
+              "language": "a",
+              "value": "ロチャック・コーリ"
+            },
+            {
+              "language": "s",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Rochak Kohli"
+            },
+            {
+              "language": "q",
+              "value": "Rochak Kohli"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "RochakTweets"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1983-07-03",
+          "gender": [
+            "male"
+          ],
+          "short_description": "Indian musician"
+        },
+        "popularity": 0.6251345386547221,
+        "disambiguation": "1983-07-03",
+        "tags": [
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Indian Lyricists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_lyricists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_lyricists"
+          },
+          {
+            "name": "Indian Male Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_male_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_male_composers"
+          },
+          {
+            "name": "Lyricist",
+            "tag_id": "urn:tag:occupation:person:lyricist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:lyricist"
+          }
+        ]
+      },
+      {
+        "name": "Neelu Kohli",
+        "entity_id": "98D029C8-F702-4310-927A-9C2C846B79A3",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "l",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "e",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "s",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "r",
+              "value": "Нилу Коли"
+            },
+            {
+              "language": "u",
+              "value": "Нилу Коли"
+            },
+            {
+              "language": "b",
+              "value": "নীলু কোহলি"
+            },
+            {
+              "language": "n",
+              "value": "নীলু কোহলি"
+            },
+            {
+              "language": "p",
+              "value": "ਨੀਲੂ ਕੋਹਲੀ"
+            },
+            {
+              "language": "a",
+              "value": "ਨੀਲੂ ਕੋਹਲੀ"
+            },
+            {
+              "language": "u",
+              "value": "نیلو کوہلی"
+            },
+            {
+              "language": "r",
+              "value": "نیلو کوہلی"
+            },
+            {
+              "language": "s",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "q",
+              "value": "Neelu Kohli"
+            },
+            {
+              "language": "j",
+              "value": "ニール・コリ"
+            },
+            {
+              "language": "a",
+              "value": "ニール・コリ"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "nilukohli"
+            },
+            "twitter": {
+              "id": "neelukohliactor"
+            },
+            "imdb": {
+              "id": "nm1572643"
+            }
+          },
+          "gender": [
+            "female"
+          ],
+          "work_period_start": "1999-01-01",
+          "short_description": "Indian model and television actress"
+        },
+        "popularity": 0.588545460475533,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Indian Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_film_actresses"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Indian Soap Opera Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_soap_opera_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_soap_opera_actresses"
+          },
+          {
+            "name": "21st-century Indian Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_actresses"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People From Ranchi",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_ranchi",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_ranchi"
+          },
+          {
+            "name": "People From Chandigarh",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_chandigarh",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_chandigarh"
+          },
+          {
+            "name": "20th-century Indian Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_indian_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_indian_actresses"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Actresses In Hindi Television",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_in_hindi_television",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_in_hindi_television"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Actresses In Hindi Cinema",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_in_hindi_cinema",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_in_hindi_cinema"
+          },
+          {
+            "name": "Indian Web Series Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_web_series_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_web_series_actresses"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Indian Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_television_actresses"
+          }
+        ]
+      }
+    ]
+  }
+}

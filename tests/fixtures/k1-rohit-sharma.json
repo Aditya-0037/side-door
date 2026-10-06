@@ -1,0 +1,1038 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Rohit Sharma",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Rohit Sharma",
+        "entity_id": "96B40635-4FA4-48CD-9560-B9619AB14F63",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "ৰোহিত শৰ্মা"
+            },
+            {
+              "language": "s",
+              "value": "ৰোহিত শৰ্মা"
+            },
+            {
+              "language": "c",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "f",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "r",
+              "value": "Рохит Шарма"
+            },
+            {
+              "language": "u",
+              "value": "Рохит Шарма"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "q",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "g",
+              "value": "રોહિત ગુરુનાથ શર્મા"
+            },
+            {
+              "language": "u",
+              "value": "રોહિત ગુરુનાથ શર્મા"
+            },
+            {
+              "language": "k",
+              "value": "ರೋಹಿತ್ ಶರ್ಮ"
+            },
+            {
+              "language": "n",
+              "value": "ರೋಹಿತ್ ಶರ್ಮ"
+            },
+            {
+              "language": "n",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "n",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "s",
+              "value": "රෝහිත් ෂර්මා"
+            },
+            {
+              "language": "i",
+              "value": "රෝහිත් ෂර්මා"
+            },
+            {
+              "language": "n",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "e",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "o",
+              "value": "ରୋହିତ ଶର୍ମା"
+            },
+            {
+              "language": "r",
+              "value": "ରୋହିତ ଶର୍ମା"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "u",
+              "value": "روہت شرما"
+            },
+            {
+              "language": "r",
+              "value": "روہت شرما"
+            },
+            {
+              "language": "k",
+              "value": "როჰიტ შარმა"
+            },
+            {
+              "language": "a",
+              "value": "როჰიტ შარმა"
+            },
+            {
+              "language": "d",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "d",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "m",
+              "value": "रोहित गुरुनाथ शर्मा"
+            },
+            {
+              "language": "r",
+              "value": "रोहित गुरुनाथ शर्मा"
+            },
+            {
+              "language": "b",
+              "value": "রোহিত গুরুনাথ শর্মা"
+            },
+            {
+              "language": "n",
+              "value": "রোহিত গুরুনাথ শর্মা"
+            },
+            {
+              "language": "h",
+              "value": "रोहित गुरुनाथ शर्मा"
+            },
+            {
+              "language": "i",
+              "value": "रोहित गुरुनाथ शर्मा"
+            },
+            {
+              "language": "g",
+              "value": "રોહિત શર્મા"
+            },
+            {
+              "language": "u",
+              "value": "રોહિત શર્મા"
+            },
+            {
+              "language": "t",
+              "value": "రోహిత్ శర్మ"
+            },
+            {
+              "language": "e",
+              "value": "రోహిత్ శర్మ"
+            },
+            {
+              "language": "j",
+              "value": "ロヒット・シャルマ"
+            },
+            {
+              "language": "a",
+              "value": "ロヒット・シャルマ"
+            },
+            {
+              "language": "v",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "o",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "f",
+              "value": "Rohit Gurunath Sharma"
+            },
+            {
+              "language": "t",
+              "value": "రోహిత్ గురునాధ్ శర్మ"
+            },
+            {
+              "language": "e",
+              "value": "రోహిత్ గురునాధ్ శర్మ"
+            },
+            {
+              "language": "t",
+              "value": "ரோகித் சர்மா"
+            },
+            {
+              "language": "a",
+              "value": "ரோகித் சர்மா"
+            },
+            {
+              "language": "m",
+              "value": "रोहीत शर्मा"
+            },
+            {
+              "language": "r",
+              "value": "रोहीत शर्मा"
+            },
+            {
+              "language": "r",
+              "value": "Шарма, Рохит"
+            },
+            {
+              "language": "u",
+              "value": "Шарма, Рохит"
+            },
+            {
+              "language": "f",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "r",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "n",
+              "value": "रोहित गुरुनाथ शर्मा हितमा"
+            },
+            {
+              "language": "e",
+              "value": "रोहित गुरुनाथ शर्मा हितमा"
+            },
+            {
+              "language": "b",
+              "value": "রোহিত শর্মা"
+            },
+            {
+              "language": "n",
+              "value": "রোহিত শর্মা"
+            },
+            {
+              "language": "g",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "h",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "i",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "e",
+              "value": "Hitman"
+            },
+            {
+              "language": "n",
+              "value": "Hitman"
+            },
+            {
+              "language": "m",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "m",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "r",
+              "value": "रोहित शर्मा"
+            },
+            {
+              "language": "a",
+              "value": "روحيتْ شرما"
+            },
+            {
+              "language": "r",
+              "value": "روحيتْ شرما"
+            },
+            {
+              "language": "g",
+              "value": "હિટમેન"
+            },
+            {
+              "language": "u",
+              "value": "હિટમેન"
+            },
+            {
+              "language": "k",
+              "value": "ರೋಹಿತ್ ಶರ್ಮಾ"
+            },
+            {
+              "language": "n",
+              "value": "ರೋಹಿತ್ ಶರ್ಮಾ"
+            },
+            {
+              "language": "m",
+              "value": "രോഹിത് ശർമ"
+            },
+            {
+              "language": "l",
+              "value": "രോഹിത് ശർമ"
+            },
+            {
+              "language": "i",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "g",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "p",
+              "value": "ਰੋਹਿਤ ਸ਼ਰਮਾ"
+            },
+            {
+              "language": "a",
+              "value": "ਰੋਹਿਤ ਸ਼ਰਮਾ"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "rohitsharma45"
+            },
+            "twitter": {
+              "id": "ImRo45"
+            },
+            "library_of_congress": {
+              "id": "n2021241946"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1987-04-30",
+          "image": {
+            "url": "https://images.qloo.com/i/96B40635-4FA4-48CD-9560-B9619AB14F63-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "spouse": [
+            "Ritika Sajdeh"
+          ],
+          "member_of_sports_team": [
+            "Mumbai cricket team",
+            "Mumbai Indians",
+            "India national cricket team",
+            "Deccan Chargers"
+          ],
+          "short_description": "Indian cricketer"
+        },
+        "popularity": 0.9991791783085637,
+        "disambiguation": "1987-04-30",
+        "tags": [
+          {
+            "name": "Mumbai Indians Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mumbai_indians_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mumbai_indians_cricketers"
+          },
+          {
+            "name": "Cricketers Who Have Acted In Films",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_who_have_acted_in_films",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_who_have_acted_in_films"
+          },
+          {
+            "name": "Telugu Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:telugu_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:telugu_cricketers"
+          },
+          {
+            "name": "Recipients Of The Khel Ratna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_khel_ratna_award"
+          },
+          {
+            "name": "India Twenty20 International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers"
+          },
+          {
+            "name": "Marathi People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:marathi_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:marathi_people"
+          },
+          {
+            "name": "Deccan Chargers Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deccan_chargers_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deccan_chargers_cricketers"
+          },
+          {
+            "name": "World Wide Fund For Nature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_wide_fund_nature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_wide_fund_nature"
+          },
+          {
+            "name": "Cricketers At The 2019 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Recipients Of The Arjuna Award",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_arjuna_award"
+          },
+          {
+            "name": "Indian Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_cricketers"
+          },
+          {
+            "name": "India Test Cricket Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains"
+          },
+          {
+            "name": "Indian Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_philanthropists"
+          },
+          {
+            "name": "Indian Hindus",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_hindus",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_hindus"
+          },
+          {
+            "name": "West Zone Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_zone_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_zone_cricketers"
+          },
+          {
+            "name": "Cricketers Who Made A Century On Test Debut",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_who_made_a_century_on_test_debut",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_who_made_a_century_on_test_debut"
+          },
+          {
+            "name": "India One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "India Green Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_green_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_green_cricketers"
+          },
+          {
+            "name": "Cricketers From Mumbai",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_mumbai",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_mumbai"
+          },
+          {
+            "name": "Telugu People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:telugu_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:telugu_people"
+          },
+          {
+            "name": "Cricketers From Nagpur",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_nagpur",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_nagpur"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "India Red Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_red_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_red_cricketers"
+          },
+          {
+            "name": "Wisden Cricketers Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year"
+          },
+          {
+            "name": "Cricketers At The 2023 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2023_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2023_cricket_world_cup"
+          },
+          {
+            "name": "Cricketers At The 2015 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2015_cricket_world_cup"
+          },
+          {
+            "name": "India Test Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricketers"
+          },
+          {
+            "name": "Mumbai Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mumbai_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mumbai_cricketers"
+          }
+        ]
+      },
+      {
+        "name": "Rohit Sharma",
+        "entity_id": "03944561-CE99-4AD2-B20A-CDE53119A635",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "n",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            }
+          ],
+          "external": {},
+          "gender": [
+            "male"
+          ],
+          "short_description": "Fijian politician"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Fijian Politician Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fijian_politician_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fijian_politician_stubs"
+          },
+          {
+            "name": "Politicians From Macuata Province",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:politicians_from_macuata_province",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:politicians_from_macuata_province"
+          },
+          {
+            "name": "Politicians From Labasa",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:politicians_from_labasa",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:politicians_from_labasa"
+          },
+          {
+            "name": "Indian Members Of The Parliament Of Fiji",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_members_parliament_fiji",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_members_parliament_fiji"
+          },
+          {
+            "name": "Radio And Television Announcers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:radio_television_announcers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:radio_television_announcers"
+          },
+          {
+            "name": "Fijifirst Politicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fijifirst_politicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fijifirst_politicians"
+          },
+          {
+            "name": "21st-century Fijian Educators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_fijian_educators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_fijian_educators"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Rohit Sharma",
+        "entity_id": "8AB1FA33-569A-427E-AF7A-64B0FD5E27CD",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "q",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "u",
+              "value": "روہت شرما (جموں و کشمیر کرکٹر)"
+            },
+            {
+              "language": "r",
+              "value": "روہت شرما (جموں و کشمیر کرکٹر)"
+            },
+            {
+              "language": "f",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "r",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "g",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1994-05-09",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "short_description": "cricketer"
+        },
+        "disambiguation": "1994-05-09",
+        "tags": [
+          {
+            "name": "Cricketers From Jammu And Kashmir",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_jammu_kashmir",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_jammu_kashmir"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "Indian Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_cricketers"
+          },
+          {
+            "name": "Jammu And Kashmir Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:jammu_kashmir_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:jammu_kashmir_cricketers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "People From Jammu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_jammu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_jammu"
+          }
+        ]
+      },
+      {
+        "name": "Rohit Sharma",
+        "entity_id": "D3DC1643-B5C9-413A-AF83-5257974ACD42",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "h",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "i",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "u",
+              "value": "روہت شرما (ہریانہ کرکٹر)"
+            },
+            {
+              "language": "r",
+              "value": "روہت شرما (ہریانہ کرکٹر)"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "q",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "f",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "r",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "g",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "a",
+              "value": "Rohit Sharma"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1993-06-28",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "short_description": "Indian cricketer (1993-)"
+        },
+        "disambiguation": "1993-06-28",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People From Jhajjar",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_jhajjar",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_jhajjar"
+          },
+          {
+            "name": "Haryana Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:haryana_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:haryana_cricketers"
+          },
+          {
+            "name": "Indian Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_cricketers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          }
+        ]
+      },
+      {
+        "name": "Rohit Sharma",
+        "entity_id": "093416DC-D3C6-433A-AAF2-A4E5E0595957",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Рохит Шарма"
+            },
+            {
+              "language": "u",
+              "value": "Рохит Шарма"
+            },
+            {
+              "language": "e",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "s",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "q",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "b",
+              "value": "রোহিত শর্মা"
+            },
+            {
+              "language": "n",
+              "value": "রোহিত শর্মা"
+            },
+            {
+              "language": "n",
+              "value": "Rohit Sharma"
+            },
+            {
+              "language": "l",
+              "value": "Rohit Sharma"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm4414165"
+            }
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "2005-01-01",
+          "short_description": "Music Composer"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Musicians From Mumbai",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_mumbai",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_mumbai"
+          },
+          {
+            "name": "Indian Male Film Score Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_male_film_score_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_male_film_score_composers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Engvarb From February 2017",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2017",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2017"
+          },
+          {
+            "name": "Hindi Film Score Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hindi_film_score_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hindi_film_score_composers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          }
+        ]
+      }
+    ]
+  }
+}

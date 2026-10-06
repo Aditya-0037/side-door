@@ -1,0 +1,1394 @@
+{
+  "endpoint": "/v2/analysis/compare",
+  "params": {
+    "a.signal.interests.entities": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595,924C8504-4BD8-4615-AB2D-1C16880A8A62,38AE774E-F217-4C96-BE77-B3B40A6344E4",
+    "b.signal.interests.entities": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7"
+  },
+  "status": 200,
+  "body": {
+    "duration": 73,
+    "results": {
+      "tags": [],
+      "a": [
+        {
+          "tag_id": "urn:tag:player_mode:qloo:multiplayer",
+          "name": "Multiplayer",
+          "type": "urn:tag",
+          "subtype": "urn:tag:player_mode:qloo",
+          "entity_id": "01969E65-1A4B-4C54-BEA1-20522AFC43CD",
+          "popularity": 0.92278355,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:intricately_animated",
+          "name": "Intricately animated",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "025C31CD-3E35-4B0B-AAD2-468F713EF917",
+          "popularity": 0.5142715,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:artist:qloo:melodic",
+          "name": "Melodic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:artist:qloo",
+          "entity_id": "03F6ED3F-AFD6-4491-AC63-ACB2822E6506",
+          "popularity": 0.9168785,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:qloo:shooter",
+          "name": "Shooter",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:qloo",
+          "entity_id": "0FFEC730-4AC2-425B-BFDF-683A1EE12573",
+          "popularity": 0.899406,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:heartbreak",
+          "name": "Heartbreak",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "1157CA05-F10E-4C89-A1B1-10DBE72F1272",
+          "popularity": 0.976842,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:plot:qloo:enchanting",
+          "name": "Enchanting",
+          "type": "urn:tag",
+          "subtype": "urn:tag:plot:qloo",
+          "entity_id": "12D17756-A57E-45A1-8BFD-F0AB68A77857",
+          "popularity": 0.9164047,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:identity",
+          "name": "Identity",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "14BDBBB8-EC97-4804-B28C-3A253609EC4B",
+          "popularity": 0.98156834,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:longing",
+          "name": "Longing",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "1E6943E6-CBF8-4C4F-83E2-DA90A17E3CAE",
+          "popularity": 0.8214616,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:family",
+          "name": "Family,",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "1F4109B5-1B45-4E69-B93A-501B0749D1EE",
+          "popularity": 0.93384254,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:art_style:qloo:stylized",
+          "name": "Stylized",
+          "type": "urn:tag",
+          "subtype": "urn:tag:art_style:qloo",
+          "entity_id": "222E9CAC-CF0B-4CF9-8A3A-FA43E8542088",
+          "popularity": 0.72728115,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:vibrant",
+          "name": "Vibrant",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "236D4912-70D2-4535-98A1-6CD55B267611",
+          "popularity": 0.9886868,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:fantasy_world",
+          "name": "Fantasy world",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "23FDAECE-4A06-435E-B526-2CF81EDEA025",
+          "popularity": 0.8550777,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:expressive",
+          "name": "Expressive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "241982E6-3CCA-42C2-81EC-A5DC7E99896A",
+          "popularity": 0.9734908,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:artist:qloo:expressive",
+          "name": "Expressive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:artist:qloo",
+          "entity_id": "24D3AFB3-48B9-46DB-8019-21DBB574DAD4",
+          "popularity": 0.9439193,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+          "name": "Competitive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:emotional_tone:qloo",
+          "entity_id": "24F09B0C-4D9C-4BEF-AD1B-36BC537CEFCE",
+          "popularity": 0.90836185,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:character:qloo:innocent",
+          "name": "Innocent",
+          "type": "urn:tag",
+          "subtype": "urn:tag:character:qloo",
+          "entity_id": "2BE78230-DB0C-4F2C-A27B-F0DA878A421C",
+          "popularity": 0.9589188,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:character:qloo:brave",
+          "name": "Brave",
+          "type": "urn:tag",
+          "subtype": "urn:tag:character:qloo",
+          "entity_id": "2C2F720B-31CC-44BA-B594-340796E5E700",
+          "popularity": 0.97999674,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:family",
+          "name": "Family",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "2D0364AE-DC1A-4F00-BAE0-322FB02F5655",
+          "popularity": 0.99996513,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:devoted",
+          "name": "Devoted",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "2D86A43C-3F49-4224-8038-CB7FD69BA250",
+          "popularity": 0.9739646,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:shooter",
+          "name": "Shooter",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "2F625F40-7D5B-45B6-BDF6-781CAA37F6A6",
+          "popularity": 0.87428355,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:subgenre:qloo:coming_of_age",
+          "name": "Coming-of-age",
+          "type": "urn:tag",
+          "subtype": "urn:tag:subgenre:qloo",
+          "entity_id": "2FE84A2B-D678-403F-B07F-38640CBAC655",
+          "popularity": 0.9819266,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:music:bollywood",
+          "name": "Bollywood",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:music",
+          "entity_id": "30CA83A4-23B0-4F97-A72D-16B4F815034B",
+          "popularity": 0.98963636,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:esports",
+          "name": "Esports",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "333FF2DA-D689-46CC-A4D3-98EF1792459F",
+          "popularity": 0,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:plot:qloo:heartfelt",
+          "name": "Heartfelt",
+          "type": "urn:tag",
+          "subtype": "urn:tag:plot:qloo",
+          "entity_id": "34B02473-0B9E-4486-8C70-161E7DD59533",
+          "popularity": 0.98691875,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:competitive",
+          "name": "Competitive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "35A7E97D-4F95-456C-9694-93CE18AA9166",
+          "popularity": 0.79621196,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+          "name": "Multiplayer",
+          "type": "urn:tag",
+          "subtype": "urn:tag:gameplay_type:qloo",
+          "entity_id": "36C6694B-1890-4999-93B1-3D1F47C3BE02",
+          "popularity": 0.95853746,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:environmentalism",
+          "name": "Environmentalism",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "3E3C4E92-46D3-4E41-9D60-0F63A898F087",
+          "popularity": 0.7914163,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:archetype:qloo:trickster",
+          "name": "Trickster",
+          "type": "urn:tag",
+          "subtype": "urn:tag:archetype:qloo",
+          "entity_id": "42F57238-EE4E-44AB-8770-8B903CB6DB6F",
+          "popularity": 0.9773389,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:artist:qloo:soulful",
+          "name": "Soulful",
+          "type": "urn:tag",
+          "subtype": "urn:tag:artist:qloo",
+          "entity_id": "444CE3BB-69EF-49A2-966B-BF9A50A5212B",
+          "popularity": 0.94167745,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:archetype:qloo:transformation",
+          "name": "Transformation",
+          "type": "urn:tag",
+          "subtype": "urn:tag:archetype:qloo",
+          "entity_id": "4B5E0B7A-B85E-4BEC-BE98-92596263230B",
+          "popularity": 0.9767842,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:adventure",
+          "name": "Adventure",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "4C9BAB59-181F-430C-AC15-B9AEBF8CF279",
+          "popularity": 0.94657713,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:tactical",
+          "name": "Tactical",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "4E186FF6-04B4-4D22-9383-6748FE388A6B",
+          "popularity": 0.8190349,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:tradition_vs_modernity",
+          "name": "Tradition vs. modernity",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "4E55454A-F4C4-4CE8-8E6C-8142626FA128",
+          "popularity": 0.7130674,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:japanese_folklore",
+          "name": "Japanese Folklore",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "53D7C815-DE19-49ED-86CE-0E4F07F2F980",
+          "popularity": 0.04416659,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:qloo:action",
+          "name": "Action",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:qloo",
+          "entity_id": "56E57959-4248-4AFA-AB48-AAB7D2B22AE3",
+          "popularity": 0.96609503,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:transformation",
+          "name": "Transformation",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "588664C2-14A6-4A16-B1DC-EA870B420E5A",
+          "popularity": 0.9607793,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:imaginative",
+          "name": "Imaginative",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "5A17078F-4084-4848-9CC9-13BA1DD1EBFB",
+          "popularity": 0.97115654,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:animation",
+          "name": "Animation",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "62AF3D4B-0D0E-4678-A9DC-6A1A80DAB63B",
+          "popularity": 0.9999429,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:tactical_fps",
+          "name": "Tactical FPS",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "649EC28C-AC61-4B7C-94F6-294C9F1E7711",
+          "popularity": 0.99669427,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:lush",
+          "name": "Lush",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "671C1E2D-AA7C-44C5-A3FA-B8DCF81D39A7",
+          "popularity": 0.9688569,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:emotional",
+          "name": "Emotional",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "677D6A76-0ACD-4201-92C4-26D42DAB3451",
+          "popularity": 0.95616853,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:devotion",
+          "name": "Devotion",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "6AC43C15-A43C-4E52-825E-4E25535D46E1",
+          "popularity": 0.63545805,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:music:indian",
+          "name": "Indian",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:music",
+          "entity_id": "6ADED233-A14E-436E-BD62-6D56F3AC0CE3",
+          "popularity": 0.9966875,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:esports",
+          "name": "Esports",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "71BE95C6-A792-4CC8-AE48-2CB1E6A0B41B",
+          "popularity": 0.7438176,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:music:qloo:emotional",
+          "name": "Emotional",
+          "type": "urn:tag",
+          "subtype": "urn:tag:music:qloo",
+          "entity_id": "75D0C1C0-F4FD-40AD-B268-A0ED17CAE7BA",
+          "popularity": 0.9768998,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:archetype:qloo:hero_s_journey",
+          "name": "Hero's Journey",
+          "type": "urn:tag",
+          "subtype": "urn:tag:archetype:qloo",
+          "entity_id": "75E3FF4C-F07D-4D84-BDBB-0648F9E89544",
+          "popularity": 0.9943029,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:culturally_curious",
+          "name": "Culturally curious",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "79F1F32F-E65E-49EA-8C19-F3941A8DBA1A",
+          "popularity": 0.96839464,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:plot:qloo:mysterious",
+          "name": "Mysterious",
+          "type": "urn:tag",
+          "subtype": "urn:tag:plot:qloo",
+          "entity_id": "7AFDEFC7-6080-451D-9141-E875DCE1E3D0",
+          "popularity": 0.969712,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:skill_level:qloo:casual",
+          "name": "Casual",
+          "type": "urn:tag",
+          "subtype": "urn:tag:skill_level:qloo",
+          "entity_id": "7F3023A1-30D5-498D-942E-F4B26F6978D7",
+          "popularity": 0.9732828,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:emotional_tone:qloo:intense",
+          "name": "Intense",
+          "type": "urn:tag",
+          "subtype": "urn:tag:emotional_tone:qloo",
+          "entity_id": "7FFDFDC9-9817-47DC-B8CA-75D670A45DBB",
+          "popularity": 0.94558334,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:adventure",
+          "name": "Adventure",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "8285CA6F-5890-4139-88CC-4E8CD2B0E39D",
+          "popularity": 0.9999539,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:dreamlike",
+          "name": "Dreamlike",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "8B438B5E-F9C9-4D26-B8C3-0058F460A968",
+          "popularity": 0.97101784,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:art_style:qloo:3d",
+          "name": "3D",
+          "type": "urn:tag",
+          "subtype": "urn:tag:art_style:qloo",
+          "entity_id": "8C3D1101-5CD8-4A0A-B136-7135BF197E81",
+          "popularity": 0.9751086,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:fps",
+          "name": "FPS",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "8C3FAFE9-9A23-4715-8463-D26303E5EBD2",
+          "popularity": 0.8395119,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:music:qloo:romantic",
+          "name": "Romantic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:music:qloo",
+          "entity_id": "90F5F322-C614-417C-8488-EF600ED5A446",
+          "popularity": 0.8911667,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:qloo:fantasy",
+          "name": "Fantasy",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:qloo",
+          "entity_id": "98DB9953-FCB7-4F21-8596-EE5BBA1C6680",
+          "popularity": 0.97812474,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:magic",
+          "name": "Magic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "9AE04DBA-B000-4651-84EC-F524489AA396",
+          "popularity": 0.96498567,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:subgenre:qloo:indie",
+          "name": "Indie",
+          "type": "urn:tag",
+          "subtype": "urn:tag:subgenre:qloo",
+          "entity_id": "9CEF43C3-6EB2-4152-9067-CC6E98C45C55",
+          "popularity": 0.93981695,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:otherworldly",
+          "name": "Otherworldly",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "A187C838-C71F-4EF3-BE11-E327867CDAAB",
+          "popularity": 0.8849958,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:qloo:tactical",
+          "name": "Tactical",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:qloo",
+          "entity_id": "A4C94DD7-E71A-4FA3-9592-DDDB85718F41",
+          "popularity": 0.47631043,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:family_oriented",
+          "name": "Family-oriented",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "AC681310-6CD0-48CD-AE3D-498E6DF65831",
+          "popularity": 0.9907206,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:music:qloo:melodic",
+          "name": "Melodic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:music:qloo",
+          "entity_id": "AEDE7DAB-D607-41AD-AAB7-77048675DCAD",
+          "popularity": 0.9827355,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:subgenre:qloo:folk",
+          "name": "Folk",
+          "type": "urn:tag",
+          "subtype": "urn:tag:subgenre:qloo",
+          "entity_id": "BC02F1C2-59B3-4E68-B6B4-F1AD70D9E68B",
+          "popularity": 0.75286585,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:instrument:qloo:vocals",
+          "name": "Vocals",
+          "type": "urn:tag",
+          "subtype": "urn:tag:instrument:qloo",
+          "entity_id": "BC4B0E4D-F317-47A7-94A5-62BBD3D42042",
+          "popularity": 0.99063975,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:hope",
+          "name": "Hope",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "BE040B81-9670-44A7-BAE5-E37C45C41910",
+          "popularity": 0.9536262,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:platform:qloo:microsoft_windows",
+          "name": "Microsoft Windows",
+          "type": "urn:tag",
+          "subtype": "urn:tag:platform:qloo",
+          "entity_id": "BE5A332B-C940-4BA9-B7C6-57D7BAA6F2DA",
+          "popularity": 0.9500786,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:fantasy_loving",
+          "name": "Fantasy-loving",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "BE86127A-13B2-4443-A1E9-016207351330",
+          "popularity": 0.9575321,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:intimate",
+          "name": "Intimate",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "BF2FC01A-8DBA-40F4-B564-AF1A99817E2B",
+          "popularity": 0.9891952,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:spirits",
+          "name": "Spirits",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "BF709402-F539-4168-BA6A-40A651695BD3",
+          "popularity": 0.8023597,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:fantasy",
+          "name": "Fantasy",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "CD928B93-76C7-4216-A9DB-DA40C2260CC6",
+          "popularity": 0.99996406,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:team_based",
+          "name": "Team-based",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "DA3F09FA-43F2-467C-8E2B-CB5A393206A4",
+          "popularity": 0.6706573,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:music:hindi",
+          "name": "Hindi",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:music",
+          "entity_id": "DA50D98F-B622-4749-944F-99B9DD8E878D",
+          "popularity": 0.98772806,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:character:qloo:determined",
+          "name": "Determined",
+          "type": "urn:tag",
+          "subtype": "urn:tag:character:qloo",
+          "entity_id": "DD1AAA31-AB1A-498D-A8AE-A73ACC02FEC3",
+          "popularity": 0.99194556,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:character:qloo:mysterious",
+          "name": "Mysterious",
+          "type": "urn:tag",
+          "subtype": "urn:tag:character:qloo",
+          "entity_id": "E175BD95-B3DF-40F0-848F-6E4988B1C76D",
+          "popularity": 0.981603,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:visually_lyrical",
+          "name": "Visually Lyrical",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "E32C63AC-F362-4B40-945F-B1A0D0F88262",
+          "popularity": 0.52246463,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:plot:qloo:whimsical",
+          "name": "Whimsical",
+          "type": "urn:tag",
+          "subtype": "urn:tag:plot:qloo",
+          "entity_id": "E352061F-25D3-40AB-9F49-C9B8FEA2552C",
+          "popularity": 0.96768975,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:detailed",
+          "name": "Detailed",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "EC436E50-25C7-4CC4-8221-1C58F7C3C723",
+          "popularity": 0.96677685,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:content_warning:qloo:violence",
+          "name": "Violence",
+          "type": "urn:tag",
+          "subtype": "urn:tag:content_warning:qloo",
+          "entity_id": "ECCEC81D-0C33-4739-A22E-2F4A6AE17DC5",
+          "popularity": 0.9690187,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:loyal",
+          "name": "Loyal",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "EDDB06AD-35FE-431E-A2A5-4F5589471FEE",
+          "popularity": 0.99202645,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:character:qloo:resourceful",
+          "name": "Resourceful",
+          "type": "urn:tag",
+          "subtype": "urn:tag:character:qloo",
+          "entity_id": "F1794FC7-873A-4C11-B23A-562892B80287",
+          "popularity": 0.9874734,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:smooth",
+          "name": "Smooth",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "F2DEE99D-BE89-4624-AE18-722B07E16F66",
+          "popularity": 0.9007234,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:ethereal",
+          "name": "Ethereal",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "F51B598F-957F-4ED0-AA54-5DDB6AA6DBD7",
+          "popularity": 0.97567487,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:audience:qloo:passionate",
+          "name": "Passionate",
+          "type": "urn:tag",
+          "subtype": "urn:tag:audience:qloo",
+          "entity_id": "F5485D5E-6C8E-4CE8-951C-3B13AD76D935",
+          "popularity": 0.9920842,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:keyword:qloo:courage",
+          "name": "Courage",
+          "type": "urn:tag",
+          "subtype": "urn:tag:keyword:qloo",
+          "entity_id": "F6D6FAAA-AFEE-4529-BC57-9988E5B62EFE",
+          "popularity": 0.9341199,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:qloo:adventure",
+          "name": "Adventure",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:qloo",
+          "entity_id": "F6F98FED-5E2E-4F47-806C-69021C3B11FC",
+          "popularity": 0.97531664,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:artist:qloo:emotive",
+          "name": "Emotive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:artist:qloo",
+          "entity_id": "F890FCE5-22E5-4CB3-8449-1FA6FE9FEFE0",
+          "popularity": 0.93350744,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:emotive",
+          "name": "Emotive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "F985C376-C5EA-419A-BAD5-EFD32831190B",
+          "popularity": 0.9670888,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:artist:qloo:versatile",
+          "name": "VERSATILE",
+          "type": "urn:tag",
+          "subtype": "urn:tag:artist:qloo",
+          "entity_id": "F98BBF4A-1D7D-4E6B-A6F2-9C59FF377746",
+          "popularity": 0.975594,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:music:qloo:soulful",
+          "name": "Soulful",
+          "type": "urn:tag",
+          "subtype": "urn:tag:music:qloo",
+          "entity_id": "FE269CB2-E069-4F57-9CB7-C19B42DCCD2A",
+          "popularity": 0.9732597,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:theme:qloo:love",
+          "name": "Love",
+          "type": "urn:tag",
+          "subtype": "urn:tag:theme:qloo",
+          "entity_id": "FE9F1B33-D668-4A8C-80FD-60B78D5F13FD",
+          "popularity": 0.9934363,
+          "query": {
+            "count": "1"
+          }
+        }
+      ],
+      "b": [
+        {
+          "tag_id": "urn:tag:philanthropy:qloo:unicef",
+          "name": "UNICEF",
+          "type": "urn:tag",
+          "subtype": "urn:tag:philanthropy:qloo",
+          "entity_id": "F7CA91B9-DCFD-451B-A1D5-492F6A6A42EA",
+          "popularity": 0.49631366,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:aesthetic_property:qloo:elegant",
+          "name": "Elegant",
+          "type": "urn:tag",
+          "subtype": "urn:tag:aesthetic_property:qloo",
+          "entity_id": "09A72255-0C8E-4538-85D9-44F6C28C0ED4",
+          "popularity": 0.96794397,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:luxury_oriented",
+          "name": "luxury-oriented",
+          "type": "urn:tag",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "entity_id": "0A2B599C-6F7C-4174-B52A-9AFD3CA77AAA",
+          "popularity": 0.52246463,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:language:qloo:english",
+          "name": "English",
+          "type": "urn:tag",
+          "subtype": "urn:tag:language:qloo",
+          "entity_id": "C3B3AAC8-E37A-4DDB-8D30-C3AF03D7789B",
+          "popularity": 0.9958745,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:adventurous",
+          "name": "adventurous",
+          "type": "urn:tag",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "entity_id": "C5D1393F-BE4D-4AED-AF94-AA78EFE1D052",
+          "popularity": 0.9614149,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:religion:qloo:catholicism",
+          "name": "Catholicism",
+          "type": "urn:tag",
+          "subtype": "urn:tag:religion:qloo",
+          "entity_id": "C72059D4-3727-46EA-B11E-BB5A39DEEA64",
+          "popularity": 0.893709,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:emotional_tone:qloo:optimistic",
+          "name": "Optimistic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:emotional_tone:qloo",
+          "entity_id": "E319841A-1386-4767-A208-B78A8A62D40D",
+          "popularity": 0.48644495,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:characteristic:qloo:resilient",
+          "name": "Resilient",
+          "type": "urn:tag",
+          "subtype": "urn:tag:characteristic:qloo",
+          "entity_id": "E61853A6-92F3-4AE3-B499-0F849469E72C",
+          "popularity": 0.04416659,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:endorsement:qloo:tommy_hilfiger",
+          "name": "Tommy Hilfiger",
+          "type": "urn:tag",
+          "subtype": "urn:tag:endorsement:qloo",
+          "entity_id": "F63EB405-00D6-44A2-A2E1-DBEF8DCAB389",
+          "popularity": 0.12258482,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:aesthetic_property:qloo:professional",
+          "name": "professional",
+          "type": "urn:tag",
+          "subtype": "urn:tag:aesthetic_property:qloo",
+          "entity_id": "0861E5C4-C6C9-4D19-855B-BEF1B022AD88",
+          "popularity": 0.6779722,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:emotional_tone:qloo:uplifting",
+          "name": "Uplifting",
+          "type": "urn:tag",
+          "subtype": "urn:tag:emotional_tone:qloo",
+          "entity_id": "1376E884-96F0-41D6-ACA3-EA1B95C68568",
+          "popularity": 0.3766756,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:athletes",
+          "name": "Athletes",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "2205FCE1-99B0-45AD-AAA8-0A708E604832",
+          "popularity": 0.97758156,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:nationality:qloo:british",
+          "name": "British",
+          "type": "urn:tag",
+          "subtype": "urn:tag:nationality:qloo",
+          "entity_id": "23E8FD2C-0CEB-4B95-A1E8-29B4E71A3B80",
+          "popularity": 0.9441273,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:approachable",
+          "name": "Approachable",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "28BFD98E-90D4-445C-8484-951DEDAABF55",
+          "popularity": 0.9253836,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:hobby:qloo:art",
+          "name": "Art",
+          "type": "urn:tag",
+          "subtype": "urn:tag:hobby:qloo",
+          "entity_id": "2D68B8B5-775F-4C9A-AC50-8C4009543F4E",
+          "popularity": 0.66375846,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:hobby:qloo:music",
+          "name": "Music",
+          "type": "urn:tag",
+          "subtype": "urn:tag:hobby:qloo",
+          "entity_id": "3295A885-D89E-494A-AF65-2FAEC37A1610",
+          "popularity": 0.9012203,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:engaging",
+          "name": "Engaging",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "3F4ACC42-080A-4FC3-85F1-BE70AA7B774A",
+          "popularity": 0.99495006,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:emotional_tone:qloo:confident",
+          "name": "Confident",
+          "type": "urn:tag",
+          "subtype": "urn:tag:emotional_tone:qloo",
+          "entity_id": "469691CA-46FA-4D9C-8ADA-7E7ED8795754",
+          "popularity": 0.933727,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:residence:qloo:manhattan_new_york",
+          "name": "Manhattan, New York",
+          "type": "urn:tag",
+          "subtype": "urn:tag:residence:qloo",
+          "entity_id": "5718776D-8780-44EF-9805-EEB87516FE1C",
+          "popularity": 0.55894655,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:style:qloo:supportive",
+          "name": "Supportive",
+          "type": "urn:tag",
+          "subtype": "urn:tag:style:qloo",
+          "entity_id": "63B19EED-B2D1-4B8A-B248-F9D9E70588C8",
+          "popularity": 0.931254,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:hobby:qloo:fashion",
+          "name": "Fashion",
+          "type": "urn:tag",
+          "subtype": "urn:tag:hobby:qloo",
+          "entity_id": "6A612545-63C0-417F-8C85-7D936B000DA5",
+          "popularity": 0.91467136,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:gender:qloo:male",
+          "name": "Male",
+          "type": "urn:tag",
+          "subtype": "urn:tag:gender:qloo",
+          "entity_id": "7F9544F1-5DE7-4FFA-AAED-A2A1DA0690B0",
+          "popularity": 0.9926967,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:aesthetic_property:qloo:chic",
+          "name": "Chic",
+          "type": "urn:tag",
+          "subtype": "urn:tag:aesthetic_property:qloo",
+          "entity_id": "92A9565C-43D4-4E19-AFDC-46EF4555AD94",
+          "popularity": 0.94898075,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:category:qloo:motorsport",
+          "name": "Motorsport",
+          "type": "urn:tag",
+          "subtype": "urn:tag:category:qloo",
+          "entity_id": "AC8292F0-83AB-4350-9927-5D9968A5FEDA",
+          "popularity": 0.7496071,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:occupation:qloo:racing_driver",
+          "name": "Racing Driver",
+          "type": "urn:tag",
+          "subtype": "urn:tag:occupation:qloo",
+          "entity_id": "B37EF129-24A8-4C32-B262-68A518E5B17D",
+          "popularity": 0.7130674,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:hobby:qloo:sports",
+          "name": "Sports",
+          "type": "urn:tag",
+          "subtype": "urn:tag:hobby:qloo",
+          "entity_id": "B49C2363-D277-4726-BB3D-EF87B23DC8DB",
+          "popularity": 0.57188916,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:lifestyle:qloo:health_conscious",
+          "name": "health conscious",
+          "type": "urn:tag",
+          "subtype": "urn:tag:lifestyle:qloo",
+          "entity_id": "BB9AA5EF-60AA-40C2-BFC6-EBE3973BCFDF",
+          "popularity": 0.93054914,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:residence:qloo:monaco",
+          "name": "Monaco",
+          "type": "urn:tag",
+          "subtype": "urn:tag:residence:qloo",
+          "entity_id": "BF1C364E-8695-4B02-BB38-2CDF0785E7B8",
+          "popularity": 0.4440233,
+          "query": {
+            "count": "16"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:documentary",
+          "name": "Documentary",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "122C9228-FDF9-4053-80F3-929C740086DD",
+          "popularity": 0.99996763,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:person:actor",
+          "name": "Actor",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:person",
+          "entity_id": "C4FD7FEC-F64F-4E0D-BFA5-36EAB0C9CEA4",
+          "popularity": 0.9998841,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:occupation:wikidata:formula_one_driver",
+          "name": "Formula One driver",
+          "type": "urn:tag",
+          "subtype": "urn:tag:occupation:wikidata",
+          "entity_id": "14E257E6-3C58-437F-9896-C84F829B651F",
+          "popularity": 0.9960394,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:sport",
+          "name": "Sport",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "CAE528DA-5014-4DC9-B542-5B784A145E1A",
+          "popularity": 0.99990994,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:occupation:wikidata:racing_automobile_driver",
+          "name": "racing automobile driver",
+          "type": "urn:tag",
+          "subtype": "urn:tag:occupation:wikidata",
+          "entity_id": "DB56976F-43C8-43DD-81C7-AEAE1C46D9AE",
+          "popularity": 0.998726,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:media:biography",
+          "name": "Biography",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:media",
+          "entity_id": "94EA2543-1B20-4289-A5BE-7A8E2398ECA7",
+          "popularity": 0.99991626,
+          "query": {
+            "count": "1"
+          }
+        },
+        {
+          "tag_id": "urn:tag:genre:person:musician",
+          "name": "Musician",
+          "type": "urn:tag",
+          "subtype": "urn:tag:genre:person",
+          "entity_id": "984DA10F-4756-423D-95C0-565E561172C9",
+          "popularity": 0.99983805,
+          "query": {
+            "count": "1"
+          }
+        }
+      ],
+      "matchEntities": []
+    }
+  }
+}

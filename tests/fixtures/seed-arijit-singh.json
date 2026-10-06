@@ -1,0 +1,1323 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Arijit Singh",
+    "take": 5,
+    "types": "urn:entity:artist"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Arijit Singh",
+        "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "facebook": {
+              "id": "officialarijitsingh"
+            },
+            "instagram": {
+              "id": "arijitsingh_fanclub_"
+            },
+            "lastfm": {
+              "id": "arijit%20singh",
+              "listeners": 161363,
+              "scrobbles": 7745967
+            },
+            "musicbrainz": {
+              "id": "ed3f4831-e3e0-4dc0-9381-f5649e9df221"
+            },
+            "spotify": {
+              "id": "4YRxDV8wJFPHPTeXepOstw"
+            },
+            "twitter": {
+              "id": "thearijitsingh"
+            },
+            "wikidata": {
+              "id": "q4790608"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/924C8504-4BD8-4615-AB2D-1C16880A8A62-420x-auto.jpg"
+          },
+          "short_description": "Arijit Singh is an Indian playback singer known for his soulful voice and versatility in various music genres."
+        },
+        "popularity": 0.955254697025414,
+        "disambiguation": "Arijit Singh",
+        "tags": [
+          {
+            "name": "Indipop",
+            "tag_id": "urn:tag:genre:indipop",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:indipop"
+          },
+          {
+            "name": "All",
+            "tag_id": "urn:tag:genre:all",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:all"
+          },
+          {
+            "name": "Hindi",
+            "tag_id": "urn:tag:genre:hindi",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:hindi"
+          },
+          {
+            "name": "Devoted",
+            "tag_id": "urn:tag:audience:qloo:devoted",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:devoted"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:audience:qloo:passionate",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:passionate"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:audience:qloo:loyal",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:loyal"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:audience:qloo:emotional",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:emotional"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:music:qloo:soulful",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:soulful"
+          },
+          {
+            "name": "Melodic",
+            "tag_id": "urn:tag:music:qloo:melodic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:melodic"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:music:qloo:emotional",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:emotional"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:music:qloo:romantic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:romantic"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:music:qloo:expressive",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:expressive"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:style:qloo:expressive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:expressive"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:intimate"
+          },
+          {
+            "name": "Emotive",
+            "tag_id": "urn:tag:style:qloo:emotive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:emotive"
+          },
+          {
+            "name": "Smooth",
+            "tag_id": "urn:tag:style:qloo:smooth",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:smooth"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:characteristic:qloo:soulful",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:soulful"
+          },
+          {
+            "name": "Versatile",
+            "tag_id": "urn:tag:characteristic:qloo:versatile",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:versatile"
+          },
+          {
+            "name": "Emotive",
+            "tag_id": "urn:tag:characteristic:qloo:emotive",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:emotive"
+          },
+          {
+            "name": "Melodic",
+            "tag_id": "urn:tag:characteristic:qloo:melodic",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:melodic"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:characteristic:qloo:expressive",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:expressive"
+          },
+          {
+            "name": "Bollywood Romantic",
+            "tag_id": "urn:tag:style:qloo:bollywood_romantic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:bollywood_romantic"
+          },
+          {
+            "name": "Indian Classical Fusion",
+            "tag_id": "urn:tag:style:qloo:indian_classical_fusion",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:indian_classical_fusion"
+          },
+          {
+            "name": "Sufi-Inspired",
+            "tag_id": "urn:tag:style:qloo:sufi_inspired",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:sufi_inspired"
+          },
+          {
+            "name": "Pop Ballad",
+            "tag_id": "urn:tag:style:qloo:pop_ballad",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:pop_ballad"
+          },
+          {
+            "name": "Emotive Playback",
+            "tag_id": "urn:tag:style:qloo:emotive_playback",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:emotive_playback"
+          },
+          {
+            "name": "Bollywood Music",
+            "tag_id": "urn:tag:influence:qloo:bollywood_music",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:bollywood_music"
+          },
+          {
+            "name": "Indian Pop",
+            "tag_id": "urn:tag:influence:qloo:indian_pop",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:indian_pop"
+          },
+          {
+            "name": "Romantic Ballads",
+            "tag_id": "urn:tag:influence:qloo:romantic_ballads",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:romantic_ballads"
+          },
+          {
+            "name": "Kishore Kumar",
+            "tag_id": "urn:tag:influenced_by:qloo:kishore_kumar",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:kishore_kumar"
+          },
+          {
+            "name": "Lata Mangeshkar",
+            "tag_id": "urn:tag:influenced_by:qloo:lata_mangeshkar",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:lata_mangeshkar"
+          },
+          {
+            "name": "Mohammed Rafi",
+            "tag_id": "urn:tag:influenced_by:qloo:mohammed_rafi",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:mohammed_rafi"
+          },
+          {
+            "name": "Jagjit Singh",
+            "tag_id": "urn:tag:influenced_by:qloo:jagjit_singh",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:jagjit_singh"
+          },
+          {
+            "name": "Vocals",
+            "tag_id": "urn:tag:instrument:qloo:vocals",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:vocals"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:love"
+          },
+          {
+            "name": "Heartbreak",
+            "tag_id": "urn:tag:theme:qloo:heartbreak",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:heartbreak"
+          },
+          {
+            "name": "Longing",
+            "tag_id": "urn:tag:theme:qloo:longing",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:longing"
+          },
+          {
+            "name": "Hope",
+            "tag_id": "urn:tag:theme:qloo:hope",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:hope"
+          },
+          {
+            "name": "Devotion",
+            "tag_id": "urn:tag:theme:qloo:devotion",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:devotion"
+          },
+          {
+            "name": "Playback Singing",
+            "tag_id": "urn:tag:genre:qloo:playback_singing",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:playback_singing"
+          },
+          {
+            "name": "Bollywood",
+            "tag_id": "urn:tag:genre:qloo:bollywood",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:bollywood"
+          },
+          {
+            "name": "Indian Classical",
+            "tag_id": "urn:tag:genre:qloo:indian_classical",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:indian_classical"
+          },
+          {
+            "name": "Pop",
+            "tag_id": "urn:tag:genre:qloo:pop",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:pop"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:genre:qloo:romantic",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:romantic"
+          },
+          {
+            "name": "Sufi",
+            "tag_id": "urn:tag:subgenre:qloo:sufi",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:sufi"
+          },
+          {
+            "name": "Folk",
+            "tag_id": "urn:tag:subgenre:qloo:folk",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:folk"
+          },
+          {
+            "name": "Indie",
+            "tag_id": "urn:tag:subgenre:qloo:indie",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:indie"
+          },
+          {
+            "name": "Baritone",
+            "tag_id": "urn:tag:artist:qloo:baritone",
+            "type": "urn:tag:artist:qloo",
+            "value": "urn:tag:artist:qloo:baritone"
+          }
+        ]
+      },
+      {
+        "name": "Shreya Ghoshal & Arijit Singh",
+        "entity_id": "BCD52E13-E7C0-4228-8397-FB585F07348B",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/BCD52E13-E7C0-4228-8397-FB585F07348B-420x-auto.jpg"
+          },
+          "short_description": "Popular Indian playback singers known for soulful Bollywood songs."
+        },
+        "popularity": 0.3458238729331907,
+        "disambiguation": "Shreya Ghoshal & Arijit Singh"
+      },
+      {
+        "name": "Talvin Singh",
+        "entity_id": "D6216128-06F1-49FD-BA42-D154FA7DE93C",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {
+              "id": "talvin%20singh",
+              "listeners": 201347,
+              "scrobbles": 1696604
+            },
+            "musicbrainz": {
+              "id": "4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4"
+            },
+            "spotify": {
+              "id": "30Y7JOpiNgAGEhnkYPdI1P"
+            },
+            "twitter": {
+              "id": "talvinsingh"
+            },
+            "wikidata": {
+              "id": "q331450"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/D6216128-06F1-49FD-BA42-D154FA7DE93C-420x-auto.jpg"
+          },
+          "short_description": "Talvin Singh is a British-Indian musician, producer, and DJ known for pioneering the Asian Underground genre by blending Indian classical music with electronic music."
+        },
+        "popularity": 0.9739145983111288,
+        "disambiguation": "Talvin Singh",
+        "tags": [
+          {
+            "name": "Electronic",
+            "tag_id": "urn:tag:genre:electronic",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:electronic"
+          },
+          {
+            "name": "Chillout",
+            "tag_id": "urn:tag:genre:chillout",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:chillout"
+          },
+          {
+            "name": "Electronica",
+            "tag_id": "urn:tag:genre:electronica",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:electronica"
+          },
+          {
+            "name": "World",
+            "tag_id": "urn:tag:genre:world",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:world"
+          },
+          {
+            "name": "Drum & Bass",
+            "tag_id": "urn:tag:genre:drum_bass",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:drum_bass"
+          },
+          {
+            "name": "Eclectic",
+            "tag_id": "urn:tag:audience:qloo:eclectic",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:eclectic"
+          },
+          {
+            "name": "Open-Minded",
+            "tag_id": "urn:tag:audience:qloo:open_minded",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:open_minded"
+          },
+          {
+            "name": "Culturally Curious",
+            "tag_id": "urn:tag:audience:qloo:culturally_curious",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:culturally_curious"
+          },
+          {
+            "name": "Adventurous",
+            "tag_id": "urn:tag:audience:qloo:adventurous",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:adventurous"
+          },
+          {
+            "name": "Innovative",
+            "tag_id": "urn:tag:music:qloo:innovative",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:innovative"
+          },
+          {
+            "name": "Fusion",
+            "tag_id": "urn:tag:music:qloo:fusion",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:fusion"
+          },
+          {
+            "name": "Rhythmic",
+            "tag_id": "urn:tag:music:qloo:rhythmic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:rhythmic"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:music:qloo:atmospheric",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:atmospheric"
+          },
+          {
+            "name": "Experimental",
+            "tag_id": "urn:tag:music:qloo:experimental",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:experimental"
+          },
+          {
+            "name": "Dynamic",
+            "tag_id": "urn:tag:style:qloo:dynamic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:dynamic"
+          },
+          {
+            "name": "Energetic",
+            "tag_id": "urn:tag:style:qloo:energetic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:energetic"
+          },
+          {
+            "name": "Immersive",
+            "tag_id": "urn:tag:style:qloo:immersive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:immersive"
+          },
+          {
+            "name": "Culturally Rich",
+            "tag_id": "urn:tag:style:qloo:culturally_rich",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:culturally_rich"
+          },
+          {
+            "name": "Innovative",
+            "tag_id": "urn:tag:characteristic:qloo:innovative",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:innovative"
+          },
+          {
+            "name": "Fusion-Oriented",
+            "tag_id": "urn:tag:characteristic:qloo:fusion_oriented",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:fusion_oriented"
+          },
+          {
+            "name": "Experimental",
+            "tag_id": "urn:tag:characteristic:qloo:experimental",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:experimental"
+          },
+          {
+            "name": "Rhythmic",
+            "tag_id": "urn:tag:characteristic:qloo:rhythmic",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:rhythmic"
+          },
+          {
+            "name": "Culturally Rich",
+            "tag_id": "urn:tag:characteristic:qloo:culturally_rich",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:culturally_rich"
+          },
+          {
+            "name": "Asian Underground",
+            "tag_id": "urn:tag:style:qloo:asian_underground",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:asian_underground"
+          },
+          {
+            "name": "Tabla-Driven Electronica",
+            "tag_id": "urn:tag:style:qloo:tabla_driven_electronica",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:tabla_driven_electronica"
+          },
+          {
+            "name": "Drum and Bass Fusion",
+            "tag_id": "urn:tag:style:qloo:drum_and_bass_fusion",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:drum_and_bass_fusion"
+          },
+          {
+            "name": "Trip Hop Infused",
+            "tag_id": "urn:tag:style:qloo:trip_hop_infused",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:trip_hop_infused"
+          },
+          {
+            "name": "World Music Hybrid",
+            "tag_id": "urn:tag:style:qloo:world_music_hybrid",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:world_music_hybrid"
+          },
+          {
+            "name": "Asian Underground",
+            "tag_id": "urn:tag:influence:qloo:asian_underground",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:asian_underground"
+          },
+          {
+            "name": "Electronica",
+            "tag_id": "urn:tag:influence:qloo:electronica",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:electronica"
+          },
+          {
+            "name": "World Fusion",
+            "tag_id": "urn:tag:influence:qloo:world_fusion",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:world_fusion"
+          },
+          {
+            "name": "Trip Hop",
+            "tag_id": "urn:tag:influence:qloo:trip_hop",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:trip_hop"
+          },
+          {
+            "name": "Indian Classical Music",
+            "tag_id": "urn:tag:influenced_by:qloo:indian_classical_music",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:indian_classical_music"
+          },
+          {
+            "name": "Drum and Bass",
+            "tag_id": "urn:tag:influenced_by:qloo:drum_and_bass",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:drum_and_bass"
+          },
+          {
+            "name": "Trip Hop",
+            "tag_id": "urn:tag:influenced_by:qloo:trip_hop",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:trip_hop"
+          },
+          {
+            "name": "Electronic Music",
+            "tag_id": "urn:tag:influenced_by:qloo:electronic_music",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:electronic_music"
+          },
+          {
+            "name": "Tabla",
+            "tag_id": "urn:tag:instrument:qloo:tabla",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:tabla"
+          },
+          {
+            "name": "Turntables",
+            "tag_id": "urn:tag:instrument:qloo:turntables",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:turntables"
+          },
+          {
+            "name": "Synthesizers",
+            "tag_id": "urn:tag:instrument:qloo:synthesizers",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:synthesizers"
+          },
+          {
+            "name": "Drum Machines",
+            "tag_id": "urn:tag:instrument:qloo:drum_machines",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:drum_machines"
+          },
+          {
+            "name": "Cultural Identity",
+            "tag_id": "urn:tag:theme:qloo:cultural_identity",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:cultural_identity"
+          },
+          {
+            "name": "Spirituality",
+            "tag_id": "urn:tag:theme:qloo:spirituality",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:spirituality"
+          },
+          {
+            "name": "Fusion",
+            "tag_id": "urn:tag:theme:qloo:fusion",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:fusion"
+          },
+          {
+            "name": "Social Commentary",
+            "tag_id": "urn:tag:theme:qloo:social_commentary",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:social_commentary"
+          },
+          {
+            "name": "Asian Underground",
+            "tag_id": "urn:tag:genre:qloo:asian_underground",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:asian_underground"
+          },
+          {
+            "name": "Electronica",
+            "tag_id": "urn:tag:genre:qloo:electronica",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:electronica"
+          },
+          {
+            "name": "Drum and Bass",
+            "tag_id": "urn:tag:genre:qloo:drum_and_bass",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:drum_and_bass"
+          },
+          {
+            "name": "Classical Indian",
+            "tag_id": "urn:tag:genre:qloo:classical_indian",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:classical_indian"
+          },
+          {
+            "name": "Trip Hop",
+            "tag_id": "urn:tag:subgenre:qloo:trip_hop",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:trip_hop"
+          },
+          {
+            "name": "Ambient",
+            "tag_id": "urn:tag:subgenre:qloo:ambient",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:ambient"
+          },
+          {
+            "name": "World Music",
+            "tag_id": "urn:tag:subgenre:qloo:world_music",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:world_music"
+          }
+        ]
+      },
+      {
+        "name": "Luke Sital-Singh",
+        "entity_id": "7BB50D50-F455-439B-912F-694DC6B23592",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "facebook": {
+              "id": "lukesitalsinghmusic"
+            },
+            "instagram": {
+              "id": "lukesitalsingh"
+            },
+            "lastfm": {
+              "id": "luke%20sital-singh",
+              "listeners": 246578,
+              "scrobbles": 2004620
+            },
+            "musicbrainz": {
+              "id": "f03fe6bb-0fe6-42cf-843c-ef00d8759c8e"
+            },
+            "spotify": {
+              "id": "3Lw97gGh8bp1MftsYmwJHG"
+            },
+            "twitter": {
+              "id": "lukesitalsingh"
+            },
+            "wikidata": {
+              "id": "q16232430"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/7BB50D50-F455-439B-912F-694DC6B23592-420x-auto.jpg"
+          },
+          "short_description": "Luke Sital-Singh is a British singer-songwriter known for his emotive folk and indie music."
+        },
+        "popularity": 0.9627982767171259,
+        "disambiguation": "Luke Sital-Singh",
+        "tags": [
+          {
+            "name": "British",
+            "tag_id": "urn:tag:genre:british",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:british"
+          },
+          {
+            "name": "Folk",
+            "tag_id": "urn:tag:genre:folk",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:folk"
+          },
+          {
+            "name": "Singer & Songwriter",
+            "tag_id": "urn:tag:genre:singer_songwriter",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:singer_songwriter"
+          },
+          {
+            "name": "Acoustic",
+            "tag_id": "urn:tag:genre:acoustic",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:acoustic"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:audience:qloo:loyal",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:loyal"
+          },
+          {
+            "name": "Thoughtful",
+            "tag_id": "urn:tag:audience:qloo:thoughtful",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:thoughtful"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:audience:qloo:passionate",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:passionate"
+          },
+          {
+            "name": "Introspective",
+            "tag_id": "urn:tag:audience:qloo:introspective",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:introspective"
+          },
+          {
+            "name": "Emotive",
+            "tag_id": "urn:tag:music:qloo:emotive",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:emotive"
+          },
+          {
+            "name": "Melodic",
+            "tag_id": "urn:tag:music:qloo:melodic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:melodic"
+          },
+          {
+            "name": "Acoustic",
+            "tag_id": "urn:tag:music:qloo:acoustic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:acoustic"
+          },
+          {
+            "name": "Introspective",
+            "tag_id": "urn:tag:music:qloo:introspective",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:introspective"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:music:qloo:soulful",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:soulful"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:intimate"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:style:qloo:expressive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:expressive"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:style:qloo:soulful",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:soulful"
+          },
+          {
+            "name": "Emotive",
+            "tag_id": "urn:tag:characteristic:qloo:emotive",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:emotive"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:characteristic:qloo:soulful",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:soulful"
+          },
+          {
+            "name": "Introspective",
+            "tag_id": "urn:tag:characteristic:qloo:introspective",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:introspective"
+          },
+          {
+            "name": "Melodic",
+            "tag_id": "urn:tag:characteristic:qloo:melodic",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:melodic"
+          },
+          {
+            "name": "Acoustic",
+            "tag_id": "urn:tag:characteristic:qloo:acoustic",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:acoustic"
+          },
+          {
+            "name": "Indie Folk",
+            "tag_id": "urn:tag:style:qloo:indie_folk",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:indie_folk"
+          },
+          {
+            "name": "Acoustic Singer-Songwriter",
+            "tag_id": "urn:tag:style:qloo:acoustic_singer_songwriter",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:acoustic_singer_songwriter"
+          },
+          {
+            "name": "Emotive Balladry",
+            "tag_id": "urn:tag:style:qloo:emotive_balladry",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:emotive_balladry"
+          },
+          {
+            "name": "Melancholic Folk",
+            "tag_id": "urn:tag:style:qloo:melancholic_folk",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:melancholic_folk"
+          },
+          {
+            "name": "Soulful Vocals",
+            "tag_id": "urn:tag:style:qloo:soulful_vocals",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:soulful_vocals"
+          },
+          {
+            "name": "Contemporary Folk",
+            "tag_id": "urn:tag:influence:qloo:contemporary_folk",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:contemporary_folk"
+          },
+          {
+            "name": "Indie Folk",
+            "tag_id": "urn:tag:influence:qloo:indie_folk",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:indie_folk"
+          },
+          {
+            "name": "Bob Dylan",
+            "tag_id": "urn:tag:influenced_by:qloo:bob_dylan",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:bob_dylan"
+          },
+          {
+            "name": "Nick Drake",
+            "tag_id": "urn:tag:influenced_by:qloo:nick_drake",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:nick_drake"
+          },
+          {
+            "name": "Leonard Cohen",
+            "tag_id": "urn:tag:influenced_by:qloo:leonard_cohen",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:leonard_cohen"
+          },
+          {
+            "name": "Guitar",
+            "tag_id": "urn:tag:instrument:qloo:guitar",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:guitar"
+          },
+          {
+            "name": "Vocals",
+            "tag_id": "urn:tag:instrument:qloo:vocals",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:vocals"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:love"
+          },
+          {
+            "name": "Loss",
+            "tag_id": "urn:tag:theme:qloo:loss",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:loss"
+          },
+          {
+            "name": "Heartbreak",
+            "tag_id": "urn:tag:theme:qloo:heartbreak",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:heartbreak"
+          },
+          {
+            "name": "Personal Growth",
+            "tag_id": "urn:tag:theme:qloo:personal_growth",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:personal_growth"
+          },
+          {
+            "name": "Introspection",
+            "tag_id": "urn:tag:theme:qloo:introspection",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:introspection"
+          },
+          {
+            "name": "Folk",
+            "tag_id": "urn:tag:genre:qloo:folk",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:folk"
+          },
+          {
+            "name": "Indie Folk",
+            "tag_id": "urn:tag:genre:qloo:indie_folk",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:indie_folk"
+          },
+          {
+            "name": "Singer-Songwriter",
+            "tag_id": "urn:tag:genre:qloo:singer_songwriter",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:singer_songwriter"
+          },
+          {
+            "name": "Acoustic",
+            "tag_id": "urn:tag:subgenre:qloo:acoustic",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:acoustic"
+          },
+          {
+            "name": "Alternative",
+            "tag_id": "urn:tag:subgenre:qloo:alternative",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:alternative"
+          }
+        ]
+      },
+      {
+        "name": "Jagjit Singh",
+        "entity_id": "FA5EEE8A-6D59-4DB4-B699-1AC5CE4E9129",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {
+              "id": "jagjit%20singh",
+              "listeners": 63768,
+              "scrobbles": 1223095
+            },
+            "musicbrainz": {
+              "id": "ff7d390f-03be-40e4-9210-3e0f660966df"
+            },
+            "spotify": {
+              "id": "2ijWbN5KykTYiBoVmhzCTU"
+            },
+            "wikidata": {
+              "id": "q107067"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/FA5EEE8A-6D59-4DB4-B699-1AC5CE4E9129-420x-auto.jpg"
+          },
+          "short_description": "Jagjit Singh was a renowned Indian ghazal singer, composer, and musician."
+        },
+        "popularity": 0.9288049363890004,
+        "disambiguation": "Jagjit Singh",
+        "tags": [
+          {
+            "name": "Indian",
+            "tag_id": "urn:tag:genre:indian",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:indian"
+          },
+          {
+            "name": "Ghazal",
+            "tag_id": "urn:tag:genre:ghazal",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:ghazal"
+          },
+          {
+            "name": "Bollywood",
+            "tag_id": "urn:tag:genre:bollywood",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:bollywood"
+          },
+          {
+            "name": "Hindi",
+            "tag_id": "urn:tag:genre:hindi",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:hindi"
+          },
+          {
+            "name": "Devoted",
+            "tag_id": "urn:tag:audience:qloo:devoted",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:devoted"
+          },
+          {
+            "name": "Appreciative",
+            "tag_id": "urn:tag:audience:qloo:appreciative",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:appreciative"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:audience:qloo:emotional",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:emotional"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:audience:qloo:loyal",
+            "type": "urn:tag:audience:qloo",
+            "value": "urn:tag:audience:qloo:loyal"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:music:qloo:soulful",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:soulful"
+          },
+          {
+            "name": "Melodious",
+            "tag_id": "urn:tag:music:qloo:melodious",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:melodious"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:music:qloo:expressive",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:expressive"
+          },
+          {
+            "name": "Classical",
+            "tag_id": "urn:tag:music:qloo:classical",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:classical"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:music:qloo:romantic",
+            "type": "urn:tag:music:qloo",
+            "value": "urn:tag:music:qloo:romantic"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:intimate"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:style:qloo:expressive",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:expressive"
+          },
+          {
+            "name": "Calm",
+            "tag_id": "urn:tag:style:qloo:calm",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:calm"
+          },
+          {
+            "name": "Poetic",
+            "tag_id": "urn:tag:style:qloo:poetic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:poetic"
+          },
+          {
+            "name": "Soulful",
+            "tag_id": "urn:tag:characteristic:qloo:soulful",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:soulful"
+          },
+          {
+            "name": "Emotive",
+            "tag_id": "urn:tag:characteristic:qloo:emotive",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:emotive"
+          },
+          {
+            "name": "Melodious",
+            "tag_id": "urn:tag:characteristic:qloo:melodious",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:melodious"
+          },
+          {
+            "name": "Expressive",
+            "tag_id": "urn:tag:characteristic:qloo:expressive",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:expressive"
+          },
+          {
+            "name": "Innovative",
+            "tag_id": "urn:tag:characteristic:qloo:innovative",
+            "type": "urn:tag:characteristic:qloo",
+            "value": "urn:tag:characteristic:qloo:innovative"
+          },
+          {
+            "name": "Ghazal",
+            "tag_id": "urn:tag:style:qloo:ghazal",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:ghazal"
+          },
+          {
+            "name": "Semi-Classical",
+            "tag_id": "urn:tag:style:qloo:semi_classical",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:semi_classical"
+          },
+          {
+            "name": "Romantic",
+            "tag_id": "urn:tag:style:qloo:romantic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:romantic"
+          },
+          {
+            "name": "Melancholic",
+            "tag_id": "urn:tag:style:qloo:melancholic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:melancholic"
+          },
+          {
+            "name": "Poetic",
+            "tag_id": "urn:tag:style:qloo:poetic",
+            "type": "urn:tag:style:qloo",
+            "value": "urn:tag:style:qloo:poetic"
+          },
+          {
+            "name": "Ghazal",
+            "tag_id": "urn:tag:influence:qloo:ghazal",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:ghazal"
+          },
+          {
+            "name": "Indian Classical Fusion",
+            "tag_id": "urn:tag:influence:qloo:indian_classical_fusion",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:indian_classical_fusion"
+          },
+          {
+            "name": "Bollywood Music",
+            "tag_id": "urn:tag:influence:qloo:bollywood_music",
+            "type": "urn:tag:influence:qloo",
+            "value": "urn:tag:influence:qloo:bollywood_music"
+          },
+          {
+            "name": "Begum Akhtar",
+            "tag_id": "urn:tag:influenced_by:qloo:begum_akhtar",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:begum_akhtar"
+          },
+          {
+            "name": "K.L. Saigal",
+            "tag_id": "urn:tag:influenced_by:qloo:k_l_saigal",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:k_l_saigal"
+          },
+          {
+            "name": "Ghulam Ali",
+            "tag_id": "urn:tag:influenced_by:qloo:ghulam_ali",
+            "type": "urn:tag:influenced_by:qloo",
+            "value": "urn:tag:influenced_by:qloo:ghulam_ali"
+          },
+          {
+            "name": "Harmonium",
+            "tag_id": "urn:tag:instrument:qloo:harmonium",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:harmonium"
+          },
+          {
+            "name": "Tabla",
+            "tag_id": "urn:tag:instrument:qloo:tabla",
+            "type": "urn:tag:instrument:qloo",
+            "value": "urn:tag:instrument:qloo:tabla"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:theme:qloo:love",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:love"
+          },
+          {
+            "name": "Separation",
+            "tag_id": "urn:tag:theme:qloo:separation",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:separation"
+          },
+          {
+            "name": "Longing",
+            "tag_id": "urn:tag:theme:qloo:longing",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:longing"
+          },
+          {
+            "name": "Philosophy",
+            "tag_id": "urn:tag:theme:qloo:philosophy",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:philosophy"
+          },
+          {
+            "name": "Melancholy",
+            "tag_id": "urn:tag:theme:qloo:melancholy",
+            "type": "urn:tag:theme:qloo",
+            "value": "urn:tag:theme:qloo:melancholy"
+          },
+          {
+            "name": "Ghazal",
+            "tag_id": "urn:tag:genre:qloo:ghazal",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:ghazal"
+          },
+          {
+            "name": "Indian Classical",
+            "tag_id": "urn:tag:genre:qloo:indian_classical",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:indian_classical"
+          },
+          {
+            "name": "Semi-Classical",
+            "tag_id": "urn:tag:genre:qloo:semi_classical",
+            "type": "urn:tag:genre:qloo",
+            "value": "urn:tag:genre:qloo:semi_classical"
+          },
+          {
+            "name": "Playback Singing",
+            "tag_id": "urn:tag:subgenre:qloo:playback_singing",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:playback_singing"
+          },
+          {
+            "name": "Folk",
+            "tag_id": "urn:tag:subgenre:qloo:folk",
+            "type": "urn:tag:subgenre:qloo",
+            "value": "urn:tag:subgenre:qloo:folk"
+          },
+          {
+            "name": "Baritone",
+            "tag_id": "urn:tag:artist:qloo:baritone",
+            "type": "urn:tag:artist:qloo",
+            "value": "urn:tag:artist:qloo:baritone"
+          }
+        ]
+      }
+    ]
+  }
+}

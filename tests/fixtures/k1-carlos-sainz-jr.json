@@ -1,0 +1,3197 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Carlos Sainz Jr.",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Carlos Sainz Jr.",
+        "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "q",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Карлос Сайнс-младший"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс-младший"
+            },
+            {
+              "language": "z",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Karlos Sayns"
+            },
+            {
+              "language": "z",
+              "value": "Karlos Sayns"
+            },
+            {
+              "language": "e",
+              "value": "Κάρλος Σάινθ Jr"
+            },
+            {
+              "language": "l",
+              "value": "Κάρλος Σάινθ Jr"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "u",
+              "value": "Карлос Сайнс (молодший)"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Сайнс (молодший)"
+            },
+            {
+              "language": "l",
+              "value": "Karloss Sainss jaunākais"
+            },
+            {
+              "language": "v",
+              "value": "Karloss Sainss jaunākais"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس ساینز جونیور"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس ساینز جونیور"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס סאינס"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס סאינס"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz juunior"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz juunior"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・サインツJr."
+            },
+            {
+              "language": "a",
+              "value": "カルロス・サインツJr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "k",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz jr"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz jr"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц (младши)"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц (младши)"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "i",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "h",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "m",
+              "value": "Карлос Сайнц йуниор"
+            },
+            {
+              "language": "n",
+              "value": "Карлос Сайнц йуниор"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "o",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц младши"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц младши"
+            },
+            {
+              "language": "t",
+              "value": "การ์โลส ไซนซ์ จูเนียร์"
+            },
+            {
+              "language": "h",
+              "value": "การ์โลส ไซนซ์ จูเนียร์"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Саинс јр."
+            },
+            {
+              "language": "r",
+              "value": "Карлос Саинс јр."
+            },
+            {
+              "language": "a",
+              "value": "كارلوس ساينز جونيور"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس ساينز جونيور"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "p",
+              "value": "Carlos Sainz Jr"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Jr"
+            },
+            {
+              "language": "z",
+              "value": "小卡洛斯·塞恩斯"
+            },
+            {
+              "language": "h",
+              "value": "小卡洛斯·塞恩斯"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "b",
+              "value": "Carlos Sainz jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz Vázquez de Castro"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Sainz, Jr."
+            },
+            {
+              "language": "r",
+              "value": "Сайнс, Карлос (младший)"
+            },
+            {
+              "language": "u",
+              "value": "Сайнс, Карлос (младший)"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "l",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Sainz"
+            },
+            {
+              "language": "b",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Сайнц"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Sainz junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Sainz Jr."
+            },
+            {
+              "language": "u",
+              "value": "Carlos Sainz Jr."
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "carlossainz55"
+            },
+            "twitter": {
+              "id": "Carlossainz55"
+            }
+          },
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "1994-09-01",
+          "image": {
+            "url": "https://images.qloo.com/i/1A6309AB-011E-4835-AAB1-A25F4B67CCC2-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula One",
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "Scuderia Ferrari",
+            "Renault F1 Team",
+            "Scuderia Toro Rosso",
+            "McLaren"
+          ],
+          "short_description": "Spanish racing driver"
+        },
+        "popularity": 0.9693741098705168,
+        "disambiguation": "1994-09-01",
+        "tags": [
+          {
+            "name": "Ferrari Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers"
+          },
+          {
+            "name": "Dams Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dams_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dams_drivers"
+          },
+          {
+            "name": "Formula Bmw Pacific Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_bmw_pacific_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_bmw_pacific_drivers"
+          },
+          {
+            "name": "Euroformula Open Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:euroformula_open_championship_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Spanish Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_gp3_series_drivers"
+          },
+          {
+            "name": "Formula Bmw Europe Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_bmw_europe_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_bmw_europe_drivers"
+          },
+          {
+            "name": "Engvarb From September 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2022"
+          },
+          {
+            "name": "Toro Rosso Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers"
+          },
+          {
+            "name": "Spanish Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Tech 1 Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tech_1_racing_drivers"
+          },
+          {
+            "name": "Arden International Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arden_international_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arden_international_drivers"
+          },
+          {
+            "name": "Renault Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:renault_formula_one_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "World Series Formula V8 3.5 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_series_formula_v8_3_5_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Formula 3 Euro Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_3_euro_series_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Racing Drivers From Madrid",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_madrid"
+          },
+          {
+            "name": "De Villota Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:villota_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:villota_motorsport_drivers"
+          },
+          {
+            "name": "British Formula Three Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers"
+          },
+          {
+            "name": "Zeta Corse Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:zeta_corse_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:zeta_corse_drivers"
+          },
+          {
+            "name": "Spanish Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_racing_drivers"
+          },
+          {
+            "name": "Koiranen Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:koiranen_gp_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Signature Team Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:signature_team_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:signature_team_drivers"
+          },
+          {
+            "name": "British Formula Renault 2.0 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_renault_2_0_drivers"
+          },
+          {
+            "name": "Eurointernational Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eurointernational_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eurointernational_drivers"
+          },
+          {
+            "name": "Epsilon Euskadi Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:epsilon_euskadi_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:epsilon_euskadi_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Boozer",
+        "entity_id": "10804917-CA1A-455E-99EF-FB08E73BD962",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Booz Cruise"
+            },
+            {
+              "language": "n",
+              "value": "Booz Cruise"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·布泽尔"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·布泽尔"
+            },
+            {
+              "language": "l",
+              "value": "Būzers"
+            },
+            {
+              "language": "v",
+              "value": "Būzers"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس بوزر"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس بوزر"
+            },
+            {
+              "language": "e",
+              "value": "Booz"
+            },
+            {
+              "language": "n",
+              "value": "Booz"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס בוזר"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס בוזר"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Austin Boozer Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Austin Boozer Jr."
+            },
+            {
+              "language": "v",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "k",
+              "value": "카를로스 부저"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 부저"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Austin Boozer, Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Austin Boozer, Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "e",
+              "value": "CBooz"
+            },
+            {
+              "language": "n",
+              "value": "CBooz"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "h",
+              "value": "Կարլոս Բուզեր"
+            },
+            {
+              "language": "y",
+              "value": "Կարլոս Բուզեր"
+            },
+            {
+              "language": "m",
+              "value": "Карлос Бүүзер"
+            },
+            {
+              "language": "n",
+              "value": "Карлос Бүүзер"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس استین بوذر"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس استین بوذر"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس آستین بوذر"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس آستین بوذر"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "l",
+              "value": "Karloss Būzers"
+            },
+            {
+              "language": "v",
+              "value": "Karloss Būzers"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "q",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・ブーザー"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・ブーザー"
+            },
+            {
+              "language": "a",
+              "value": "كارلوس بوزر"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس بوزر"
+            },
+            {
+              "language": "z",
+              "value": "卡罗斯·布泽尔"
+            },
+            {
+              "language": "h",
+              "value": "卡罗斯·布泽尔"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Austin Boozer"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Бузер"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "z",
+              "value": "卡路士·布沙"
+            },
+            {
+              "language": "h",
+              "value": "卡路士·布沙"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Boozer"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Boozer"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "mrcbooz"
+            },
+            "twitter": {
+              "id": "MisterCBooz"
+            },
+            "imdb": {
+              "id": "nm2574988"
+            }
+          },
+          "child": [
+            "Cameron Boozer"
+          ],
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1981-11-20",
+          "image": {
+            "url": "https://images.qloo.com/i/10804917-CA1A-455E-99EF-FB08E73BD962-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Chicago Bulls",
+            "Cleveland Cavaliers",
+            "Duke Blue Devils men's basketball",
+            "Utah Jazz",
+            "Los Angeles Lakers"
+          ],
+          "work_period_start": "2002-01-01",
+          "short_description": "American basketball player"
+        },
+        "popularity": 0.9854480816690403,
+        "disambiguation": "1981-11-20",
+        "tags": [
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          },
+          {
+            "name": "Basketball Players From Alaska",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_alaska",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_alaska"
+          },
+          {
+            "name": "Medalists At The 2008 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2008_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2008_summer_olympics"
+          },
+          {
+            "name": "Duke Blue Devils Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:duke_blue_devils_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:duke_blue_devils_mens_basketball_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Mens 3x3 Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_3x3_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_3x3_basketball_players"
+          },
+          {
+            "name": "Cleveland Cavaliers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_players"
+          },
+          {
+            "name": "Olympic Gold Medalists For The United States In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Sportspeople From Aschaffenburg",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_aschaffenburg",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_aschaffenburg"
+          },
+          {
+            "name": "Power Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:power_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:power_forwards"
+          },
+          {
+            "name": "Olympic Bronze Medalists For The United States In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_basketball"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "History",
+            "tag_id": "urn:tag:genre:media:media:history",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:history"
+          },
+          {
+            "name": "United States Mens National Basketball Team Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players"
+          },
+          {
+            "name": "Cleveland Cavaliers Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_draft_picks"
+          },
+          {
+            "name": "Medalists At The 2004 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2004_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2004_summer_olympics"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "All-american College Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players"
+          },
+          {
+            "name": "Utah Jazz Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:utah_jazz_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:utah_jazz_players"
+          },
+          {
+            "name": "20th-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople"
+          },
+          {
+            "name": "Guangdong Southern Tigers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:guangdong_southern_tigers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:guangdong_southern_tigers_players"
+          },
+          {
+            "name": "Mcdonalds High School All-americans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans"
+          },
+          {
+            "name": "Basketball Players At The 2008 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2008_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2008_summer_olympics"
+          },
+          {
+            "name": "Chicago Bulls Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chicago_bulls_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chicago_bulls_players"
+          },
+          {
+            "name": "21st-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople"
+          },
+          {
+            "name": "American Expatriate Basketball People In China",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_china",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_china"
+          },
+          {
+            "name": "Basketball Players At The 2004 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2004_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2004_summer_olympics"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Parade High School All-americans (boys Basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Los Angeles Lakers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players"
+          },
+          {
+            "name": "Big3 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:big3_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:big3_players"
+          }
+        ]
+      },
+      {
+        "name": "Carlos PenaVega",
+        "entity_id": "27C26830-EC1A-4776-AB82-686DAD62BB0B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "f",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena jr."
+            },
+            {
+              "language": "l",
+              "value": "Carlos Pena jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Peña"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Peña"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "c",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "q",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "g",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "l",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "e",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "s",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "k",
+              "value": "카를로스 페나 주니어"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 페나 주니어"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "i",
+              "value": "Carlos Pena, Jr."
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena, Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "y",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Pena mladší"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena mladší"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "y",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "o",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "r",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena, Jr"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena, Jr"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "h",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "u",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "n",
+              "value": "Carlos pena jr"
+            },
+            {
+              "language": "l",
+              "value": "Carlos pena jr"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto Pena"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Roberto Pena"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena junior"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "t",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "d",
+              "value": "Carlos Roberto Pena Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto Pena Jr."
+            },
+            {
+              "language": "v",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "i",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס פנה"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס פנה"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "p",
+              "value": "ਕਾਰਲੋਸ ਪੇਨਾ ਵੇਗਾ"
+            },
+            {
+              "language": "a",
+              "value": "ਕਾਰਲੋਸ ਪੇਨਾ ਵੇਗਾ"
+            },
+            {
+              "language": "a",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "n",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "h",
+              "value": "Պենա Կառլոս"
+            },
+            {
+              "language": "y",
+              "value": "Պենա Կառլոս"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Roberto Pena, Jr."
+            },
+            {
+              "language": "j",
+              "value": "カルロス・ペネベガ"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・ペネベガ"
+            },
+            {
+              "language": "b",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "d",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "a",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "a",
+              "value": "Karlos Pena"
+            },
+            {
+              "language": "z",
+              "value": "Karlos Pena"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "t",
+              "value": "கார்லோஸ் பேனா"
+            },
+            {
+              "language": "a",
+              "value": "கார்லோஸ் பேனா"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Pena-Vega"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena-Vega"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena jr."
+            },
+            {
+              "language": "b",
+              "value": "Carlos Pena jr."
+            },
+            {
+              "language": "h",
+              "value": "קרלוס פינה"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס פינה"
+            },
+            {
+              "language": "r",
+              "value": "Пена, Карлос"
+            },
+            {
+              "language": "u",
+              "value": "Пена, Карлос"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Pena"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Roberto Pena Junior"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Roberto Pena Junior"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "a",
+              "value": "كارلوس بينا فيغا"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس بينا فيغا"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Roberto Pena Jr"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Roberto Pena Jr"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "k",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Пена"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Pena, Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Pena, Jr."
+            },
+            {
+              "language": "e",
+              "value": "Κάρλος Πένα Βέγκα"
+            },
+            {
+              "language": "l",
+              "value": "Κάρλος Πένα Βέγκα"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "a",
+              "value": "Carlos Pena Jr."
+            },
+            {
+              "language": "g",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Pena Jr"
+            },
+            {
+              "language": "t",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "r",
+              "value": "Carlos PenaVega"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Roberto PenaVega"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·佩尼亞 (歌手)"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·佩尼亞 (歌手)"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "therealcarlospena"
+            },
+            "twitter": {
+              "id": "TheCarlosPena"
+            },
+            "spotify": {
+              "id": "55I8hJGKx6qhra9J4Du9DP"
+            },
+            "imdb": {
+              "id": "nm1821327"
+            },
+            "library_of_congress": {
+              "id": "no2011048608"
+            },
+            "musicbrainz": {
+              "id": "570c50be-8a41-40a7-98c7-66c0aa55c5ff"
+            }
+          },
+          "child": [
+            "Ocean PenaVega",
+            "Rio PenaVega",
+            "Kingston PenaVega"
+          ],
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1989-08-15",
+          "image": {
+            "url": "https://images.qloo.com/i/27C26830-EC1A-4776-AB82-686DAD62BB0B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "ukulele",
+            "voice"
+          ],
+          "notable_work": [
+            "The Really Loud House"
+          ],
+          "spouse": [
+            "Alexa PenaVega"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "American film and TV actor, singer-songwriter, dancer and television show host"
+        },
+        "popularity": 0.9784085843815571,
+        "disambiguation": "1989-08-15",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "American People Of Dominican Republic Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_dominican_republic_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_dominican_republic_descent"
+          },
+          {
+            "name": "Musical",
+            "tag_id": "urn:tag:genre:media:media:musical",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:musical"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "American People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_spanish_descent"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "American Baritones",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_baritones",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_baritones"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "Big Time Rush (band) Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:big_time_rush_band_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:big_time_rush_band_members"
+          },
+          {
+            "name": "Male Actors From Missouri",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_missouri",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_missouri"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "Nickelodeon People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nickelodeon_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nickelodeon_people"
+          },
+          {
+            "name": "21st-century American Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singers"
+          },
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:occupation:person:dancer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dancer"
+          },
+          {
+            "name": "American People Of Venezuelan Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_venezuelan_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_venezuelan_descent"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "American Male Child Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_child_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_child_actors"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Youtubers From Missouri",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_from_missouri",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_from_missouri"
+          },
+          {
+            "name": "American Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_christians"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "Director",
+            "tag_id": "urn:tag:genre:person:director",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:director"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "American Child Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_singers"
+          },
+          {
+            "name": "Youtubers From Florida",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_from_florida",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_from_florida"
+          },
+          {
+            "name": "Short",
+            "tag_id": "urn:tag:genre:media:media:short",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:short"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Male Actors From Florida",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_florida",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_florida"
+          },
+          {
+            "name": "American Game Show Hosts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_game_show_hosts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_game_show_hosts"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "American Heritage School (florida) Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_heritage_school_florida_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_heritage_school_florida_alumni"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Ponce",
+        "entity_id": "4DBA0186-E1BF-4721-A344-D98B81D2457D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "كارلوس بونسي"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس بونسي"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·龐塞"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·龐塞"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Armando Ponce Jr"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Armando Ponce Jr"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "f",
+              "value": "کارلوس پونسه"
+            },
+            {
+              "language": "a",
+              "value": "کارلوس پونسه"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "s",
+              "value": "Pedro Torrealba"
+            },
+            {
+              "language": "l",
+              "value": "Pedro Torrealba"
+            },
+            {
+              "language": "k",
+              "value": "카를로스 폰세"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 폰세"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・ポンセ (歌手)"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・ポンセ (歌手)"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・ポンセ"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・ポンセ"
+            },
+            {
+              "language": "h",
+              "value": "קרלוס פאנס"
+            },
+            {
+              "language": "e",
+              "value": "קרלוס פאנס"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Augusto Ponce"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Augusto Ponce"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "b",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・ポンス"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・ポンス"
+            },
+            {
+              "language": "h",
+              "value": "Կառլոս Պոնսե"
+            },
+            {
+              "language": "y",
+              "value": "Կառլոս Պոնսե"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·庞丝"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·庞丝"
+            },
+            {
+              "language": "b",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "g",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Armando Ponce"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Armando Ponce"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Armando Ponce Freyre"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Armando Ponce Freyre"
+            },
+            {
+              "language": "h",
+              "value": "Marco Ponce"
+            },
+            {
+              "language": "t",
+              "value": "Marco Ponce"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "s",
+              "value": "Pedro Torrealba"
+            },
+            {
+              "language": "q",
+              "value": "Pedro Torrealba"
+            },
+            {
+              "language": "z",
+              "value": "卡洛士·邦斯"
+            },
+            {
+              "language": "h",
+              "value": "卡洛士·邦斯"
+            },
+            {
+              "language": "s",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Понсе"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Ponce"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Ponce"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "PonceCarlos1"
+            },
+            "spotify": {
+              "id": "4ff5IojFqry4841QjwULTV"
+            },
+            "imdb": {
+              "id": "nm0005317"
+            },
+            "library_of_congress": {
+              "id": "no98102795"
+            },
+            "musicbrainz": {
+              "id": "92d025f8-1a34-4b7a-b741-df6840f9232e"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "Puerto Rico"
+          ],
+          "date_of_birth": "1972-09-04",
+          "image": {
+            "url": "https://images.qloo.com/i/4DBA0186-E1BF-4721-A344-D98B81D2457D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "spouse": [
+            "Karina Banda"
+          ],
+          "work_period_start": "1989-01-01",
+          "short_description": "Puerto Rican actor"
+        },
+        "popularity": 0.9615192267968384,
+        "disambiguation": "1972-09-04",
+        "tags": [
+          {
+            "name": "21st-century Puerto Rican Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_actors"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Puerto Rican People Of Cuban Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_cuban_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_cuban_descent"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "Puerto Rican Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_television_actors"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Male Beauty Pageant Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_beauty_pageant_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_beauty_pageant_winners"
+          },
+          {
+            "name": "Emi Latin Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:emi_latin_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:emi_latin_artists"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Male Actors From Miami",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_miami",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_miami"
+          },
+          {
+            "name": "Reality-tv",
+            "tag_id": "urn:tag:genre:media:media:reality_tv",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:reality_tv"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Puerto Rican Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_singer_songwriters"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "20th-century Puerto Rican Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_singers"
+          },
+          {
+            "name": "20th-century Puerto Rican Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_actors"
+          },
+          {
+            "name": "Puerto Rican Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_film_actors"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "American Infotainers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_infotainers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_infotainers"
+          },
+          {
+            "name": "Beauty Pageant Contestant",
+            "tag_id": "urn:tag:occupation:person:beauty_pageant_contestant",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:beauty_pageant_contestant"
+          },
+          {
+            "name": "Puerto Rican Male Telenovela Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_telenovela_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_telenovela_actors"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "21st-century Puerto Rican Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_singers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:occupation:person:musician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:musician"
+          },
+          {
+            "name": "20th-century Puerto Rican Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_singers"
+          },
+          {
+            "name": "21st-century Puerto Rican Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_singers"
+          }
+        ]
+      },
+      {
+        "name": "Carlos Correa",
+        "entity_id": "5DE05FC8-8E4B-4469-B2FC-42E1FA1AD429",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Javier Correa Jr."
+            },
+            {
+              "language": "n",
+              "value": "Carlos Javier Correa Jr."
+            },
+            {
+              "language": "d",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Javier Correa Oppenheimer"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "t",
+              "value": "คาร์ลอส คอร์เรีย"
+            },
+            {
+              "language": "h",
+              "value": "คาร์ลอส คอร์เรีย"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "q",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "a",
+              "value": "كارلوس كوريا"
+            },
+            {
+              "language": "r",
+              "value": "كارلوس كوريا"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "r",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "o",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Javier Correa Jr"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Javier Correa Jr"
+            },
+            {
+              "language": "k",
+              "value": "카를로스 코레아"
+            },
+            {
+              "language": "o",
+              "value": "카를로스 코레아"
+            },
+            {
+              "language": "d",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "e",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "h",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "u",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "j",
+              "value": "カルロス・コレア"
+            },
+            {
+              "language": "a",
+              "value": "カルロス・コレア"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "z",
+              "value": "卡洛斯·柯瑞亞"
+            },
+            {
+              "language": "h",
+              "value": "卡洛斯·柯瑞亞"
+            },
+            {
+              "language": "n",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "p",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "t",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "k",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "l",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "v",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "a",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "m",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "g",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "f",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "i",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "c",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "s",
+              "value": "Carlos Correa"
+            },
+            {
+              "language": "r",
+              "value": "Карлос Корреа"
+            },
+            {
+              "language": "u",
+              "value": "Карлос Корреа"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "teamcjcorrea"
+            },
+            "twitter": {
+              "id": "TeamCJCorrea"
+            }
+          },
+          "citizenship": [
+            "Puerto Rico"
+          ],
+          "date_of_birth": "1994-09-22",
+          "image": {
+            "url": "https://images.qloo.com/i/5DE05FC8-8E4B-4469-B2FC-42E1FA1AD429-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "baseball"
+          ],
+          "member_of_sports_team": [
+            "Houston Astros"
+          ],
+          "work_period_start": "2015-06-08",
+          "short_description": "baseball player"
+        },
+        "popularity": 0.9195649101444864,
+        "disambiguation": "1994-09-22",
+        "tags": [
+          {
+            "name": "Gulf Coast Astros Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gulf_coast_astros_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gulf_coast_astros_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Lancaster Jethawks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lancaster_jethawks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lancaster_jethawks_players"
+          },
+          {
+            "name": "Corpus Christi Hooks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:corpus_christi_hooks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:corpus_christi_hooks_players"
+          },
+          {
+            "name": "Round Rock Express Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:round_rock_express_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:round_rock_express_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Quad Cities River Bandits Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:quad_cities_river_bandits_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:quad_cities_river_bandits_players"
+          },
+          {
+            "name": "Major League Baseball Shortstops",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:major_league_baseball_shortstops",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:major_league_baseball_shortstops"
+          },
+          {
+            "name": "Minnesota Twins Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:minnesota_twins_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:minnesota_twins_players"
+          },
+          {
+            "name": "Fresno Grizzlies Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fresno_grizzlies_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fresno_grizzlies_players"
+          },
+          {
+            "name": "Major League Baseball Rookie Of The Year Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:major_league_baseball_rookie_year_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:major_league_baseball_rookie_year_award_winners"
+          },
+          {
+            "name": "Houston Astros Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:houston_astros_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:houston_astros_players"
+          },
+          {
+            "name": "American League All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_league_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_league_all_stars"
+          },
+          {
+            "name": "Gold Glove Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gold_glove_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gold_glove_award_winners"
+          },
+          {
+            "name": "Greeneville Astros Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:greeneville_astros_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:greeneville_astros_players"
+          },
+          {
+            "name": "Major League Baseball Players From Puerto Rico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:major_league_baseball_players_from_puerto_rico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:major_league_baseball_players_from_puerto_rico"
+          },
+          {
+            "name": "Baseball Player",
+            "tag_id": "urn:tag:occupation:person:baseball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:baseball_player"
+          },
+          {
+            "name": "2017 World Baseball Classic Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2017_world_baseball_classic_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2017_world_baseball_classic_players"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Jasprit Bumrah",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Jasprit Bumrah",
+        "entity_id": "A2E9EB43-7323-49BD-A5DD-CC7250D50F3D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "e",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "h",
+              "value": "जसप्रीत बुमराह"
+            },
+            {
+              "language": "i",
+              "value": "जसप्रीत बुमराह"
+            },
+            {
+              "language": "e",
+              "value": "Jasprit Jasbirsingh Bumrah"
+            },
+            {
+              "language": "n",
+              "value": "Jasprit Jasbirsingh Bumrah"
+            },
+            {
+              "language": "g",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "a",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "s",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "l",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "h",
+              "value": "Dzsaszprít Bumráh"
+            },
+            {
+              "language": "u",
+              "value": "Dzsaszprít Bumráh"
+            },
+            {
+              "language": "s",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "q",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "m",
+              "value": "ജസ്പ്രീത് ബുമ്ര"
+            },
+            {
+              "language": "l",
+              "value": "ജസ്പ്രീത് ബുമ്ര"
+            },
+            {
+              "language": "p",
+              "value": "ਜਸਪ੍ਰੀਤ ਬੁਮਰਾਹ"
+            },
+            {
+              "language": "a",
+              "value": "ਜਸਪ੍ਰੀਤ ਬੁਮਰਾਹ"
+            },
+            {
+              "language": "v",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "o",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "j",
+              "value": "ジャスプリット・ブムラ"
+            },
+            {
+              "language": "a",
+              "value": "ジャスプリット・ブムラ"
+            },
+            {
+              "language": "u",
+              "value": "جسپریت بھمرا"
+            },
+            {
+              "language": "r",
+              "value": "جسپریت بھمرا"
+            },
+            {
+              "language": "e",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "s",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "m",
+              "value": "जसप्रीत बुमराह"
+            },
+            {
+              "language": "r",
+              "value": "जसप्रीत बुमराह"
+            },
+            {
+              "language": "f",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "r",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "b",
+              "value": "জসপ্রীত বুমরাহ"
+            },
+            {
+              "language": "n",
+              "value": "জসপ্রীত বুমরাহ"
+            },
+            {
+              "language": "o",
+              "value": "ଜସପ୍ରିତ ବୁମ୍ରାହ"
+            },
+            {
+              "language": "r",
+              "value": "ଜସପ୍ରିତ ବୁମ୍ରାହ"
+            },
+            {
+              "language": "r",
+              "value": "Джасприт Бумрах"
+            },
+            {
+              "language": "u",
+              "value": "Джасприт Бумрах"
+            },
+            {
+              "language": "t",
+              "value": "ஜஸ்பிரித் பும்ரா"
+            },
+            {
+              "language": "a",
+              "value": "ஜஸ்பிரித் பும்ரா"
+            },
+            {
+              "language": "n",
+              "value": "जसप्रित बुमराह"
+            },
+            {
+              "language": "e",
+              "value": "जसप्रित बुमराह"
+            },
+            {
+              "language": "c",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "a",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "t",
+              "value": "జస్ప్రీత్ బుమ్రాహ్"
+            },
+            {
+              "language": "e",
+              "value": "జస్ప్రీత్ బుమ్రాహ్"
+            },
+            {
+              "language": "n",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "l",
+              "value": "Jasprit Bumrah"
+            },
+            {
+              "language": "d",
+              "value": "Jasprit Jasbirsingh Bumrah"
+            },
+            {
+              "language": "e",
+              "value": "Jasprit Jasbirsingh Bumrah"
+            },
+            {
+              "language": "e",
+              "value": "Jasprit Jasbir Singh Bumrah"
+            },
+            {
+              "language": "n",
+              "value": "Jasprit Jasbir Singh Bumrah"
+            },
+            {
+              "language": "k",
+              "value": "ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ"
+            },
+            {
+              "language": "n",
+              "value": "ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ"
+            },
+            {
+              "language": "r",
+              "value": "Бумрах, Джасприт"
+            },
+            {
+              "language": "u",
+              "value": "Бумрах, Джасприт"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "jaspritb1"
+            },
+            "twitter": {
+              "id": "Jaspritbumrah93"
+            }
+          },
+          "citizenship": [
+            "India"
+          ],
+          "date_of_birth": "1993-12-06",
+          "image": {
+            "url": "https://images.qloo.com/i/A2E9EB43-7323-49BD-A5DD-CC7250D50F3D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "cricket"
+          ],
+          "member_of_sports_team": [
+            "Mumbai Indians",
+            "Gujarat cricket team",
+            "India national cricket team"
+          ],
+          "short_description": "cricketer"
+        },
+        "popularity": 0.9925528098194192,
+        "disambiguation": "1993-12-06",
+        "tags": [
+          {
+            "name": "India Green Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_green_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_green_cricketers"
+          },
+          {
+            "name": "India Test Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricketers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Indian Sikhs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_sikhs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_sikhs"
+          },
+          {
+            "name": "Indian Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_cricketers"
+          },
+          {
+            "name": "Cricketers At The 2019 Cricket World Cup",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_at_2019_cricket_world_cup"
+          },
+          {
+            "name": "Gujarat Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gujarat_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gujarat_cricketers"
+          },
+          {
+            "name": "Mumbai Indians Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mumbai_indians_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mumbai_indians_cricketers"
+          },
+          {
+            "name": "Wisden Cricketers Of The Year",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wisden_cricketers_year"
+          },
+          {
+            "name": "India One Day International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_one_day_international_cricketers"
+          },
+          {
+            "name": "India Test Cricket Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_test_cricket_captains"
+          },
+          {
+            "name": "Cricketers From Ahmedabad",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cricketers_from_ahmedabad",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cricketers_from_ahmedabad"
+          },
+          {
+            "name": "Cricketer",
+            "tag_id": "urn:tag:occupation:person:cricketer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cricketer"
+          },
+          {
+            "name": "People Of Punjabi Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_punjabi_descent"
+          },
+          {
+            "name": "21st-century Indian People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_people"
+          },
+          {
+            "name": "India Twenty20 International Cricketers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:india_twenty20_international_cricketers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Manjit Bumrah",
+        "entity_id": "7DD9C711-29F2-4FFD-B11F-DE403E696CCA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "l",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "c",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "a",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "e",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "s",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "g",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "a",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "f",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "r",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "n",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "l",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "s",
+              "value": "Manjit Bumrah"
+            },
+            {
+              "language": "q",
+              "value": "Manjit Bumrah"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Canada"
+          ],
+          "date_of_birth": "2000-01-01",
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "taekwondo"
+          ],
+          "short_description": "Canadian taekwondoin"
+        },
+        "disambiguation": "2000-01-01",
+        "tags": [
+          {
+            "name": "Taekwondo Athlete",
+            "tag_id": "urn:tag:occupation:person:taekwondo_athlete",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:taekwondo_athlete"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      }
+    ]
+  }
+}

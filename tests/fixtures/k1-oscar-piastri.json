@@ -1,0 +1,3198 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Oscar Piastri",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Oscar Piastri",
+        "entity_id": "28CE5261-9DEA-4A48-A133-8FBE931ACA3D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "u",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "g",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "y",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "g",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "p",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "k",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "g",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "v",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "w",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "z",
+              "value": "奧斯卡·皮亞斯特里"
+            },
+            {
+              "language": "h",
+              "value": "奧斯卡·皮亞斯特里"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "b",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "v",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "u",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "m",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "b",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "h",
+              "value": "אוסקר פיאסטרי"
+            },
+            {
+              "language": "e",
+              "value": "אוסקר פיאסטרי"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "g",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "m",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "g",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "p",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "w",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "u",
+              "value": "Оскар Піастрі"
+            },
+            {
+              "language": "k",
+              "value": "Оскар Піастрі"
+            },
+            {
+              "language": "b",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "h",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "u",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "أوسكار بياستري"
+            },
+            {
+              "language": "r",
+              "value": "أوسكار بياستري"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "w",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "m",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "z",
+              "value": "奥斯卡·皮亚斯特里"
+            },
+            {
+              "language": "h",
+              "value": "奥斯卡·皮亚斯特里"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "k",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "h",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "q",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "f",
+              "value": "اسکار پیاستری"
+            },
+            {
+              "language": "a",
+              "value": "اسکار پیاستری"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Пиастри, Оскар"
+            },
+            {
+              "language": "u",
+              "value": "Пиастри, Оскар"
+            },
+            {
+              "language": "p",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Jack Piastri"
+            },
+            {
+              "language": "v",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "o",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Piastri"
+            },
+            {
+              "language": "j",
+              "value": "オスカー・ピアストリ"
+            },
+            {
+              "language": "a",
+              "value": "オスカー・ピアストリ"
+            },
+            {
+              "language": "r",
+              "value": "Оскар Пиастри"
+            },
+            {
+              "language": "u",
+              "value": "Оскар Пиастри"
+            },
+            {
+              "language": "e",
+              "value": "Όσκαρ Πιάστρι"
+            },
+            {
+              "language": "l",
+              "value": "Όσκαρ Πιάστρι"
+            },
+            {
+              "language": "l",
+              "value": "Oskars Piastri"
+            },
+            {
+              "language": "v",
+              "value": "Oskars Piastri"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "oscarpiastri"
+            },
+            "twitter": {
+              "id": "OscarPiastri"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "2001-04-06",
+          "image": {
+            "url": "https://images.qloo.com/i/28CE5261-9DEA-4A48-A133-8FBE931ACA3D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing"
+          ],
+          "short_description": "Australian racing driver"
+        },
+        "popularity": 0.6985083876017874,
+        "disambiguation": "2001-04-06",
+        "tags": [
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Australian People Of Italian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_people_italian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_people_italian_descent"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Uae F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uae_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uae_f4_championship_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "People From The City Of Bayside",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_city_bayside",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_city_bayside"
+          },
+          {
+            "name": "People Educated At Haileybury And Imperial Service College",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_haileybury_imperial_service_college",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_haileybury_imperial_service_college"
+          },
+          {
+            "name": "R-ace Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Sportspeople Of Italian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_italian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_italian_descent"
+          },
+          {
+            "name": "Australian Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_formula_one_drivers"
+          },
+          {
+            "name": "Racing Drivers From Victoria (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_victoria_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_victoria_state"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Arden International Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arden_international_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arden_international_drivers"
+          },
+          {
+            "name": "Fia Formula 3 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_champions"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Racing Drivers From Melbourne",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_melbourne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_melbourne"
+          },
+          {
+            "name": "British F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_f4_championship_drivers"
+          },
+          {
+            "name": "People Educated At Haileybury (melbourne)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_haileybury_melbourne",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_haileybury_melbourne"
+          }
+        ]
+      },
+      {
+        "name": "Oscar dos Santos Emboaba Júnior",
+        "entity_id": "4996ED41-4362-4E98-90BF-0ABFB6C3B22B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "m",
+              "value": "ऑस्कार (फुटबॉलपटू)"
+            },
+            {
+              "language": "r",
+              "value": "ऑस्कार (फुटबॉलपटू)"
+            },
+            {
+              "language": "f",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "k",
+              "value": "오스카르"
+            },
+            {
+              "language": "o",
+              "value": "오스카르"
+            },
+            {
+              "language": "u",
+              "value": "Oskar (futbolchi, 1991)"
+            },
+            {
+              "language": "z",
+              "value": "Oskar (futbolchi, 1991)"
+            },
+            {
+              "language": "t",
+              "value": "โอสการ์"
+            },
+            {
+              "language": "h",
+              "value": "โอสการ์"
+            },
+            {
+              "language": "k",
+              "value": "Оскар Жуниор"
+            },
+            {
+              "language": "k",
+              "value": "Оскар Жуниор"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "p",
+              "value": "ਆਸਕਰ ਡੌਸ ਸੈਂਟੋਸ ਐਮਬੋਆਬਾ ਜੂਨੀਅਰ"
+            },
+            {
+              "language": "a",
+              "value": "ਆਸਕਰ ਡੌਸ ਸੈਂਟੋਸ ਐਮਬੋਆਬਾ ਜੂਨੀਅਰ"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "p",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "a",
+              "value": "Oscar"
+            },
+            {
+              "language": "n",
+              "value": "Oscar"
+            },
+            {
+              "language": "a",
+              "value": "أوسكار دوس سانتوس"
+            },
+            {
+              "language": "r",
+              "value": "أوسكار دوس سانتوس"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "v",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Оскар Дос Сантос"
+            },
+            {
+              "language": "r",
+              "value": "Оскар Дос Сантос"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "p",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "z",
+              "value": "奥斯卡·祖尼奥"
+            },
+            {
+              "language": "h",
+              "value": "奥斯卡·祖尼奥"
+            },
+            {
+              "language": "t",
+              "value": "ஒஸ்கார்"
+            },
+            {
+              "language": "a",
+              "value": "ஒஸ்கார்"
+            },
+            {
+              "language": "e",
+              "value": "nior"
+            },
+            {
+              "language": "n",
+              "value": "nior"
+            },
+            {
+              "language": "c",
+              "value": "Oscar"
+            },
+            {
+              "language": "s",
+              "value": "Oscar"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar"
+            },
+            {
+              "language": "v",
+              "value": "Oscar"
+            },
+            {
+              "language": "r",
+              "value": "Эмбоаба Жуниор"
+            },
+            {
+              "language": "u",
+              "value": "Эмбоаба Жуниор"
+            },
+            {
+              "language": "h",
+              "value": "Օսկար"
+            },
+            {
+              "language": "y",
+              "value": "Օսկար"
+            },
+            {
+              "language": "j",
+              "value": "オスカル・ドス・サントス・エンボアバ・ジュニオール"
+            },
+            {
+              "language": "a",
+              "value": "オスカル・ドス・サントス・エンボアバ・ジュニオール"
+            },
+            {
+              "language": "p",
+              "value": "Oscar"
+            },
+            {
+              "language": "l",
+              "value": "Oscar"
+            },
+            {
+              "language": "u",
+              "value": "Оскар дус Сантус"
+            },
+            {
+              "language": "k",
+              "value": "Оскар дус Сантус"
+            },
+            {
+              "language": "z",
+              "value": "奥斯卡"
+            },
+            {
+              "language": "h",
+              "value": "奥斯卡"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Embaúba Júnior"
+            },
+            {
+              "language": "b",
+              "value": "Oscar dos Santos Embaúba Júnior"
+            },
+            {
+              "language": "v",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "f",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "r",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "f",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "r",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos Emboaba"
+            },
+            {
+              "language": "e",
+              "value": "Oscar"
+            },
+            {
+              "language": "s",
+              "value": "Oscar"
+            },
+            {
+              "language": "b",
+              "value": "ওস্কার দোস সান্তোস জুনিয়র"
+            },
+            {
+              "language": "n",
+              "value": "ওস্কার দোস সান্তোস জুনিয়র"
+            },
+            {
+              "language": "m",
+              "value": "Оскар"
+            },
+            {
+              "language": "k",
+              "value": "Оскар"
+            },
+            {
+              "language": "m",
+              "value": "Oscar"
+            },
+            {
+              "language": "g",
+              "value": "Oscar"
+            },
+            {
+              "language": "m",
+              "value": "Оскар"
+            },
+            {
+              "language": "n",
+              "value": "Оскар"
+            },
+            {
+              "language": "v",
+              "value": "Oscar"
+            },
+            {
+              "language": "i",
+              "value": "Oscar"
+            },
+            {
+              "language": "g",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos santos"
+            },
+            {
+              "language": "v",
+              "value": "Oscar dos santos"
+            },
+            {
+              "language": "j",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "v",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "f",
+              "value": "اسكار"
+            },
+            {
+              "language": "a",
+              "value": "اسكار"
+            },
+            {
+              "language": "c",
+              "value": "Oscar"
+            },
+            {
+              "language": "a",
+              "value": "Oscar"
+            },
+            {
+              "language": "r",
+              "value": "Oscar"
+            },
+            {
+              "language": "o",
+              "value": "Oscar"
+            },
+            {
+              "language": "k",
+              "value": "오스카르 두스 산투스 임보아바 주니오르"
+            },
+            {
+              "language": "o",
+              "value": "오스카르 두스 산투스 임보아바 주니오르"
+            },
+            {
+              "language": "g",
+              "value": "Oscar"
+            },
+            {
+              "language": "a",
+              "value": "Oscar"
+            },
+            {
+              "language": "n",
+              "value": "Oscar"
+            },
+            {
+              "language": "l",
+              "value": "Oscar"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "r",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "z",
+              "value": "奧斯卡·杜斯山度士·艾保亞巴·祖尼奧"
+            },
+            {
+              "language": "h",
+              "value": "奧斯卡·杜斯山度士·艾保亞巴·祖尼奧"
+            },
+            {
+              "language": "o",
+              "value": "Oscar"
+            },
+            {
+              "language": "c",
+              "value": "Oscar"
+            },
+            {
+              "language": "f",
+              "value": "اسکار"
+            },
+            {
+              "language": "a",
+              "value": "اسکار"
+            },
+            {
+              "language": "z",
+              "value": "Oscar"
+            },
+            {
+              "language": "h",
+              "value": "Oscar"
+            },
+            {
+              "language": "t",
+              "value": "Оскар"
+            },
+            {
+              "language": "g",
+              "value": "Оскар"
+            },
+            {
+              "language": "f",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "h",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "u",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar"
+            },
+            {
+              "language": "e",
+              "value": "Oscar"
+            },
+            {
+              "language": "n",
+              "value": "Oscar"
+            },
+            {
+              "language": "b",
+              "value": "Oscar"
+            },
+            {
+              "language": "i",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar"
+            },
+            {
+              "language": "a",
+              "value": "Oscar"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "h",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "n",
+              "value": "ओस्कर"
+            },
+            {
+              "language": "e",
+              "value": "ओस्कर"
+            },
+            {
+              "language": "z",
+              "value": "奧斯卡·祖利亞"
+            },
+            {
+              "language": "h",
+              "value": "奧斯卡·祖利亞"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "o",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "h",
+              "value": "אוסקר"
+            },
+            {
+              "language": "e",
+              "value": "אוסקר"
+            },
+            {
+              "language": "f",
+              "value": "Ar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "i",
+              "value": "Ar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Emboaba"
+            },
+            {
+              "language": "k",
+              "value": "Oscar Emboaba"
+            },
+            {
+              "language": "p",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "b",
+              "value": "Оскар"
+            },
+            {
+              "language": "g",
+              "value": "Оскар"
+            },
+            {
+              "language": "z",
+              "value": "奥斯卡·多斯桑托斯·埃姆博阿巴·儒尼奥尔"
+            },
+            {
+              "language": "h",
+              "value": "奥斯卡·多斯桑托斯·埃姆博阿巴·儒尼奥尔"
+            },
+            {
+              "language": "k",
+              "value": "ოსკარი"
+            },
+            {
+              "language": "a",
+              "value": "ოსკარი"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "r",
+              "value": "Оскар дос Сантос Эмбоаба Жуниор"
+            },
+            {
+              "language": "u",
+              "value": "Оскар дос Сантос Эмбоаба Жуниор"
+            },
+            {
+              "language": "i",
+              "value": "Oscar"
+            },
+            {
+              "language": "d",
+              "value": "Oscar"
+            },
+            {
+              "language": "s",
+              "value": "Oscar"
+            },
+            {
+              "language": "l",
+              "value": "Oscar"
+            },
+            {
+              "language": "t",
+              "value": "โอสการ์ ดุส ซังตุส อิงโบอาบา ฌูนีโอร์"
+            },
+            {
+              "language": "h",
+              "value": "โอสการ์ ดุส ซังตุส อิงโบอาบา ฌูนีโอร์"
+            },
+            {
+              "language": "l",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "l",
+              "value": "Oskars"
+            },
+            {
+              "language": "v",
+              "value": "Oskars"
+            },
+            {
+              "language": "a",
+              "value": "أوسكار دوس سانتوس إمبوابا جونيور"
+            },
+            {
+              "language": "r",
+              "value": "أوسكار دوس سانتوس إمبوابا جونيور"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "b",
+              "value": "Аскар дус Сантус"
+            },
+            {
+              "language": "e",
+              "value": "Аскар дус Сантус"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "q",
+              "value": "Oscar dos Santos"
+            },
+            {
+              "language": "e",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "p",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar dos Santos Emboaba Junior"
+            },
+            {
+              "language": "m",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar dos Santos Emboaba Júnior"
+            },
+            {
+              "language": "r",
+              "value": "Оскар"
+            },
+            {
+              "language": "u",
+              "value": "Оскар"
+            },
+            {
+              "language": "e",
+              "value": "Όσκαρ ντος Σάντος Εμποάδα Ζούνιορ"
+            },
+            {
+              "language": "l",
+              "value": "Όσκαρ ντος Σάντος Εμποάδα Ζούνιορ"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "oscar_emboaba"
+            },
+            "twitter": {
+              "id": "oscar8"
+            },
+            "library_of_congress": {
+              "id": "nb2015019577"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1991-09-09",
+          "image": {
+            "url": "https://images.qloo.com/i/4996ED41-4362-4E98-90BF-0ABFB6C3B22B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "São Paulo FC",
+            "Chelsea F.C.",
+            "Brazil Olympic football team",
+            "Brazil national football team",
+            "Shanghai Port F.C.",
+            "S.C. Internacional",
+            "Brazil national under-20 football team",
+            "Clube de Regatas do Flamengo",
+            "Inter Milan"
+          ],
+          "work_period_start": "2008-01-01",
+          "short_description": "Brazilian association football player, born 1991"
+        },
+        "popularity": 0.989883780345941,
+        "disambiguation": "1991-09-09",
+        "tags": [
+          {
+            "name": "Brazil Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "2014 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players"
+          },
+          {
+            "name": "Campeonato Brasileiro Série A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players"
+          },
+          {
+            "name": "Brazilian Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_roman_catholics"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Fifa Confederations Cup-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_confederations_cup_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_confederations_cup_winning_players"
+          },
+          {
+            "name": "Olympic Medalists In Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football"
+          },
+          {
+            "name": "Olympic Footballers For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil"
+          },
+          {
+            "name": "Brazil Mens Under-20 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers"
+          },
+          {
+            "name": "Footballers At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2012_summer_olympics"
+          },
+          {
+            "name": "Medalists At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Brazilian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In China",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_china",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_china"
+          },
+          {
+            "name": "São Paulo Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sao_paulo_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sao_paulo_fc_players"
+          },
+          {
+            "name": "Shanghai Port F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shanghai_port_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shanghai_port_f_c_players"
+          },
+          {
+            "name": "Chinese Super League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chinese_super_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chinese_super_league_players"
+          },
+          {
+            "name": "Footballers From São Paulo (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_paulo_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_paulo_state"
+          },
+          {
+            "name": "Sc Internacional Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sc_internacional_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sc_internacional_players"
+          },
+          {
+            "name": "Brazilian Expatriate Sportspeople In China",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_china",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_china"
+          },
+          {
+            "name": "Brazil Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Olympic Silver Medalists For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_brazil"
+          },
+          {
+            "name": "Uefa Europa League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players"
+          },
+          {
+            "name": "2013 Fifa Confederations Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2013_fifa_confederations_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2013_fifa_confederations_cup_players"
+          },
+          {
+            "name": "Brazilian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Brazilian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Oscar Filho",
+        "entity_id": "23203BF0-637F-45B3-8214-EFA95109226D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "v",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "c",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "p",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "q",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "f",
+              "value": "اسکار فیلهو"
+            },
+            {
+              "language": "a",
+              "value": "اسکار فیلهو"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "b",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "p",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Francisco de Moraes Junior"
+            },
+            {
+              "language": "r",
+              "value": "Оскар Фильо"
+            },
+            {
+              "language": "u",
+              "value": "Оскар Фильо"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Filho"
+            },
+            {
+              "language": "a",
+              "value": "Oscar Filho"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "OscarFilho"
+            },
+            "imdb": {
+              "id": "nm3628316"
+            },
+            "library_of_congress": {
+              "id": "no2018064972"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1978-08-22",
+          "image": {
+            "url": "https://images.qloo.com/i/23203BF0-637F-45B3-8214-EFA95109226D-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "notable_work": [
+            "Putz Grill...",
+            "Autobiografia não Autorizada",
+            "Alto - Biografia Não Autorizada",
+            "Custe o Que Custar"
+          ],
+          "short_description": "TV presenter, actor, reporter, comedian and Brazilian writer"
+        },
+        "popularity": 0.9824637696915668,
+        "disambiguation": "1978-08-22",
+        "tags": [
+          {
+            "name": "Brazilian Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_male_television_actors"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:occupation:person:comedian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:comedian"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:genre:person:comedian",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:comedian"
+          },
+          {
+            "name": "Brazilian Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_male_comedians"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Stand-up Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stand_up_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stand_up_comedians"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:occupation:person:journalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:journalist"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Brazilian Actor Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_actor_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_actor_stubs"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "People From Atibaia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_atibaia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_atibaia"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Oscar D'León",
+        "entity_id": "0F8406F7-25B2-48BE-9BAB-3BD78BDF9EAA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "D'Leon"
+            },
+            {
+              "language": "e",
+              "value": "D'Leon"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "q",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'leon"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D'leon"
+            },
+            {
+              "language": "g",
+              "value": "Óscar de León"
+            },
+            {
+              "language": "l",
+              "value": "Óscar de León"
+            },
+            {
+              "language": "d",
+              "value": "D’Leon"
+            },
+            {
+              "language": "e",
+              "value": "D’Leon"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D'Leon"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'Leon"
+            },
+            {
+              "language": "d",
+              "value": "D’León"
+            },
+            {
+              "language": "e",
+              "value": "D’León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar de Leon"
+            },
+            {
+              "language": "s",
+              "value": "Oscar de Leon"
+            },
+            {
+              "language": "f",
+              "value": "Oscar de León"
+            },
+            {
+              "language": "r",
+              "value": "Oscar de León"
+            },
+            {
+              "language": "h",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "u",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "g",
+              "value": "Óscar D'León"
+            },
+            {
+              "language": "l",
+              "value": "Óscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "u",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "f",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "i",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Emilio Léon Somoza"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Emilio Léon Somoza"
+            },
+            {
+              "language": "d",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Emilio Léon Somoza"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Emilio Léon Somoza"
+            },
+            {
+              "language": "e",
+              "value": "Óscar D'León"
+            },
+            {
+              "language": "s",
+              "value": "Óscar D'León"
+            },
+            {
+              "language": "t",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "y",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D’Leon"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D’Leon"
+            },
+            {
+              "language": "e",
+              "value": "Oscar de León"
+            },
+            {
+              "language": "s",
+              "value": "Oscar de León"
+            },
+            {
+              "language": "f",
+              "value": "Oscar D'Leone"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'Leone"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "t",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "g",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "a",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Óscar Emilio León Simosa"
+            },
+            {
+              "language": "n",
+              "value": "Óscar Emilio León Simosa"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Emilio Leon Simoza"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Emilio Leon Simoza"
+            },
+            {
+              "language": "f",
+              "value": "Oscar D’Leon"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D’Leon"
+            },
+            {
+              "language": "i",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar León Somoza"
+            },
+            {
+              "language": "s",
+              "value": "Oscar León Somoza"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'Leon"
+            },
+            {
+              "language": "l",
+              "value": "Oscar D'Leon"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Emilio León Simoza"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Emilio León Simoza"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "c",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "o",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "i",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "t",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "p",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "t",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "b",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "c",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "a",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "f",
+              "value": "Oscar D'Léon"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'Léon"
+            },
+            {
+              "language": "f",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "r",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "a",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "p",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "l",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "t",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "b",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "v",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "i",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "t",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D' Leon"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D' Leon"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D' León"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D' León"
+            },
+            {
+              "language": "q",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "u",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "s",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "l",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "a",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "f",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "f",
+              "value": "Oscar d'Leon"
+            },
+            {
+              "language": "r",
+              "value": "Oscar d'Leon"
+            },
+            {
+              "language": "d",
+              "value": "Oscar D’León"
+            },
+            {
+              "language": "e",
+              "value": "Oscar D’León"
+            },
+            {
+              "language": "n",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "l",
+              "value": "Oscar Emilio Leon Simosa"
+            },
+            {
+              "language": "e",
+              "value": "Oscar Leon Somoza"
+            },
+            {
+              "language": "s",
+              "value": "Oscar Leon Somoza"
+            },
+            {
+              "language": "r",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "o",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "n",
+              "value": "Oscar D'León"
+            },
+            {
+              "language": "l",
+              "value": "Oscar D'León"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "OscarDLeon"
+            },
+            "spotify": {
+              "id": "1c84wItoiAe1pEbpJMqUmQ"
+            },
+            "library_of_congress": {
+              "id": "n93077590"
+            },
+            "musicbrainz": {
+              "id": "b6059fbd-b176-4585-bb58-ea2f34269500"
+            }
+          },
+          "citizenship": [
+            "Venezuela"
+          ],
+          "date_of_birth": "1943-07-11",
+          "image": {
+            "url": "https://images.qloo.com/i/0F8406F7-25B2-48BE-9BAB-3BD78BDF9EAA-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "bass guitar",
+            "bass",
+            "voice"
+          ],
+          "short_description": "Venezuelan salsa musician"
+        },
+        "popularity": 0.9810776138550352,
+        "disambiguation": "1943-07-11",
+        "tags": [
+          {
+            "name": "Latin Grammy Lifetime Achievement Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_lifetime_achievement_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_lifetime_achievement_award_winners"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "21st-century Venezuelan Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_singers"
+          },
+          {
+            "name": "Universal Music Latino Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:universal_music_latino_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:universal_music_latino_artists"
+          },
+          {
+            "name": "Venezuelan Bass Guitarists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:venezuelan_bass_guitarists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:venezuelan_bass_guitarists"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Salsa Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:salsa_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:salsa_musicians"
+          },
+          {
+            "name": "Sony Music Latin Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sony_music_latin_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sony_music_latin_artists"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Bandleader",
+            "tag_id": "urn:tag:occupation:person:bandleader",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:bandleader"
+          },
+          {
+            "name": "Latin Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Salsa Musician",
+            "tag_id": "urn:tag:occupation:person:salsa_musician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:salsa_musician"
+          },
+          {
+            "name": "Conductor",
+            "tag_id": "urn:tag:occupation:person:conductor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:conductor"
+          },
+          {
+            "name": "20th-century Venezuelan Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_venezuelan_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_venezuelan_male_singers"
+          },
+          {
+            "name": "Venezuelan Bandleaders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:venezuelan_bandleaders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:venezuelan_bandleaders"
+          },
+          {
+            "name": "Male Bass Guitarists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_bass_guitarists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_bass_guitarists"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musicians From Caracas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_caracas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_caracas"
+          },
+          {
+            "name": "Bassist",
+            "tag_id": "urn:tag:occupation:person:bassist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:bassist"
+          },
+          {
+            "name": "Rmm Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rmm_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rmm_records_artists"
+          }
+        ]
+      },
+      {
+        "name": "Sebastián Rulli",
+        "entity_id": "9674C617-83D3-4BCB-83A8-53AB626EB176",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Себастиан Рулӣ"
+            },
+            {
+              "language": "g",
+              "value": "Себастиан Рулӣ"
+            },
+            {
+              "language": "j",
+              "value": "セバスティアン・ラリ"
+            },
+            {
+              "language": "a",
+              "value": "セバスティアン・ラリ"
+            },
+            {
+              "language": "c",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "a",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "i",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "k",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "h",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "u",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "g",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "a",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "h",
+              "value": "Սեբաստիան Ռուլի"
+            },
+            {
+              "language": "y",
+              "value": "Սեբաստիան Ռուլի"
+            },
+            {
+              "language": "s",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "v",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "s",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "f",
+              "value": "سباستین رولی"
+            },
+            {
+              "language": "a",
+              "value": "سباستین رولی"
+            },
+            {
+              "language": "f",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Рульи, Себастьян"
+            },
+            {
+              "language": "u",
+              "value": "Рульи, Себастьян"
+            },
+            {
+              "language": "r",
+              "value": "Себастьян Рульи"
+            },
+            {
+              "language": "u",
+              "value": "Себастьян Рульи"
+            },
+            {
+              "language": "d",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "a",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "f",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "p",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "s",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "q",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "e",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "i",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "d",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "f",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "i",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "e",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "s",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "b",
+              "value": "Себастиан Рули"
+            },
+            {
+              "language": "g",
+              "value": "Себастиан Рули"
+            },
+            {
+              "language": "e",
+              "value": "Σεμπαστιάν Ρούλι"
+            },
+            {
+              "language": "l",
+              "value": "Σεμπαστιάν Ρούλι"
+            },
+            {
+              "language": "e",
+              "value": "Sebastián Óscar Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Óscar Rulli"
+            },
+            {
+              "language": "p",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "h",
+              "value": "סבסטיאן רולי"
+            },
+            {
+              "language": "e",
+              "value": "סבסטיאן רולי"
+            },
+            {
+              "language": "d",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "e",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "u",
+              "value": "Себастьян Рульї"
+            },
+            {
+              "language": "k",
+              "value": "Себастьян Рульї"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "s",
+              "value": "Себастијан Руљи"
+            },
+            {
+              "language": "r",
+              "value": "Себастијан Руљи"
+            },
+            {
+              "language": "s",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "h",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "t",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "k",
+              "value": "세바스티안 룰리"
+            },
+            {
+              "language": "o",
+              "value": "세바스티안 룰리"
+            },
+            {
+              "language": "s",
+              "value": "Себастијан Рули"
+            },
+            {
+              "language": "r",
+              "value": "Себастијан Рули"
+            },
+            {
+              "language": "p",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "l",
+              "value": "Sebastian Rulli"
+            },
+            {
+              "language": "a",
+              "value": "سيباستيان رولي"
+            },
+            {
+              "language": "r",
+              "value": "سيباستيان رولي"
+            },
+            {
+              "language": "f",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "r",
+              "value": "Sebastián Oscar Rulli"
+            },
+            {
+              "language": "n",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "b",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "e",
+              "value": "Sebastián Rulli"
+            },
+            {
+              "language": "s",
+              "value": "Sebastián Rulli"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "sebastianrulli"
+            },
+            "twitter": {
+              "id": "sebastianrulli"
+            },
+            "imdb": {
+              "id": "nm0750046"
+            },
+            "library_of_congress": {
+              "id": "no2011001956"
+            }
+          },
+          "citizenship": [
+            "Argentina"
+          ],
+          "date_of_birth": "1975-07-06",
+          "image": {
+            "url": "https://images.qloo.com/i/9674C617-83D3-4BCB-83A8-53AB626EB176-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1996-01-01",
+          "short_description": "Argentine actor"
+        },
+        "popularity": 0.9941781454865679,
+        "disambiguation": "1975-07-06",
+        "tags": [
+          {
+            "name": "Male Actors From Buenos Aires",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_buenos_aires",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_buenos_aires"
+          },
+          {
+            "name": "Actors Of Argentine Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actors_argentine_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actors_argentine_descent"
+          },
+          {
+            "name": "Mexican Male Telenovela Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_male_telenovela_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_male_telenovela_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "20th-century Argentine Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_argentine_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_argentine_male_actors"
+          },
+          {
+            "name": "Argentine Male Models",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_male_models",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_male_models"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "21st-century Argentine Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_argentine_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_argentine_male_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Argentine Male Telenovela Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_male_telenovela_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_male_telenovela_actors"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Engvarb From November 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_november_2022"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Naturalized Citizens Of Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_mexico"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Argentine Emigrants To Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_emigrants_to_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_emigrants_to_mexico"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          }
+        ]
+      }
+    ]
+  }
+}

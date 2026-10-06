@@ -1,0 +1,529 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Valorant",
+    "take": 5,
+    "types": "urn:entity:videogame"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Valorant",
+        "entity_id": "38AE774E-F217-4C96-BE77-B3B40A6344E4",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "فالورانت"
+            },
+            {
+              "language": "cs",
+              "value": "Valorant"
+            },
+            {
+              "language": "et",
+              "value": "Valorant"
+            },
+            {
+              "language": "fi",
+              "value": "Valorant"
+            },
+            {
+              "language": "he",
+              "value": "ולורנט"
+            },
+            {
+              "language": "ja",
+              "value": "ヴァロラント"
+            },
+            {
+              "language": "ko",
+              "value": "발로란트"
+            },
+            {
+              "language": "pl",
+              "value": "Valorant"
+            },
+            {
+              "language": "pt",
+              "value": "Valorant"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Valorant"
+            },
+            {
+              "language": "ro",
+              "value": "Valorant"
+            },
+            {
+              "language": "ru",
+              "value": "Valorant"
+            },
+            {
+              "language": "sv",
+              "value": "Valorant"
+            },
+            {
+              "language": "th",
+              "value": "วาลอแรนต์"
+            },
+            {
+              "language": "tl",
+              "value": "Valorant"
+            },
+            {
+              "language": "tr",
+              "value": "Valorant"
+            },
+            {
+              "language": "zh",
+              "value": "Valorant"
+            }
+          ],
+          "content_rating": "T",
+          "description": "VALORANT is a 5v5, round-based tactical first-person shooter that mixes precision gunplay with unique agent abilities. Teams take turns attacking and defending objectives while combining strategic utility, raw aim, and ability-driven outplays. Designed as a competitive, esports-focused free-to-play title with in-game cosmetic progression, the game rewards coordination, map control, and high mechanical skill.",
+          "developer": "Riot Games",
+          "external": {
+            "facebook": {
+              "id": "103808897687593"
+            },
+            "igdb": {
+              "id": "valorant"
+            },
+            "instagram": {
+              "id": "playvalorantofficial"
+            },
+            "metacritic": {
+              "critic_rating": 80,
+              "id": "1400589863"
+            },
+            "twitch": {
+              "id": "valorant"
+            },
+            "twitter": {
+              "id": "playvalorant"
+            },
+            "wikidata": {
+              "id": "q86919275"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/38AE774E-F217-4C96-BE77-B3B40A6344E4-420x-auto.jpg"
+          },
+          "platforms": [
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X"
+          ],
+          "publisher": "Riot Games",
+          "release_date": "2020-06-02",
+          "release_year": 2020,
+          "short_description": "A team-based tactical shooter where two squads of five combine guns and unique abilities to outplay opponents and win objective-based competitive rounds.",
+          "short_descriptions": [
+            {
+              "language": "oc",
+              "value": "videojòc de 2020"
+            },
+            {
+              "language": "gl",
+              "value": "videoxogo de 2020"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2020 година"
+            },
+            {
+              "language": "en",
+              "value": "2020 free-to-play multiplayer first-person shooter video game developed by Riot Games"
+            },
+            {
+              "language": "be",
+              "value": "камп’ютарная гульня 2020 года"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2020"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc multijugador"
+            },
+            {
+              "language": "bn",
+              "value": "২০২০ ভিডিও গেম"
+            },
+            {
+              "language": "as",
+              "value": "ভিডিড’ গে’ম"
+            },
+            {
+              "language": "ka",
+              "value": "2020 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2020"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2020"
+            },
+            {
+              "language": "ja",
+              "value": "ライアット・ゲームズが開発・運営している、基本プレイ無料のファーストパーソン・シューティングゲーム"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2020 року"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel uit 2020"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu vidiyo onye na-agba ụta mmadụ mbụ nke 2020 nke egwuregwu Riot mepụtara"
+            },
+            {
+              "language": "te",
+              "value": "2020 వీడియో గేమ్"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2020"
+            },
+            {
+              "language": "fi",
+              "value": "Videopeli vuodelta 2020"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2020 desenvolvido pela Riot Games"
+            },
+            {
+              "language": "sc",
+              "value": "videojòcu de 2020"
+            },
+            {
+              "language": "fa",
+              "value": "بازی ویدئویی چندنفره رایگان در سبک تیراندازی اول شخص از شرکت ریوت گیمز"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2020"
+            },
+            {
+              "language": "lv",
+              "value": "2020. gadā videospēle"
+            },
+            {
+              "language": "hi",
+              "value": "२०२० वीडियो गेममेम0"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra iz 2020. godine"
+            },
+            {
+              "language": "et",
+              "value": "2020. aastal videomäng"
+            },
+            {
+              "language": "eu",
+              "value": "2020 bideo-joko"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2020"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2020 година"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2020"
+            },
+            {
+              "language": "is",
+              "value": "2020 tölvuleikur"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video terbitan tahun 2020"
+            },
+            {
+              "language": "tl",
+              "value": "2020 larong bidyo mula sa Riot Games"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2020"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра из 2020. године"
+            },
+            {
+              "language": "eo",
+              "value": "videoludo de 2020"
+            },
+            {
+              "language": "cs",
+              "value": "videohra z roku 2020"
+            },
+            {
+              "language": "id",
+              "value": "gim video POP multipemain gratis tahun 2020 yang dikembangkan oleh Riot Games"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2020"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử bắn súng chiến thuật miễn phí"
+            },
+            {
+              "language": "tr",
+              "value": "Riot Games tarafından geliştirilen 2020 ücretsiz çok oyunculu birinci şahıs nişancı video oyunu"
+            },
+            {
+              "language": "ko",
+              "value": "라이엇 게임즈에서 개발한 일인칭 슈팅 게임"
+            },
+            {
+              "language": "wa",
+              "value": "Djeu videyo di 2020"
+            },
+            {
+              "language": "pl",
+              "value": "strzelanka pierwszoosobowa od Riot Games"
+            },
+            {
+              "language": "lt",
+              "value": "2020 metų kompiuterinis žaidimas"
+            },
+            {
+              "language": "sq",
+              "value": "Video lojë e publikuar në vitin 2020 nga Riot Games"
+            },
+            {
+              "language": "az",
+              "value": "2020-ci ilin video oyunu"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2020 года"
+            },
+            {
+              "language": "lb",
+              "value": "Computerspill aus dem Joer 2020"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche a foilsíodh sa bhliain 2020"
+            },
+            {
+              "language": "bs",
+              "value": "Pucačina u prvom licu razvijena od strane Riot Games-a"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو صدرت سنة 2020"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2020"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2020"
+            },
+            {
+              "language": "de",
+              "value": "kostenfreier Ego-Shooter"
+            },
+            {
+              "language": "he",
+              "value": "משחק מחשב משנת 2020"
+            },
+            {
+              "language": "hu",
+              "value": "2020-as videójáték"
+            },
+            {
+              "language": "de",
+              "value": "In einer taktischen Shooter-Welt nutzen Spieler einzigartige Fähigkeiten und Strategie, um Gegner in intensiven 5-gegen-5-Matches zu überlisten."
+            },
+            {
+              "language": "es",
+              "value": "En un mundo de shooter táctico, los jugadores usan habilidades únicas y estrategia para superar a sus oponentes en intensas partidas 5 contra 5."
+            },
+            {
+              "language": "fr",
+              "value": "Dans un univers de shooter tactique, les joueurs utilisent des capacités uniques et la stratégie pour surpasser leurs adversaires dans des matchs intenses en 5 contre 5."
+            },
+            {
+              "language": "en",
+              "value": "In a tactical shooter world, players use unique abilities and strategy to outsmart opponents in intense 5v5 matches."
+            }
+          ]
+        },
+        "popularity": 0.9452229659539101,
+        "disambiguation": "2020-06-02, Riot Games",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Stylized Realism",
+            "tag_id": "urn:tag:art_style:qloo:stylized_realism",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "esports-ready",
+            "tag_id": "urn:tag:audience:qloo:esports_ready",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "team coordination required",
+            "tag_id": "urn:tag:audience:qloo:team_coordination_required",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "high skill ceiling",
+            "tag_id": "urn:tag:audience:qloo:high_skill_ceiling",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "ability + gunplay",
+            "tag_id": "urn:tag:audience:qloo:ability_gunplay",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "tension",
+            "tag_id": "urn:tag:emotional_tone:qloo:tension",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "competitive",
+            "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "adrenaline-fueled",
+            "tag_id": "urn:tag:emotional_tone:qloo:adrenaline_fueled",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "strategic",
+            "tag_id": "urn:tag:emotional_tone:qloo:strategic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "team-based",
+            "tag_id": "urn:tag:gameplay_type:qloo:team_based",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "competitive",
+            "tag_id": "urn:tag:gameplay_type:qloo:competitive",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "online-only",
+            "tag_id": "urn:tag:gameplay_type:qloo:online_only",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Tactical Shooter",
+            "tag_id": "urn:tag:genre:qloo:tactical_shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "First-Person Shooter",
+            "tag_id": "urn:tag:genre:qloo:first_person_shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Hero Shooter",
+            "tag_id": "urn:tag:genre:qloo:hero_shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 5",
+            "tag_id": "urn:tag:platform:qloo:playstation_5",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series X",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_x",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "multiplayer (online)",
+            "tag_id": "urn:tag:player_mode:qloo:multiplayer_online_",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Hardcore (competitive)",
+            "tag_id": "urn:tag:skill_level:qloo:hardcore_competitive_",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:category:qloo:competitive",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Tactical",
+            "tag_id": "urn:tag:category:qloo:tactical",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Team-Based",
+            "tag_id": "urn:tag:category:qloo:team_based",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "First-Person Shooter",
+            "tag_id": "urn:tag:category:qloo:first_person_shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Esports",
+            "tag_id": "urn:tag:category:qloo:esports",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:category:qloo:action",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

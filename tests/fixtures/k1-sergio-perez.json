@@ -1,0 +1,1864 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Sergio Perez",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Sergio Pérez",
+        "entity_id": "0557E8F2-0779-4373-B988-97197DC759DE",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "u",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "o",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "j",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Checo Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Checo Pérez"
+            },
+            {
+              "language": "k",
+              "value": "세르히오 페레즈"
+            },
+            {
+              "language": "o",
+              "value": "세르히오 페레즈"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Serxio Perez"
+            },
+            {
+              "language": "z",
+              "value": "Serxio Perez"
+            },
+            {
+              "language": "m",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "k",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "j",
+              "value": "セルジオ・ペレス"
+            },
+            {
+              "language": "a",
+              "value": "セルジオ・ペレス"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "m",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "h",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "u",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Серхіо Перес"
+            },
+            {
+              "language": "k",
+              "value": "Серхіо Перес"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "f",
+              "value": "سرجیو پرز"
+            },
+            {
+              "language": "a",
+              "value": "سرجیو پرز"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "m",
+              "value": "Сергио Перец"
+            },
+            {
+              "language": "n",
+              "value": "Сергио Перец"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "v",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "r",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "k",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "o",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "z",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "o",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "k",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "z",
+              "value": "沙治奧·佩雷斯"
+            },
+            {
+              "language": "h",
+              "value": "沙治奧·佩雷斯"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "b",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "g",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "e",
+              "value": "Sergio \"Checo\" Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio \"Checo\" Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Перес, Серхио"
+            },
+            {
+              "language": "u",
+              "value": "Перес, Серхио"
+            },
+            {
+              "language": "r",
+              "value": "Перес Мендоса, Серхио"
+            },
+            {
+              "language": "u",
+              "value": "Перес Мендоса, Серхио"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Перес, Чеко"
+            },
+            {
+              "language": "u",
+              "value": "Перес, Чеко"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Perez Mendoza"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Perez Mendoza"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "p",
+              "value": "Checo Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Checo Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio “viejo sabroso” Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio “viejo sabroso” Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "y",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "q",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "b",
+              "value": "Серхіа Перэс"
+            },
+            {
+              "language": "e",
+              "value": "Серхіа Перэс"
+            },
+            {
+              "language": "e",
+              "value": "Sergio \"Checo\" Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio \"Checo\" Pérez"
+            },
+            {
+              "language": "o",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "h",
+              "value": "סרג'יו פרז"
+            },
+            {
+              "language": "e",
+              "value": "סרג'יו פרז"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "v",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "f",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "j",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "v",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "z",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "z",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Serhio Peress"
+            },
+            {
+              "language": "v",
+              "value": "Serhio Peress"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "เซร์ฆิโอ เปเรซ"
+            },
+            {
+              "language": "h",
+              "value": "เซร์ฆิโอ เปเรซ"
+            },
+            {
+              "language": "z",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Серхио Перес Мендоса"
+            },
+            {
+              "language": "u",
+              "value": "Серхио Перес Мендоса"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Чеко Перес"
+            },
+            {
+              "language": "u",
+              "value": "Чеко Перес"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Σέρχιο Πέρες"
+            },
+            {
+              "language": "l",
+              "value": "Σέρχιο Πέρες"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "n",
+              "value": "\"Checo\" Pérez"
+            },
+            {
+              "language": "w",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "o",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "r",
+              "value": "Серхио Перес"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez Mendoza"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "b",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "schecoperez"
+            },
+            "twitter": {
+              "id": "SChecoPerez"
+            },
+            "imdb": {
+              "id": "nm4072101"
+            }
+          },
+          "citizenship": [
+            "Mexico"
+          ],
+          "date_of_birth": "1990-01-26",
+          "image": {
+            "url": "https://images.qloo.com/i/0557E8F2-0779-4373-B988-97197DC759DE-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing",
+            "Formula One racing"
+          ],
+          "member_of_sports_team": [
+            "Red Bull Racing"
+          ],
+          "short_description": "Mexican Formula 1 racing driver"
+        },
+        "popularity": 0.9874865461345278,
+        "disambiguation": "1990-01-26",
+        "tags": [
+          {
+            "name": "Mexican Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Mexican Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_racing_drivers"
+          },
+          {
+            "name": "Gp2 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_series_drivers"
+          },
+          {
+            "name": "T-sport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:t_sport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:t_sport_drivers"
+          },
+          {
+            "name": "Gp2 Asia Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp2_asia_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp2_asia_series_drivers"
+          },
+          {
+            "name": "Mexican Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_formula_one_drivers"
+          },
+          {
+            "name": "Mexican Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_roman_catholics"
+          },
+          {
+            "name": "Mexican Expatriate Sportspeople In Switzerland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_expatriate_sportspeople_in_switzerland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_expatriate_sportspeople_in_switzerland"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Racing Point Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_point_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_point_formula_one_drivers"
+          },
+          {
+            "name": "Red Bull Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers"
+          },
+          {
+            "name": "Formula Bmw Adac Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_bmw_adac_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_bmw_adac_drivers"
+          },
+          {
+            "name": "Engvarb From February 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019"
+          },
+          {
+            "name": "Sauber Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Racing Point Force India Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_point_force_india_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_point_force_india_formula_one_drivers"
+          },
+          {
+            "name": "British Formula Three Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_formula_three_championship_drivers"
+          },
+          {
+            "name": "Campos Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Arden International Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arden_international_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arden_international_drivers"
+          },
+          {
+            "name": "Mücke Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mucke_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mucke_motorsport_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Force India Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:force_india_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:force_india_formula_one_drivers"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "A1 Team Mexico Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:a1_team_mexico_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:a1_team_mexico_drivers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Pérez",
+        "entity_id": "A79F6443-D7CE-41D0-94FD-F27148D2C652",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "q",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Perez"
+            },
+            {
+              "language": "a",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "r",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "j",
+              "value": "セルジオ・ペレス"
+            },
+            {
+              "language": "a",
+              "value": "セルジオ・ペレス"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Daniel Perez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Daniel Perez"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1984-12-05",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "baseball"
+          ],
+          "member_of_sports_team": [
+            "Tigres de Aragua"
+          ],
+          "short_description": "American baseball player"
+        },
+        "disambiguation": "1984-12-05",
+        "tags": [
+          {
+            "name": "2013 World Baseball Classic Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2013_world_baseball_classic_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2013_world_baseball_classic_players"
+          },
+          {
+            "name": "Long Island Ducks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:long_island_ducks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:long_island_ducks_players"
+          },
+          {
+            "name": "Baseball Player",
+            "tag_id": "urn:tag:occupation:person:baseball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:baseball_player"
+          },
+          {
+            "name": "Pericos De Puebla Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pericos_puebla_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pericos_puebla_players"
+          },
+          {
+            "name": "Round Rock Express Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:round_rock_express_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:round_rock_express_players"
+          },
+          {
+            "name": "Spanish Sportspeople Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_sportspeople_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_sportspeople_stubs"
+          },
+          {
+            "name": "American Expatriate Baseball Players In Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_baseball_players_in_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_baseball_players_in_mexico"
+          },
+          {
+            "name": "Águilas Del Zulia Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aguilas_zulia_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aguilas_zulia_players"
+          },
+          {
+            "name": "Mexican League Baseball Pitchers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_league_baseball_pitchers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_league_baseball_pitchers"
+          },
+          {
+            "name": "Navegantes Del Magallanes Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:navegantes_magallanes_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:navegantes_magallanes_players"
+          },
+          {
+            "name": "Engvarb From June 2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_june_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_june_2024"
+          },
+          {
+            "name": "Stockton Ports Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stockton_ports_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stockton_ports_players"
+          },
+          {
+            "name": "Lexington Legends Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lexington_legends_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lexington_legends_players"
+          },
+          {
+            "name": "European Baseball Biography Stubs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:european_baseball_biography_stubs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:european_baseball_biography_stubs"
+          },
+          {
+            "name": "American Expatriate Baseball Players In Venezuela",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_baseball_players_in_venezuela",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_baseball_players_in_venezuela"
+          },
+          {
+            "name": "Midland Rockhounds Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:midland_rockhounds_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:midland_rockhounds_players"
+          },
+          {
+            "name": "Spanish Baseball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_baseball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_baseball_players"
+          },
+          {
+            "name": "Oklahoma City Redhawks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:oklahoma_city_redhawks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:oklahoma_city_redhawks_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Corpus Christi Hooks Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:corpus_christi_hooks_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:corpus_christi_hooks_players"
+          },
+          {
+            "name": "Scottsdale Scorpions Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:scottsdale_scorpions_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:scottsdale_scorpions_players"
+          },
+          {
+            "name": "Tigres De Aragua Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tigres_aragua_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tigres_aragua_players"
+          },
+          {
+            "name": "Salem Avalanche Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:salem_avalanche_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:salem_avalanche_players"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Pérez",
+        "entity_id": "522C1B71-AB2C-432C-B9F6-61F12EF9A7C7",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {},
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "rugby league"
+          ],
+          "short_description": "rugby league footballer"
+        },
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Rugby League Player",
+            "tag_id": "urn:tag:occupation:person:rugby_league_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rugby_league_player"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Pérez Leyva",
+        "entity_id": "29E01FF3-8803-44F0-A747-E33BA230C331",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "Серхио Перес Лейва"
+            },
+            {
+              "language": "g",
+              "value": "Серхио Перес Лейва"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Perez Leyva"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Perez Leyva"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "q",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Leyva"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Leyva"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "a",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "r",
+              "value": "سيرجيو بيريز"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "f",
+              "value": "سرخیو پرز (بازیکن فوتبال، زاده ۱۹۹۳)"
+            },
+            {
+              "language": "a",
+              "value": "سرخیو پرز (بازیکن فوتبال، زاده ۱۹۹۳)"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Pérez"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Pérez Leyva"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Perez Leyva"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Perez Leyva"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "1993-05-15",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Deportivo Alavés B",
+            "CD Toledo",
+            "UB Conquense",
+            "CD Mirandés B",
+            "CD Burgos Promesas 2000",
+            "CD Mirandés",
+            "UE Cornellá"
+          ],
+          "work_period_start": "2012-01-01",
+          "short_description": "Spanish footballer"
+        },
+        "disambiguation": "1993-05-15",
+        "tags": [
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Tercera División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tercera_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tercera_division_players"
+          },
+          {
+            "name": "Segunda División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_players"
+          },
+          {
+            "name": "Ub Conquense Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ub_conquense_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ub_conquense_footballers"
+          },
+          {
+            "name": "Cd Toledo Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cd_toledo_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cd_toledo_players"
+          },
+          {
+            "name": "Segunda División B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players"
+          },
+          {
+            "name": "Footballers From Vitoria-gasteiz",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_vitoria_gasteiz",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_vitoria_gasteiz"
+          },
+          {
+            "name": "Ue Cornellà Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ue_cornella_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ue_cornella_players"
+          },
+          {
+            "name": "Cd Mirandés Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cd_mirandes_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cd_mirandes_footballers"
+          },
+          {
+            "name": "Burgos Cf Promesas Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:burgos_cf_promesas_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:burgos_cf_promesas_players"
+          },
+          {
+            "name": "Spanish Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers"
+          },
+          {
+            "name": "Cd Mirandés B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cd_mirandes_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cd_mirandes_b_players"
+          },
+          {
+            "name": "Mens Association Football Goalkeepers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_goalkeepers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_goalkeepers"
+          },
+          {
+            "name": "Deportivo Alavés B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deportivo_alaves_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deportivo_alaves_b_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Sergio Camello",
+        "entity_id": "71D9386A-81A3-409E-A0AE-4034650193FD",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "j",
+              "value": "セルヒオ・カメージョ"
+            },
+            {
+              "language": "a",
+              "value": "セルヒオ・カメージョ"
+            },
+            {
+              "language": "h",
+              "value": "סרחיו קאמייו"
+            },
+            {
+              "language": "e",
+              "value": "סרחיו קאמייו"
+            },
+            {
+              "language": "z",
+              "value": "塞爾吉奧·卡梅洛·佩雷斯"
+            },
+            {
+              "language": "h",
+              "value": "塞爾吉奧·卡梅洛·佩雷斯"
+            },
+            {
+              "language": "p",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "t",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Camello Pérez"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Camello Pérez"
+            },
+            {
+              "language": "r",
+              "value": "Камельо, Серхио"
+            },
+            {
+              "language": "u",
+              "value": "Камельо, Серхио"
+            },
+            {
+              "language": "h",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "u",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "a",
+              "value": "سيرجيو كاميلو"
+            },
+            {
+              "language": "r",
+              "value": "سيرجيو كاميلو"
+            },
+            {
+              "language": "r",
+              "value": "Серхио Камельо"
+            },
+            {
+              "language": "u",
+              "value": "Серхио Камельо"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "g",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "d",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "e",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "f",
+              "value": "سرخیو کاملو"
+            },
+            {
+              "language": "a",
+              "value": "سرخیو کاملو"
+            },
+            {
+              "language": "n",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "i",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "f",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "r",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "c",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "a",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "s",
+              "value": "Sergio Camello"
+            },
+            {
+              "language": "l",
+              "value": "Sergio Camello"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "sergio7camello"
+            },
+            "imdb": {
+              "id": "nm13942026"
+            }
+          },
+          "citizenship": [
+            "Spain"
+          ],
+          "date_of_birth": "2001-02-10",
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Atlético Madrid",
+            "Atlético Madrid B"
+          ],
+          "work_period_start": "2018-01-01",
+          "short_description": "Spanish association football player"
+        },
+        "popularity": 0.4999836922842761,
+        "disambiguation": "2001-02-10",
+        "tags": [
+          {
+            "name": "Segunda División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_players"
+          },
+          {
+            "name": "Footballers From Madrid",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_madrid",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_madrid"
+          },
+          {
+            "name": "Atlético Madrid B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atletico_madrid_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atletico_madrid_b_players"
+          },
+          {
+            "name": "Rayo Vallecano Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rayo_vallecano_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rayo_vallecano_players"
+          },
+          {
+            "name": "Spain Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spain_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spain_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Atlético Madrid Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atletico_madrid_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atletico_madrid_footballers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Spain Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spain_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spain_mens_youth_international_footballers"
+          },
+          {
+            "name": "La Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:la_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:la_liga_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Spanish Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_mens_footballers"
+          },
+          {
+            "name": "Olympic Footballers For Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_spain"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Segunda División B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Footballers At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2024_summer_olympics"
+          },
+          {
+            "name": "Cd Mirandés Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cd_mirandes_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cd_mirandes_footballers"
+          }
+        ]
+      }
+    ]
+  }
+}

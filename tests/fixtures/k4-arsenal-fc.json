@@ -1,0 +1,1890 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Arsenal FC",
+    "take": 5
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Arsenal F.C.",
+        "entity_id": "0119CDA9-A9D1-42C9-B06F-3F03AEC2AC05",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ka",
+              "value": "არსენალი ლონდონი"
+            },
+            {
+              "language": "uk",
+              "value": "Арсенал (Лондон)"
+            },
+            {
+              "language": "bg",
+              "value": "ФК Арсенал"
+            },
+            {
+              "language": "sr",
+              "value": "ФК Арсенал"
+            },
+            {
+              "language": "mk",
+              "value": "ФК Арсенал"
+            },
+            {
+              "language": "az",
+              "value": "Arsenal FK"
+            },
+            {
+              "language": "lo",
+              "value": "ສະໂມສອນບານເຕະ ອາເຊນອນ"
+            },
+            {
+              "language": "el",
+              "value": "Άρσεναλ"
+            },
+            {
+              "language": "my",
+              "value": "အာဆင်နယ်"
+            },
+            {
+              "language": "vi",
+              "value": "Câu lạc bộ bóng đá Arsenal"
+            },
+            {
+              "language": "an",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "ar",
+              "value": "الآرسنال"
+            },
+            {
+              "language": "ar",
+              "value": "الأرسنال"
+            },
+            {
+              "language": "ar",
+              "value": "نادي آرسنال لكرة القدم"
+            },
+            {
+              "language": "ar",
+              "value": "نادي أرسنال لكرة القدم"
+            },
+            {
+              "language": "ar",
+              "value": "نادي الآرسنال"
+            },
+            {
+              "language": "ar",
+              "value": "نادي الأرسنال"
+            },
+            {
+              "language": "ar",
+              "value": "نادي آرسنال"
+            },
+            {
+              "language": "cs",
+              "value": "Arsenal Londýn"
+            },
+            {
+              "language": "cs",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "de",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "de",
+              "value": "Arsenal London"
+            },
+            {
+              "language": "de",
+              "value": "FC Arsenal"
+            },
+            {
+              "language": "en",
+              "value": "AFC"
+            },
+            {
+              "language": "en",
+              "value": "A.F.C."
+            },
+            {
+              "language": "en",
+              "value": "The Arsenal"
+            },
+            {
+              "language": "en",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "en",
+              "value": "The Ars"
+            },
+            {
+              "language": "en",
+              "value": "The Arsenal F.C."
+            },
+            {
+              "language": "en",
+              "value": "The Arsenal FC"
+            },
+            {
+              "language": "en",
+              "value": "Arsenal London"
+            },
+            {
+              "language": "en",
+              "value": "Arsenal F.C."
+            },
+            {
+              "language": "es",
+              "value": "Gunners"
+            },
+            {
+              "language": "es",
+              "value": "AFC"
+            },
+            {
+              "language": "es",
+              "value": "Artilleros"
+            },
+            {
+              "language": "es",
+              "value": "AFC 1886"
+            },
+            {
+              "language": "es",
+              "value": "El Arsenal"
+            },
+            {
+              "language": "es",
+              "value": "Los Gooners"
+            },
+            {
+              "language": "es",
+              "value": "Los Gunners"
+            },
+            {
+              "language": "es",
+              "value": "Arsenal London"
+            },
+            {
+              "language": "es",
+              "value": "Arsenal Fútbol Club"
+            },
+            {
+              "language": "et",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "eu",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "fa",
+              "value": "باشگاه فوتبال آرسنال"
+            },
+            {
+              "language": "fi",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "fr",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "fr",
+              "value": "L'Arsenal"
+            },
+            {
+              "language": "fr",
+              "value": "Arsenal London"
+            },
+            {
+              "language": "fr",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "ga",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "gl",
+              "value": "Arsenal F.C."
+            },
+            {
+              "language": "he",
+              "value": "ארסנל"
+            },
+            {
+              "language": "hi",
+              "value": "आर्सेनल एफ सी"
+            },
+            {
+              "language": "hy",
+              "value": "Արսենալ ՖԱ"
+            },
+            {
+              "language": "it",
+              "value": "Gunners"
+            },
+            {
+              "language": "it",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "ja",
+              "value": "アーセナルFC"
+            },
+            {
+              "language": "ko",
+              "value": "아스널"
+            },
+            {
+              "language": "ko",
+              "value": "아스날"
+            },
+            {
+              "language": "ko",
+              "value": "아스날 FC"
+            },
+            {
+              "language": "ko",
+              "value": "아스널 FC"
+            },
+            {
+              "language": "nl",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "pl",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "pt",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "ro",
+              "value": "Tunarii"
+            },
+            {
+              "language": "ro",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "ru",
+              "value": "Арсенал"
+            },
+            {
+              "language": "sv",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "th",
+              "value": "อาร์เซนอล"
+            },
+            {
+              "language": "th",
+              "value": "ไดอัล สแควร์"
+            },
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลอาร์เซนอล"
+            },
+            {
+              "language": "tr",
+              "value": "Arsenal F.K."
+            },
+            {
+              "language": "tr",
+              "value": "Arsenal Futbol Kulübü"
+            },
+            {
+              "language": "tr",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "tt",
+              "value": "Арсенал"
+            },
+            {
+              "language": "ur",
+              "value": "آرسنل"
+            },
+            {
+              "language": "zh",
+              "value": "阿森纳"
+            },
+            {
+              "language": "zh",
+              "value": "阿仙奴"
+            },
+            {
+              "language": "zh",
+              "value": "阿仙奴足球會"
+            },
+            {
+              "language": "zh",
+              "value": "阿森納"
+            },
+            {
+              "language": "zh",
+              "value": "阿森納足球俱樂部"
+            },
+            {
+              "language": "zh",
+              "value": "阿申纳足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "阿森纳足球俱乐部"
+            },
+            {
+              "language": "gu",
+              "value": "આર્સેનલ ફૂટબોલ ક્લબ"
+            },
+            {
+              "language": "ha",
+              "value": "Arsenal FC"
+            },
+            {
+              "language": "kn",
+              "value": "ಆರ್ಸೆನಲ್ F.C."
+            },
+            {
+              "language": "ml",
+              "value": "ആഴ്സണൽ എഫ്.സി."
+            },
+            {
+              "language": "mr",
+              "value": "आर्सेनल एफ.सी."
+            },
+            {
+              "language": "pa",
+              "value": "ਆਰਸਅਨਲ ਫੁੱਟਬਾਲ ਕਲੱਬ"
+            },
+            {
+              "language": "sw",
+              "value": "Arsenali"
+            },
+            {
+              "language": "ta",
+              "value": "அர்செனல் கால்பந்து கழகம்"
+            },
+            {
+              "language": "yo",
+              "value": "Arsenal F. C."
+            },
+            {
+              "language": "bn",
+              "value": "আর্সেনাল ফুটবল ক্লাব"
+            }
+          ],
+          "description": "Established in 1886, this historic professional football club serves as a central pillar of English football and global sports culture. Operating out of North London, the organization fields both men's and women's professional teams while maintaining a renowned youth academy. Its identity is defined by a deep commitment to excellence, a massive international fanbase, and a rich history of competitive success. The club engages fans through professional match play, digital storytelling, and a strong community presence.",
+          "external": {
+            "instagram": {
+              "id": "arsenal"
+            },
+            "twitter": {
+              "id": "officialafc_us"
+            },
+            "wikidata": {
+              "id": "Q9617"
+            }
+          },
+          "founded_year": "1886",
+          "image": {
+            "url": "https://images.qloo.com/i/0119CDA9-A9D1-42C9-B06F-3F03AEC2AC05-420x-auto.jpg"
+          },
+          "short_description": "Arsenal F.C. is a professional football club based in London, competing in the English Premier League and known for winning 13 league titles.",
+          "short_descriptions": [
+            {
+              "language": "fr",
+              "value": "Un club de football historique et de renommée mondiale, reconnu pour son excellence compétitive constante et son lien profond avec la communauté du nord de Londres."
+            },
+            {
+              "language": "es",
+              "value": "Un histórico y mundialmente famoso club de fútbol, conocido por su excelencia competitiva constante y su arraigada conexión comunitaria en el norte de Londres."
+            },
+            {
+              "language": "en",
+              "value": "A historic and globally renowned football club known for its consistent competitive excellence and deep-rooted community connection in North London."
+            },
+            {
+              "language": "de",
+              "value": "Ein historischer und weltbekannter Fußballverein, der für seine beständige Wettbewerbsstärke und tiefe Verbundenheit zur Gemeinschaft im Norden Londons bekannt ist."
+            }
+          ]
+        },
+        "popularity": 0.9992880269871676,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "England Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer:england",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Red and White Color Palette",
+            "tag_id": "urn:tag:aesthetic_property:qloo:red_and_white_color_palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Classic Shield Branding",
+            "tag_id": "urn:tag:aesthetic_property:qloo:classic_shield_branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Clean Modern Graphics",
+            "tag_id": "urn:tag:aesthetic_property:qloo:clean_modern_graphics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Professional Athletic Achievement",
+            "tag_id": "urn:tag:lifestyle:qloo:professional_athletic_achievement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Elite Global Sporting Success",
+            "tag_id": "urn:tag:lifestyle:qloo:elite_global_sporting_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Subscription",
+            "tag_id": "urn:tag:business_model:qloo:subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Tottenham Hotspur F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:tottenham_hotspur_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Chelsea F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:chelsea_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester United F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_united_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Liverpool F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:liverpool_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester City F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_city_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:core_value:qloo:community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Tradition",
+            "tag_id": "urn:tag:core_value:qloo:tradition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Ambition",
+            "tag_id": "urn:tag:core_value:qloo:ambition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "British Sport Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:british_sport_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Global Football Fanatics",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_football_fanatics",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Local Residents",
+            "tag_id": "urn:tag:customer_segment:qloo:local_residents",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Global Football Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:global_football_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Sporting Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:sporting_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Triumphant",
+            "tag_id": "urn:tag:emotional_tone:qloo:triumphant",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:industry:qloo:professional_sports",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sport Broadcasters",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sport_broadcasters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Cultural Figures",
+            "tag_id": "urn:tag:influencer_appeal:qloo:cultural_figures",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Entertainment Personalities",
+            "tag_id": "urn:tag:influencer_appeal:qloo:entertainment_personalities",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Youth Mentors",
+            "tag_id": "urn:tag:influencer_appeal:qloo:youth_mentors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Association Football",
+            "tag_id": "urn:tag:interest_adjacency:qloo:association_football",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Sports Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Match Day Culture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:match_day_culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Youth Development",
+            "tag_id": "urn:tag:interest_adjacency:qloo:youth_development",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Global Sport Events",
+            "tag_id": "urn:tag:interest_adjacency:qloo:global_sport_events",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "North America",
+            "tag_id": "urn:tag:key_market:qloo:north_america",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Asia",
+            "tag_id": "urn:tag:key_market:qloo:asia",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Premier League",
+            "tag_id": "urn:tag:keyword:qloo:premier_league",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "London",
+            "tag_id": "urn:tag:keyword:qloo:london",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Gunners",
+            "tag_id": "urn:tag:keyword:qloo:gunners",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Sports History",
+            "tag_id": "urn:tag:keyword:qloo:sports_history",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Adidas",
+            "tag_id": "urn:tag:partnership:qloo:adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Emirates",
+            "tag_id": "urn:tag:partnership:qloo:emirates",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Match Day Spectating",
+            "tag_id": "urn:tag:lifestyle:qloo:match_day_spectating",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Following Sports News",
+            "tag_id": "urn:tag:lifestyle:qloo:following_sports_news",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:community_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "sporty",
+            "tag_id": "urn:tag:personal_style:qloo:sporty",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "casual",
+            "tag_id": "urn:tag:personal_style:qloo:casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "athletic",
+            "tag_id": "urn:tag:personal_style:qloo:athletic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "team-branded",
+            "tag_id": "urn:tag:personal_style:qloo:team_branded",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "streetwear-sport crossover",
+            "tag_id": "urn:tag:personal_style:qloo:streetwear_sport_crossover",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Football Matches",
+            "tag_id": "urn:tag:product_service:qloo:football_matches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Club Memberships",
+            "tag_id": "urn:tag:product_service:qloo:club_memberships",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Live Sports Broadcasting",
+            "tag_id": "urn:tag:product_service:qloo:live_sports_broadcasting",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Youth Training Academies",
+            "tag_id": "urn:tag:product_service:qloo:youth_training_academies",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Sporting Apparel",
+            "tag_id": "urn:tag:product_service:qloo:sporting_apparel",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Real Madrid C.F.",
+            "tag_id": "urn:tag:similar_brand:qloo:real_madrid_c_f_",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "F.C. Barcelona",
+            "tag_id": "urn:tag:similar_brand:qloo:f_c_barcelona",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Bayern Munich",
+            "tag_id": "urn:tag:similar_brand:qloo:bayern_munich",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Paris Saint-Germain",
+            "tag_id": "urn:tag:similar_brand:qloo:paris_saint_germain",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "AC Milan",
+            "tag_id": "urn:tag:similar_brand:qloo:ac_milan",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Arsenal Women F.C.",
+            "tag_id": "urn:tag:subsidiary:qloo:arsenal_women_f_c_",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Official Arsenal Academy",
+            "tag_id": "urn:tag:subsidiary:qloo:official_arsenal_academy",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:target_age_group:qloo:children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Seniors",
+            "tag_id": "urn:tag:target_age_group:qloo:seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Low",
+            "tag_id": "urn:tag:target_income_level:qloo:low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Low to Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Arsenal FC",
+        "entity_id": "1F61AEFC-CFCF-4618-80FB-EB4E2F6881C4",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {},
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/1F61AEFC-CFCF-4618-80FB-EB4E2F6881C4-420x-auto.jpg"
+          },
+          "short_description": ""
+        },
+        "popularity": 0.6615139114270389,
+        "disambiguation": "Arsenal FC"
+      },
+      {
+        "name": "Arsenal W.F.C.",
+        "entity_id": "902DAEB4-4B93-4920-B710-FA517943B510",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลหญิงอาร์เซนอล"
+            },
+            {
+              "language": "ja",
+              "value": "アーセナル・ウィメンFC"
+            },
+            {
+              "language": "bn",
+              "value": "আর্সেনাল মহিলা ফুটবল দল"
+            },
+            {
+              "language": "eu",
+              "value": "Arsenal Football Club"
+            },
+            {
+              "language": "bs",
+              "value": "Arsenal LFC"
+            },
+            {
+              "language": "nl",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "nn",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "no",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "fi",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "lt",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "nb",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "hu",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "sv",
+              "value": "Arsenal WFC"
+            },
+            {
+              "language": "da",
+              "value": "Arsenal W.F.C."
+            },
+            {
+              "language": "id",
+              "value": "Arsenal W.F.C."
+            },
+            {
+              "language": "ms",
+              "value": "Arsenal W.F.C."
+            },
+            {
+              "language": "vi",
+              "value": "Arsenal W.F.C."
+            },
+            {
+              "language": "pl",
+              "value": "Arsenal W.F.C."
+            },
+            {
+              "language": "ru",
+              "value": "Арсенал Ледис"
+            },
+            {
+              "language": "sr",
+              "value": "ЖФК Арсенал"
+            },
+            {
+              "language": "he",
+              "value": "ארסנל (נשים)"
+            },
+            {
+              "language": "ko",
+              "value": "아스널 WFC"
+            },
+            {
+              "language": "it",
+              "value": "Arsenal L.F.C."
+            },
+            {
+              "language": "uk",
+              "value": "Арсенал (жіночий футбольний клуб)"
+            },
+            {
+              "language": "de",
+              "value": "Arsenal Women FC"
+            },
+            {
+              "language": "my",
+              "value": "အာဆင်နယ် အမျိုးသမီးဘောလုံးအသင်း"
+            },
+            {
+              "language": "zh",
+              "value": "阿森纳女子足球俱乐部"
+            },
+            {
+              "language": "en_au",
+              "value": "Arsenal Women"
+            },
+            {
+              "language": "fr",
+              "value": "Arsenal Women"
+            },
+            {
+              "language": "ar",
+              "value": "نادي آرسنال للنساء"
+            },
+            {
+              "language": "el",
+              "value": "Άρσεναλ"
+            },
+            {
+              "language": "es",
+              "value": "Arsenal Women Football Club"
+            },
+            {
+              "language": "es_ar",
+              "value": "Arsenal Women Football Club"
+            },
+            {
+              "language": "ca",
+              "value": "Arsenal Women Football Club"
+            },
+            {
+              "language": "mk",
+              "value": "Арсенал ЖФК"
+            },
+            {
+              "language": "tr",
+              "value": "Arsenal Ladies Football Club"
+            }
+          ],
+          "description": "A historic and highly successful professional women's football club based in North London. As part of a larger, long-standing football organization, the club is a prominent force in the Barclays Women's Super League and European competition. It combines a deep heritage with an ambition to define the future of women's football, regularly drawing large crowds to iconic stadium venues. Through its consistent performance and commitment to professional standards, it serves as a leader in the global movement toward professionalizing and expanding the reach of women's sports.",
+          "external": {
+            "instagram": {
+              "id": "arsenalwfc"
+            },
+            "twitter": {
+              "id": "arsenalwfc"
+            },
+            "wikidata": {
+              "id": "Q1775265"
+            }
+          },
+          "founded_year": "1987",
+          "image": {
+            "url": "https://images.qloo.com/i/902DAEB4-4B93-4920-B710-FA517943B510-420x-auto.jpg"
+          },
+          "short_description": "Arsenal W.F.C. is a professional women's football club based in London, competing in the Women's Super League.",
+          "short_descriptions": [
+            {
+              "language": "es",
+              "value": "Un pionero club de fútbol femenino profesional con sede en Londres, con una rica historia y un firme compromiso con la excelencia en el campo de juego."
+            },
+            {
+              "language": "en",
+              "value": "A pioneering professional women's football club based in London with a rich history and a commitment to excellence on the pitch."
+            },
+            {
+              "language": "fr",
+              "value": "Un club de football féminin professionnel pionnier basé à Londres, riche d'une longue histoire et attaché à l'excellence sur le terrain."
+            },
+            {
+              "language": "de",
+              "value": "Ein wegweisender professioneller Frauenfußballverein aus London mit einer reichen Geschichte und einem Engagement für sportliche Höchstleistungen."
+            }
+          ]
+        },
+        "popularity": 0.9828278890000169,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Woman",
+            "tag_id": "urn:tag:genre:brand:sports_organization:women",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Classic Red and White Palette",
+            "tag_id": "urn:tag:aesthetic_property:qloo:classic_red_and_white_palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Traditional Sporting Uniforms",
+            "tag_id": "urn:tag:aesthetic_property:qloo:traditional_sporting_uniforms",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Heritage Visual Identity",
+            "tag_id": "urn:tag:aesthetic_property:qloo:heritage_visual_identity",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Elite Athleticism",
+            "tag_id": "urn:tag:lifestyle:qloo:elite_athleticism",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Sporting Success",
+            "tag_id": "urn:tag:lifestyle:qloo:sporting_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Competition",
+            "tag_id": "urn:tag:lifestyle:qloo:global_competition",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Chelsea F.C. Women",
+            "tag_id": "urn:tag:competitor_brand:qloo:chelsea_f_c_women",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester City W.F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_city_w_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester United W.F.C.",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_united_w_f_c_",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:core_value:qloo:community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "History",
+            "tag_id": "urn:tag:core_value:qloo:history",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Inclusivity",
+            "tag_id": "urn:tag:core_value:qloo:inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Women's Sports Movement",
+            "tag_id": "urn:tag:cultural_relevance:qloo:women_s_sports_movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "London Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:london_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "European Football Heritage",
+            "tag_id": "urn:tag:cultural_relevance:qloo:european_football_heritage",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Local Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:local_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Global Football Supporters",
+            "tag_id": "urn:tag:customer_segment:qloo:global_football_supporters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Sports Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:sports_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:emotional_tone:qloo:resilient",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:emotional_tone:qloo:proud",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:emotional_tone:qloo:ambitious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:industry:qloo:professional_sports",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Broadcasters",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_broadcasters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Cultural Advocates",
+            "tag_id": "urn:tag:influencer_appeal:qloo:cultural_advocates",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Football Culture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:football_culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Sports Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Women's Sports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:women_s_sports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Community Sports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:community_sports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Stadium Atmosphere",
+            "tag_id": "urn:tag:interest_adjacency:qloo:stadium_atmosphere",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Women's Sports",
+            "tag_id": "urn:tag:keyword:qloo:women_s_sports",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "London",
+            "tag_id": "urn:tag:keyword:qloo:london",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Championship",
+            "tag_id": "urn:tag:keyword:qloo:championship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Athletics",
+            "tag_id": "urn:tag:keyword:qloo:athletics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Barclays Women's Super League",
+            "tag_id": "urn:tag:partnership:qloo:barclays_women_s_super_league",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Emirates Stadium",
+            "tag_id": "urn:tag:partnership:qloo:emirates_stadium",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Match Day Attendance",
+            "tag_id": "urn:tag:lifestyle:qloo:match_day_attendance",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Sports Fandom",
+            "tag_id": "urn:tag:lifestyle:qloo:sports_fandom",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:community_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "sporty",
+            "tag_id": "urn:tag:personal_style:qloo:sporty",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "casual",
+            "tag_id": "urn:tag:personal_style:qloo:casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "athletic",
+            "tag_id": "urn:tag:personal_style:qloo:athletic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Professional Football Matches",
+            "tag_id": "urn:tag:product_service:qloo:professional_football_matches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Match Tickets",
+            "tag_id": "urn:tag:product_service:qloo:match_tickets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Team Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:team_merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Digital Content",
+            "tag_id": "urn:tag:product_service:qloo:digital_content",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Documentary Series",
+            "tag_id": "urn:tag:product_service:qloo:documentary_series",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Olympique Lyonnais Féminin",
+            "tag_id": "urn:tag:similar_brand:qloo:olympique_lyonnais_feminin",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "FC Barcelona Femení",
+            "tag_id": "urn:tag:similar_brand:qloo:fc_barcelona_femeni",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "VfL Wolfsburg Women",
+            "tag_id": "urn:tag:similar_brand:qloo:vfl_wolfsburg_women",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:target_age_group:qloo:children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Seniors",
+            "tag_id": "urn:tag:target_age_group:qloo:seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Low",
+            "tag_id": "urn:tag:target_income_level:qloo:low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Low to Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "The ArsenalVision Podcast - Arsenal FC",
+        "entity_id": "C5E68D48-2D37-49A4-B908-A15E6A0A5703",
+        "types": [
+          "urn:entity:podcast"
+        ],
+        "properties": {
+          "external": {
+            "itunes": {
+              "id": "946748561",
+              "user_rating": 4
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/C5E68D48-2D37-49A4-B908-A15E6A0A5703-420x-auto.jpg"
+          },
+          "short_description": "A twice weekly podcast discussing Arsenal FC's news, performances, and tactics with humor and thoughtful analysis.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Ein zweiwöchentlicher Podcast, der Arsenal FCs Neuigkeiten, Leistungen und Taktiken mit Humor und fundierter Analyse bespricht."
+            },
+            {
+              "language": "es",
+              "value": "Un podcast quincenal que analiza noticias, actuaciones y tácticas del Arsenal FC con humor y análisis profundo."
+            },
+            {
+              "language": "fr",
+              "value": "Un podcast bihebdomadaire discutant des actualités, performances et tactiques d'Arsenal FC avec humour et analyse réfléchie."
+            },
+            {
+              "language": "en",
+              "value": "A twice weekly podcast discussing Arsenal FC's news, performances, and tactics with humor and thoughtful analysis."
+            }
+          ]
+        },
+        "popularity": 0.9050174403005098,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Sports",
+            "tag_id": "urn:tag:genre:media:sports",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:sports"
+          },
+          {
+            "name": "Podcasts",
+            "tag_id": "urn:tag:genre:media:podcasts",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:podcasts"
+          },
+          {
+            "name": "Soccer",
+            "tag_id": "urn:tag:genre:media:soccer",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:soccer"
+          }
+        ]
+      },
+      {
+        "name": "Arsenal FC",
+        "entity_id": "6A52B7C0-DEE5-4171-86AD-822D968429DC",
+        "types": [
+          "urn:entity:place"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "",
+              "value": "Arsenal FC, 389M+GCH Luanda Angola"
+            }
+          ],
+          "address": "389M+GCH Luanda Angola",
+          "business_rating": 5,
+          "external": {
+            "google_place": {
+              "id": "e43225360c04b7d8",
+              "place_id": "ChIJfaYOawD3URoR2LcEDDYlMuQ"
+            }
+          },
+          "geocode": {
+            "name": "Jacinto Chipa",
+            "admin1_region": "Luanda",
+            "admin2_region": "Viana Municipality",
+            "country_code": "AO",
+            "country": "Angola"
+          },
+          "is_closed": false,
+          "neighborhood": "Jacinto Chipa",
+          "phone": "+244923691112",
+          "price_range": {
+            "currency": "usd"
+          },
+          "primary_genre": {
+            "id": "urn:tag:genre:place:soccer_field",
+            "name": "Soccer field",
+            "type": "urn:tag:genre:place",
+            "akas": [
+              {
+                "language": "el",
+                "value": "\"Γήπεδο ποδοσφαίρου\""
+              },
+              {
+                "language": "cs",
+                "value": "\"Fotbalové hřiště\""
+              },
+              {
+                "language": "ta",
+                "value": "\"கால்பந்து மைதானம்\""
+              },
+              {
+                "language": "ru",
+                "value": "\"Футбольное поле\""
+              },
+              {
+                "language": "vi",
+                "value": "\"Sân bóng đá\""
+              },
+              {
+                "language": "ms",
+                "value": "\"Padang bola sepak\""
+              },
+              {
+                "language": "ja",
+                "value": "\"サッカー場\""
+              },
+              {
+                "language": "hu",
+                "value": "\"Futballpálya\""
+              },
+              {
+                "language": "uk",
+                "value": "\"Футбольне поле\""
+              },
+              {
+                "language": "sk",
+                "value": "\"Futbalové ihrisko\""
+              },
+              {
+                "language": "af",
+                "value": "\"Sokkerveld\""
+              },
+              {
+                "language": "bn",
+                "value": "\"ফুটবল মাঠ\""
+              },
+              {
+                "language": "kk",
+                "value": "\"Футбол алаңы\""
+              },
+              {
+                "language": "sq",
+                "value": "\"Fushë futbolli\""
+              },
+              {
+                "language": "ca",
+                "value": "\"Camp de futbol\""
+              },
+              {
+                "language": "gl",
+                "value": "\"Campo de fútbol\""
+              },
+              {
+                "language": "es",
+                "value": "\"Campo de fútbol\""
+              },
+              {
+                "language": "sl",
+                "value": "\"Nogometno igrišče\""
+              },
+              {
+                "language": "he",
+                "value": "\"מגרש כדורגל\""
+              },
+              {
+                "language": "az",
+                "value": "\"Futbol meydançası\""
+              },
+              {
+                "language": "th",
+                "value": "\"สนามฟุตบอล\""
+              },
+              {
+                "language": "sw",
+                "value": "\"Uwanja wa mpira\""
+              },
+              {
+                "language": "de",
+                "value": "\"Fußballplatz\""
+              },
+              {
+                "language": "ka",
+                "value": "\"საფეხბურთო მოედანი\""
+              },
+              {
+                "language": "da",
+                "value": "\"Fodboldbane\""
+              },
+              {
+                "language": "ko",
+                "value": "\"축구장\""
+              },
+              {
+                "language": "en_gb",
+                "value": "\"Football pitch\""
+              },
+              {
+                "language": "lt",
+                "value": "\"Futbolo aikštė\""
+              },
+              {
+                "language": "et",
+                "value": "\"Jalgpalliväljak\""
+              },
+              {
+                "language": "bg",
+                "value": "\"Футболно игрище\""
+              },
+              {
+                "language": "es_ar",
+                "value": "\"Cancha de fútbol\""
+              },
+              {
+                "language": "es_la",
+                "value": "\"Cancha de fútbol\""
+              },
+              {
+                "language": "nl",
+                "value": "\"Voetbalveld\""
+              },
+              {
+                "language": "ar",
+                "value": "\"ملعب كرة قدم\""
+              },
+              {
+                "language": "id",
+                "value": "\"Lapangan sepak bola\""
+              },
+              {
+                "language": "lo",
+                "value": "\"ສະໜາມບານເຕະ\""
+              },
+              {
+                "language": "pl",
+                "value": "\"Boisko piłkarskie\""
+              },
+              {
+                "language": "my",
+                "value": "\"ဘောလုံးကွင်း\""
+              },
+              {
+                "language": "hr",
+                "value": "\"Nogometno igralište\""
+              },
+              {
+                "language": "fr_ca",
+                "value": "\"Terrain de soccer\""
+              },
+              {
+                "language": "km",
+                "value": "\"ទីលានបាល់ទាត់\""
+              },
+              {
+                "language": "bs",
+                "value": "\"Fudbalski teren\""
+              },
+              {
+                "language": "zh_tw",
+                "value": "\"足球場\""
+              },
+              {
+                "language": "fr",
+                "value": "\"Terrain de football\""
+              },
+              {
+                "language": "sr",
+                "value": "\"Фудбалски терен\""
+              },
+              {
+                "language": "tl",
+                "value": "\"Football field\""
+              },
+              {
+                "language": "eu",
+                "value": "\"Futbol zelaia\""
+              },
+              {
+                "language": "ro",
+                "value": "\"Teren de fotbal\""
+              },
+              {
+                "language": "mk",
+                "value": "\"Фудбалско игралиште\""
+              },
+              {
+                "language": "hi",
+                "value": "\"फुटबॉल का मैदान\""
+              },
+              {
+                "language": "lv",
+                "value": "\"Futbola laukums\""
+              },
+              {
+                "language": "tr",
+                "value": "\"Futbol sahası\""
+              },
+              {
+                "language": "te",
+                "value": "\"ఫుట్‌బాల్ మైదానం\""
+              },
+              {
+                "language": "fi",
+                "value": "\"Jalkapallokenttä\""
+              },
+              {
+                "language": "zh",
+                "value": "\"足球场\""
+              },
+              {
+                "language": "pt_pt",
+                "value": "\"Campo de futebol\""
+              },
+              {
+                "language": "pt",
+                "value": "\"Campo de futebol\""
+              },
+              {
+                "language": "nb",
+                "value": "\"Fotballbane\""
+              },
+              {
+                "language": "sv",
+                "value": "\"Fotbollsplan\""
+              },
+              {
+                "language": "it",
+                "value": "\"Campo da calcio\""
+              }
+            ]
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/6A52B7C0-DEE5-4171-86AD-822D968429DC-420x-auto.jpg"
+          }
+        },
+        "disambiguation": "389M+GCH Luanda Angola",
+        "location": {
+          "lat": -8.9311821,
+          "lon": 13.3336191
+        },
+        "tags": [
+          {
+            "name": "Tourist attraction",
+            "tag_id": "urn:tag:genre:place:tourist_attraction",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:tourist_attraction"
+          },
+          {
+            "name": "Place",
+            "tag_id": "urn:tag:genre:place",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place"
+          },
+          {
+            "name": "Soccer field",
+            "tag_id": "urn:tag:category:place:soccer_field",
+            "type": "urn:tag:category:place",
+            "value": "urn:tag:category:place:soccer_field"
+          },
+          {
+            "name": "Soccer field",
+            "tag_id": "urn:tag:genre:place:soccer_field",
+            "type": "urn:tag:genre:place",
+            "value": "urn:tag:genre:place:soccer_field"
+          }
+        ]
+      }
+    ]
+  }
+}

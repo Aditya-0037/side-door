@@ -1,0 +1,5675 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Martin Odegaard",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Martin Ødegaard",
+        "entity_id": "E5738F3D-6375-4C13-A16D-645CB3A8D90B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "l",
+              "value": "Martins Ēdegors"
+            },
+            {
+              "language": "v",
+              "value": "Martins Ēdegors"
+            },
+            {
+              "language": "u",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "z",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "k",
+              "value": "მარტინ ედეგორი"
+            },
+            {
+              "language": "a",
+              "value": "მარტინ ედეგორი"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Эдегор"
+            },
+            {
+              "language": "u",
+              "value": "Мартин Эдегор"
+            },
+            {
+              "language": "i",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "t",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "z",
+              "value": "馬丁·奧德加特"
+            },
+            {
+              "language": "h",
+              "value": "馬丁·奧德加特"
+            },
+            {
+              "language": "e",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "n",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "p",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "l",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "w",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "b",
+              "value": "মার্তিন ওদেগর"
+            },
+            {
+              "language": "n",
+              "value": "মার্তিন ওদেগর"
+            },
+            {
+              "language": "a",
+              "value": "مارتين أوديغارد"
+            },
+            {
+              "language": "r",
+              "value": "مارتين أوديغارد"
+            },
+            {
+              "language": "n",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "l",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "k",
+              "value": "마르틴 외데가르드"
+            },
+            {
+              "language": "o",
+              "value": "마르틴 외데가르드"
+            },
+            {
+              "language": "n",
+              "value": "ओडेगार्ड"
+            },
+            {
+              "language": "e",
+              "value": "ओडेगार्ड"
+            },
+            {
+              "language": "f",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "r",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "c",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "MO"
+            },
+            {
+              "language": "w",
+              "value": "MO"
+            },
+            {
+              "language": "h",
+              "value": "Մարտին Էդեգոր"
+            },
+            {
+              "language": "y",
+              "value": "Մարտին Էդեգոր"
+            },
+            {
+              "language": "e",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "j",
+              "value": "マルティン・ウーデゴール"
+            },
+            {
+              "language": "a",
+              "value": "マルティン・ウーデゴール"
+            },
+            {
+              "language": "n",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "l",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Мартин Едегор"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Едегор"
+            },
+            {
+              "language": "h",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "r",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "n",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "n",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "r",
+              "value": "Эдегор, Мартин"
+            },
+            {
+              "language": "u",
+              "value": "Эдегор, Мартин"
+            },
+            {
+              "language": "u",
+              "value": "Мартін Едегор"
+            },
+            {
+              "language": "k",
+              "value": "Мартін Едегор"
+            },
+            {
+              "language": "e",
+              "value": "Martin Ödegaard"
+            },
+            {
+              "language": "u",
+              "value": "Martin Ödegaard"
+            },
+            {
+              "language": "f",
+              "value": "مارتین اودگارد"
+            },
+            {
+              "language": "a",
+              "value": "مارتین اودگارد"
+            },
+            {
+              "language": "t",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "r",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Эдегор"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Эдегор"
+            },
+            {
+              "language": "j",
+              "value": "マルティン・ウーデゴーア"
+            },
+            {
+              "language": "a",
+              "value": "マルティン・ウーデゴーア"
+            },
+            {
+              "language": "n",
+              "value": "मार्टिन ओडेगार्ड"
+            },
+            {
+              "language": "e",
+              "value": "मार्टिन ओडेगार्ड"
+            },
+            {
+              "language": "r",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "o",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "t",
+              "value": "มัตติน เออเดอโกร์"
+            },
+            {
+              "language": "h",
+              "value": "มัตติน เออเดอโกร์"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "v",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "d",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "e",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "e",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "t",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "f",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "i",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "g",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "a",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "p",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "t",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "e",
+              "value": "Μάρτιν Όντεγκααρντ"
+            },
+            {
+              "language": "l",
+              "value": "Μάρτιν Όντεγκααρντ"
+            },
+            {
+              "language": "f",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "o",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "v",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "i",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "h",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "u",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "n",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "b",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "q",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "i",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "d",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "z",
+              "value": "马丁·厄德高"
+            },
+            {
+              "language": "h",
+              "value": "马丁·厄德高"
+            },
+            {
+              "language": "m",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "k",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "h",
+              "value": "מרטין אודגור"
+            },
+            {
+              "language": "e",
+              "value": "מרטין אודגור"
+            },
+            {
+              "language": "b",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "d",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "a",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "b",
+              "value": "Мартин Йодегаард"
+            },
+            {
+              "language": "g",
+              "value": "Мартин Йодегаард"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "w",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "i",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "d",
+              "value": "Martin Odegaard"
+            },
+            {
+              "language": "g",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "l",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "s",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "l",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "c",
+              "value": "Martin Ødegaard"
+            },
+            {
+              "language": "a",
+              "value": "Martin Ødegaard"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "odegaard.98"
+            }
+          },
+          "citizenship": [
+            "Norway"
+          ],
+          "date_of_birth": "1998-12-17",
+          "image": {
+            "url": "https://images.qloo.com/i/E5738F3D-6375-4C13-A16D-645CB3A8D90B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Norway national under-21 association football team",
+            "Norway national under-16 association football team",
+            "Norway national association football team",
+            "Norway national under-17 association football team",
+            "Arsenal F.C.",
+            "Real Madrid CF",
+            "Real Sociedad",
+            "SBV Vitesse",
+            "Strømsgodset IF",
+            "Norway national under-15 association football team",
+            "SC Heerenveen"
+          ],
+          "work_period_start": "2014-04-13",
+          "short_description": "Norwegian association football player"
+        },
+        "popularity": 0.9696404692273404,
+        "disambiguation": "1998-12-17",
+        "tags": [
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Norwegian Fourth Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_fourth_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_fourth_division_players"
+          },
+          {
+            "name": "Arsenal F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players"
+          },
+          {
+            "name": "Eredivisie Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eredivisie_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eredivisie_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In The Netherlands",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_netherlands",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_netherlands"
+          },
+          {
+            "name": "Footballers From Drammen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_drammen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_drammen"
+          },
+          {
+            "name": "Real Sociedad Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_sociedad_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_sociedad_footballers"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Norway Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Norwegian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In The Netherlands",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_netherlands",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_netherlands"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Norwegian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_mens_footballers"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Sc Heerenveen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sc_heerenveen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sc_heerenveen_players"
+          },
+          {
+            "name": "Real Madrid Castilla Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_madrid_castilla_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_madrid_castilla_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Norway Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_youth_international_footballers"
+          },
+          {
+            "name": "Strømsgodset Toppfotball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stromsgodset_toppfotball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stromsgodset_toppfotball_players"
+          },
+          {
+            "name": "Segunda División B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:segunda_division_b_players"
+          },
+          {
+            "name": "Sbv Vitesse Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sbv_vitesse_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sbv_vitesse_players"
+          },
+          {
+            "name": "Engvarb From January 2023",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2023",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2023"
+          },
+          {
+            "name": "Norwegian Second Division Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_second_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_second_division_players"
+          },
+          {
+            "name": "Norwegian Expatriate Sportspeople In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_expatriate_sportspeople_in_spain"
+          },
+          {
+            "name": "Real Madrid Cf Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_madrid_cf_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_madrid_cf_players"
+          },
+          {
+            "name": "Norwegian Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norwegian_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norwegian_christians"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain"
+          },
+          {
+            "name": "Norway Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:norway_mens_international_footballers"
+          },
+          {
+            "name": "La Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:la_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:la_liga_players"
+          },
+          {
+            "name": "Eliteserien Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eliteserien_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eliteserien_players"
+          }
+        ]
+      },
+      {
+        "name": "Ricky Martin",
+        "entity_id": "40FDAF23-FC49-4D0A-9B5B-9C5452E99A35",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "n",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "m",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "n",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "z",
+              "value": "瑞奇·马丁"
+            },
+            {
+              "language": "h",
+              "value": "瑞奇·马丁"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "d",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "a",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "f",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "a",
+              "value": "Enrike Martin Morales"
+            },
+            {
+              "language": "z",
+              "value": "Enrike Martin Morales"
+            },
+            {
+              "language": "e",
+              "value": "Ρίκι Μάρτιν"
+            },
+            {
+              "language": "l",
+              "value": "Ρίκι Μάρτιν"
+            },
+            {
+              "language": "z",
+              "value": "瑞奇馬丁"
+            },
+            {
+              "language": "h",
+              "value": "瑞奇馬丁"
+            },
+            {
+              "language": "l",
+              "value": "Henricus Martinus Morales"
+            },
+            {
+              "language": "a",
+              "value": "Henricus Martinus Morales"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "o",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "v",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "d",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "c",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "y",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "z",
+              "value": "瑞奇·馬汀"
+            },
+            {
+              "language": "h",
+              "value": "瑞奇·馬汀"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "u",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Рики"
+            },
+            {
+              "language": "u",
+              "value": "Мартин Рики"
+            },
+            {
+              "language": "k",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "u",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "f",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "j",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "v",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "m",
+              "value": "റിക്കി മാർട്ടിൻ"
+            },
+            {
+              "language": "l",
+              "value": "റിക്കി മാർട്ടിൻ"
+            },
+            {
+              "language": "f",
+              "value": "ریکی مارتین"
+            },
+            {
+              "language": "a",
+              "value": "ریکی مارتین"
+            },
+            {
+              "language": "s",
+              "value": "Martin"
+            },
+            {
+              "language": "v",
+              "value": "Martin"
+            },
+            {
+              "language": "n",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "r",
+              "value": "Мартин, Рики"
+            },
+            {
+              "language": "u",
+              "value": "Мартин, Рики"
+            },
+            {
+              "language": "s",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "v",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "h",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "g",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "k",
+              "value": "릭키 마틴"
+            },
+            {
+              "language": "o",
+              "value": "릭키 마틴"
+            },
+            {
+              "language": "d",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "h",
+              "value": "ריקי מרטין"
+            },
+            {
+              "language": "e",
+              "value": "ריקי מרטין"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "ريكي مارتن"
+            },
+            {
+              "language": "r",
+              "value": "ريكي مارتن"
+            },
+            {
+              "language": "f",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "r",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "r",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "u",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "f",
+              "value": "Enrique Martin"
+            },
+            {
+              "language": "i",
+              "value": "Enrique Martin"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "s",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "k",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "d",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "p",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "u",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "z",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "h",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Rikijs Martins"
+            },
+            {
+              "language": "v",
+              "value": "Rikijs Martins"
+            },
+            {
+              "language": "d",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "m",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "w",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "إنريكي مارتن موراليس"
+            },
+            {
+              "language": "r",
+              "value": "إنريكي مارتن موراليس"
+            },
+            {
+              "language": "y",
+              "value": "ריקי מארטין"
+            },
+            {
+              "language": "i",
+              "value": "ריקי מארטין"
+            },
+            {
+              "language": "n",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "b",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "e",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "إنريكي خوسيه مارتن موراليس"
+            },
+            {
+              "language": "r",
+              "value": "إنريكي خوسيه مارتن موراليس"
+            },
+            {
+              "language": "f",
+              "value": "انریکه خوزه مارتین مورالس"
+            },
+            {
+              "language": "a",
+              "value": "انریکه خوزه مارتین مورالس"
+            },
+            {
+              "language": "n",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "l",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "o",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Ρίκυ Μάρτιν"
+            },
+            {
+              "language": "l",
+              "value": "Ρίκυ Μάρτιν"
+            },
+            {
+              "language": "k",
+              "value": "რიკი მარტინი"
+            },
+            {
+              "language": "a",
+              "value": "რიკი მარტინი"
+            },
+            {
+              "language": "u",
+              "value": "Рікі Мартін"
+            },
+            {
+              "language": "k",
+              "value": "Рікі Мартін"
+            },
+            {
+              "language": "f",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "r",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "k",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "y",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "o",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "c",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "d",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "e",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "j",
+              "value": "エンリケ・マルティン・モラレス"
+            },
+            {
+              "language": "a",
+              "value": "エンリケ・マルティン・モラレス"
+            },
+            {
+              "language": "b",
+              "value": "রিকি মার্টিন"
+            },
+            {
+              "language": "n",
+              "value": "রিকি মার্টিন"
+            },
+            {
+              "language": "e",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "s",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "u",
+              "value": "Ріккі Мартін"
+            },
+            {
+              "language": "k",
+              "value": "Ріккі Мартін"
+            },
+            {
+              "language": "g",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "u",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "z",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "ரிக்கி மாட்டின்"
+            },
+            {
+              "language": "a",
+              "value": "ரிக்கி மாட்டின்"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "h",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "b",
+              "value": "Рыкі Марцін"
+            },
+            {
+              "language": "e",
+              "value": "Рыкі Марцін"
+            },
+            {
+              "language": "z",
+              "value": "瑞奇馬汀"
+            },
+            {
+              "language": "h",
+              "value": "瑞奇馬汀"
+            },
+            {
+              "language": "s",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "r",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "t",
+              "value": "ริคกี้ มาร์ติน"
+            },
+            {
+              "language": "h",
+              "value": "ริคกี้ มาร์ติน"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martin"
+            },
+            {
+              "language": "r",
+              "value": "Enrique Martin"
+            },
+            {
+              "language": "c",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "n",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Р."
+            },
+            {
+              "language": "u",
+              "value": "Мартин Р."
+            },
+            {
+              "language": "c",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "a",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "i",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "d",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "h",
+              "value": "Ռիկի Մարտին"
+            },
+            {
+              "language": "y",
+              "value": "Ռիկի Մարտին"
+            },
+            {
+              "language": "n",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "b",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "l",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "j",
+              "value": "エンリケ・ホセ・マルティン・モラレス"
+            },
+            {
+              "language": "a",
+              "value": "エンリケ・ホセ・マルティン・モラレス"
+            },
+            {
+              "language": "n",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "b",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "v",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "o",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "i",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "d",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "v",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "c",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "s",
+              "value": "Enrique Martin Morales"
+            },
+            {
+              "language": "k",
+              "value": "리키 마틴"
+            },
+            {
+              "language": "o",
+              "value": "리키 마틴"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "l",
+              "value": "Enrique Morales"
+            },
+            {
+              "language": "i",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "d",
+              "value": "Enrique José Martín Morales"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "n",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "n",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "c",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "p",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "t",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "t",
+              "value": "ริกกี้ มาร์ติน"
+            },
+            {
+              "language": "h",
+              "value": "ริกกี้ มาร์ติน"
+            },
+            {
+              "language": "f",
+              "value": "ريكي مارتين"
+            },
+            {
+              "language": "a",
+              "value": "ريكي مارتين"
+            },
+            {
+              "language": "f",
+              "value": "انريكه خوزه مارتين مورالس"
+            },
+            {
+              "language": "a",
+              "value": "انريكه خوزه مارتين مورالس"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martín"
+            },
+            {
+              "language": "l",
+              "value": "Enrique Martín"
+            },
+            {
+              "language": "f",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "k",
+              "value": "მარტინი"
+            },
+            {
+              "language": "a",
+              "value": "მარტინი"
+            },
+            {
+              "language": "t",
+              "value": "Enrique Martín"
+            },
+            {
+              "language": "r",
+              "value": "Enrique Martín"
+            },
+            {
+              "language": "b",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "g",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "m",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "k",
+              "value": "Рики Мартин"
+            },
+            {
+              "language": "j",
+              "value": "リッキー・マーティン"
+            },
+            {
+              "language": "a",
+              "value": "リッキー・マーティン"
+            },
+            {
+              "language": "l",
+              "value": "Rikijs Mārtins"
+            },
+            {
+              "language": "v",
+              "value": "Rikijs Mārtins"
+            },
+            {
+              "language": "p",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "l",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Riki Martin"
+            },
+            {
+              "language": "z",
+              "value": "Riki Martin"
+            },
+            {
+              "language": "r",
+              "value": "Рикки Мартин"
+            },
+            {
+              "language": "u",
+              "value": "Рикки Мартин"
+            },
+            {
+              "language": "s",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "q",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "e",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "u",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "a",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "f",
+              "value": "Enrique Martín Morales"
+            },
+            {
+              "language": "r",
+              "value": "Мартин, Рикки"
+            },
+            {
+              "language": "u",
+              "value": "Мартин, Рикки"
+            },
+            {
+              "language": "v",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "i",
+              "value": "Ricky Martín"
+            },
+            {
+              "language": "z",
+              "value": "瑞奇·馬丁"
+            },
+            {
+              "language": "h",
+              "value": "瑞奇·馬丁"
+            },
+            {
+              "language": "h",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "u",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "f",
+              "value": "Ricky Martin"
+            },
+            {
+              "language": "r",
+              "value": "Ricky Martin"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Ricky+Martin"
+            },
+            "instagram": {
+              "id": "ricky_martin"
+            },
+            "twitter": {
+              "id": "ricky_martin"
+            },
+            "spotify": {
+              "id": "7slfeZO9LsJbWgpkIoXBUJ"
+            },
+            "imdb": {
+              "id": "nm0005193"
+            },
+            "library_of_congress": {
+              "id": "no98076760"
+            },
+            "musicbrainz": {
+              "id": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "Spain"
+          ],
+          "date_of_birth": "1971-12-24",
+          "image": {
+            "url": "https://images.qloo.com/i/40FDAF23-FC49-4D0A-9B5B-9C5452E99A35-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "spouse": [
+            "Jwan Yosef"
+          ],
+          "work_period_start": "1984-01-01",
+          "short_description": "Puerto Rican singer and actor"
+        },
+        "popularity": 0.9987443058892598,
+        "disambiguation": "1971-12-24",
+        "tags": [
+          {
+            "name": "People Appearing On C-span",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_appearing_on_c_span"
+          },
+          {
+            "name": "Puerto Rican Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_philanthropists"
+          },
+          {
+            "name": "Puerto Rican Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_record_producers"
+          },
+          {
+            "name": "Puerto Rican Lgbt Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_lgbt_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_lgbt_singers"
+          },
+          {
+            "name": "21st-century Puerto Rican Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_singers"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Sony Music Latin Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sony_music_latin_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sony_music_latin_artists"
+          },
+          {
+            "name": "Latin Music Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_music_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_music_songwriters"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Puerto Rican Male Soap Opera Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_soap_opera_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_soap_opera_actors"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Puerto Rican Gay Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_musicians"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Unicef Goodwill Ambassadors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:unicef_goodwill_ambassadors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:unicef_goodwill_ambassadors"
+          },
+          {
+            "name": "Puerto Rican Expatriates In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_spain"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Echo (music Award) Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:echo_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:echo_music_award_winners"
+          },
+          {
+            "name": "Puerto Rican Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_activists"
+          },
+          {
+            "name": "Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grammy_award_winners"
+          },
+          {
+            "name": "Naturalised Citizens Of Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_spain"
+          },
+          {
+            "name": "Puerto Rican Gay Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_actors"
+          },
+          {
+            "name": "Sony Music Spain Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sony_music_spain_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sony_music_spain_artists"
+          },
+          {
+            "name": "Lgbt Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_record_producers"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Lgbt Hispanic And Latino American People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_hispanic_latino_american_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_hispanic_latino_american_people"
+          },
+          {
+            "name": "Spanish-language Singers Of The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_language_singers_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_language_singers_united_states"
+          },
+          {
+            "name": "Puerto Rican People Of Corsican Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_corsican_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_corsican_descent"
+          },
+          {
+            "name": "Puerto Rican Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_television_actors"
+          },
+          {
+            "name": "Hispanic And Latino American Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hispanic_latino_american_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hispanic_latino_american_musicians"
+          },
+          {
+            "name": "Columbia Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:columbia_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:columbia_records_artists"
+          },
+          {
+            "name": "Puerto Rican Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_singer_songwriters"
+          },
+          {
+            "name": "Lgbt People In Latin Music",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_people_in_latin_music",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_people_in_latin_music"
+          },
+          {
+            "name": "Gay Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_singers"
+          },
+          {
+            "name": "20th-century Puerto Rican Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_singers"
+          },
+          {
+            "name": "Menudo (band) Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:menudo_band_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:menudo_band_members"
+          },
+          {
+            "name": "Latin Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_pop_singers"
+          },
+          {
+            "name": "Hispanic And Latino American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hispanic_latino_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hispanic_latino_american_male_actors"
+          },
+          {
+            "name": "Puerto Rican Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_pop_singers"
+          },
+          {
+            "name": "Puerto Rican People Of Canarian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_canarian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_canarian_descent"
+          },
+          {
+            "name": "Gay Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gay_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gay_songwriters"
+          },
+          {
+            "name": "21st-century Puerto Rican Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_singers"
+          },
+          {
+            "name": "20th-century Puerto Rican Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_singers"
+          },
+          {
+            "name": "Puerto Rican People Of Spanish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_spanish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_spanish_descent"
+          },
+          {
+            "name": "Mtv Europe Music Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners"
+          },
+          {
+            "name": "Latin Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_award_winners"
+          },
+          {
+            "name": "Ricky Martin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ricky_martin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ricky_martin"
+          },
+          {
+            "name": "20th-century Puerto Rican Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_lgbt_people"
+          },
+          {
+            "name": "World Music Awards Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_music_awards_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_music_awards_winners"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "20th-century Puerto Rican Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_puerto_rican_male_actors"
+          },
+          {
+            "name": "Puerto Rican Lgbt Songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_lgbt_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_lgbt_songwriters"
+          },
+          {
+            "name": "Puerto Rican Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_male_film_actors"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "21st-century Puerto Rican Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_male_actors"
+          },
+          {
+            "name": "Puerto Rican People Of Basque Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_basque_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_people_basque_descent"
+          },
+          {
+            "name": "Puerto Rican Expatriates In Mexico",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_mexico",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_mexico"
+          },
+          {
+            "name": "Latin Recording Academy Person Of The Year Honorees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_recording_academy_person_year_honorees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_recording_academy_person_year_honorees"
+          },
+          {
+            "name": "Puerto Rican Expatriates In Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_expatriates_in_australia"
+          },
+          {
+            "name": "21st-century Puerto Rican Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_puerto_rican_lgbt_people"
+          },
+          {
+            "name": "Puerto Rican Gay Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:puerto_rican_gay_writers"
+          }
+        ]
+      },
+      {
+        "name": "Martin Garrix",
+        "entity_id": "849CE104-2600-4922-B4F9-9E302E4CE837",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "MG"
+            },
+            {
+              "language": "n",
+              "value": "MG"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "s",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "b",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "a",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "h",
+              "value": "मार्टिन गैरिक्स"
+            },
+            {
+              "language": "i",
+              "value": "मार्टिन गैरिक्स"
+            },
+            {
+              "language": "i",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "d",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "f",
+              "value": "Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Garrix"
+            },
+            {
+              "language": "h",
+              "value": "Մարտին Գարիքս"
+            },
+            {
+              "language": "y",
+              "value": "Մարտին Գարիքս"
+            },
+            {
+              "language": "l",
+              "value": "Martinus Gerardus Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "Martinus Gerardus Garritsen"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "y",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "i",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "m",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martins Garriks"
+            },
+            {
+              "language": "v",
+              "value": "Martins Garriks"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "u",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "a",
+              "value": "مارتين جيرارد غارتسين"
+            },
+            {
+              "language": "r",
+              "value": "مارتين جيرارد غارتسين"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "y",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "c",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "n",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "b",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "n",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "o",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "n",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "b",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "i",
+              "value": "GRX"
+            },
+            {
+              "language": "t",
+              "value": "GRX"
+            },
+            {
+              "language": "a",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Μαρτάιν Χέραρντ Χάριτσε"
+            },
+            {
+              "language": "l",
+              "value": "Μαρτάιν Χέραρντ Χάριτσε"
+            },
+            {
+              "language": "i",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "t",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "مارتين غارتسين"
+            },
+            {
+              "language": "r",
+              "value": "مارتين غارتسين"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "o",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "b",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "g",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "n",
+              "value": "Martijn G. Garritsen"
+            },
+            {
+              "language": "b",
+              "value": "Martijn G. Garritsen"
+            },
+            {
+              "language": "j",
+              "value": "YTRAM"
+            },
+            {
+              "language": "a",
+              "value": "YTRAM"
+            },
+            {
+              "language": "f",
+              "value": "GRX"
+            },
+            {
+              "language": "r",
+              "value": "GRX"
+            },
+            {
+              "language": "u",
+              "value": "Мартін Гаррікс"
+            },
+            {
+              "language": "k",
+              "value": "Мартін Гаррікс"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "v",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "b",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "b",
+              "value": "মার্টিন গ্যারিক্স"
+            },
+            {
+              "language": "n",
+              "value": "মার্টিন গ্যারিক্স"
+            },
+            {
+              "language": "d",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "i",
+              "value": "DJ Garrix"
+            },
+            {
+              "language": "t",
+              "value": "DJ Garrix"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Гаррикс"
+            },
+            {
+              "language": "h",
+              "value": "एमजी"
+            },
+            {
+              "language": "i",
+              "value": "एमजी"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "k",
+              "value": "마틴 게릭스"
+            },
+            {
+              "language": "o",
+              "value": "마틴 게릭스"
+            },
+            {
+              "language": "z",
+              "value": "馬汀·蓋瑞克斯"
+            },
+            {
+              "language": "h",
+              "value": "馬汀·蓋瑞克斯"
+            },
+            {
+              "language": "i",
+              "value": "MG"
+            },
+            {
+              "language": "t",
+              "value": "MG"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "n",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "h",
+              "value": "מרטין גריקס"
+            },
+            {
+              "language": "e",
+              "value": "מרטין גריקס"
+            },
+            {
+              "language": "e",
+              "value": "AREA21"
+            },
+            {
+              "language": "s",
+              "value": "AREA21"
+            },
+            {
+              "language": "e",
+              "value": "YTRAM"
+            },
+            {
+              "language": "n",
+              "value": "YTRAM"
+            },
+            {
+              "language": "v",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "i",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "k",
+              "value": "마틴 개릭스"
+            },
+            {
+              "language": "o",
+              "value": "마틴 개릭스"
+            },
+            {
+              "language": "f",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "i",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "g",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "b",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "f",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "m",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "k",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "z",
+              "value": "馬田·加歷士"
+            },
+            {
+              "language": "h",
+              "value": "馬田·加歷士"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "r",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "g",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "a",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "c",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "a",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "j",
+              "value": "マーティン・ヘーラルト・ハリツェン"
+            },
+            {
+              "language": "a",
+              "value": "マーティン・ヘーラルト・ハリツェン"
+            },
+            {
+              "language": "n",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "b",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "u",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "f",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "y",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "h",
+              "value": "डीजे गैरिक्स"
+            },
+            {
+              "language": "i",
+              "value": "डीजे गैरिक्स"
+            },
+            {
+              "language": "h",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "p",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "c",
+              "value": "Martĳn Gerard Garritsen"
+            },
+            {
+              "language": "a",
+              "value": "Martĳn Gerard Garritsen"
+            },
+            {
+              "language": "p",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "v",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "GRX"
+            },
+            {
+              "language": "l",
+              "value": "GRX"
+            },
+            {
+              "language": "e",
+              "value": "Garrix"
+            },
+            {
+              "language": "n",
+              "value": "Garrix"
+            },
+            {
+              "language": "a",
+              "value": "مارتن غاركس"
+            },
+            {
+              "language": "r",
+              "value": "مارتن غاركس"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "k",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martinus Garrix"
+            },
+            {
+              "language": "a",
+              "value": "Martinus Garrix"
+            },
+            {
+              "language": "f",
+              "value": "مارتین گریکس"
+            },
+            {
+              "language": "a",
+              "value": "مارتین گریکس"
+            },
+            {
+              "language": "e",
+              "value": "GRX"
+            },
+            {
+              "language": "n",
+              "value": "GRX"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "s",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "f",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "r",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "AREA21"
+            },
+            {
+              "language": "n",
+              "value": "AREA21"
+            },
+            {
+              "language": "e",
+              "value": "Μαρτάιν Χάριτσεν"
+            },
+            {
+              "language": "l",
+              "value": "Μαρτάιν Χάριτσεν"
+            },
+            {
+              "language": "d",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "s",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "u",
+              "value": "Martijn Gerard Garritsen"
+            },
+            {
+              "language": "i",
+              "value": "AREA21"
+            },
+            {
+              "language": "t",
+              "value": "AREA21"
+            },
+            {
+              "language": "e",
+              "value": "Mar+in Garri×"
+            },
+            {
+              "language": "n",
+              "value": "Mar+in Garri×"
+            },
+            {
+              "language": "f",
+              "value": "YTRAM"
+            },
+            {
+              "language": "r",
+              "value": "YTRAM"
+            },
+            {
+              "language": "j",
+              "value": "マーティン・ハリツェン"
+            },
+            {
+              "language": "a",
+              "value": "マーティン・ハリツェン"
+            },
+            {
+              "language": "c",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "f",
+              "value": "Mar+in Garri×"
+            },
+            {
+              "language": "r",
+              "value": "Mar+in Garri×"
+            },
+            {
+              "language": "e",
+              "value": "GRX"
+            },
+            {
+              "language": "u",
+              "value": "GRX"
+            },
+            {
+              "language": "u",
+              "value": "Мартін Ґаррікс"
+            },
+            {
+              "language": "k",
+              "value": "Мартін Ґаррікс"
+            },
+            {
+              "language": "n",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "l",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "i",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "t",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "u",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "j",
+              "value": "マーティン・ギャリックス"
+            },
+            {
+              "language": "a",
+              "value": "マーティン・ギャリックス"
+            },
+            {
+              "language": "i",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "t",
+              "value": "DJ Marty"
+            },
+            {
+              "language": "h",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "మార్టిన్ గారిక్స్"
+            },
+            {
+              "language": "e",
+              "value": "మార్టిన్ గారిక్స్"
+            },
+            {
+              "language": "h",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "u",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "GRX"
+            },
+            {
+              "language": "s",
+              "value": "GRX"
+            },
+            {
+              "language": "e",
+              "value": "Μάρτιν Γκάριξ"
+            },
+            {
+              "language": "l",
+              "value": "Μάρτιν Γκάριξ"
+            },
+            {
+              "language": "t",
+              "value": "มาร์ติน แกร์ริกซ์"
+            },
+            {
+              "language": "h",
+              "value": "มาร์ติน แกร์ริกซ์"
+            },
+            {
+              "language": "d",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "j",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "a",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "e",
+              "value": "MG"
+            },
+            {
+              "language": "s",
+              "value": "MG"
+            },
+            {
+              "language": "i",
+              "value": "YTRAM"
+            },
+            {
+              "language": "t",
+              "value": "YTRAM"
+            },
+            {
+              "language": "j",
+              "value": "GRX"
+            },
+            {
+              "language": "a",
+              "value": "GRX"
+            },
+            {
+              "language": "a",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "f",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "n",
+              "value": "मार्टिन ग्यार्रिक्स"
+            },
+            {
+              "language": "e",
+              "value": "मार्टिन ग्यार्रिक्स"
+            },
+            {
+              "language": "o",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "c",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "n",
+              "value": "00674248913 IPI"
+            },
+            {
+              "language": "b",
+              "value": "00674248913 IPI"
+            },
+            {
+              "language": "d",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "a",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "q",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "s",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "l",
+              "value": "Martijn Garritsen"
+            },
+            {
+              "language": "e",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "t",
+              "value": "Martin Garrix"
+            },
+            {
+              "language": "d",
+              "value": "GRX"
+            },
+            {
+              "language": "e",
+              "value": "GRX"
+            },
+            {
+              "language": "e",
+              "value": "Ytram"
+            },
+            {
+              "language": "s",
+              "value": "Ytram"
+            },
+            {
+              "language": "s",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "r",
+              "value": "Мартин Гарикс"
+            },
+            {
+              "language": "e",
+              "value": "YTRAM"
+            },
+            {
+              "language": "u",
+              "value": "YTRAM"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Martin+Garrix"
+            },
+            "instagram": {
+              "id": "martingarrix"
+            },
+            "twitter": {
+              "id": "martingarrix"
+            },
+            "spotify": {
+              "id": "60d24wfXkVzDSfLS6hyCjZ"
+            },
+            "imdb": {
+              "id": "nm6424186"
+            },
+            "library_of_congress": {
+              "id": "n2016050557"
+            },
+            "musicbrainz": {
+              "id": "3e1f2ee4-16be-4406-bf18-6173840cf2b1"
+            }
+          },
+          "citizenship": [
+            "Kingdom of the Netherlands"
+          ],
+          "date_of_birth": "1996-05-14",
+          "image": {
+            "url": "https://images.qloo.com/i/849CE104-2600-4922-B4F9-9E302E4CE837-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "guitar",
+            "FL Studio",
+            "piano",
+            "electronic keyboard"
+          ],
+          "work_period_start": "2012-01-01",
+          "short_description": "Dutch DJ and record producer"
+        },
+        "popularity": 0.9978310738087214,
+        "disambiguation": "1996-05-14",
+        "tags": [
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Dutch Electronic Dance Music Djs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_electronic_dance_music_djs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_electronic_dance_music_djs"
+          },
+          {
+            "name": "Schoolboy Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:schoolboy_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:schoolboy_records_artists"
+          },
+          {
+            "name": "Future Bass Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:future_bass_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:future_bass_musicians"
+          },
+          {
+            "name": "Dutch Progressive House Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_progressive_house_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_progressive_house_musicians"
+          },
+          {
+            "name": "Sirius Xm Radio Programs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sirius_xm_radio_programs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sirius_xm_radio_programs"
+          },
+          {
+            "name": "Musicians From Amsterdam",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_amsterdam",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_amsterdam"
+          },
+          {
+            "name": "Mtv Europe Music Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners"
+          },
+          {
+            "name": "Sony Bmg Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sony_bmg_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sony_bmg_artists"
+          },
+          {
+            "name": "Epic Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:epic_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:epic_records_artists"
+          },
+          {
+            "name": "Casablanca Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:casablanca_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:casablanca_records_artists"
+          },
+          {
+            "name": "Republic Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:republic_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:republic_records_artists"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "21st-century Dutch Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_dutch_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_dutch_musicians"
+          },
+          {
+            "name": "People From Amstelveen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_amstelveen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_amstelveen"
+          },
+          {
+            "name": "Stmpd Rcrds Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stmpd_rcrds_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stmpd_rcrds_artists"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Dutch Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_record_producers"
+          },
+          {
+            "name": "Rca Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rca_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rca_records_artists"
+          },
+          {
+            "name": "Spinnin Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spinnin_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spinnin_records_artists"
+          },
+          {
+            "name": "Columbia Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:columbia_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:columbia_records_artists"
+          },
+          {
+            "name": "Record Producer",
+            "tag_id": "urn:tag:occupation:person:record_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:record_producer"
+          },
+          {
+            "name": "Electro House Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:electro_house_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:electro_house_musicians"
+          },
+          {
+            "name": "Disc Jockey",
+            "tag_id": "urn:tag:occupation:person:disc_jockey",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:disc_jockey"
+          },
+          {
+            "name": "Universal Music Group Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:universal_music_group_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:universal_music_group_artists"
+          }
+        ]
+      },
+      {
+        "name": "Steve Martin",
+        "entity_id": "7FCDD73C-4312-4330-9156-3AF849B7EA41",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "استیو مارتین"
+            },
+            {
+              "language": "a",
+              "value": "استیو مارتین"
+            },
+            {
+              "language": "s",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "r",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "j",
+              "value": "スティーヴ・マーティン"
+            },
+            {
+              "language": "a",
+              "value": "スティーヴ・マーティン"
+            },
+            {
+              "language": "r",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "o",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "h",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "u",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "g",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "l",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "f",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "d",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "a",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "e",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "p",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "l",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "m",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "k",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "t",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "r",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "q",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "e",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "u",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "n",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "l",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "t",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "v",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "f",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "r",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "u",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "z",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "e",
+              "value": "Στιβ Μάρτιν"
+            },
+            {
+              "language": "l",
+              "value": "Στιβ Μάρτιν"
+            },
+            {
+              "language": "h",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "r",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "d",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "e",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "t",
+              "value": "สตีฟ มาร์ติน"
+            },
+            {
+              "language": "h",
+              "value": "สตีฟ มาร์ติน"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "p",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "t",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "c",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "s",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "e",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "n",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "e",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "o",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "b",
+              "value": "স্টিভ মার্টিন"
+            },
+            {
+              "language": "n",
+              "value": "স্টিভ মার্টিন"
+            },
+            {
+              "language": "s",
+              "value": "Steven Glenn Martin"
+            },
+            {
+              "language": "k",
+              "value": "Steven Glenn Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "k",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "r",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "u",
+              "value": "Стив Мартин"
+            },
+            {
+              "language": "l",
+              "value": "Stīvs Mārtins"
+            },
+            {
+              "language": "v",
+              "value": "Stīvs Mārtins"
+            },
+            {
+              "language": "h",
+              "value": "Սթիվ Մարտին"
+            },
+            {
+              "language": "y",
+              "value": "Սթիվ Մարտին"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "c",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "h",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "u",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "d",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "b",
+              "value": "Стыў Марцін"
+            },
+            {
+              "language": "e",
+              "value": "Стыў Марцін"
+            },
+            {
+              "language": "e",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "n",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "r",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "r",
+              "value": "Мартин, Стив"
+            },
+            {
+              "language": "u",
+              "value": "Мартин, Стив"
+            },
+            {
+              "language": "b",
+              "value": "Стийв Мартин"
+            },
+            {
+              "language": "g",
+              "value": "Стийв Мартин"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "o",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "d",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "a",
+              "value": "ستيف مارتن"
+            },
+            {
+              "language": "r",
+              "value": "ستيف مارتن"
+            },
+            {
+              "language": "r",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "o",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "c",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "y",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "c",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "a",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "p",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "t",
+              "value": "Stephen Glenn Martin"
+            },
+            {
+              "language": "l",
+              "value": "Stephanus Glenn Martin"
+            },
+            {
+              "language": "a",
+              "value": "Stephanus Glenn Martin"
+            },
+            {
+              "language": "a",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "f",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "n",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "n",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "h",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "u",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "o",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "c",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "f",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "a",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "n",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "t",
+              "value": "Steve Glenn Martin"
+            },
+            {
+              "language": "g",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "a",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "i",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "q",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "l",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "z",
+              "value": "史提夫·馬丁"
+            },
+            {
+              "language": "h",
+              "value": "史提夫·馬丁"
+            },
+            {
+              "language": "p",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "l",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "k",
+              "value": "스티브 마틴"
+            },
+            {
+              "language": "o",
+              "value": "스티브 마틴"
+            },
+            {
+              "language": "h",
+              "value": "סטיב מרטין"
+            },
+            {
+              "language": "e",
+              "value": "סטיב מרטין"
+            },
+            {
+              "language": "b",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "v",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "u",
+              "value": "Стів Мартін"
+            },
+            {
+              "language": "k",
+              "value": "Стів Мартін"
+            },
+            {
+              "language": "n",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "b",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "l",
+              "value": "Stephanus Martin"
+            },
+            {
+              "language": "a",
+              "value": "Stephanus Martin"
+            },
+            {
+              "language": "c",
+              "value": "Steve Martin"
+            },
+            {
+              "language": "s",
+              "value": "Steve Martin"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "7103"
+            },
+            "lastfm": {
+              "id": "Steve+Martin"
+            },
+            "instagram": {
+              "id": "stevemartinreally"
+            },
+            "metacritic": {
+              "id": "person/steve-martin"
+            },
+            "twitter": {
+              "id": "stevemartintogo"
+            },
+            "spotify": {
+              "id": "1Bd4UVlqlaKEXYRG3wgrCK"
+            },
+            "imdb": {
+              "id": "nm0000188"
+            },
+            "library_of_congress": {
+              "id": "n78007718"
+            },
+            "goodreads_author": {
+              "id": "7103"
+            },
+            "musicbrainz": {
+              "id": "0da08c43-c04c-4016-968d-b9d3eb9b7751"
+            }
+          },
+          "child": [
+            "Mary A. Martin"
+          ],
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1945-08-14",
+          "image": {
+            "url": "https://images.qloo.com/i/7FCDD73C-4312-4330-9156-3AF849B7EA41-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "influenced_by": [
+            "Richard Pryor",
+            "Smothers Brothers",
+            "Monty Python",
+            "Jerry Lewis",
+            "Woody Allen",
+            "George Burns",
+            "Redd Foxx",
+            "George Carlin",
+            "Jack Benny"
+          ],
+          "instrument": [
+            "banjo"
+          ],
+          "spouse": [
+            "Victoria Tennant",
+            "Anne Stringfield"
+          ],
+          "work_period_start": "1977-01-01",
+          "short_description": "American comedian, actor, musician and writer (born 1945)"
+        },
+        "popularity": 0.9900088061664909,
+        "disambiguation": "1945-08-14",
+        "tags": [
+          {
+            "name": "21st-century American Male Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_musicians"
+          },
+          {
+            "name": "Santa Ana College Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:santa_ana_college_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:santa_ana_college_alumni"
+          },
+          {
+            "name": "Humor",
+            "tag_id": "urn:tag:genre:media:media:humor",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:humor"
+          },
+          {
+            "name": "Theatre",
+            "tag_id": "urn:tag:genre:media:media:theatre",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:theatre"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "American Sketch Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_sketch_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_sketch_comedians"
+          },
+          {
+            "name": "20th-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors"
+          },
+          {
+            "name": "American Male Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_non_fiction_writers"
+          },
+          {
+            "name": "American People Of German Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_german_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_german_descent"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Incomplete Lists From April 2022",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:incomplete_lists_from_april_2022",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:incomplete_lists_from_april_2022"
+          },
+          {
+            "name": "Mark Twain Prize Recipients",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mark_twain_prize_recipients",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mark_twain_prize_recipients"
+          },
+          {
+            "name": "Fellows Of The American Academy Of Arts And Sciences",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fellows_american_academy_arts_sciences",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fellows_american_academy_arts_sciences"
+          },
+          {
+            "name": "Film Producers From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:film_producers_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:film_producers_from_california"
+          },
+          {
+            "name": "Art Collector",
+            "tag_id": "urn:tag:occupation:person:art_collector",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:art_collector"
+          },
+          {
+            "name": "Steve Martin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:steve_martin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:steve_martin"
+          },
+          {
+            "name": "21st-century American Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians"
+          },
+          {
+            "name": "Kennedy Center Honorees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:kennedy_center_honorees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:kennedy_center_honorees"
+          },
+          {
+            "name": "American Male Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_dramatists_playwrights"
+          },
+          {
+            "name": "Warner Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:warner_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:warner_records_artists"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "American People Of Welsh Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_welsh_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_welsh_descent"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Adult",
+            "tag_id": "urn:tag:genre:media:media:adult",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adult"
+          },
+          {
+            "name": "Comedians From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_texas"
+          },
+          {
+            "name": "Television Producers From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_producers_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_producers_from_texas"
+          },
+          {
+            "name": "American Art Collectors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_art_collectors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_art_collectors"
+          },
+          {
+            "name": "American Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:genre:person:comedian",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:comedian"
+          },
+          {
+            "name": "American Stand-up Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_stand_up_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_stand_up_comedians"
+          },
+          {
+            "name": "The New Yorker People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_yorker_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_yorker_people"
+          },
+          {
+            "name": "Fiction",
+            "tag_id": "urn:tag:genre:media:media:fiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fiction"
+          },
+          {
+            "name": "American Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_dramatists_playwrights"
+          },
+          {
+            "name": "21st-century American Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_screenwriters"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "20th-century American Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_screenwriters"
+          },
+          {
+            "name": "Contemporary",
+            "tag_id": "urn:tag:genre:media:media:contemporary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:contemporary"
+          },
+          {
+            "name": "Street Artist",
+            "tag_id": "urn:tag:occupation:person:street_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:street_artist"
+          },
+          {
+            "name": "American Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_comedians"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:occupation:person:comedian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:comedian"
+          },
+          {
+            "name": "21st-century American Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_dramatists_playwrights"
+          },
+          {
+            "name": "20th-century American Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_comedians"
+          },
+          {
+            "name": "American Television Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_writers"
+          },
+          {
+            "name": "Primetime Emmy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Afi Life Achievement Award Recipients",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:afi_life_achievement_award_recipients",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:afi_life_achievement_award_recipients"
+          },
+          {
+            "name": "Television Producers From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_producers_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_producers_from_california"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "American Male Television Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_writers"
+          },
+          {
+            "name": "American Banjoists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_banjoists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_banjoists"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:occupation:person:musician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:musician"
+          },
+          {
+            "name": "Performing Artist",
+            "tag_id": "urn:tag:occupation:person:performing_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:performing_artist"
+          },
+          {
+            "name": "Writers Guild Of America Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_guild_america_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_guild_america_award_winners"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Psychology",
+            "tag_id": "urn:tag:genre:media:media:psychology",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:psychology"
+          },
+          {
+            "name": "Film Producer",
+            "tag_id": "urn:tag:occupation:person:film_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_producer"
+          },
+          {
+            "name": "Film Producers From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:film_producers_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:film_producers_from_texas"
+          },
+          {
+            "name": "American People Of English Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_english_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_english_descent"
+          },
+          {
+            "name": "American Comedy Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_comedy_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_comedy_musicians"
+          },
+          {
+            "name": "Academy Honorary Award Recipients",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:academy_honorary_award_recipients",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:academy_honorary_award_recipients"
+          },
+          {
+            "name": "21st-century American Male Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_writers"
+          },
+          {
+            "name": "American People Of French Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_french_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_french_descent"
+          },
+          {
+            "name": "Disney Legends",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:disney_legends",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:disney_legends"
+          },
+          {
+            "name": "Comedians From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_california"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Film-noir",
+            "tag_id": "urn:tag:genre:media:media:film_noir",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:film_noir"
+          },
+          {
+            "name": "Novels",
+            "tag_id": "urn:tag:genre:media:media:novels",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:novels"
+          },
+          {
+            "name": "Audiobook",
+            "tag_id": "urn:tag:genre:media:media:audiobook",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:audiobook"
+          },
+          {
+            "name": "Audiobook Narrators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:audiobook_narrators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:audiobook_narrators"
+          },
+          {
+            "name": "Playwright",
+            "tag_id": "urn:tag:occupation:person:playwright",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:playwright"
+          },
+          {
+            "name": "Screenwriters From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:screenwriters_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:screenwriters_from_california"
+          },
+          {
+            "name": "American People Of Scottish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_scottish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_scottish_descent"
+          },
+          {
+            "name": "Voice Actor",
+            "tag_id": "urn:tag:occupation:person:voice_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:voice_actor"
+          },
+          {
+            "name": "Male Actors From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_california"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "American Comedy Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_comedy_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_comedy_writers"
+          },
+          {
+            "name": "Grammy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grammy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grammy_award_winners"
+          },
+          {
+            "name": "Banjoist",
+            "tag_id": "urn:tag:occupation:person:banjoist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:banjoist"
+          },
+          {
+            "name": "Adult fiction",
+            "tag_id": "urn:tag:genre:media:media:adult_fiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adult_fiction"
+          },
+          {
+            "name": "20th-century American Male Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_writers"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "Screenwriters From Texas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:screenwriters_from_texas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:screenwriters_from_texas"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Literary fiction",
+            "tag_id": "urn:tag:genre:media:media:literary_fiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:literary_fiction"
+          },
+          {
+            "name": "Art",
+            "tag_id": "urn:tag:genre:media:media:art",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:art"
+          },
+          {
+            "name": "20th-century American Male Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_musicians"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Rounder Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rounder_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rounder_records_artists"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "American People Of Scotch-irish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_scotch_irish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_scotch_irish_descent"
+          },
+          {
+            "name": "American Memoirists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_memoirists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_memoirists"
+          },
+          {
+            "name": "Vague Or Ambiguous Time From October 2012",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_october_2012",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_october_2012"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "American Male Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_screenwriters"
+          },
+          {
+            "name": "American Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_film_actors"
+          }
+        ]
+      },
+      {
+        "name": "Juan Martín del Potro",
+        "entity_id": "F7EA7AB4-AB97-419C-B041-A9CE800183FA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "h",
+              "value": "חואן מרטין דל פוטרו (טניסאי עבר)"
+            },
+            {
+              "language": "e",
+              "value": "חואן מרטין דל פוטרו (טניסאי עבר)"
+            },
+            {
+              "language": "j",
+              "value": "フアン・マルティン・デル・ポトロ"
+            },
+            {
+              "language": "a",
+              "value": "フアン・マルティン・デル・ポトロ"
+            },
+            {
+              "language": "h",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Del Potro, Juan Martin"
+            },
+            {
+              "language": "v",
+              "value": "Del Potro, Juan Martin"
+            },
+            {
+              "language": "r",
+              "value": "Хуан дель Потро"
+            },
+            {
+              "language": "u",
+              "value": "Хуан дель Потро"
+            },
+            {
+              "language": "h",
+              "value": "מרטין דל פוטרו"
+            },
+            {
+              "language": "e",
+              "value": "מרטין דל פוטרו"
+            },
+            {
+              "language": "f",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "c",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Хуан-Мартін Дель Потро"
+            },
+            {
+              "language": "k",
+              "value": "Хуан-Мартін Дель Потро"
+            },
+            {
+              "language": "f",
+              "value": "Juan-martin Del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan-martin Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "k",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "p",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "ฆวน มาร์ติน เดล โปโตร"
+            },
+            {
+              "language": "h",
+              "value": "ฆวน มาร์ติน เดล โปโตร"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "z",
+              "value": "波特羅"
+            },
+            {
+              "language": "h",
+              "value": "波特羅"
+            },
+            {
+              "language": "h",
+              "value": "חואן דל פוטרו"
+            },
+            {
+              "language": "e",
+              "value": "חואן דל פוטרו"
+            },
+            {
+              "language": "l",
+              "value": "Huans Martins del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Huans Martins del Potro"
+            },
+            {
+              "language": "p",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "e",
+              "value": "JM Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "JM Del Potro"
+            },
+            {
+              "language": "c",
+              "value": "Juan del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan del Potro"
+            },
+            {
+              "language": "k",
+              "value": "후안 마르틴 델 포트로"
+            },
+            {
+              "language": "o",
+              "value": "후안 마르틴 델 포트로"
+            },
+            {
+              "language": "b",
+              "value": "Дел Потро"
+            },
+            {
+              "language": "g",
+              "value": "Дел Потро"
+            },
+            {
+              "language": "n",
+              "value": "Del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Del Potro"
+            },
+            {
+              "language": "f",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "p",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "f",
+              "value": "Del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "c",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "o",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "y",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "o",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "g",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "r",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "k",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Хуан Мартин дель Потро"
+            },
+            {
+              "language": "u",
+              "value": "Хуан Мартин дель Потро"
+            },
+            {
+              "language": "k",
+              "value": "ხუან მარტინ დელ პოტრო"
+            },
+            {
+              "language": "a",
+              "value": "ხუან მარტინ დელ პოტრო"
+            },
+            {
+              "language": "e",
+              "value": "Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Дель Порто Хуан-Мартін"
+            },
+            {
+              "language": "k",
+              "value": "Дель Порто Хуан-Мартін"
+            },
+            {
+              "language": "p",
+              "value": "Del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "h",
+              "value": "Խուան Մարտին դել Պոտրո"
+            },
+            {
+              "language": "y",
+              "value": "Խուան Մարտին դել Պոտրո"
+            },
+            {
+              "language": "u",
+              "value": "Хуан Мартін дель Потро"
+            },
+            {
+              "language": "k",
+              "value": "Хуан Мартін дель Потро"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "m",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "k",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "m",
+              "value": "हुआन मार्तिन देल पोत्रो"
+            },
+            {
+              "language": "r",
+              "value": "हुआन मार्तिन देल पोत्रो"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "h",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "f",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "i",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Del Potro"
+            },
+            {
+              "language": "t",
+              "value": "ฮวน มาร์ติน เดล โปโตร"
+            },
+            {
+              "language": "h",
+              "value": "ฮวน มาร์ติน เดล โปโตร"
+            },
+            {
+              "language": "e",
+              "value": "Delpo"
+            },
+            {
+              "language": "n",
+              "value": "Delpo"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "b",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Хуан-Мартін Дель Порто"
+            },
+            {
+              "language": "k",
+              "value": "Хуан-Мартін Дель Порто"
+            },
+            {
+              "language": "k",
+              "value": "델 포트로"
+            },
+            {
+              "language": "o",
+              "value": "델 포트로"
+            },
+            {
+              "language": "b",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "g",
+              "value": "Хуан Мартин дел Потро"
+            },
+            {
+              "language": "h",
+              "value": "हुआन मार्टिन डेल पोट्रो"
+            },
+            {
+              "language": "i",
+              "value": "हुआन मार्टिन डेल पोट्रो"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "q",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "f",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Delpo"
+            },
+            {
+              "language": "s",
+              "value": "Delpo"
+            },
+            {
+              "language": "r",
+              "value": "Дель Потро"
+            },
+            {
+              "language": "u",
+              "value": "Дель Потро"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "q",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "k",
+              "value": "Дель Потро"
+            },
+            {
+              "language": "k",
+              "value": "Дель Потро"
+            },
+            {
+              "language": "h",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "u",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "z",
+              "value": "迪普祖"
+            },
+            {
+              "language": "h",
+              "value": "迪普祖"
+            },
+            {
+              "language": "b",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "g",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "b",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "m",
+              "value": "हुआन मार्टिन देल पोर्तो"
+            },
+            {
+              "language": "r",
+              "value": "हुआन मार्टिन देल पोर्तो"
+            },
+            {
+              "language": "e",
+              "value": "Del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Del Potro"
+            },
+            {
+              "language": "t",
+              "value": "டெல் போட்ரோ"
+            },
+            {
+              "language": "a",
+              "value": "டெல் போட்ரோ"
+            },
+            {
+              "language": "c",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "d",
+              "value": "Potro"
+            },
+            {
+              "language": "e",
+              "value": "Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "p",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "b",
+              "value": "Хуан Мартын Дэль Потра"
+            },
+            {
+              "language": "e",
+              "value": "Хуан Мартын Дэль Потра"
+            },
+            {
+              "language": "f",
+              "value": "J. M. del Potro"
+            },
+            {
+              "language": "r",
+              "value": "J. M. del Potro"
+            },
+            {
+              "language": "l",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "z",
+              "value": "胡安·馬丁·德爾波特羅"
+            },
+            {
+              "language": "h",
+              "value": "胡安·馬丁·德爾波特羅"
+            },
+            {
+              "language": "d",
+              "value": "Del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Del Potro"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "v",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "j",
+              "value": "フアンマルティン・デルポトロ"
+            },
+            {
+              "language": "a",
+              "value": "フアンマルティン・デルポトロ"
+            },
+            {
+              "language": "s",
+              "value": "Хуан Мартин Дел Потро"
+            },
+            {
+              "language": "r",
+              "value": "Хуан Мартин Дел Потро"
+            },
+            {
+              "language": "d",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "b",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "c",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "a",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martín del Potro"
+            },
+            {
+              "language": "r",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "o",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "z",
+              "value": "胡安·马丁·德尔·波特罗"
+            },
+            {
+              "language": "h",
+              "value": "胡安·马丁·德尔·波特罗"
+            },
+            {
+              "language": "r",
+              "value": "дель Потро, Хуан Мартин"
+            },
+            {
+              "language": "u",
+              "value": "дель Потро, Хуан Мартин"
+            },
+            {
+              "language": "m",
+              "value": "हुआन मार्टिन देल पोत्रो"
+            },
+            {
+              "language": "r",
+              "value": "हुआन मार्टिन देल पोत्रो"
+            },
+            {
+              "language": "a",
+              "value": "خوان مارتن ديل بوترو"
+            },
+            {
+              "language": "r",
+              "value": "خوان مارتن ديل بوترو"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "n",
+              "value": "Juan Martín Del Potro"
+            },
+            {
+              "language": "b",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "s",
+              "value": "Juan Martin Del Potro"
+            },
+            {
+              "language": "e",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "t",
+              "value": "Juan Martin del Potro"
+            },
+            {
+              "language": "f",
+              "value": "خوآن مارتین دل پوترو"
+            },
+            {
+              "language": "a",
+              "value": "خوآن مارتین دل پوترو"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "delpotrojuan"
+            },
+            "twitter": {
+              "id": "delpotrojuan"
+            },
+            "imdb": {
+              "id": "nm3050004"
+            }
+          },
+          "citizenship": [
+            "Argentina"
+          ],
+          "date_of_birth": "1988-09-23",
+          "image": {
+            "url": "https://images.qloo.com/i/F7EA7AB4-AB97-419C-B041-A9CE800183FA-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "tennis"
+          ],
+          "member_of_sports_team": [
+            "Argentina Davis Cup team"
+          ],
+          "work_period_start": "2005-01-01",
+          "short_description": "Argentine tennis player"
+        },
+        "popularity": 0.9845783368304324,
+        "disambiguation": "1988-09-23",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People From Tandil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_tandil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_tandil"
+          },
+          {
+            "name": "Tennis Player",
+            "tag_id": "urn:tag:occupation:person:tennis_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:tennis_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Medalists At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Olympic Silver Medalists For Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_silver_medalists_argentina"
+          },
+          {
+            "name": "Tennis Players At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tennis_players_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tennis_players_at_2012_summer_olympics"
+          },
+          {
+            "name": "Argentine Male Tennis Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_male_tennis_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_male_tennis_players"
+          },
+          {
+            "name": "Grand Slam (tennis) Champions In Mens Singles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grand_slam_tennis_champions_in_mens_singles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grand_slam_tennis_champions_in_mens_singles"
+          },
+          {
+            "name": "Us Open (tennis) Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:us_open_tennis_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:us_open_tennis_champions"
+          },
+          {
+            "name": "Tennis Players At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tennis_players_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tennis_players_at_2016_summer_olympics"
+          },
+          {
+            "name": "Medalists At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics"
+          },
+          {
+            "name": "Olympic Medalists In Tennis",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_tennis",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_tennis"
+          },
+          {
+            "name": "Argentine Sportspeople Of Italian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_sportspeople_italian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_sportspeople_italian_descent"
+          },
+          {
+            "name": "Sportspeople From Buenos Aires Province",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_buenos_aires_province",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_buenos_aires_province"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Olympic Tennis Players For Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_tennis_players_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_tennis_players_argentina"
+          },
+          {
+            "name": "Argentine Roman Catholics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_roman_catholics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_roman_catholics"
+          },
+          {
+            "name": "Olympic Bronze Medalists For Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_argentina"
+          }
+        ]
+      }
+    ]
+  }
+}

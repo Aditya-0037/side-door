@@ -1,0 +1,5015 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Rocky",
+    "take": 5,
+    "types": "urn:entity:movie"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Rocky",
+        "entity_id": "94485CC8-A992-4136-B3EC-848E4B6912F9",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "\"Rocky – Die Chance seines Lebens\""
+            },
+            {
+              "language": "hi",
+              "value": "\"रॉकी\""
+            },
+            {
+              "language": "zh",
+              "value": "\"洛奇\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Rocky\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Rocky\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Rocky\""
+            },
+            {
+              "language": "es",
+              "value": "\"Rocky\""
+            },
+            {
+              "language": "it",
+              "value": "\"Rocky\""
+            }
+          ],
+          "content_rating": "PG",
+          "description": "Rocky (1976), directed by John G. Avildsen and written by and starring Sylvester Stallone, is a drama about a small‑time Philadelphia boxer who gets an unlikely shot at the world heavyweight title. Co‑starring Talia Shire, Burt Young, Carl Weathers and Burgess Meredith, the film blends a boxing‑centered sports plot with a tender romantic subplot and mentor/mentee relationships. Its themes of perseverance, dignity, and the underdog's struggle are delivered through intimate, gritty filmmaking and an uplifting emotional tone. The movie helped popularize a modest, street‑level aesthetic and iconic training sequences.",
+          "external": {
+            "facebook": {
+              "id": "mgm"
+            },
+            "imdb": {
+              "id": "tt0075148",
+              "user_rating": 8.1,
+              "user_rating_count": 702522
+            },
+            "instagram": {
+              "id": "mgm_studios"
+            },
+            "metacritic": {
+              "critic_rating": 70,
+              "id": "rocky",
+              "user_rating": 8.7
+            },
+            "twitter": {
+              "id": "mgm_studios"
+            },
+            "wikidata": {
+              "id": "q179200"
+            }
+          },
+          "filming_location": "1818 East Tusculum Street, Kensington, North Philadelphia, Pennsylvania, USA, Pat's King of Steaks - 1237 E Passyunk Ave, Philadelphia, Pennsylvania, USA, Philadelphia Museum of Art - 2600 Benjamin Franklin Parkway, Philadelphia, Pennsylvania, USA, 2822-2824 Rosehill St, Philadelphia, Pensylvannia, USA, Fairmount Park, Philadelphia, Pennsylvania, USA, 1124 Jackson Street, Philadelphia ,Pennsylvania, USA, South 12th Street & Cantrell st, Philadelphia, Pennsylvania, USA, Ice Capades Chalet - 500 Broadway, Santa Monica, California, USA, Main Street Gym - 318½ S Main St, Downtown, Los Angeles, California, USA, S. 9th Street & Washington Avenue, Philadelphia, Pennsylvania, USA, Los Angeles Memorial Sports Arena - 3939 S. Figueroa Street, Los Angeles, California, USA, Shamrock Meats - 3461 E. Vernon Avenue, Vernon, California, USA, 2146 N Front Street, Philadelphia, Pennsylvania, USA, Resurrection Gym - 1114 S. Lorena Street, East Los Angeles, California, USA, 2147 N Front Street, Philadelphia, Pennsylvania, USA, Philadelphia, Pennsylvania, USA, North Christopher Columbus Blvd, Philadelphia, Pennsylvania, USA, 320 East Gurney Street, Philadelphia, Pennsylvania, USA, Olympic Auditorium - 1801 S. Grand Avenue, Downtown, Los Angeles, California, USA, Kensington, North Philadelphia, Pennsylvania, USA, Philadelphia City Hall - 1450 John F. Kennedy Blvd., Philadelphia, Pennsylvania, USA, 3390 Robertson Boulevard - Culver City, California, USA, Vernon, California, USA, Santa Monica, California, USA, Pennsylvania, USA, Downtown, Los Angeles, California, USA, Los Angeles, California, USA, California, USA, Culver City, California, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/94485CC8-A992-4136-B3EC-848E4B6912F9-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Chartoff-Winkler Productions",
+          "release_country": "United States",
+          "release_date": "1976-12-03",
+          "release_year": 1976,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A small‑time Philadelphia boxer gets a shot at the world heavyweight title and fights to go the distance to prove his self‑respect."
+            },
+            {
+              "language": "de",
+              "value": "Ein kleiner Boxer aus Philadelphia erhält die Chance gegen den Weltmeister zu kämpfen und versucht, die Distanz zu halten, um seine Selbstachtung zu bewahren."
+            },
+            {
+              "language": "es",
+              "value": "Un boxeador de Filadelfia de poca monta recibe la oportunidad de pelear contra el campeón mundial y lucha por aguantar hasta el final para conservar su dignidad."
+            },
+            {
+              "language": "fr",
+              "value": "Un boxeur modeste de Philadelphie obtient la chance d'affronter le champion du monde et se bat pour tenir la distance et préserver sa dignité."
+            }
+          ],
+          "website": "https://www.rogerebert.com/mzs/30-minutes-on-rocky"
+        },
+        "popularity": 0.9957450484891682,
+        "disambiguation": "1976",
+        "tags": [
+          {
+            "name": "Publicity stunt",
+            "tag_id": "urn:tag:keyword:media:publicity_stunt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "First of series",
+            "tag_id": "urn:tag:keyword:media:first_of_series",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young couple",
+            "tag_id": "urn:tag:keyword:media:young_couple",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "City living",
+            "tag_id": "urn:tag:keyword:media:city_living",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Street life",
+            "tag_id": "urn:tag:keyword:media:street_life",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Melodrama",
+            "tag_id": "urn:tag:keyword:media:melodrama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ghetto",
+            "tag_id": "urn:tag:keyword:media:ghetto",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Saying thank you",
+            "tag_id": "urn:tag:keyword:media:saying_thank_you",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Uplifting",
+            "tag_id": "urn:tag:plot:qloo:uplifting",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Lead character played by screenwriter",
+            "tag_id": "urn:tag:keyword:media:lead_character_played_by_screenwriter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The rival",
+            "tag_id": "urn:tag:archetype:qloo:the_rival",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Loan shark",
+            "tag_id": "urn:tag:keyword:media:loan_shark",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hometown hero",
+            "tag_id": "urn:tag:keyword:media:hometown_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Snow",
+            "tag_id": "urn:tag:keyword:media:snow",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Eating a raw egg",
+            "tag_id": "urn:tag:keyword:media:eating_a_raw_egg",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Daytime",
+            "tag_id": "urn:tag:keyword:media:daytime",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:keyword:media:perseverance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dry weather",
+            "tag_id": "urn:tag:keyword:media:dry_weather",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Waiting",
+            "tag_id": "urn:tag:keyword:media:waiting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ethnic slur",
+            "tag_id": "urn:tag:keyword:media:ethnic_slur",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character says im sorry",
+            "tag_id": "urn:tag:keyword:media:character_says_im_sorry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Arrival",
+            "tag_id": "urn:tag:keyword:media:arrival",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Visiting",
+            "tag_id": "urn:tag:keyword:media:visiting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pet shop",
+            "tag_id": "urn:tag:keyword:media:pet_shop",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Unmarried man",
+            "tag_id": "urn:tag:keyword:media:unmarried_man",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:media:friendship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Meat locker",
+            "tag_id": "urn:tag:keyword:media:meat_locker",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Morning",
+            "tag_id": "urn:tag:keyword:media:morning",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Conversation",
+            "tag_id": "urn:tag:keyword:media:conversation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Handshake",
+            "tag_id": "urn:tag:keyword:media:handshake",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American flag",
+            "tag_id": "urn:tag:keyword:media:american_flag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young people",
+            "tag_id": "urn:tag:keyword:media:young_people",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Urban film",
+            "tag_id": "urn:tag:keyword:media:urban_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Self doubt",
+            "tag_id": "urn:tag:keyword:media:self_doubt",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Self esteem",
+            "tag_id": "urn:tag:keyword:media:self_esteem",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heartfelt",
+            "tag_id": "urn:tag:plot:qloo:heartfelt",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "National film registry",
+            "tag_id": "urn:tag:keyword:media:national_film_registry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Humble production design",
+            "tag_id": "urn:tag:style:qloo:humble_production_design",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Unusual method of training",
+            "tag_id": "urn:tag:keyword:media:unusual_method_of_training",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Female friend",
+            "tag_id": "urn:tag:keyword:media:female_friend",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mirror",
+            "tag_id": "urn:tag:keyword:media:mirror",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Opening action scene",
+            "tag_id": "urn:tag:keyword:media:opening_action_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friendship between men",
+            "tag_id": "urn:tag:keyword:media:friendship_between_men",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Push ups",
+            "tag_id": "urn:tag:keyword:media:push_ups",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Philadelphia pennsylvania",
+            "tag_id": "urn:tag:keyword:media:philadelphia_pennsylvania",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Motivation",
+            "tag_id": "urn:tag:keyword:media:motivation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog",
+            "tag_id": "urn:tag:keyword:media:underdog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famous line",
+            "tag_id": "urn:tag:keyword:media:famous_line",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Job",
+            "tag_id": "urn:tag:keyword:media:job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Persistence",
+            "tag_id": "urn:tag:keyword:media:persistence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Independent film",
+            "tag_id": "urn:tag:keyword:media:independent_film",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Italian american",
+            "tag_id": "urn:tag:keyword:media:italian_american",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Steadicam training shots",
+            "tag_id": "urn:tag:style:qloo:steadicam_training_shots",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Turtle",
+            "tag_id": "urn:tag:keyword:media:turtle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog film",
+            "tag_id": "urn:tag:subgenre:qloo:underdog_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Leave",
+            "tag_id": "urn:tag:keyword:media:leave",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Training",
+            "tag_id": "urn:tag:keyword:media:training",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sweat drenched close ups",
+            "tag_id": "urn:tag:style:qloo:sweat_drenched_close_ups",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:plot:qloo:gritty",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Boxer",
+            "tag_id": "urn:tag:keyword:qloo:boxer",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Bachelor",
+            "tag_id": "urn:tag:keyword:media:bachelor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing trainer",
+            "tag_id": "urn:tag:keyword:media:boxing_trainer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Decide",
+            "tag_id": "urn:tag:keyword:media:decide",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tavern",
+            "tag_id": "urn:tag:keyword:media:tavern",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Title spoken by character",
+            "tag_id": "urn:tag:keyword:media:title_spoken_by_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jogging",
+            "tag_id": "urn:tag:keyword:media:jogging",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thanksgiving",
+            "tag_id": "urn:tag:keyword:media:thanksgiving",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Modern life",
+            "tag_id": "urn:tag:keyword:media:modern_life",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Insult",
+            "tag_id": "urn:tag:keyword:media:insult",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ice skating rink",
+            "tag_id": "urn:tag:keyword:media:ice_skating_rink",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Shyness",
+            "tag_id": "urn:tag:keyword:media:shyness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fistfighting",
+            "tag_id": "urn:tag:keyword:media:fistfighting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chance",
+            "tag_id": "urn:tag:keyword:media:chance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Baseball bat",
+            "tag_id": "urn:tag:keyword:media:baseball_bat",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fans of underdog stories",
+            "tag_id": "urn:tag:audience:qloo:fans_of_underdog_stories",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Northeastern united states",
+            "tag_id": "urn:tag:keyword:media:northeastern_united_states",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Speaking",
+            "tag_id": "urn:tag:keyword:media:speaking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Alarm clock",
+            "tag_id": "urn:tag:keyword:media:alarm_clock",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young woman",
+            "tag_id": "urn:tag:keyword:media:young_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young",
+            "tag_id": "urn:tag:keyword:media:young",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "City",
+            "tag_id": "urn:tag:keyword:media:city",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mentor",
+            "tag_id": "urn:tag:keyword:qloo:mentor",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "North america",
+            "tag_id": "urn:tag:keyword:media:north_america",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underage smoking",
+            "tag_id": "urn:tag:keyword:media:underage_smoking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:keyword:media:boxing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sunny day",
+            "tag_id": "urn:tag:keyword:media:sunny_day",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cigar smoking",
+            "tag_id": "urn:tag:keyword:media:cigar_smoking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Profession",
+            "tag_id": "urn:tag:keyword:media:profession",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Preparation",
+            "tag_id": "urn:tag:keyword:media:preparation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports fans",
+            "tag_id": "urn:tag:audience:qloo:sports_fans",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Day",
+            "tag_id": "urn:tag:keyword:media:day",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Working class",
+            "tag_id": "urn:tag:keyword:media:working_class",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Butcher shop",
+            "tag_id": "urn:tag:keyword:media:butcher_shop",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Locker room",
+            "tag_id": "urn:tag:keyword:media:locker_room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Egotism",
+            "tag_id": "urn:tag:keyword:media:egotism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing film",
+            "tag_id": "urn:tag:subgenre:qloo:boxing_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Fitness training",
+            "tag_id": "urn:tag:interests:qloo:fitness_training",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Mentorship",
+            "tag_id": "urn:tag:theme:qloo:mentorship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Converse",
+            "tag_id": "urn:tag:keyword:media:converse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gift",
+            "tag_id": "urn:tag:keyword:media:gift",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Raw",
+            "tag_id": "urn:tag:style:qloo:raw",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Departure",
+            "tag_id": "urn:tag:keyword:media:departure",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambition",
+            "tag_id": "urn:tag:keyword:media:ambition",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Empathetic",
+            "tag_id": "urn:tag:audience:qloo:empathetic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Occupation",
+            "tag_id": "urn:tag:keyword:media:occupation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Birdcage",
+            "tag_id": "urn:tag:keyword:media:birdcage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:keyword:qloo:perseverance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Fight",
+            "tag_id": "urn:tag:keyword:qloo:fight",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Underdog",
+            "tag_id": "urn:tag:archetype:qloo:underdog",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Urban setting",
+            "tag_id": "urn:tag:keyword:media:urban_setting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ugly duckling",
+            "tag_id": "urn:tag:keyword:media:ugly_duckling",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rags to riches",
+            "tag_id": "urn:tag:archetype:qloo:rags_to_riches",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Fedora",
+            "tag_id": "urn:tag:keyword:media:fedora",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pennsylvania",
+            "tag_id": "urn:tag:keyword:media:pennsylvania",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Profanity",
+            "tag_id": "urn:tag:keyword:media:profanity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:theme:qloo:romance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Fist",
+            "tag_id": "urn:tag:keyword:media:fist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tv news",
+            "tag_id": "urn:tag:keyword:media:tv_news",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Debt collector",
+            "tag_id": "urn:tag:keyword:media:debt_collector",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Walking someone home",
+            "tag_id": "urn:tag:keyword:media:walking_someone_home",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Drunkenness",
+            "tag_id": "urn:tag:keyword:media:drunkenness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "City dweller",
+            "tag_id": "urn:tag:keyword:media:city_dweller",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Visit",
+            "tag_id": "urn:tag:keyword:media:visit",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Championship",
+            "tag_id": "urn:tag:keyword:qloo:championship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Two",
+            "tag_id": "urn:tag:keyword:media:two",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Meat packing plant",
+            "tag_id": "urn:tag:keyword:media:meat_packing_plant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxer",
+            "tag_id": "urn:tag:keyword:media:boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Television reporter",
+            "tag_id": "urn:tag:keyword:media:television_reporter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing sport",
+            "tag_id": "urn:tag:keyword:media:boxing_sport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rags to riches",
+            "tag_id": "urn:tag:theme:qloo:rags_to_riches",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Vulnerable",
+            "tag_id": "urn:tag:character:qloo:vulnerable",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Residence",
+            "tag_id": "urn:tag:keyword:media:residence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Soundtrack music",
+            "tag_id": "urn:tag:interests:qloo:soundtrack_music",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Street level authenticity",
+            "tag_id": "urn:tag:style:qloo:street_level_authenticity",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Sports drama",
+            "tag_id": "urn:tag:subgenre:qloo:sports_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Cinderella story",
+            "tag_id": "urn:tag:keyword:media:cinderella_story",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mid atlantic",
+            "tag_id": "urn:tag:keyword:media:mid_atlantic",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Film history",
+            "tag_id": "urn:tag:interests:qloo:film_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Undefeated champion",
+            "tag_id": "urn:tag:keyword:media:undefeated_champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing gym",
+            "tag_id": "urn:tag:keyword:media:boxing_gym",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Urban",
+            "tag_id": "urn:tag:keyword:media:urban",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Interview",
+            "tag_id": "urn:tag:keyword:media:interview",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Joke",
+            "tag_id": "urn:tag:keyword:media:joke",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Home visit",
+            "tag_id": "urn:tag:keyword:media:home_visit",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Philadelphia",
+            "tag_id": "urn:tag:keyword:qloo:philadelphia",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:style:qloo:gritty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Working class culture",
+            "tag_id": "urn:tag:interests:qloo:working_class_culture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Publicity",
+            "tag_id": "urn:tag:keyword:media:publicity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Visitor",
+            "tag_id": "urn:tag:keyword:media:visitor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing movie",
+            "tag_id": "urn:tag:keyword:media:boxing_movie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog story",
+            "tag_id": "urn:tag:plot:qloo:underdog_story",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Training montage",
+            "tag_id": "urn:tag:keyword:media:training_montage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nickname",
+            "tag_id": "urn:tag:keyword:media:nickname",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:interests:qloo:boxing",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Domestic violence",
+            "tag_id": "urn:tag:keyword:media:domestic_violence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Throwing food out of a window",
+            "tag_id": "urn:tag:keyword:media:throwing_food_out_of_a_window",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Champion",
+            "tag_id": "urn:tag:keyword:media:champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drinking on the job",
+            "tag_id": "urn:tag:keyword:media:drinking_on_the_job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Social commentary",
+            "tag_id": "urn:tag:keyword:media:social_commentary",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "United states bicentennial",
+            "tag_id": "urn:tag:keyword:media:united_states_bicentennial",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dog",
+            "tag_id": "urn:tag:keyword:media:dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Endurance",
+            "tag_id": "urn:tag:keyword:media:endurance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Talking",
+            "tag_id": "urn:tag:keyword:media:talking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Class struggle",
+            "tag_id": "urn:tag:theme:qloo:class_struggle",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Boxing promoter",
+            "tag_id": "urn:tag:keyword:media:boxing_promoter",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "New years day",
+            "tag_id": "urn:tag:keyword:media:new_years_day",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Punching bag",
+            "tag_id": "urn:tag:keyword:media:punching_bag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Apology",
+            "tag_id": "urn:tag:keyword:media:apology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog",
+            "tag_id": "urn:tag:theme:qloo:underdog",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Daylight",
+            "tag_id": "urn:tag:keyword:media:daylight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Clear sky",
+            "tag_id": "urn:tag:keyword:media:clear_sky",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Couple",
+            "tag_id": "urn:tag:keyword:media:couple",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Inhabitant",
+            "tag_id": "urn:tag:keyword:media:inhabitant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Christmas",
+            "tag_id": "urn:tag:keyword:media:christmas",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Training",
+            "tag_id": "urn:tag:keyword:qloo:training",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Written by actor",
+            "tag_id": "urn:tag:keyword:media:written_by_actor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Insecurity",
+            "tag_id": "urn:tag:keyword:media:insecurity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Opportunity",
+            "tag_id": "urn:tag:keyword:media:opportunity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Unmarried woman",
+            "tag_id": "urn:tag:keyword:media:unmarried_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Home",
+            "tag_id": "urn:tag:keyword:media:home",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Employment",
+            "tag_id": "urn:tag:keyword:media:employment",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Self respect",
+            "tag_id": "urn:tag:theme:qloo:self_respect",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Blue sky",
+            "tag_id": "urn:tag:keyword:media:blue_sky",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Actor as writer",
+            "tag_id": "urn:tag:keyword:media:actor_as_writer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Championship",
+            "tag_id": "urn:tag:keyword:media:championship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famous score",
+            "tag_id": "urn:tag:keyword:media:famous_score",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:theme:qloo:perseverance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:style:qloo:realistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Pair",
+            "tag_id": "urn:tag:keyword:media:pair",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Part of series",
+            "tag_id": "urn:tag:keyword:media:part_of_series",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Robe",
+            "tag_id": "urn:tag:keyword:media:robe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "First part",
+            "tag_id": "urn:tag:keyword:media:first_part",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Making a decision",
+            "tag_id": "urn:tag:keyword:media:making_a_decision",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Unpolished aesthetic",
+            "tag_id": "urn:tag:style:qloo:unpolished_aesthetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Machismo",
+            "tag_id": "urn:tag:keyword:media:machismo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tenacious",
+            "tag_id": "urn:tag:character:qloo:tenacious",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Confrontation",
+            "tag_id": "urn:tag:keyword:media:confrontation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hating ones job",
+            "tag_id": "urn:tag:keyword:media:hating_ones_job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Racial slur",
+            "tag_id": "urn:tag:keyword:media:racial_slur",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Southpaw",
+            "tag_id": "urn:tag:keyword:media:southpaw",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Room",
+            "tag_id": "urn:tag:keyword:media:room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Catholic",
+            "tag_id": "urn:tag:keyword:media:catholic",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fishbowl",
+            "tag_id": "urn:tag:keyword:media:fishbowl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Urban drama",
+            "tag_id": "urn:tag:keyword:media:urban_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dating",
+            "tag_id": "urn:tag:keyword:media:dating",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Man loves woman",
+            "tag_id": "urn:tag:keyword:media:man_loves_woman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Singing",
+            "tag_id": "urn:tag:keyword:media:singing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cigarette smoking",
+            "tag_id": "urn:tag:keyword:media:cigarette_smoking",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determination",
+            "tag_id": "urn:tag:keyword:media:determination",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dry",
+            "tag_id": "urn:tag:keyword:media:dry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "One word title",
+            "tag_id": "urn:tag:keyword:media:one_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character name in title",
+            "tag_id": "urn:tag:keyword:media:character_name_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Leather jacket",
+            "tag_id": "urn:tag:keyword:media:leather_jacket",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friend",
+            "tag_id": "urn:tag:keyword:media:friend",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:sport",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Declaration of love",
+            "tag_id": "urn:tag:keyword:media:declaration_of_love",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The mentor",
+            "tag_id": "urn:tag:archetype:qloo:the_mentor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male friend",
+            "tag_id": "urn:tag:keyword:media:male_friend",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Discussion",
+            "tag_id": "urn:tag:keyword:media:discussion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports",
+            "tag_id": "urn:tag:genre:qloo:sports",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Debt collection",
+            "tag_id": "urn:tag:keyword:qloo:debt_collection",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Humble",
+            "tag_id": "urn:tag:character:qloo:humble",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:keyword:qloo:love",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Mentor",
+            "tag_id": "urn:tag:keyword:media:mentor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tough guy",
+            "tag_id": "urn:tag:keyword:media:tough_guy",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "Rocky",
+        "entity_id": "4C4657A4-A26F-45C9-A9AA-52312D474119",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "\"Rocky\""
+            }
+          ],
+          "description": "Rocky (2021), directed by Arun Matheswaran and starring Bharathiraja, Raveena Ravi, and Vasanth Ravi, is a gritty action-drama rooted in gangster cinema. After a 17-year prison term the protagonist returns home to search for his missing sister, and the film unfolds as a brutal, flashback-laden exploration of trauma, memory, and revenge. Noted for its intense fight sequences, stark cinematography, and raw emotional register, the film emphasizes character-driven moral conflict and visceral violence.",
+          "external": {
+            "imdb": {
+              "id": "tt11772600",
+              "user_rating": 7.8,
+              "user_rating_count": 1852
+            },
+            "rottentomatoes": {
+              "critic_rating": "69.0",
+              "critic_rating_count": "2",
+              "id": "11405",
+              "user_rating": "69.0",
+              "user_rating_count": "250000"
+            },
+            "wikidata": {
+              "id": "q60738272"
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/4C4657A4-A26F-45C9-A9AA-52312D474119-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "RA Studios",
+          "release_country": "India",
+          "release_date": "2021-12-23",
+          "release_year": 2021,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A gangster, freed after 17 years, returns to his childhood home to find his missing sister while his violent past resurfaces."
+            },
+            {
+              "language": "de",
+              "value": "Ein Gangster, nach 17 Jahren frei, kehrt in sein Elternhaus zurück, um seine verschwundene Schwester zu suchen, während seine gewalttätige Vergangenheit wieder auftaucht."
+            },
+            {
+              "language": "es",
+              "value": "Un gánster, liberado tras 17 años, regresa a su hogar de la infancia para buscar a su hermana desaparecida mientras su violento pasado resurge."
+            },
+            {
+              "language": "fr",
+              "value": "Un gangster, libéré après 17 ans, revient dans sa maison d'enfance pour retrouver sa sœur disparue tandis que son passé violent refait surface."
+            }
+          ],
+          "website": "https://www.kollywoodzone.com/boxoffice/rocky-movie-review/"
+        },
+        "popularity": 0.7477699302360742,
+        "disambiguation": "2021",
+        "tags": [
+          {
+            "name": "Bleak minimalism",
+            "tag_id": "urn:tag:style:qloo:bleak_minimalism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Flashbacks",
+            "tag_id": "urn:tag:keyword:qloo:flashbacks",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:qloo:revenge",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The lost sibling",
+            "tag_id": "urn:tag:archetype:qloo:the_lost_sibling",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Crime thriller",
+            "tag_id": "urn:tag:subgenre:qloo:crime_thriller",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Crime fiction",
+            "tag_id": "urn:tag:interests:qloo:crime_fiction",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Memory",
+            "tag_id": "urn:tag:theme:qloo:memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Trauma",
+            "tag_id": "urn:tag:keyword:qloo:trauma",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Identity",
+            "tag_id": "urn:tag:theme:qloo:identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:plot:qloo:gritty",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Trauma",
+            "tag_id": "urn:tag:theme:qloo:trauma",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Suspenseful",
+            "tag_id": "urn:tag:plot:qloo:suspenseful",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:keyword:qloo:violence",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Moody",
+            "tag_id": "urn:tag:style:qloo:moody",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Childhood home",
+            "tag_id": "urn:tag:keyword:qloo:childhood_home",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Operatic violence",
+            "tag_id": "urn:tag:style:qloo:operatic_violence",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Psychological",
+            "tag_id": "urn:tag:plot:qloo:psychological",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Bloodshed",
+            "tag_id": "urn:tag:keyword:qloo:bloodshed",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Gangster",
+            "tag_id": "urn:tag:keyword:qloo:gangster",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Revenge drama",
+            "tag_id": "urn:tag:subgenre:qloo:revenge_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Vengeance",
+            "tag_id": "urn:tag:archetype:qloo:vengeance",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Revenge narratives",
+            "tag_id": "urn:tag:interests:qloo:revenge_narratives",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:plot:qloo:realistic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Genre savvy",
+            "tag_id": "urn:tag:audience:qloo:genre_savvy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "The wounded hero",
+            "tag_id": "urn:tag:archetype:qloo:the_wounded_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:theme:qloo:violence",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Blood soaked",
+            "tag_id": "urn:tag:style:qloo:blood_soaked",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Visceral realism",
+            "tag_id": "urn:tag:style:qloo:visceral_realism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Flashback chiaroscuro",
+            "tag_id": "urn:tag:style:qloo:flashback_chiaroscuro",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Past",
+            "tag_id": "urn:tag:keyword:media:past",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Raw",
+            "tag_id": "urn:tag:style:qloo:raw",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:action",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Film soundtracks",
+            "tag_id": "urn:tag:interests:qloo:film_soundtracks",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:audience:qloo:reflective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:theme:qloo:revenge",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Memory",
+            "tag_id": "urn:tag:keyword:qloo:memory",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The return home",
+            "tag_id": "urn:tag:archetype:qloo:the_return_home",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "The antihero",
+            "tag_id": "urn:tag:archetype:qloo:the_antihero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Intense",
+            "tag_id": "urn:tag:plot:qloo:intense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Violent",
+            "tag_id": "urn:tag:plot:qloo:violent",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:style:qloo:gritty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Fight choreography",
+            "tag_id": "urn:tag:interests:qloo:fight_choreography",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Sister",
+            "tag_id": "urn:tag:keyword:qloo:sister",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Haunted",
+            "tag_id": "urn:tag:character:qloo:haunted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Rocky",
+            "tag_id": "urn:tag:keyword:media:rocky",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:style:qloo:realistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Flashback driven",
+            "tag_id": "urn:tag:plot:qloo:flashback_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Crime drama",
+            "tag_id": "urn:tag:subgenre:qloo:crime_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Prison",
+            "tag_id": "urn:tag:keyword:qloo:prison",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Cinematography study",
+            "tag_id": "urn:tag:interests:qloo:cinematography_study",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Gangster film",
+            "tag_id": "urn:tag:subgenre:qloo:gangster_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Ruthless",
+            "tag_id": "urn:tag:character:qloo:ruthless",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Vengeful",
+            "tag_id": "urn:tag:character:qloo:vengeful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Revenge driven",
+            "tag_id": "urn:tag:plot:qloo:revenge_driven",
+            "type": "urn:tag:plot:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Rocky",
+        "entity_id": "4C3877DC-3743-4D2B-A3B7-0D5F55379F3F",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "hi",
+              "value": "\"रॉकी\""
+            }
+          ],
+          "description": "Rocky (2019), directed by Adnan A. Shaikh, is an Indian Marathi-language action drama with romantic elements starring Shibani Akthar, Rahul Dev, and Akshaya Hindalkar. The film follows an ordinary young man whose life is overturned by violent circumstances and who becomes a deliverer of vengeance. Through its action set pieces and interpersonal conflicts the narrative examines justice, moral compromise, and personal transformation. The overall tone is tense and gritty, aiming for visceral emotional catharsis.",
+          "external": {
+            "imdb": {
+              "id": "tt9430578",
+              "user_rating": 6.1,
+              "user_rating_count": 58
+            },
+            "wikidata": {
+              "id": "q130472367"
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/4C3877DC-3743-4D2B-A3B7-0D5F55379F3F-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Dreamweaver Productions",
+          "release_country": "India",
+          "release_date": "2019-03-08",
+          "release_year": 2019,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "An ordinary man’s life is upended by violence, driving him to seek revenge and become a relentless avenger while his relationships and morals unravel."
+            },
+            {
+              "language": "de",
+              "value": "Das Leben eines gewöhnlichen Mannes wird durch Gewalt zerstört; er sucht Rache und wird zum unerbittlichen Rächer, während seine Beziehungen und seine Moral zerfallen."
+            },
+            {
+              "language": "es",
+              "value": "La vida de un hombre corriente cambia por la violencia, llevándole a buscar venganza y convertirse en un implacable ajusticiador mientras sus relaciones y su moral se desmoronan."
+            },
+            {
+              "language": "fr",
+              "value": "La vie d’un homme ordinaire bascule après un acte de violence, le poussant à la vengeance et à devenir un vengeur implacable tandis que ses liens et sa morale s’effritent."
+            }
+          ],
+          "website": "https://www.wikidata.org/wiki/Q130472367"
+        },
+        "disambiguation": "2019",
+        "tags": [
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Transformation",
+            "tag_id": "urn:tag:keyword:qloo:transformation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "The authority figure",
+            "tag_id": "urn:tag:archetype:qloo:the_authority_figure",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Close quarter combat focus",
+            "tag_id": "urn:tag:style:qloo:close_quarter_combat_focus",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Vengeance",
+            "tag_id": "urn:tag:keyword:qloo:vengeance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Haunted",
+            "tag_id": "urn:tag:character:qloo:haunted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Kinetic",
+            "tag_id": "urn:tag:style:qloo:kinetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Violent",
+            "tag_id": "urn:tag:plot:qloo:violent",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Street level",
+            "tag_id": "urn:tag:style:qloo:street_level",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Vigilante stories",
+            "tag_id": "urn:tag:interests:qloo:vigilante_stories",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Action oriented",
+            "tag_id": "urn:tag:audience:qloo:action_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Vengeance",
+            "tag_id": "urn:tag:theme:qloo:vengeance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Vigilantism",
+            "tag_id": "urn:tag:theme:qloo:vigilantism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Urban",
+            "tag_id": "urn:tag:plot:qloo:urban",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Retribution",
+            "tag_id": "urn:tag:keyword:qloo:retribution",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Conflicted",
+            "tag_id": "urn:tag:character:qloo:conflicted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Police procedurals",
+            "tag_id": "urn:tag:interests:qloo:police_procedurals",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Urban grit",
+            "tag_id": "urn:tag:style:qloo:urban_grit",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:style:qloo:gritty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:style:qloo:realistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Justice",
+            "tag_id": "urn:tag:theme:qloo:justice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Moral ambiguity",
+            "tag_id": "urn:tag:theme:qloo:moral_ambiguity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Action films",
+            "tag_id": "urn:tag:interests:qloo:action_films",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Vigilante",
+            "tag_id": "urn:tag:subgenre:qloo:vigilante",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:action",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:plot:qloo:gritty",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Life",
+            "tag_id": "urn:tag:keyword:media:life",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The everyman",
+            "tag_id": "urn:tag:archetype:qloo:the_everyman",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "The love interest",
+            "tag_id": "urn:tag:archetype:qloo:the_love_interest",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Vengeful",
+            "tag_id": "urn:tag:character:qloo:vengeful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Vigilantism",
+            "tag_id": "urn:tag:keyword:qloo:vigilantism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Urban setting",
+            "tag_id": "urn:tag:keyword:qloo:urban_setting",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:qloo:romance",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Unpolished",
+            "tag_id": "urn:tag:style:qloo:unpolished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Martial arts",
+            "tag_id": "urn:tag:interests:qloo:martial_arts",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Police",
+            "tag_id": "urn:tag:keyword:qloo:police",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:qloo:revenge",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Transformation",
+            "tag_id": "urn:tag:theme:qloo:transformation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "The avenger",
+            "tag_id": "urn:tag:archetype:qloo:the_avenger",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Crime thrillers",
+            "tag_id": "urn:tag:interests:qloo:crime_thrillers",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:keyword:qloo:love",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:romance",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:keyword:qloo:violence",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:subgenre:qloo:revenge",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Rocky II",
+        "entity_id": "54318EC2-4B6A-4657-9761-76EA61A15DDF",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "th",
+              "value": "\"ร็อคกี้ ราชากำปั้น ทุบสังเวียน ภาค 2\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Rocky 2 : La Revanche\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Rocky II – uusintaottelu\""
+            },
+            {
+              "language": "he",
+              "value": "\"רוקי 2\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Rocky 2\""
+            },
+            {
+              "language": "zh",
+              "value": "\"洛奇II\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Rocky 2 - A Revanche\""
+            },
+            {
+              "language": "hi",
+              "value": "\"रॉकी II\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Рокки 2\""
+            },
+            {
+              "language": "ja",
+              "value": "\"ロッキーII\""
+            },
+            {
+              "language": "ko",
+              "value": "\"록키 2\""
+            },
+            {
+              "language": "ar",
+              "value": "\"روكي ٢\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "de",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "es",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Rocky II\""
+            },
+            {
+              "language": "it",
+              "value": "\"Rocky II\""
+            }
+          ],
+          "content_rating": "PG",
+          "description": "Rocky II (1979), written and directed by Sylvester Stallone, continues the saga of Rocky Balboa as he and his loved ones cope with the aftermath of a championship bout. Starring Sylvester Stallone, Talia Shire and Burt Young, the sports drama follows Rocky’s struggle with family responsibilities, medical worries, and the champion who goads him into a rematch. The film emphasizes perseverance, loyalty and working-class pressures while balancing tense ring action with quiet domestic moments to achieve an uplifting emotional payoff.",
+          "external": {
+            "imdb": {
+              "id": "tt0079817",
+              "user_rating": 7.3,
+              "user_rating_count": 254628
+            },
+            "metacritic": {
+              "critic_rating": 61,
+              "id": "rocky-ii",
+              "user_rating": 8.2
+            },
+            "wikidata": {
+              "id": "q478366"
+            }
+          },
+          "filming_location": "Independence National Historical Park, Philadelphia, Pennsylvania, USA, Los Angeles Memorial Coliseum - 3911 S. Figueroa Street, Exposition Park, Los Angeles, California, USA, 1818 East Tusculum Street, Kensington, North Philadelphia, Pennsylvania, USA, Philadelphia Museum of Art - 2600 Benjamin Franklin Parkway, Philadelphia, Pennsylvania, USA, Philadelphia, Pennsylvania, USA, Nordstrom Rack Chestnut Street - 1700 Chestnut Street, Center City, Philadelphia, Pennsylvania, USA, Wachovia Spectrum - 3601 S. Broad Street, Philadelphia, Pennsylvania, USA, 2313 S. Lambert Street, Philadelphia, Pennsylvania, USA, Center City, Philadelphia, Pennsylvania, USA, Fairmount Park, Philadelphia, Pennsylvania, USA, Philadelphia Zoo - 3400 W. Girard Avenue, Philadelphia, Pennsylvania, USA, USA, Main Street Gym - 318½ S Main St, Downtown, Los Angeles, California, USA, Philadelphia City Hall - 1400 John F. Kennedy Blvd., Center City, Philadelphia, Pennsylvania, USA, Pennsylvania, USA, St. Thomas Aquinas Roman Catholic Church - 1719 Morris Street, Philadelphia, Pennsylvania, USA, Rittenhouse Square, Philadelphia, Pennsylvania, USA, B Street Bridge, Kensington, North Philadelphia, Pennsylvania, USA, Los Angeles, California, USA",
+          "image": {
+            "url": "https://images.qloo.com/i/54318EC2-4B6A-4657-9761-76EA61A15DDF-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "Chartoff-Winkler Productions",
+          "release_country": "United States",
+          "release_date": "1979-06-15",
+          "release_year": 1979,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "After a brutal title fight, a boxer wrestles with family, injury fears, and a goading champion pushing him toward a rematch."
+            },
+            {
+              "language": "de",
+              "value": "Nach einem harten Kampf ringt ein Boxer mit Familie, Sehstproblemen und dem Druck des Champions auf einen Rückkampf."
+            },
+            {
+              "language": "es",
+              "value": "Tras un combate durísimo, un boxeador lidia con la familia, el miedo a perder la vista y la presión del campeón para una revancha."
+            },
+            {
+              "language": "fr",
+              "value": "Après un combat éprouvant, un boxeur jongle entre famille, inquiétudes pour sa vue et la pression du champion pour une revanche."
+            }
+          ],
+          "website": "http://www.bbc.co.uk/films/2001/03/12/rocky_ii_1979_review.shtml"
+        },
+        "popularity": 0.9793732046048511,
+        "disambiguation": "1979",
+        "tags": [
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:theme:qloo:redemption",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Reference to kermit the frog",
+            "tag_id": "urn:tag:keyword:media:reference_to_kermit_the_frog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Combat",
+            "tag_id": "urn:tag:keyword:media:combat",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:theme:qloo:perseverance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Caveman costume",
+            "tag_id": "urn:tag:keyword:media:caveman_costume",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Strength",
+            "tag_id": "urn:tag:keyword:media:strength",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Working class",
+            "tag_id": "urn:tag:keyword:qloo:working_class",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Two word title",
+            "tag_id": "urn:tag:keyword:media:two_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Sports psychology",
+            "tag_id": "urn:tag:interests:qloo:sports_psychology",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Unvarnished",
+            "tag_id": "urn:tag:style:qloo:unvarnished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Action hero",
+            "tag_id": "urn:tag:keyword:media:action_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Expectant father",
+            "tag_id": "urn:tag:keyword:media:expectant_father",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Locker room",
+            "tag_id": "urn:tag:keyword:media:locker_room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:sport",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Ghetto",
+            "tag_id": "urn:tag:keyword:media:ghetto",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Empathetic",
+            "tag_id": "urn:tag:audience:qloo:empathetic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Opening action scene",
+            "tag_id": "urn:tag:keyword:media:opening_action_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Actor as director",
+            "tag_id": "urn:tag:keyword:media:actor_as_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wedding",
+            "tag_id": "urn:tag:keyword:media:wedding",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:theme:qloo:pride",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Premature birth",
+            "tag_id": "urn:tag:keyword:media:premature_birth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tough guy",
+            "tag_id": "urn:tag:keyword:media:tough_guy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ends with a freeze frame",
+            "tag_id": "urn:tag:keyword:media:ends_with_a_freeze_frame",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Poetry",
+            "tag_id": "urn:tag:keyword:media:poetry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Low key",
+            "tag_id": "urn:tag:style:qloo:low_key",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Interview",
+            "tag_id": "urn:tag:keyword:media:interview",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pet shop",
+            "tag_id": "urn:tag:keyword:media:pet_shop",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Left handed boxer",
+            "tag_id": "urn:tag:keyword:media:left_handed_boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dog wears clothing",
+            "tag_id": "urn:tag:keyword:media:dog_wears_clothing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Saying thank you",
+            "tag_id": "urn:tag:keyword:media:saying_thank_you",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sweating",
+            "tag_id": "urn:tag:keyword:media:sweating",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Illiteracy",
+            "tag_id": "urn:tag:keyword:media:illiteracy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nurse",
+            "tag_id": "urn:tag:keyword:media:nurse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "New car",
+            "tag_id": "urn:tag:keyword:media:new_car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Catholic",
+            "tag_id": "urn:tag:keyword:media:catholic",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loyalty",
+            "tag_id": "urn:tag:theme:qloo:loyalty",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Boxer hero",
+            "tag_id": "urn:tag:keyword:media:boxer_hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Apology",
+            "tag_id": "urn:tag:keyword:media:apology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pet dog",
+            "tag_id": "urn:tag:keyword:media:pet_dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jogging",
+            "tag_id": "urn:tag:keyword:media:jogging",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Financial crisis",
+            "tag_id": "urn:tag:keyword:media:financial_crisis",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Manager",
+            "tag_id": "urn:tag:keyword:media:manager",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bathing a dog",
+            "tag_id": "urn:tag:keyword:media:bathing_a_dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Arrogance",
+            "tag_id": "urn:tag:keyword:media:arrogance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Championship",
+            "tag_id": "urn:tag:keyword:media:championship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Job search",
+            "tag_id": "urn:tag:keyword:media:job_search",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fanservice",
+            "tag_id": "urn:tag:keyword:media:fanservice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Embarrassed",
+            "tag_id": "urn:tag:keyword:media:embarrassed",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Working class narratives",
+            "tag_id": "urn:tag:interests:qloo:working_class_narratives",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Wristwatch",
+            "tag_id": "urn:tag:keyword:media:wristwatch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Press conference",
+            "tag_id": "urn:tag:keyword:media:press_conference",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing champion",
+            "tag_id": "urn:tag:keyword:media:boxing_champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Slapped in the face",
+            "tag_id": "urn:tag:keyword:media:slapped_in_the_face",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Devoted",
+            "tag_id": "urn:tag:character:qloo:devoted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Inspirational",
+            "tag_id": "urn:tag:plot:qloo:inspirational",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Car showroom",
+            "tag_id": "urn:tag:keyword:media:car_showroom",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Snow",
+            "tag_id": "urn:tag:keyword:media:snow",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Book",
+            "tag_id": "urn:tag:keyword:media:book",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Philadelphia pennsylvania",
+            "tag_id": "urn:tag:keyword:media:philadelphia_pennsylvania",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Beating",
+            "tag_id": "urn:tag:keyword:media:beating",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing gym",
+            "tag_id": "urn:tag:keyword:media:boxing_gym",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Weightlifting",
+            "tag_id": "urn:tag:keyword:media:weightlifting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Chanting",
+            "tag_id": "urn:tag:keyword:media:chanting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Eye injury",
+            "tag_id": "urn:tag:keyword:qloo:eye_injury",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Compassionate",
+            "tag_id": "urn:tag:character:qloo:compassionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Sequel",
+            "tag_id": "urn:tag:keyword:media:sequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Birdcage",
+            "tag_id": "urn:tag:keyword:media:birdcage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family relationships",
+            "tag_id": "urn:tag:keyword:media:family_relationships",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Violence",
+            "tag_id": "urn:tag:keyword:media:violence",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama loving",
+            "tag_id": "urn:tag:audience:qloo:drama_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Baby",
+            "tag_id": "urn:tag:keyword:media:baby",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mansion",
+            "tag_id": "urn:tag:keyword:media:mansion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bad driver",
+            "tag_id": "urn:tag:keyword:media:bad_driver",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Unusual method of training",
+            "tag_id": "urn:tag:keyword:media:unusual_method_of_training",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Vulnerable",
+            "tag_id": "urn:tag:character:qloo:vulnerable",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:keyword:qloo:boxing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Trainer",
+            "tag_id": "urn:tag:keyword:qloo:trainer",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Egotism",
+            "tag_id": "urn:tag:keyword:media:egotism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fired from a job",
+            "tag_id": "urn:tag:keyword:media:fired_from_a_job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Showdown",
+            "tag_id": "urn:tag:keyword:media:showdown",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gym",
+            "tag_id": "urn:tag:keyword:media:gym",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog",
+            "tag_id": "urn:tag:keyword:media:underdog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brawl",
+            "tag_id": "urn:tag:keyword:media:brawl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jew",
+            "tag_id": "urn:tag:keyword:media:jew",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Left handedness",
+            "tag_id": "urn:tag:keyword:media:left_handedness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:keyword:qloo:family",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Priest",
+            "tag_id": "urn:tag:keyword:media:priest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Protective",
+            "tag_id": "urn:tag:character:qloo:protective",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Boxing match",
+            "tag_id": "urn:tag:keyword:media:boxing_match",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hit in the face",
+            "tag_id": "urn:tag:keyword:media:hit_in_the_face",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Unemployment",
+            "tag_id": "urn:tag:keyword:media:unemployment",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pregnancy",
+            "tag_id": "urn:tag:keyword:media:pregnancy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Apartment",
+            "tag_id": "urn:tag:keyword:media:apartment",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to al capone",
+            "tag_id": "urn:tag:keyword:media:reference_to_al_capone",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Celebrity",
+            "tag_id": "urn:tag:keyword:media:celebrity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "False accusation",
+            "tag_id": "urn:tag:keyword:media:false_accusation",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Job interview",
+            "tag_id": "urn:tag:keyword:media:job_interview",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "North america",
+            "tag_id": "urn:tag:keyword:media:north_america",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Department store",
+            "tag_id": "urn:tag:keyword:media:department_store",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Opening recap",
+            "tag_id": "urn:tag:keyword:media:opening_recap",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Premature baby",
+            "tag_id": "urn:tag:keyword:media:premature_baby",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Latex gloves",
+            "tag_id": "urn:tag:keyword:media:latex_gloves",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Catholic church",
+            "tag_id": "urn:tag:keyword:media:catholic_church",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character name in title",
+            "tag_id": "urn:tag:keyword:media:character_name_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Young man",
+            "tag_id": "urn:tag:keyword:media:young_man",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Champion",
+            "tag_id": "urn:tag:keyword:media:champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "African american boxer",
+            "tag_id": "urn:tag:keyword:media:african_american_boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hero",
+            "tag_id": "urn:tag:keyword:media:hero",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rematch",
+            "tag_id": "urn:tag:keyword:media:rematch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car",
+            "tag_id": "urn:tag:keyword:media:car",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Expectant mother",
+            "tag_id": "urn:tag:keyword:media:expectant_mother",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Surgery",
+            "tag_id": "urn:tag:keyword:media:surgery",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hospital chapel",
+            "tag_id": "urn:tag:keyword:media:hospital_chapel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Documentary tinged",
+            "tag_id": "urn:tag:style:qloo:documentary_tinged",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Anger",
+            "tag_id": "urn:tag:keyword:media:anger",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fight",
+            "tag_id": "urn:tag:keyword:media:fight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "No closing logo",
+            "tag_id": "urn:tag:keyword:media:no_closing_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption arc",
+            "tag_id": "urn:tag:archetype:qloo:redemption_arc",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Black eye",
+            "tag_id": "urn:tag:keyword:media:black_eye",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Numbered sequel",
+            "tag_id": "urn:tag:keyword:media:numbered_sequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Part of series",
+            "tag_id": "urn:tag:keyword:media:part_of_series",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The mentor",
+            "tag_id": "urn:tag:archetype:qloo:the_mentor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Heartfelt",
+            "tag_id": "urn:tag:plot:qloo:heartfelt",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Filming a commercial",
+            "tag_id": "urn:tag:keyword:media:filming_a_commercial",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Talking to an animal",
+            "tag_id": "urn:tag:keyword:media:talking_to_an_animal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mustache",
+            "tag_id": "urn:tag:keyword:media:mustache",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Childbirth",
+            "tag_id": "urn:tag:keyword:media:childbirth",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing trainer",
+            "tag_id": "urn:tag:keyword:media:boxing_trainer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Roman numeral in title",
+            "tag_id": "urn:tag:keyword:media:roman_numeral_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "American flag",
+            "tag_id": "urn:tag:keyword:media:american_flag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sequel",
+            "tag_id": "urn:tag:subgenre:qloo:sequel",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Stickball",
+            "tag_id": "urn:tag:keyword:media:stickball",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "United artists",
+            "tag_id": "urn:tag:keyword:media:united_artists",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Working class struggle",
+            "tag_id": "urn:tag:theme:qloo:working_class_struggle",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Brutality",
+            "tag_id": "urn:tag:keyword:media:brutality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written and directed by cast member",
+            "tag_id": "urn:tag:keyword:media:written_and_directed_by_cast_member",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage proposal",
+            "tag_id": "urn:tag:keyword:media:marriage_proposal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Italian american boxer",
+            "tag_id": "urn:tag:keyword:media:italian_american_boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Running",
+            "tag_id": "urn:tag:keyword:media:running",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:theme:qloo:family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Fame",
+            "tag_id": "urn:tag:keyword:qloo:fame",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Ring as battlefield",
+            "tag_id": "urn:tag:archetype:qloo:ring_as_battlefield",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Hospital",
+            "tag_id": "urn:tag:keyword:qloo:hospital",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Reading a poem",
+            "tag_id": "urn:tag:keyword:media:reading_a_poem",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tense",
+            "tag_id": "urn:tag:plot:qloo:tense",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Opening credits",
+            "tag_id": "urn:tag:keyword:media:opening_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Sequel to best picture winner",
+            "tag_id": "urn:tag:keyword:media:sequel_to_best_picture_winner",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ignoring doctors advice",
+            "tag_id": "urn:tag:keyword:media:ignoring_doctors_advice",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pregnant sister",
+            "tag_id": "urn:tag:keyword:media:pregnant_sister",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Surprise ending",
+            "tag_id": "urn:tag:keyword:media:surprise_ending",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sweaty",
+            "tag_id": "urn:tag:style:qloo:sweaty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Poem",
+            "tag_id": "urn:tag:keyword:media:poem",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Championship bout",
+            "tag_id": "urn:tag:keyword:media:championship_bout",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Scene before opening credits",
+            "tag_id": "urn:tag:keyword:media:scene_before_opening_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heavyweight champion",
+            "tag_id": "urn:tag:keyword:media:heavyweight_champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character driven",
+            "tag_id": "urn:tag:plot:qloo:character_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Performer name in title",
+            "tag_id": "urn:tag:keyword:media:performer_name_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Melodramatic",
+            "tag_id": "urn:tag:plot:qloo:melodramatic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Punching bag",
+            "tag_id": "urn:tag:keyword:media:punching_bag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to the muppets",
+            "tag_id": "urn:tag:keyword:media:reference_to_the_muppets",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Costume",
+            "tag_id": "urn:tag:keyword:media:costume",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to cinderella",
+            "tag_id": "urn:tag:keyword:media:reference_to_cinderella",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Working class",
+            "tag_id": "urn:tag:keyword:media:working_class",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thanksgiving",
+            "tag_id": "urn:tag:keyword:media:thanksgiving",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Directed by actor",
+            "tag_id": "urn:tag:keyword:media:directed_by_actor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sportsman",
+            "tag_id": "urn:tag:keyword:media:sportsman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Opening logo",
+            "tag_id": "urn:tag:keyword:media:opening_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "City",
+            "tag_id": "urn:tag:keyword:media:city",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Coma",
+            "tag_id": "urn:tag:keyword:media:coma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Urban setting",
+            "tag_id": "urn:tag:keyword:media:urban_setting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Eye injury",
+            "tag_id": "urn:tag:keyword:media:eye_injury",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "No ending logo",
+            "tag_id": "urn:tag:keyword:media:no_ending_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male female relationship",
+            "tag_id": "urn:tag:keyword:media:male_female_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "El train",
+            "tag_id": "urn:tag:keyword:media:el_train",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Carrying a bride over the threshold",
+            "tag_id": "urn:tag:keyword:media:carrying_a_bride_over_the_threshold",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Slow motion scene",
+            "tag_id": "urn:tag:keyword:media:slow_motion_scene",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fistfight",
+            "tag_id": "urn:tag:keyword:media:fistfight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comeback",
+            "tag_id": "urn:tag:keyword:qloo:comeback",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Film nostalgia",
+            "tag_id": "urn:tag:interests:qloo:film_nostalgia",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:media:revenge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character says im sorry",
+            "tag_id": "urn:tag:keyword:media:character_says_im_sorry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chicken",
+            "tag_id": "urn:tag:keyword:media:chicken",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Meat processing plant",
+            "tag_id": "urn:tag:keyword:media:meat_processing_plant",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Realtor",
+            "tag_id": "urn:tag:keyword:media:realtor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:keyword:media:boxing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Newborn son",
+            "tag_id": "urn:tag:keyword:media:newborn_son",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "African american",
+            "tag_id": "urn:tag:keyword:media:african_american",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Close quarter",
+            "tag_id": "urn:tag:style:qloo:close_quarter",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Hospital room",
+            "tag_id": "urn:tag:keyword:media:hospital_room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Zoo",
+            "tag_id": "urn:tag:keyword:media:zoo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Doctor",
+            "tag_id": "urn:tag:keyword:media:doctor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fame",
+            "tag_id": "urn:tag:keyword:media:fame",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing film",
+            "tag_id": "urn:tag:subgenre:qloo:boxing_film",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Character appears on tv",
+            "tag_id": "urn:tag:keyword:media:character_appears_on_tv",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Fade to black",
+            "tag_id": "urn:tag:keyword:media:fade_to_black",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Autograph",
+            "tag_id": "urn:tag:keyword:media:autograph",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Man carries a woman in his arms",
+            "tag_id": "urn:tag:keyword:media:man_carries_a_woman_in_his_arms",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to the avon lady",
+            "tag_id": "urn:tag:keyword:media:reference_to_the_avon_lady",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:keyword:media:perseverance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports drama",
+            "tag_id": "urn:tag:subgenre:qloo:sports_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Tarzan yell",
+            "tag_id": "urn:tag:keyword:media:tarzan_yell",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Actor as writer",
+            "tag_id": "urn:tag:keyword:media:actor_as_writer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Waking up from a coma",
+            "tag_id": "urn:tag:keyword:media:waking_up_from_a_coma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:interests:qloo:boxing",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Second part",
+            "tag_id": "urn:tag:keyword:media:second_part",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character says i love you",
+            "tag_id": "urn:tag:keyword:media:character_says_i_love_you",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Church",
+            "tag_id": "urn:tag:keyword:media:church",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Race against time",
+            "tag_id": "urn:tag:keyword:media:race_against_time",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports fans",
+            "tag_id": "urn:tag:audience:qloo:sports_fans",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Beefcake",
+            "tag_id": "urn:tag:keyword:media:beefcake",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by actor",
+            "tag_id": "urn:tag:keyword:media:written_by_actor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nickname",
+            "tag_id": "urn:tag:keyword:media:nickname",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Local celebrity",
+            "tag_id": "urn:tag:keyword:media:local_celebrity",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to big bird",
+            "tag_id": "urn:tag:keyword:media:reference_to_big_bird",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heavyweight boxer",
+            "tag_id": "urn:tag:keyword:media:heavyweight_boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports",
+            "tag_id": "urn:tag:genre:qloo:sports",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Southpaw",
+            "tag_id": "urn:tag:keyword:media:southpaw",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Male protagonist",
+            "tag_id": "urn:tag:keyword:media:male_protagonist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ambulance",
+            "tag_id": "urn:tag:keyword:media:ambulance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing sport",
+            "tag_id": "urn:tag:keyword:media:boxing_sport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famous score",
+            "tag_id": "urn:tag:keyword:media:famous_score",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pregnancy",
+            "tag_id": "urn:tag:keyword:qloo:pregnancy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Woman in a coma",
+            "tag_id": "urn:tag:keyword:media:woman_in_a_coma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:style:qloo:gritty",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:media:friendship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Knockout punch",
+            "tag_id": "urn:tag:keyword:media:knockout_punch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hate mail",
+            "tag_id": "urn:tag:keyword:media:hate_mail",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Impaired vision",
+            "tag_id": "urn:tag:keyword:media:impaired_vision",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cheering crowd",
+            "tag_id": "urn:tag:keyword:media:cheering_crowd",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Catholic priest",
+            "tag_id": "urn:tag:keyword:media:catholic_priest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punched in the face",
+            "tag_id": "urn:tag:keyword:media:punched_in_the_face",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing rematch",
+            "tag_id": "urn:tag:keyword:media:boxing_rematch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Used car salesman",
+            "tag_id": "urn:tag:keyword:media:used_car_salesman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hospital",
+            "tag_id": "urn:tag:keyword:media:hospital",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kinetic",
+            "tag_id": "urn:tag:style:qloo:kinetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Wheelchair",
+            "tag_id": "urn:tag:keyword:media:wheelchair",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hematoma",
+            "tag_id": "urn:tag:keyword:media:hematoma",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mob of reporters",
+            "tag_id": "urn:tag:keyword:media:mob_of_reporters",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Workout training",
+            "tag_id": "urn:tag:interests:qloo:workout_training",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Newlywed couple",
+            "tag_id": "urn:tag:keyword:media:newlywed_couple",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rematch",
+            "tag_id": "urn:tag:keyword:qloo:rematch",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Boxing ring",
+            "tag_id": "urn:tag:keyword:media:boxing_ring",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bruise",
+            "tag_id": "urn:tag:keyword:media:bruise",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Training",
+            "tag_id": "urn:tag:keyword:media:training",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "New house",
+            "tag_id": "urn:tag:keyword:media:new_house",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reference to ernie the muppet",
+            "tag_id": "urn:tag:keyword:media:reference_to_ernie_the_muppet",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reading a book",
+            "tag_id": "urn:tag:keyword:media:reading_a_book",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Watching tv",
+            "tag_id": "urn:tag:keyword:media:watching_tv",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Dog",
+            "tag_id": "urn:tag:keyword:media:dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing gloves",
+            "tag_id": "urn:tag:keyword:media:boxing_gloves",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chasing an animal",
+            "tag_id": "urn:tag:keyword:media:chasing_an_animal",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "New job",
+            "tag_id": "urn:tag:keyword:media:new_job",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Male body",
+            "tag_id": "urn:tag:keyword:media:male_body",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Security guard",
+            "tag_id": "urn:tag:keyword:media:security_guard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The underdog",
+            "tag_id": "urn:tag:archetype:qloo:the_underdog",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Childbirth complication",
+            "tag_id": "urn:tag:keyword:media:childbirth_complication",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Baby boy",
+            "tag_id": "urn:tag:keyword:media:baby_boy",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Naturalistic",
+            "tag_id": "urn:tag:style:qloo:naturalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Boxing movie",
+            "tag_id": "urn:tag:keyword:media:boxing_movie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Loan shark",
+            "tag_id": "urn:tag:keyword:media:loan_shark",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Reading aloud",
+            "tag_id": "urn:tag:keyword:media:reading_aloud",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Muscleman",
+            "tag_id": "urn:tag:keyword:media:muscleman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxer",
+            "tag_id": "urn:tag:keyword:media:boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Birth of son",
+            "tag_id": "urn:tag:keyword:media:birth_of_son",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Directed by star",
+            "tag_id": "urn:tag:keyword:media:directed_by_star",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Docks",
+            "tag_id": "urn:tag:keyword:media:docks",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Italian american",
+            "tag_id": "urn:tag:keyword:media:italian_american",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Training montage",
+            "tag_id": "urn:tag:keyword:media:training_montage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rope skipping",
+            "tag_id": "urn:tag:keyword:media:rope_skipping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comeback",
+            "tag_id": "urn:tag:keyword:media:comeback",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Roman numbered sequel",
+            "tag_id": "urn:tag:keyword:media:roman_numbered_sequel",
+            "type": "urn:tag:keyword:media"
+          }
+        ]
+      },
+      {
+        "name": "Rocky IV",
+        "entity_id": "03A635DD-DF3D-41E5-9F0A-EC7E0839B0E8",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "zh",
+              "value": "\"洛基4：天下無敵\""
+            },
+            {
+              "language": "he",
+              "value": "\"רוקי 4\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Rocky 4\""
+            },
+            {
+              "language": "en_au",
+              "value": "\"Rocky 4\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Rocky 4\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Rocky 4\""
+            },
+            {
+              "language": "zh",
+              "value": "\"洛奇4\""
+            },
+            {
+              "language": "th",
+              "value": "\"ร็อคกี้ ราชากำปั้น ทุบสังเวียน ภาค 4\""
+            },
+            {
+              "language": "de",
+              "value": "\"Rocky IV – Der Kampf des Jahrhunderts\""
+            },
+            {
+              "language": "ar",
+              "value": "\"روكي ٤\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Рокки 4\""
+            },
+            {
+              "language": "ja",
+              "value": "\"ロッキー4・炎の友情\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "es",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "it",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Rocky IV\""
+            },
+            {
+              "language": "ko",
+              "value": "\"록키 4\""
+            }
+          ],
+          "content_rating": "PG",
+          "description": "Rocky IV (1985), written and directed by Sylvester Stallone and starring Sylvester Stallone, Talia Shire and Burt Young, is a sports drama about a world heavyweight champion who must confront a towering Soviet challenger after his friend is killed in the ring. The film blends Cold War–tinged nationalism and personal redemption with extended, music-heavy training montages and a climactic rematch. Noted for its soundtrack and stylized action, it emphasizes themes of friendship, grief, perseverance and revenge.",
+          "external": {
+            "imdb": {
+              "id": "tt0089927",
+              "user_rating": 6.9,
+              "user_rating_count": 249786
+            },
+            "metacritic": {
+              "critic_rating": 40,
+              "id": "rocky-iv",
+              "user_rating": 7.1
+            },
+            "wikidata": {
+              "id": "q387638"
+            }
+          },
+          "filming_location": "Jackson Hole, Wyoming, USA, Jackson Airport, Jackson Hole, Wyoming, USA, Fremont Mansion - 56 Fremont Place, Los Angeles, California, USA, Vancouver, British Columbia, Canada, Grand Teton National Park, Wyoming, USA, The Agrodome, Pacific National Exhibition Grounds, Vancouver, British Columbia, Canada, Cody Peak, Jackson Hole Ski Area, Wyoming, USA, Bally's Casino Resort - 3645 Las Vegas Boulevard South, Las Vegas, Nevada, USA, Los Angeles International Airport - 1 World Way, Los Angeles, California, USA, Las Vegas, Nevada, USA, Wyoming, USA, Stage 21, Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA, Ziegfeld Room, MGM Grand Hotel - 3799 Las Vegas Boulevard South, Las Vegas, Nevada, USA, Los Angeles, California, USA, Culver City, California, USA, British Columbia, Canada, USA, California, USA, Nevada, USA, Canada",
+          "image": {
+            "url": "https://images.qloo.com/i/03A635DD-DF3D-41E5-9F0A-EC7E0839B0E8-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "United Artists",
+          "release_country": "United States",
+          "release_date": "1985-11-27",
+          "release_year": 1985,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A world heavyweight champion pursues revenge against a powerful Soviet challenger after his friend dies, training intensely for a climactic rematch."
+            },
+            {
+              "language": "de",
+              "value": "Ein Weltmeister sucht Rache, nachdem sein Freund von einem mächtigen sowjetischen Herausforderer getötet wurde, und trainiert intensiv für das Duell."
+            },
+            {
+              "language": "es",
+              "value": "Un campeón mundial busca vengar la muerte de su amigo frente a un imponente retador soviético, entrenando intensamente para el enfrentamiento final."
+            },
+            {
+              "language": "fr",
+              "value": "Un champion du monde poursuit la vengeance après la mort de son ami face à un redoutable adversaire soviétique, s'entraînant intensément pour le combat final."
+            }
+          ],
+          "website": "http://www.rogerebert.com/reviews/rocky-iv-1985"
+        },
+        "popularity": 0.9784444588436035,
+        "disambiguation": "1985",
+        "tags": [
+          {
+            "name": "Kgb agent",
+            "tag_id": "urn:tag:keyword:media:kgb_agent",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Muscleman",
+            "tag_id": "urn:tag:keyword:media:muscleman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Steroids",
+            "tag_id": "urn:tag:keyword:media:steroids",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Locker room",
+            "tag_id": "urn:tag:keyword:media:locker_room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rivalry",
+            "tag_id": "urn:tag:keyword:media:rivalry",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Father son relationship",
+            "tag_id": "urn:tag:keyword:media:father_son_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "United artists",
+            "tag_id": "urn:tag:keyword:media:united_artists",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tree cutting",
+            "tag_id": "urn:tag:keyword:media:tree_cutting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:style:qloo:stylized",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Saw",
+            "tag_id": "urn:tag:keyword:media:saw",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horse drawn carriage",
+            "tag_id": "urn:tag:keyword:media:horse_drawn_carriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "News report",
+            "tag_id": "urn:tag:keyword:media:news_report",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Coffin",
+            "tag_id": "urn:tag:keyword:media:coffin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Honor",
+            "tag_id": "urn:tag:keyword:media:honor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stopwatch",
+            "tag_id": "urn:tag:keyword:media:stopwatch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Inspirational",
+            "tag_id": "urn:tag:plot:qloo:inspirational",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Endurance",
+            "tag_id": "urn:tag:keyword:media:endurance",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cold war rivalry",
+            "tag_id": "urn:tag:archetype:qloo:cold_war_rivalry",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Soldier",
+            "tag_id": "urn:tag:keyword:media:soldier",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wood chopping",
+            "tag_id": "urn:tag:keyword:media:wood_chopping",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Victory",
+            "tag_id": "urn:tag:keyword:media:victory",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Olympic medalist",
+            "tag_id": "urn:tag:keyword:media:olympic_medalist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Referee",
+            "tag_id": "urn:tag:keyword:media:referee",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Music driven",
+            "tag_id": "urn:tag:plot:qloo:music_driven",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Russian",
+            "tag_id": "urn:tag:keyword:media:russian",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Training montage",
+            "tag_id": "urn:tag:keyword:qloo:training_montage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:keyword:media:boxing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Soundtrack",
+            "tag_id": "urn:tag:keyword:qloo:soundtrack",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Cold war history",
+            "tag_id": "urn:tag:interests:qloo:cold_war_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Swimmer",
+            "tag_id": "urn:tag:keyword:media:swimmer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hypodermic needle",
+            "tag_id": "urn:tag:keyword:media:hypodermic_needle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sequel to best picture winner",
+            "tag_id": "urn:tag:keyword:media:sequel_to_best_picture_winner",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Airplane",
+            "tag_id": "urn:tag:keyword:media:airplane",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Birthday",
+            "tag_id": "urn:tag:keyword:media:birthday",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ivan drago character",
+            "tag_id": "urn:tag:keyword:media:ivan_drago_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Beaten to death",
+            "tag_id": "urn:tag:keyword:media:beaten_to_death",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog sport",
+            "tag_id": "urn:tag:keyword:media:underdog_sport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Las vegas nevada",
+            "tag_id": "urn:tag:keyword:media:las_vegas_nevada",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Media coverage",
+            "tag_id": "urn:tag:keyword:media:media_coverage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:drama",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Challenger",
+            "tag_id": "urn:tag:keyword:qloo:challenger",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Birthday party",
+            "tag_id": "urn:tag:keyword:media:birthday_party",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Actor as director",
+            "tag_id": "urn:tag:keyword:media:actor_as_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Action oriented",
+            "tag_id": "urn:tag:audience:qloo:action_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Fish out of water",
+            "tag_id": "urn:tag:keyword:media:fish_out_of_water",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Horse",
+            "tag_id": "urn:tag:keyword:media:horse",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punched in the face",
+            "tag_id": "urn:tag:keyword:media:punched_in_the_face",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The mentor",
+            "tag_id": "urn:tag:archetype:qloo:the_mentor",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Propaganda style imagery",
+            "tag_id": "urn:tag:style:qloo:propaganda_style_imagery",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Wilderness",
+            "tag_id": "urn:tag:keyword:media:wilderness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Amateur boxer",
+            "tag_id": "urn:tag:keyword:media:amateur_boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge quest",
+            "tag_id": "urn:tag:archetype:qloo:revenge_quest",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Arena",
+            "tag_id": "urn:tag:keyword:media:arena",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Walkman",
+            "tag_id": "urn:tag:keyword:media:walkman",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mgm grand hotel las vegas",
+            "tag_id": "urn:tag:keyword:media:mgm_grand_hotel_las_vegas",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Underdog",
+            "tag_id": "urn:tag:keyword:media:underdog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Treadmill",
+            "tag_id": "urn:tag:keyword:media:treadmill",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hyperbolic physicality",
+            "tag_id": "urn:tag:style:qloo:hyperbolic_physicality",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Experimental technology",
+            "tag_id": "urn:tag:keyword:media:experimental_technology",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Skipping rope",
+            "tag_id": "urn:tag:keyword:media:skipping_rope",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punched in the chest",
+            "tag_id": "urn:tag:keyword:media:punched_in_the_chest",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Binoculars",
+            "tag_id": "urn:tag:keyword:media:binoculars",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing sport",
+            "tag_id": "urn:tag:keyword:media:boxing_sport",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Music driven montage",
+            "tag_id": "urn:tag:style:qloo:music_driven_montage",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Dog",
+            "tag_id": "urn:tag:keyword:media:dog",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Propaganda",
+            "tag_id": "urn:tag:keyword:media:propaganda",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:sport",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Blockbuster",
+            "tag_id": "urn:tag:keyword:media:blockbuster",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Bruise",
+            "tag_id": "urn:tag:keyword:media:bruise",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Tunnel",
+            "tag_id": "urn:tag:keyword:media:tunnel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:media:revenge",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Military officer",
+            "tag_id": "urn:tag:keyword:media:military_officer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mercilessness",
+            "tag_id": "urn:tag:keyword:media:mercilessness",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Black eye",
+            "tag_id": "urn:tag:keyword:media:black_eye",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Character name in title",
+            "tag_id": "urn:tag:keyword:media:character_name_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Jogging",
+            "tag_id": "urn:tag:keyword:media:jogging",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written and directed by cast member",
+            "tag_id": "urn:tag:keyword:media:written_and_directed_by_cast_member",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Soviet union",
+            "tag_id": "urn:tag:keyword:media:soviet_union",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Directed by actor",
+            "tag_id": "urn:tag:keyword:media:directed_by_actor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Patriotism",
+            "tag_id": "urn:tag:keyword:media:patriotism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Italian american",
+            "tag_id": "urn:tag:keyword:media:italian_american",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Family relationships",
+            "tag_id": "urn:tag:keyword:media:family_relationships",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:keyword:media:redemption",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American versus russian",
+            "tag_id": "urn:tag:keyword:media:american_versus_russian",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption arc",
+            "tag_id": "urn:tag:archetype:qloo:redemption_arc",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Soviet athlete",
+            "tag_id": "urn:tag:keyword:media:soviet_athlete",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Pull ups",
+            "tag_id": "urn:tag:keyword:media:pull_ups",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friendship between men",
+            "tag_id": "urn:tag:keyword:media:friendship_between_men",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Showdown",
+            "tag_id": "urn:tag:keyword:media:showdown",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kinetic",
+            "tag_id": "urn:tag:style:qloo:kinetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Brutality",
+            "tag_id": "urn:tag:keyword:media:brutality",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Robot",
+            "tag_id": "urn:tag:keyword:media:robot",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports",
+            "tag_id": "urn:tag:genre:qloo:sports",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Cold weather",
+            "tag_id": "urn:tag:keyword:media:cold_weather",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The rival",
+            "tag_id": "urn:tag:archetype:qloo:the_rival",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Opening credits",
+            "tag_id": "urn:tag:keyword:media:opening_credits",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cold war",
+            "tag_id": "urn:tag:keyword:media:cold_war",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Hotel",
+            "tag_id": "urn:tag:keyword:media:hotel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Christmas tree",
+            "tag_id": "urn:tag:keyword:media:christmas_tree",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Press conference",
+            "tag_id": "urn:tag:keyword:media:press_conference",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "English subtitles",
+            "tag_id": "urn:tag:keyword:media:english_subtitles",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Coming out of retirement",
+            "tag_id": "urn:tag:keyword:media:coming_out_of_retirement",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Metro goldwyn mayer",
+            "tag_id": "urn:tag:keyword:media:metro_goldwyn_mayer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Showgirl",
+            "tag_id": "urn:tag:keyword:media:showgirl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Swimming pool",
+            "tag_id": "urn:tag:keyword:media:swimming_pool",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:theme:qloo:friendship",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Murder",
+            "tag_id": "urn:tag:keyword:media:murder",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marital argument",
+            "tag_id": "urn:tag:keyword:media:marital_argument",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Video camera",
+            "tag_id": "urn:tag:keyword:media:video_camera",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Chauffeur",
+            "tag_id": "urn:tag:keyword:media:chauffeur",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:theme:qloo:redemption",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Throwing in the towel",
+            "tag_id": "urn:tag:keyword:media:throwing_in_the_towel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Communism",
+            "tag_id": "urn:tag:keyword:media:communism",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Classic rock",
+            "tag_id": "urn:tag:interests:qloo:classic_rock",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Ending logo",
+            "tag_id": "urn:tag:keyword:media:ending_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brother sister relationship",
+            "tag_id": "urn:tag:keyword:media:brother_sister_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Music loving",
+            "tag_id": "urn:tag:audience:qloo:music_loving",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Recap segment",
+            "tag_id": "urn:tag:keyword:media:recap_segment",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Maid",
+            "tag_id": "urn:tag:keyword:media:maid",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Rivalry",
+            "tag_id": "urn:tag:keyword:qloo:rivalry",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Mansion",
+            "tag_id": "urn:tag:keyword:media:mansion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Grief",
+            "tag_id": "urn:tag:theme:qloo:grief",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Boxing gym",
+            "tag_id": "urn:tag:keyword:media:boxing_gym",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by star",
+            "tag_id": "urn:tag:keyword:media:written_by_star",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Party",
+            "tag_id": "urn:tag:keyword:media:party",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Numbered sequel",
+            "tag_id": "urn:tag:keyword:media:numbered_sequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Thrill seeking",
+            "tag_id": "urn:tag:audience:qloo:thrill_seeking",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Philadelphia pennsylvania",
+            "tag_id": "urn:tag:keyword:media:philadelphia_pennsylvania",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mountain",
+            "tag_id": "urn:tag:keyword:media:mountain",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fistfight",
+            "tag_id": "urn:tag:keyword:media:fistfight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Car accident",
+            "tag_id": "urn:tag:keyword:media:car_accident",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famous song",
+            "tag_id": "urn:tag:keyword:media:famous_song",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cabin",
+            "tag_id": "urn:tag:keyword:media:cabin",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Returning character killed off",
+            "tag_id": "urn:tag:keyword:media:returning_character_killed_off",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American abroad",
+            "tag_id": "urn:tag:keyword:media:american_abroad",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "David and goliath",
+            "tag_id": "urn:tag:archetype:qloo:david_and_goliath",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:keyword:qloo:perseverance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Arena scale staging",
+            "tag_id": "urn:tag:style:qloo:arena_scale_staging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Political drama",
+            "tag_id": "urn:tag:keyword:media:political_drama",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Death of friend",
+            "tag_id": "urn:tag:keyword:media:death_of_friend",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Brawl",
+            "tag_id": "urn:tag:keyword:media:brawl",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Logging",
+            "tag_id": "urn:tag:keyword:media:logging",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Closing logo",
+            "tag_id": "urn:tag:keyword:media:closing_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Ruthless",
+            "tag_id": "urn:tag:character:qloo:ruthless",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Vengeful",
+            "tag_id": "urn:tag:character:qloo:vengeful",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Champion",
+            "tag_id": "urn:tag:keyword:qloo:champion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Boxing",
+            "tag_id": "urn:tag:subgenre:qloo:boxing",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Limousine",
+            "tag_id": "urn:tag:keyword:media:limousine",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nevada",
+            "tag_id": "urn:tag:keyword:media:nevada",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Patriotic",
+            "tag_id": "urn:tag:audience:qloo:patriotic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Weight training",
+            "tag_id": "urn:tag:interests:qloo:weight_training",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Fitness motivation",
+            "tag_id": "urn:tag:interests:qloo:fitness_motivation",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Written by actor",
+            "tag_id": "urn:tag:keyword:media:written_by_actor",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Wristwatch",
+            "tag_id": "urn:tag:keyword:media:wristwatch",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Scientist",
+            "tag_id": "urn:tag:keyword:media:scientist",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exercising",
+            "tag_id": "urn:tag:keyword:media:exercising",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cake",
+            "tag_id": "urn:tag:keyword:media:cake",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Soviet army",
+            "tag_id": "urn:tag:keyword:media:soviet_army",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Weightlifting",
+            "tag_id": "urn:tag:keyword:media:weightlifting",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Injection",
+            "tag_id": "urn:tag:keyword:media:injection",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Uncle",
+            "tag_id": "urn:tag:keyword:media:uncle",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Famous score",
+            "tag_id": "urn:tag:keyword:media:famous_score",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Pride",
+            "tag_id": "urn:tag:keyword:media:pride",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Showdown",
+            "tag_id": "urn:tag:keyword:qloo:showdown",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Friendship",
+            "tag_id": "urn:tag:keyword:qloo:friendship",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Boxing history",
+            "tag_id": "urn:tag:interests:qloo:boxing_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Energetic",
+            "tag_id": "urn:tag:style:qloo:energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Sequel",
+            "tag_id": "urn:tag:keyword:media:sequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Exhibition match",
+            "tag_id": "urn:tag:keyword:media:exhibition_match",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxing movie",
+            "tag_id": "urn:tag:keyword:media:boxing_movie",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Boxer",
+            "tag_id": "urn:tag:keyword:media:boxer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Opening logo",
+            "tag_id": "urn:tag:keyword:media:opening_logo",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Screaming",
+            "tag_id": "urn:tag:keyword:media:screaming",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Trainer",
+            "tag_id": "urn:tag:keyword:media:trainer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heroic",
+            "tag_id": "urn:tag:plot:qloo:heroic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Fame",
+            "tag_id": "urn:tag:keyword:media:fame",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fourth part",
+            "tag_id": "urn:tag:keyword:media:fourth_part",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Christmas",
+            "tag_id": "urn:tag:keyword:media:christmas",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Culture clash",
+            "tag_id": "urn:tag:keyword:media:culture_clash",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Stoic",
+            "tag_id": "urn:tag:character:qloo:stoic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Dressing room",
+            "tag_id": "urn:tag:keyword:media:dressing_room",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Fight",
+            "tag_id": "urn:tag:keyword:media:fight",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sole black character dies cliche",
+            "tag_id": "urn:tag:keyword:media:sole_black_character_dies_cliche",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Melodramatic",
+            "tag_id": "urn:tag:plot:qloo:melodramatic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Heroic",
+            "tag_id": "urn:tag:character:qloo:heroic",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Social commentary",
+            "tag_id": "urn:tag:keyword:media:social_commentary",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Moscow russia",
+            "tag_id": "urn:tag:keyword:media:moscow_russia",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Heavyweight champion",
+            "tag_id": "urn:tag:keyword:media:heavyweight_champion",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Barn",
+            "tag_id": "urn:tag:keyword:media:barn",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:style:qloo:cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Roman numeral in title",
+            "tag_id": "urn:tag:keyword:media:roman_numeral_in_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sports drama",
+            "tag_id": "urn:tag:subgenre:qloo:sports_drama",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Directed by star",
+            "tag_id": "urn:tag:keyword:media:directed_by_star",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Comeback",
+            "tag_id": "urn:tag:keyword:media:comeback",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Punching bag",
+            "tag_id": "urn:tag:keyword:media:punching_bag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Axe",
+            "tag_id": "urn:tag:keyword:media:axe",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Two word title",
+            "tag_id": "urn:tag:keyword:media:two_word_title",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Photograph",
+            "tag_id": "urn:tag:keyword:media:photograph",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Flashback",
+            "tag_id": "urn:tag:keyword:media:flashback",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mother son relationship",
+            "tag_id": "urn:tag:keyword:media:mother_son_relationship",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Sunglasses",
+            "tag_id": "urn:tag:keyword:media:sunglasses",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Marriage",
+            "tag_id": "urn:tag:keyword:media:marriage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Grief",
+            "tag_id": "urn:tag:keyword:qloo:grief",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Training montage",
+            "tag_id": "urn:tag:keyword:media:training_montage",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Celebration",
+            "tag_id": "urn:tag:keyword:media:celebration",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Funeral",
+            "tag_id": "urn:tag:keyword:media:funeral",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Perseverance",
+            "tag_id": "urn:tag:theme:qloo:perseverance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Chess",
+            "tag_id": "urn:tag:keyword:media:chess",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Action packed",
+            "tag_id": "urn:tag:plot:qloo:action_packed",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Snow",
+            "tag_id": "urn:tag:keyword:media:snow",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Cold war",
+            "tag_id": "urn:tag:subgenre:qloo:cold_war",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:qloo:drama",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Tragic",
+            "tag_id": "urn:tag:plot:qloo:tragic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Cold war",
+            "tag_id": "urn:tag:theme:qloo:cold_war",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Bodyguard",
+            "tag_id": "urn:tag:keyword:media:bodyguard",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Kgb",
+            "tag_id": "urn:tag:keyword:media:kgb",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "American flag",
+            "tag_id": "urn:tag:keyword:media:american_flag",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Neon soaked eighties aesthetic",
+            "tag_id": "urn:tag:style:qloo:neon_soaked_eighties_aesthetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Radio",
+            "tag_id": "urn:tag:keyword:media:radio",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Written by director",
+            "tag_id": "urn:tag:keyword:media:written_by_director",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Fireplace",
+            "tag_id": "urn:tag:keyword:media:fireplace",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Combat",
+            "tag_id": "urn:tag:keyword:media:combat",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:keyword:qloo:revenge",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Political",
+            "tag_id": "urn:tag:plot:qloo:political",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Drawing",
+            "tag_id": "urn:tag:keyword:media:drawing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Revenge",
+            "tag_id": "urn:tag:theme:qloo:revenge",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Actor as writer",
+            "tag_id": "urn:tag:keyword:media:actor_as_writer",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:keyword:media:politician",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Apollo creed character",
+            "tag_id": "urn:tag:keyword:media:apollo_creed_character",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Mountain climbing",
+            "tag_id": "urn:tag:keyword:media:mountain_climbing",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Roman numbered sequel",
+            "tag_id": "urn:tag:keyword:media:roman_numbered_sequel",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Personal transformation",
+            "tag_id": "urn:tag:theme:qloo:personal_transformation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Running",
+            "tag_id": "urn:tag:keyword:media:running",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

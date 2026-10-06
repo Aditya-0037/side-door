@@ -1,0 +1,5149 @@
+{
+  "status": 200,
+  "params": {
+    "query": "LeBron James",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "LeBron James",
+        "entity_id": "B53135E5-819E-4890-8396-59373C0A949F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "g",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James Sr."
+            },
+            {
+              "language": "w",
+              "value": "LeBron James Sr."
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "d",
+              "value": "LeBron James"
+            },
+            {
+              "language": "b",
+              "value": "Леброн Джэймс"
+            },
+            {
+              "language": "e",
+              "value": "Леброн Джэймс"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "p",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James Sr."
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James Sr."
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "v",
+              "value": "LBJ"
+            },
+            {
+              "language": "p",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "f",
+              "value": "LeBron James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "b",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "w",
+              "value": "LBJ"
+            },
+            {
+              "language": "h",
+              "value": "LBJ"
+            },
+            {
+              "language": "y",
+              "value": "LBJ"
+            },
+            {
+              "language": "q",
+              "value": "LeBron James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron James"
+            },
+            {
+              "language": "c",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "a",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "h",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "r",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "c",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "a",
+              "value": "كينغ جيمس"
+            },
+            {
+              "language": "r",
+              "value": "كينغ جيمس"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James Sr."
+            },
+            {
+              "language": "w",
+              "value": "LeBron Raymone James Sr."
+            },
+            {
+              "language": "k",
+              "value": "ლებრონ ჯეიმზი"
+            },
+            {
+              "language": "a",
+              "value": "ლებრონ ჯეიმზი"
+            },
+            {
+              "language": "h",
+              "value": "LBJ"
+            },
+            {
+              "language": "r",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "Lebron James"
+            },
+            {
+              "language": "w",
+              "value": "Lebron James"
+            },
+            {
+              "language": "t",
+              "value": "King James"
+            },
+            {
+              "language": "r",
+              "value": "King James"
+            },
+            {
+              "language": "p",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "a",
+              "value": "King James"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "e",
+              "value": "ΛεΜπρόν Τζέιμς"
+            },
+            {
+              "language": "l",
+              "value": "ΛεΜπρόν Τζέιμς"
+            },
+            {
+              "language": "k",
+              "value": "르브론 레이몬 제임스 시니어"
+            },
+            {
+              "language": "o",
+              "value": "르브론 레이몬 제임스 시니어"
+            },
+            {
+              "language": "t",
+              "value": "Ҷеймс, Леброн"
+            },
+            {
+              "language": "g",
+              "value": "Ҷеймс, Леброн"
+            },
+            {
+              "language": "c",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "d",
+              "value": "LBJ"
+            },
+            {
+              "language": "a",
+              "value": "LBJ"
+            },
+            {
+              "language": "h",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "ليبرون جيمس"
+            },
+            {
+              "language": "r",
+              "value": "ليبرون جيمس"
+            },
+            {
+              "language": "a",
+              "value": "الملك جيمس"
+            },
+            {
+              "language": "r",
+              "value": "الملك جيمس"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "c",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "h",
+              "value": "לברון ג'יימס"
+            },
+            {
+              "language": "e",
+              "value": "לברון ג'יימס"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James Sr."
+            },
+            {
+              "language": "n",
+              "value": "LeBron James Sr."
+            },
+            {
+              "language": "g",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "h",
+              "value": "LeBron James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "r",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "a",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LBJ"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "q",
+              "value": "LeBron James"
+            },
+            {
+              "language": "f",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "i",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "r",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "h",
+              "value": "LBJ"
+            },
+            {
+              "language": "u",
+              "value": "LBJ"
+            },
+            {
+              "language": "e",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "a",
+              "value": "LBJ"
+            },
+            {
+              "language": "c",
+              "value": "King James"
+            },
+            {
+              "language": "a",
+              "value": "King James"
+            },
+            {
+              "language": "c",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "f",
+              "value": "King James"
+            },
+            {
+              "language": "i",
+              "value": "King James"
+            },
+            {
+              "language": "v",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "King James"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "k",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "n",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "b",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "i",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "LBJ"
+            },
+            {
+              "language": "d",
+              "value": "LBJ"
+            },
+            {
+              "language": "e",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LeBronas Džeimsas"
+            },
+            {
+              "language": "t",
+              "value": "LeBronas Džeimsas"
+            },
+            {
+              "language": "v",
+              "value": "LeBron James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "a",
+              "value": "King James"
+            },
+            {
+              "language": "e",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "h",
+              "value": "Լեբրոն Ջեյմս"
+            },
+            {
+              "language": "y",
+              "value": "Լեբրոն Ջեյմս"
+            },
+            {
+              "language": "h",
+              "value": "लेब्रोन जेम्स"
+            },
+            {
+              "language": "i",
+              "value": "लेब्रोन जेम्स"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "LBJ"
+            },
+            {
+              "language": "r",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "v",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "b",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "e",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "LBJ"
+            },
+            {
+              "language": "d",
+              "value": "King James"
+            },
+            {
+              "language": "a",
+              "value": "King James"
+            },
+            {
+              "language": "f",
+              "value": "King James"
+            },
+            {
+              "language": "r",
+              "value": "King James"
+            },
+            {
+              "language": "p",
+              "value": "King James"
+            },
+            {
+              "language": "t",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "v",
+              "value": "King James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "g",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "v",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "f",
+              "value": "لبران جیمز"
+            },
+            {
+              "language": "a",
+              "value": "لبران جیمز"
+            },
+            {
+              "language": "f",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron James"
+            },
+            {
+              "language": "k",
+              "value": "LeBron James"
+            },
+            {
+              "language": "c",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "LBJ"
+            },
+            {
+              "language": "f",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "King James"
+            },
+            {
+              "language": "t",
+              "value": "King James"
+            },
+            {
+              "language": "z",
+              "value": "雷霸龍·詹姆斯"
+            },
+            {
+              "language": "h",
+              "value": "雷霸龍·詹姆斯"
+            },
+            {
+              "language": "m",
+              "value": "Леброн Жеймс"
+            },
+            {
+              "language": "n",
+              "value": "Леброн Жеймс"
+            },
+            {
+              "language": "r",
+              "value": "LeBron James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "d",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "a",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "L-Train"
+            },
+            {
+              "language": "s",
+              "value": "L-Train"
+            },
+            {
+              "language": "m",
+              "value": "ലെബ്രോൺ ജെയിംസ്"
+            },
+            {
+              "language": "l",
+              "value": "ലെബ്രോൺ ജെയിംസ്"
+            },
+            {
+              "language": "i",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "u",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "k",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LBJ"
+            },
+            {
+              "language": "u",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "เลอบรอน เจมส์"
+            },
+            {
+              "language": "h",
+              "value": "เลอบรอน เจมส์"
+            },
+            {
+              "language": "z",
+              "value": "勒布朗·詹姆士"
+            },
+            {
+              "language": "h",
+              "value": "勒布朗·詹姆士"
+            },
+            {
+              "language": "p",
+              "value": "ਲੇਬ੍ਰੌਨ ਜੇਮਜ਼"
+            },
+            {
+              "language": "a",
+              "value": "ਲੇਬ੍ਰੌਨ ਜੇਮਜ਼"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron James"
+            },
+            {
+              "language": "m",
+              "value": "Леброн Џејмс"
+            },
+            {
+              "language": "k",
+              "value": "Леброн Џејмс"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "q",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "r",
+              "value": "LBJ"
+            },
+            {
+              "language": "o",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "p",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James"
+            },
+            {
+              "language": "c",
+              "value": "Lebron James"
+            },
+            {
+              "language": "a",
+              "value": "Lebron James"
+            },
+            {
+              "language": "i",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "g",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "Lebrons Džeimss"
+            },
+            {
+              "language": "v",
+              "value": "Lebrons Džeimss"
+            },
+            {
+              "language": "e",
+              "value": "LBJ"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "g",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "p",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "l",
+              "value": "LBJ"
+            },
+            {
+              "language": "c",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "h",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "u",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "h",
+              "value": "King James"
+            },
+            {
+              "language": "y",
+              "value": "King James"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс, Леброн"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс, Леброн"
+            },
+            {
+              "language": "f",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "b",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "e",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "u",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "p",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "y",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "c",
+              "value": "LeBron James"
+            },
+            {
+              "language": "y",
+              "value": "LeBron James"
+            },
+            {
+              "language": "h",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "y",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "t",
+              "value": "King James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James"
+            },
+            {
+              "language": "b",
+              "value": "LeBron James"
+            },
+            {
+              "language": "v",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "z",
+              "value": "勒布朗·詹姆斯"
+            },
+            {
+              "language": "h",
+              "value": "勒布朗·詹姆斯"
+            },
+            {
+              "language": "h",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "లెబ్రాన్ జేమ్స్"
+            },
+            {
+              "language": "e",
+              "value": "లెబ్రాన్ జేమ్స్"
+            },
+            {
+              "language": "e",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "y",
+              "value": "LeBron James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "f",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "r",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "b",
+              "value": "LBJ"
+            },
+            {
+              "language": "j",
+              "value": "レブロン・ジェームズ"
+            },
+            {
+              "language": "a",
+              "value": "レブロン・ジェームズ"
+            },
+            {
+              "language": "h",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "y",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "c",
+              "value": "LBJ"
+            },
+            {
+              "language": "a",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron James"
+            },
+            {
+              "language": "f",
+              "value": "LBJ"
+            },
+            {
+              "language": "r",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "k",
+              "value": "LeBron James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "r",
+              "value": "King James"
+            },
+            {
+              "language": "o",
+              "value": "King James"
+            },
+            {
+              "language": "b",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "g",
+              "value": "Леброн Джеймс"
+            },
+            {
+              "language": "g",
+              "value": "Lebron James"
+            },
+            {
+              "language": "l",
+              "value": "Lebron James"
+            },
+            {
+              "language": "m",
+              "value": "LeBron James"
+            },
+            {
+              "language": "g",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "King James"
+            },
+            {
+              "language": "g",
+              "value": "King James"
+            },
+            {
+              "language": "z",
+              "value": "雷霸龍·詹姆士"
+            },
+            {
+              "language": "h",
+              "value": "雷霸龍·詹姆士"
+            },
+            {
+              "language": "b",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "King James"
+            },
+            {
+              "language": "w",
+              "value": "King James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "f",
+              "value": "LBJ"
+            },
+            {
+              "language": "i",
+              "value": "LBJ"
+            },
+            {
+              "language": "u",
+              "value": "LeBron James"
+            },
+            {
+              "language": "z",
+              "value": "LeBron James"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "n",
+              "value": "LBJ"
+            },
+            {
+              "language": "p",
+              "value": "LeBron James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "n",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "Леброн Џејмс"
+            },
+            {
+              "language": "r",
+              "value": "Леброн Џејмс"
+            },
+            {
+              "language": "a",
+              "value": "Lebron Ceyms"
+            },
+            {
+              "language": "z",
+              "value": "Lebron Ceyms"
+            },
+            {
+              "language": "b",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "s",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "c",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "LBJ"
+            },
+            {
+              "language": "r",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "o",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "d",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "b",
+              "value": "লাব্রন জেমস"
+            },
+            {
+              "language": "n",
+              "value": "লাব্রন জেমস"
+            },
+            {
+              "language": "d",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "i",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "e",
+              "value": "King James"
+            },
+            {
+              "language": "u",
+              "value": "King James"
+            },
+            {
+              "language": "k",
+              "value": "ಲೆಬ್ರಾನ್ ಜೇಮ್ಸ್"
+            },
+            {
+              "language": "n",
+              "value": "ಲೆಬ್ರಾನ್ ಜೇಮ್ಸ್"
+            },
+            {
+              "language": "g",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "h",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "b",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "h",
+              "value": "King James"
+            },
+            {
+              "language": "r",
+              "value": "King James"
+            },
+            {
+              "language": "a",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "d",
+              "value": "LeBron James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James"
+            },
+            {
+              "language": "l",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "a",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "n",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "King James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "r",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "k",
+              "value": "Леброн Жеймс"
+            },
+            {
+              "language": "y",
+              "value": "Леброн Жеймс"
+            },
+            {
+              "language": "i",
+              "value": "LeBron James"
+            },
+            {
+              "language": "o",
+              "value": "LeBron James"
+            },
+            {
+              "language": "h",
+              "value": "LeBron James"
+            },
+            {
+              "language": "u",
+              "value": "LeBron James"
+            },
+            {
+              "language": "h",
+              "value": "King James"
+            },
+            {
+              "language": "u",
+              "value": "King James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "t",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "i",
+              "value": "King James"
+            },
+            {
+              "language": "t",
+              "value": "King James"
+            },
+            {
+              "language": "b",
+              "value": "LeBron James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James"
+            },
+            {
+              "language": "d",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "a",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "p",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "l",
+              "value": "LeBron Raymone James"
+            },
+            {
+              "language": "d",
+              "value": "King James"
+            },
+            {
+              "language": "e",
+              "value": "King James"
+            },
+            {
+              "language": "k",
+              "value": "르브론 제임스"
+            },
+            {
+              "language": "o",
+              "value": "르브론 제임스"
+            },
+            {
+              "language": "p",
+              "value": "LBJ"
+            },
+            {
+              "language": "t",
+              "value": "LBJ"
+            },
+            {
+              "language": "s",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "v",
+              "value": "The Chosen One"
+            },
+            {
+              "language": "t",
+              "value": "லெப்ரான் ஜேம்ஸ்"
+            },
+            {
+              "language": "a",
+              "value": "லெப்ரான் ஜேம்ஸ்"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kingjames"
+            },
+            "metacritic": {
+              "id": "person/lebron-james"
+            },
+            "twitter": {
+              "id": "KingJames"
+            },
+            "imdb": {
+              "id": "nm1429908"
+            },
+            "library_of_congress": {
+              "id": "n2003099514"
+            },
+            "musicbrainz": {
+              "id": "7d6308c5-7412-4afe-879f-181c7827744d"
+            }
+          },
+          "child": [
+            "Zhuri James",
+            "Bryce James",
+            "Bronny James"
+          ],
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1984-12-30",
+          "image": {
+            "url": "https://images.qloo.com/i/B53135E5-819E-4890-8396-59373C0A949F-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "spouse": [
+            "Savannah Brinson"
+          ],
+          "member_of_sports_team": [
+            "Cleveland Cavaliers",
+            "Miami Heat",
+            "Los Angeles Lakers"
+          ],
+          "work_period_start": "2003-01-01",
+          "short_description": "American basketball player (born 1984)"
+        },
+        "popularity": 0.999836922842761,
+        "disambiguation": "1984-12-30",
+        "tags": [
+          {
+            "name": "Nba Most Valuable Player Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners"
+          },
+          {
+            "name": "American Soccer Chairmen And Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_soccer_chairmen_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_soccer_chairmen_investors"
+          },
+          {
+            "name": "Basketball Players At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2012_summer_olympics"
+          },
+          {
+            "name": "African-american Film Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_film_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_film_producers"
+          },
+          {
+            "name": "Basketball Players At The 2008 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2008_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2008_summer_olympics"
+          },
+          {
+            "name": "Ac Milan Chairmen And Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ac_milan_chairmen_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ac_milan_chairmen_investors"
+          },
+          {
+            "name": "American Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors"
+          },
+          {
+            "name": "Cleveland Cavaliers Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_draft_picks"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "California Democrats",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:california_democrats",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:california_democrats"
+          },
+          {
+            "name": "American Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_youtubers"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Basketball Players At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "American Male Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_screenwriters"
+          },
+          {
+            "name": "Boston Red Sox Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:boston_red_sox_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:boston_red_sox_owners"
+          },
+          {
+            "name": "Pittsburgh Penguins Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:pittsburgh_penguins_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:pittsburgh_penguins_owners"
+          },
+          {
+            "name": "Cleveland Cavaliers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cleveland_cavaliers_players"
+          },
+          {
+            "name": "Medalists At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics"
+          },
+          {
+            "name": "Medalists At The 2008 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2008_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2008_summer_olympics"
+          },
+          {
+            "name": "Male Actors From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_california"
+          },
+          {
+            "name": "African-american Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_screenwriters"
+          },
+          {
+            "name": "St. Vincent–st. Mary High School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:st_vincent_st_mary_high_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:st_vincent_st_mary_high_school_alumni"
+          },
+          {
+            "name": "Nba High School Draftees",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_high_school_draftees",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_high_school_draftees"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Fenway Sports Group People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fenway_sports_group_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fenway_sports_group_people"
+          },
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          },
+          {
+            "name": "Screenwriters From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:screenwriters_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:screenwriters_from_california"
+          },
+          {
+            "name": "American Billionaires",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_billionaires",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_billionaires"
+          },
+          {
+            "name": "Illeists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:illeists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:illeists"
+          },
+          {
+            "name": "Mcdonalds High School All-americans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "African-american Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_investors"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "African-american Businesspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_businesspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_businesspeople"
+          },
+          {
+            "name": "Lebron James",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lebron_james",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lebron_james"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "Miami Heat Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:miami_heat_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:miami_heat_players"
+          },
+          {
+            "name": "African-american Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_television_producers"
+          },
+          {
+            "name": "Olympic Gold Medalists For The United States In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball"
+          },
+          {
+            "name": "Olympic Bronze Medalists For The United States In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_bronze_medalists_united_states_in_basketball"
+          },
+          {
+            "name": "American Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_philanthropists"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Film Producers From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:film_producers_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:film_producers_from_california"
+          },
+          {
+            "name": "2006 Fiba World Championship Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2006_fiba_world_championship_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2006_fiba_world_championship_players"
+          },
+          {
+            "name": "Television Producers From Ohio",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_producers_from_ohio",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_producers_from_ohio"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "African-american Billionaires",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_billionaires",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_billionaires"
+          },
+          {
+            "name": "Youtube Podcasters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtube_podcasters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtube_podcasters"
+          },
+          {
+            "name": "Male Actors From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_los_angeles"
+          },
+          {
+            "name": "Parade High School All-americans (boys Basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball"
+          },
+          {
+            "name": "American Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_investors"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Power Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:power_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:power_forwards"
+          },
+          {
+            "name": "Liverpool F.c. Chairmen And Investors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_chairmen_investors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_chairmen_investors"
+          },
+          {
+            "name": "Television Producers From California",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_producers_from_california",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_producers_from_california"
+          },
+          {
+            "name": "Screenwriters From Ohio",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:screenwriters_from_ohio",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:screenwriters_from_ohio"
+          },
+          {
+            "name": "American Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_film_actors"
+          },
+          {
+            "name": "First Overall Nba Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_overall_nba_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_overall_nba_draft_picks"
+          },
+          {
+            "name": "Basketball Players From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles"
+          },
+          {
+            "name": "Film Producers From Ohio",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:film_producers_from_ohio",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:film_producers_from_ohio"
+          },
+          {
+            "name": "Los Angeles Lakers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_players"
+          },
+          {
+            "name": "Basketball Players At The 2004 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2004_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2004_summer_olympics"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "African-american Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_male_actors"
+          },
+          {
+            "name": "United States Mens National Basketball Team Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Sports Podcasters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sports_podcasters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sports_podcasters"
+          },
+          {
+            "name": "Small Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:small_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:small_forwards"
+          },
+          {
+            "name": "Medalists At The 2004 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2004_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2004_summer_olympics"
+          },
+          {
+            "name": "Businesspeople From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:businesspeople_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:businesspeople_from_los_angeles"
+          }
+        ]
+      },
+      {
+        "name": "Bronny James",
+        "entity_id": "FE033F21-ABDE-431C-8DAE-D31A2D414EF0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Bronny James"
+            },
+            {
+              "language": "t",
+              "value": "Bronny James"
+            },
+            {
+              "language": "f",
+              "value": "Bronny James"
+            },
+            {
+              "language": "r",
+              "value": "Bronny James"
+            },
+            {
+              "language": "z",
+              "value": "小雷霸龍·詹姆士"
+            },
+            {
+              "language": "h",
+              "value": "小雷霸龍·詹姆士"
+            },
+            {
+              "language": "r",
+              "value": "Леброн Джеймс (младший)"
+            },
+            {
+              "language": "u",
+              "value": "Леброн Джеймс (младший)"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "n",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "p",
+              "value": "Bronny James"
+            },
+            {
+              "language": "t",
+              "value": "Bronny James"
+            },
+            {
+              "language": "j",
+              "value": "レブロン・レイモン・ジェームズ"
+            },
+            {
+              "language": "a",
+              "value": "レブロン・レイモン・ジェームズ"
+            },
+            {
+              "language": "c",
+              "value": "Bronny James"
+            },
+            {
+              "language": "a",
+              "value": "Bronny James"
+            },
+            {
+              "language": "s",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "q",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "d",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "d",
+              "value": "Bronny James"
+            },
+            {
+              "language": "e",
+              "value": "Bronny James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "s",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "i",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "t",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "h",
+              "value": "Լեբրոն Ջեյմս կրտսեր"
+            },
+            {
+              "language": "y",
+              "value": "Լեբրոն Ջեյմս կրտսեր"
+            },
+            {
+              "language": "u",
+              "value": "Броні Джеймс"
+            },
+            {
+              "language": "k",
+              "value": "Броні Джеймс"
+            },
+            {
+              "language": "e",
+              "value": "Bronny James"
+            },
+            {
+              "language": "t",
+              "value": "Bronny James"
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "s",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "e",
+              "value": "Bronny James"
+            },
+            {
+              "language": "s",
+              "value": "Bronny James"
+            },
+            {
+              "language": "s",
+              "value": "Bronny James"
+            },
+            {
+              "language": "l",
+              "value": "Bronny James"
+            },
+            {
+              "language": "h",
+              "value": "לברון ג'יימס הבן"
+            },
+            {
+              "language": "e",
+              "value": "לברון ג'יימס הבן"
+            },
+            {
+              "language": "h",
+              "value": "Bronny James"
+            },
+            {
+              "language": "u",
+              "value": "Bronny James"
+            },
+            {
+              "language": "k",
+              "value": "르브론 제임스 주니어"
+            },
+            {
+              "language": "o",
+              "value": "르브론 제임스 주니어"
+            },
+            {
+              "language": "h",
+              "value": "ברוני ג'יימס"
+            },
+            {
+              "language": "e",
+              "value": "ברוני ג'יימס"
+            },
+            {
+              "language": "n",
+              "value": "Bronny James"
+            },
+            {
+              "language": "l",
+              "value": "Bronny James"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс, Леброн (младший)"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс, Леброн (младший)"
+            },
+            {
+              "language": "h",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "u",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "e",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "n",
+              "value": "LeBron Raymone James Jr."
+            },
+            {
+              "language": "g",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "a",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "k",
+              "value": "브로니 제임스"
+            },
+            {
+              "language": "o",
+              "value": "브로니 제임스"
+            },
+            {
+              "language": "j",
+              "value": "ブロニー・ジェームズ"
+            },
+            {
+              "language": "a",
+              "value": "ブロニー・ジェームズ"
+            },
+            {
+              "language": "y",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "o",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "z",
+              "value": "布朗尼·詹姆斯"
+            },
+            {
+              "language": "h",
+              "value": "布朗尼·詹姆斯"
+            },
+            {
+              "language": "h",
+              "value": "לברון ריימון ג'יימס הבן"
+            },
+            {
+              "language": "e",
+              "value": "לברון ריימון ג'יימס הבן"
+            },
+            {
+              "language": "n",
+              "value": "LeBron James Jr."
+            },
+            {
+              "language": "l",
+              "value": "LeBron James Jr."
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "bronny"
+            },
+            "twitter": {
+              "id": "bronnyjamesjr"
+            },
+            "imdb": {
+              "id": "nm4471809"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "2004-10-06",
+          "image": {
+            "url": "https://images.qloo.com/i/FE033F21-ABDE-431C-8DAE-D31A2D414EF0-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "USC Trojans men's basketball"
+          ],
+          "short_description": "American basketball player (born 2004)"
+        },
+        "popularity": 0.9431513029864863,
+        "disambiguation": "2004-10-06",
+        "tags": [
+          {
+            "name": "Sierra Canyon School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sierra_canyon_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sierra_canyon_school_alumni"
+          },
+          {
+            "name": "Faze Clan",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:faze_clan",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:faze_clan"
+          },
+          {
+            "name": "Basketball Players From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "Basketball Players From Ohio",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_ohio",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_ohio"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Los Angeles Lakers Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_lakers_draft_picks"
+          },
+          {
+            "name": "Shooting Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shooting_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shooting_guards"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_twitch_service_streamers"
+          },
+          {
+            "name": "Usc Trojans Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:usc_trojans_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:usc_trojans_mens_basketball_players"
+          },
+          {
+            "name": "Point Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:point_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:point_guards"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "Lebron James",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lebron_james",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lebron_james"
+          }
+        ]
+      },
+      {
+        "name": "James Rodríguez",
+        "entity_id": "CE03447F-277C-4E05-8D95-BC73183AAB7F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "p",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "n",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "o",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "h",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "u",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "g",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "e",
+              "value": "Χάμες Ροδρίγες"
+            },
+            {
+              "language": "l",
+              "value": "Χάμες Ροδρίγες"
+            },
+            {
+              "language": "f",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "d",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "o",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "p",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "k",
+              "value": "하메스 다비드 로드리게스 루비오"
+            },
+            {
+              "language": "o",
+              "value": "하메스 다비드 로드리게스 루비오"
+            },
+            {
+              "language": "e",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "m",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "n",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "f",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "r",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "g",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "k",
+              "value": "제임스 로드리게스"
+            },
+            {
+              "language": "o",
+              "value": "제임스 로드리게스"
+            },
+            {
+              "language": "t",
+              "value": "ஜேம்சு ரொட்ரீகசு"
+            },
+            {
+              "language": "a",
+              "value": "ஜேம்சு ரொட்ரீகசு"
+            },
+            {
+              "language": "s",
+              "value": "Џејмс Родригез"
+            },
+            {
+              "language": "r",
+              "value": "Џејмс Родригез"
+            },
+            {
+              "language": "r",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "o",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "c",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "a",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "n",
+              "value": "जेम्स रोडरिगेज"
+            },
+            {
+              "language": "e",
+              "value": "जेम्स रोडरिगेज"
+            },
+            {
+              "language": "p",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "m",
+              "value": "ഹാമെസ് റോഡ്രിഗസ്"
+            },
+            {
+              "language": "l",
+              "value": "ഹാമെസ് റോഡ്രിഗസ്"
+            },
+            {
+              "language": "u",
+              "value": "Хамес Родрігес"
+            },
+            {
+              "language": "k",
+              "value": "Хамес Родрігес"
+            },
+            {
+              "language": "u",
+              "value": "Хамес"
+            },
+            {
+              "language": "k",
+              "value": "Хамес"
+            },
+            {
+              "language": "l",
+              "value": "James"
+            },
+            {
+              "language": "b",
+              "value": "James"
+            },
+            {
+              "language": "n",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "b",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "h",
+              "value": "जेम्स रोड्रिगेज"
+            },
+            {
+              "language": "i",
+              "value": "जेम्स रोड्रिगेज"
+            },
+            {
+              "language": "j",
+              "value": "ハメス・ロドリゲス"
+            },
+            {
+              "language": "a",
+              "value": "ハメス・ロドリゲス"
+            },
+            {
+              "language": "z",
+              "value": "占士·洛迪古斯"
+            },
+            {
+              "language": "h",
+              "value": "占士·洛迪古斯"
+            },
+            {
+              "language": "r",
+              "value": "Хамес Давид Родригес Рубио"
+            },
+            {
+              "language": "u",
+              "value": "Хамес Давид Родригес Рубио"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "k",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "g",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "a",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "d",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "a",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "n",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "b",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "ฮาเมส โรดริเกวซ"
+            },
+            {
+              "language": "h",
+              "value": "ฮาเมส โรดริเกวซ"
+            },
+            {
+              "language": "l",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "b",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "u",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "z",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс Родригес"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Родригес"
+            },
+            {
+              "language": "z",
+              "value": "詹姆斯·罗德里格斯"
+            },
+            {
+              "language": "h",
+              "value": "詹姆斯·罗德里格斯"
+            },
+            {
+              "language": "f",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "n",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "w",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "n",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "n",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "m",
+              "value": "Хамес Родригез"
+            },
+            {
+              "language": "k",
+              "value": "Хамес Родригез"
+            },
+            {
+              "language": "e",
+              "value": "James David Rodriguez Rubio"
+            },
+            {
+              "language": "s",
+              "value": "James David Rodriguez Rubio"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "q",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "k",
+              "value": "ხამეს როდრიგესი"
+            },
+            {
+              "language": "a",
+              "value": "ხამეს როდრიგესი"
+            },
+            {
+              "language": "d",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "q",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "u",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James David Rodriguez Rubio"
+            },
+            {
+              "language": "o",
+              "value": "James David Rodriguez Rubio"
+            },
+            {
+              "language": "f",
+              "value": "خامس رودریگز"
+            },
+            {
+              "language": "a",
+              "value": "خامس رودریگز"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "o",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "f",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "b",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "g",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "m",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "g",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "b",
+              "value": "Хамес Радрыгес"
+            },
+            {
+              "language": "e",
+              "value": "Хамес Радрыгес"
+            },
+            {
+              "language": "r",
+              "value": "Родригес, Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Родригес, Джеймс"
+            },
+            {
+              "language": "r",
+              "value": "James"
+            },
+            {
+              "language": "o",
+              "value": "James"
+            },
+            {
+              "language": "b",
+              "value": "হামেস রদ্রিগেজ"
+            },
+            {
+              "language": "n",
+              "value": "হামেস রদ্রিগেজ"
+            },
+            {
+              "language": "p",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez Rubio"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "v",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "a",
+              "value": "Xames Rodriqes"
+            },
+            {
+              "language": "z",
+              "value": "Xames Rodriqes"
+            },
+            {
+              "language": "v",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "d",
+              "value": "James"
+            },
+            {
+              "language": "e",
+              "value": "James"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Родрігес"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Родрігес"
+            },
+            {
+              "language": "k",
+              "value": "하메스 로드리게스"
+            },
+            {
+              "language": "o",
+              "value": "하메스 로드리게스"
+            },
+            {
+              "language": "h",
+              "value": "חאמס רודריגס"
+            },
+            {
+              "language": "e",
+              "value": "חאמס רודריגס"
+            },
+            {
+              "language": "n",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "h",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "u",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "f",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James David Rodríguez"
+            },
+            {
+              "language": "l",
+              "value": "Hamess Rodrigess"
+            },
+            {
+              "language": "v",
+              "value": "Hamess Rodrigess"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "i",
+              "value": "James"
+            },
+            {
+              "language": "t",
+              "value": "James"
+            },
+            {
+              "language": "m",
+              "value": "जेम्स रॉद्रिग्वेझ"
+            },
+            {
+              "language": "r",
+              "value": "जेम्स रॉद्रिग्वेझ"
+            },
+            {
+              "language": "n",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "l",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "i",
+              "value": "James Davíd Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Davíd Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "s",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "d",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "e",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "a",
+              "value": "خاميس رودريغيز"
+            },
+            {
+              "language": "r",
+              "value": "خاميس رودريغيز"
+            },
+            {
+              "language": "m",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "i",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "t",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "c",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "y",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "h",
+              "value": "Խամես Ռոդրիգես"
+            },
+            {
+              "language": "y",
+              "value": "Խամես Ռոդրիգես"
+            },
+            {
+              "language": "p",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "t",
+              "value": "James David Rodríguez Rubio"
+            },
+            {
+              "language": "r",
+              "value": "Хамес"
+            },
+            {
+              "language": "u",
+              "value": "Хамес"
+            },
+            {
+              "language": "e",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "u",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "t",
+              "value": "Xames Rodriges"
+            },
+            {
+              "language": "t",
+              "value": "Xames Rodriges"
+            },
+            {
+              "language": "k",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "k",
+              "value": "Хамес Родригес"
+            },
+            {
+              "language": "c",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "e",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "s",
+              "value": "James Rodriguez"
+            },
+            {
+              "language": "b",
+              "value": "James Rodríguez"
+            },
+            {
+              "language": "r",
+              "value": "James Rodríguez"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "jamesrodriguez10"
+            },
+            "twitter": {
+              "id": "jamesdrodriguez"
+            },
+            "imdb": {
+              "id": "nm6569506"
+            },
+            "library_of_congress": {
+              "id": "no2015075047"
+            }
+          },
+          "citizenship": [
+            "Colombia",
+            "Spain"
+          ],
+          "date_of_birth": "1991-07-12",
+          "image": {
+            "url": "https://images.qloo.com/i/CE03447F-277C-4E05-8D95-BC73183AAB7F-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "spouse": [
+            "Daniela Ospina"
+          ],
+          "member_of_sports_team": [
+            "São Paulo FC",
+            "FC Bayern Munich",
+            "Everton F.C.",
+            "FC Porto",
+            "Olympiacos F.C.",
+            "Colombia national football team",
+            "Colombia national under-20 football team",
+            "Real Madrid CF",
+            "Al-Rayyan",
+            "Millonarios",
+            "AS Monaco FC",
+            "Club Atlético Banfield",
+            "Colombia national under-17 football team"
+          ],
+          "short_description": "Colombian association football player"
+        },
+        "popularity": 0.9995923071069025,
+        "disambiguation": "1991-07-12",
+        "tags": [
+          {
+            "name": "Colombian Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_portugal"
+          },
+          {
+            "name": "Colombian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Naturalised Citizens Of Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_spain"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_greece"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_spain"
+          },
+          {
+            "name": "2015 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2015_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2015_copa_america_players"
+          },
+          {
+            "name": "Uefa Europa League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_argentina"
+          },
+          {
+            "name": "Everton F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:everton_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:everton_f_c_players"
+          },
+          {
+            "name": "As Monaco Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:as_monaco_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:as_monaco_fc_players"
+          },
+          {
+            "name": "Real Madrid Cf Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:real_madrid_cf_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:real_madrid_cf_players"
+          },
+          {
+            "name": "Bundesliga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bundesliga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bundesliga_players"
+          },
+          {
+            "name": "Colombia Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombia_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombia_mens_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_brazil"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Qatar",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_qatar",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_qatar"
+          },
+          {
+            "name": "2014 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_brazil"
+          },
+          {
+            "name": "Fifa Mens Century Club",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fifa_mens_century_club"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "2024 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2024_copa_america_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Argentina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_argentina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_argentina"
+          },
+          {
+            "name": "Olympiacos F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympiacos_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympiacos_f_c_players"
+          },
+          {
+            "name": "Copa América Centenario Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_america_centenario_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_america_centenario_players"
+          },
+          {
+            "name": "Colombian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_mens_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Club Atlético Banfield Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:club_atletico_banfield_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:club_atletico_banfield_footballers"
+          },
+          {
+            "name": "Qatar Stars League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:qatar_stars_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:qatar_stars_league_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Greece",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_greece",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_greece"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Qatar",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_qatar",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_qatar"
+          },
+          {
+            "name": "Fc Bayern Munich Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_bayern_munich_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_bayern_munich_footballers"
+          },
+          {
+            "name": "2019 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_copa_america_players"
+          },
+          {
+            "name": "Spanish People Of Colombian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_people_colombian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_people_colombian_descent"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "São Paulo Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sao_paulo_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sao_paulo_fc_players"
+          },
+          {
+            "name": "Colombia Mens Under-20 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombia_mens_under_20_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombia_mens_under_20_international_footballers"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_monaco"
+          },
+          {
+            "name": "Al-rayyan Sc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rayyan_sc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rayyan_sc_players"
+          },
+          {
+            "name": "La Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:la_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:la_liga_players"
+          },
+          {
+            "name": "Ligue 1 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ligue_1_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ligue_1_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_germany"
+          },
+          {
+            "name": "Super League Greece Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_league_greece_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_league_greece_players"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Colombian Expatriate Sportspeople In Germany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_germany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_expatriate_sportspeople_in_germany"
+          },
+          {
+            "name": "Sportspeople From Cúcuta",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_cucuta",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_cucuta"
+          },
+          {
+            "name": "Fc Porto Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_porto_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_porto_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Argentine Primera División Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:argentine_primera_division_players"
+          },
+          {
+            "name": "Envigado F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:envigado_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:envigado_f_c_players"
+          },
+          {
+            "name": "Colombian Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:colombian_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:colombian_christians"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Spain",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_spain"
+          }
+        ]
+      },
+      {
+        "name": "James Charles",
+        "entity_id": "08A00376-AF23-461F-A55F-45216B485073",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "James Charles"
+            },
+            {
+              "language": "e",
+              "value": "James Charles"
+            },
+            {
+              "language": "e",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "n",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "f",
+              "value": "جیمز چارلز"
+            },
+            {
+              "language": "a",
+              "value": "جیمز چارلز"
+            },
+            {
+              "language": "s",
+              "value": "James Charles"
+            },
+            {
+              "language": "q",
+              "value": "James Charles"
+            },
+            {
+              "language": "f",
+              "value": "James Charles"
+            },
+            {
+              "language": "i",
+              "value": "James Charles"
+            },
+            {
+              "language": "h",
+              "value": "Ջեյմս Չարլզ"
+            },
+            {
+              "language": "y",
+              "value": "Ջեյմս Չարլզ"
+            },
+            {
+              "language": "e",
+              "value": "James Charles"
+            },
+            {
+              "language": "t",
+              "value": "James Charles"
+            },
+            {
+              "language": "v",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "i",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "e",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "t",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "g",
+              "value": "James Charles"
+            },
+            {
+              "language": "a",
+              "value": "James Charles"
+            },
+            {
+              "language": "a",
+              "value": "جيمس تشارلز (عارض)"
+            },
+            {
+              "language": "r",
+              "value": "جيمس تشارلز (عارض)"
+            },
+            {
+              "language": "k",
+              "value": "제임스 찰스"
+            },
+            {
+              "language": "o",
+              "value": "제임스 찰스"
+            },
+            {
+              "language": "r",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "o",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "b",
+              "value": "জেমস চার্লস"
+            },
+            {
+              "language": "n",
+              "value": "জেমস চার্লস"
+            },
+            {
+              "language": "p",
+              "value": "James Charles"
+            },
+            {
+              "language": "t",
+              "value": "James Charles"
+            },
+            {
+              "language": "f",
+              "value": "James Charles"
+            },
+            {
+              "language": "r",
+              "value": "James Charles"
+            },
+            {
+              "language": "i",
+              "value": "James Charles"
+            },
+            {
+              "language": "t",
+              "value": "James Charles"
+            },
+            {
+              "language": "p",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "t",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "d",
+              "value": "James Charles"
+            },
+            {
+              "language": "a",
+              "value": "James Charles"
+            },
+            {
+              "language": "n",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "b",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "p",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "l",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "t",
+              "value": "James Charles"
+            },
+            {
+              "language": "l",
+              "value": "James Charles"
+            },
+            {
+              "language": "i",
+              "value": "James Charles"
+            },
+            {
+              "language": "d",
+              "value": "James Charles"
+            },
+            {
+              "language": "s",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "q",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "f",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "i",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "e",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "s",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "n",
+              "value": "James Charles"
+            },
+            {
+              "language": "l",
+              "value": "James Charles"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс Чарльз"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Чарльз"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Чарльз"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Чарльз"
+            },
+            {
+              "language": "n",
+              "value": "James Charles"
+            },
+            {
+              "language": "b",
+              "value": "James Charles"
+            },
+            {
+              "language": "s",
+              "value": "James Charles"
+            },
+            {
+              "language": "v",
+              "value": "James Charles"
+            },
+            {
+              "language": "r",
+              "value": "James Charles"
+            },
+            {
+              "language": "o",
+              "value": "James Charles"
+            },
+            {
+              "language": "d",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "e",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "i",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "d",
+              "value": "James Charles Dickinson"
+            },
+            {
+              "language": "z",
+              "value": "詹姆斯·查尔斯"
+            },
+            {
+              "language": "h",
+              "value": "詹姆斯·查尔斯"
+            },
+            {
+              "language": "p",
+              "value": "James Charles"
+            },
+            {
+              "language": "l",
+              "value": "James Charles"
+            },
+            {
+              "language": "v",
+              "value": "James Charles"
+            },
+            {
+              "language": "i",
+              "value": "James Charles"
+            },
+            {
+              "language": "c",
+              "value": "James Charles"
+            },
+            {
+              "language": "a",
+              "value": "James Charles"
+            },
+            {
+              "language": "r",
+              "value": "Чарльз, Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Чарльз, Джеймс"
+            },
+            {
+              "language": "h",
+              "value": "ג'יימס צ'ארלס"
+            },
+            {
+              "language": "e",
+              "value": "ג'יימס צ'ארלס"
+            },
+            {
+              "language": "k",
+              "value": "ಜೇಮ್ಸ್ ಚಾರ್ಲ್ಸ್"
+            },
+            {
+              "language": "n",
+              "value": "ಜೇಮ್ಸ್ ಚಾರ್ಲ್ಸ್"
+            },
+            {
+              "language": "h",
+              "value": "ג'יימס צ'ארלס דיקינסון"
+            },
+            {
+              "language": "e",
+              "value": "ג'יימס צ'ארלס דיקינסון"
+            },
+            {
+              "language": "e",
+              "value": "James Charles"
+            },
+            {
+              "language": "s",
+              "value": "James Charles"
+            },
+            {
+              "language": "s",
+              "value": "James Charles"
+            },
+            {
+              "language": "l",
+              "value": "James Charles"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "jamescharles"
+            },
+            "twitter": {
+              "id": "jamescharles"
+            },
+            "spotify": {
+              "id": "6vVKDOi4hznfqrgep9avDW"
+            },
+            "imdb": {
+              "id": "nm6113114"
+            },
+            "library_of_congress": {
+              "id": "no2019184950"
+            },
+            "musicbrainz": {
+              "id": "578d82f6-fe98-4c04-8201-74b1d0ef12bc"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1999-05-23",
+          "image": {
+            "url": "https://images.qloo.com/i/08A00376-AF23-461F-A55F-45216B485073-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "2016-01-01",
+          "short_description": "American YouTuber, make-up artist and model"
+        },
+        "popularity": 0.9993911786129744,
+        "disambiguation": "1999-05-23",
+        "tags": [
+          {
+            "name": "Tiktoker",
+            "tag_id": "urn:tag:occupation:person:tiktoker",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:tiktoker"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:occupation:person:model",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:model"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "2020s Youtube Controversies",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2020s_youtube_controversies",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2020s_youtube_controversies"
+          },
+          {
+            "name": "21st-century American Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_lgbt_people"
+          },
+          {
+            "name": "American Tiktokers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_tiktokers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_tiktokers"
+          },
+          {
+            "name": "Fashion Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fashion_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fashion_youtubers"
+          },
+          {
+            "name": "Lgbt People From New York (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_new_york_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_people_from_new_york_state"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "American Gay Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_gay_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_gay_artists"
+          },
+          {
+            "name": "American Male Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_bloggers"
+          },
+          {
+            "name": "Lgbt Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_youtubers"
+          },
+          {
+            "name": "Video Blogger",
+            "tag_id": "urn:tag:occupation:person:video_blogger",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:video_blogger"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:genre:person:youtuber",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:youtuber"
+          },
+          {
+            "name": "Fashion Influencers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fashion_influencers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fashion_influencers"
+          },
+          {
+            "name": "Youtube Vloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtube_vloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtube_vloggers"
+          },
+          {
+            "name": "Beauty Youtuber",
+            "tag_id": "urn:tag:occupation:person:beauty_youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:beauty_youtuber"
+          },
+          {
+            "name": "Beauty And Makeup Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:beauty_makeup_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:beauty_makeup_youtubers"
+          },
+          {
+            "name": "Make-up Artist",
+            "tag_id": "urn:tag:occupation:person:make_up_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:make_up_artist"
+          },
+          {
+            "name": "American Gay Entertainers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_gay_entertainers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_gay_entertainers"
+          },
+          {
+            "name": "American Make-up Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_make_up_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_make_up_artists"
+          },
+          {
+            "name": "Model",
+            "tag_id": "urn:tag:genre:person:model",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:model"
+          },
+          {
+            "name": "Lgbt Tiktokers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_tiktokers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_tiktokers"
+          },
+          {
+            "name": "Youtubers From New York (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_from_new_york_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_from_new_york_state"
+          },
+          {
+            "name": "Influencer",
+            "tag_id": "urn:tag:genre:person:influencer",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:influencer"
+          },
+          {
+            "name": "2010s Youtube Controversies",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2010s_youtube_controversies",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2010s_youtube_controversies"
+          },
+          {
+            "name": "Streamy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:streamy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:streamy_award_winners"
+          }
+        ]
+      },
+      {
+        "name": "James Harden",
+        "entity_id": "FA9CB77E-C739-4534-8B41-6BB2787227E5",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Харден Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Харден Джеймс"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс Харден"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Харден"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Гарден"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Гарден"
+            },
+            {
+              "language": "h",
+              "value": "The Beard"
+            },
+            {
+              "language": "u",
+              "value": "The Beard"
+            },
+            {
+              "language": "j",
+              "value": "ジェームズ・ハーデン"
+            },
+            {
+              "language": "a",
+              "value": "ジェームズ・ハーデン"
+            },
+            {
+              "language": "c",
+              "value": "James Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "h",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "James Harden"
+            },
+            {
+              "language": "f",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "James Harden"
+            },
+            {
+              "language": "m",
+              "value": "James Harden"
+            },
+            {
+              "language": "g",
+              "value": "James Harden"
+            },
+            {
+              "language": "e",
+              "value": "James Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "James Harden"
+            },
+            {
+              "language": "j",
+              "value": "ジェームス・ハーデン"
+            },
+            {
+              "language": "a",
+              "value": "ジェームス・ハーデン"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "v",
+              "value": "James Harden"
+            },
+            {
+              "language": "c",
+              "value": "James Edward Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Edward Harden"
+            },
+            {
+              "language": "p",
+              "value": "James Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Harden"
+            },
+            {
+              "language": "p",
+              "value": "James Harden"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "z",
+              "value": "夏登"
+            },
+            {
+              "language": "h",
+              "value": "夏登"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "w",
+              "value": "James Harden"
+            },
+            {
+              "language": "v",
+              "value": "James Harden"
+            },
+            {
+              "language": "i",
+              "value": "James Harden"
+            },
+            {
+              "language": "n",
+              "value": "James Harden"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "z",
+              "value": "哈登"
+            },
+            {
+              "language": "h",
+              "value": "哈登"
+            },
+            {
+              "language": "g",
+              "value": "James Harden"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "i",
+              "value": "James Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Harden"
+            },
+            {
+              "language": "e",
+              "value": "The Beard"
+            },
+            {
+              "language": "n",
+              "value": "The Beard"
+            },
+            {
+              "language": "k",
+              "value": "제임스 하든"
+            },
+            {
+              "language": "o",
+              "value": "제임스 하든"
+            },
+            {
+              "language": "i",
+              "value": "James Edward Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Edward Harden"
+            },
+            {
+              "language": "z",
+              "value": "詹姆士·哈登"
+            },
+            {
+              "language": "h",
+              "value": "詹姆士·哈登"
+            },
+            {
+              "language": "e",
+              "value": "Τζέιμς Χάρντεν"
+            },
+            {
+              "language": "l",
+              "value": "Τζέιμς Χάρντεν"
+            },
+            {
+              "language": "m",
+              "value": "Џејмс Харден"
+            },
+            {
+              "language": "k",
+              "value": "Џејмс Харден"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "v",
+              "value": "James Harden"
+            },
+            {
+              "language": "o",
+              "value": "James Harden"
+            },
+            {
+              "language": "c",
+              "value": "James Harden"
+            },
+            {
+              "language": "n",
+              "value": "James Harden"
+            },
+            {
+              "language": "b",
+              "value": "James Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "w",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "i",
+              "value": "James Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "q",
+              "value": "James Harden"
+            },
+            {
+              "language": "v",
+              "value": "James Harden"
+            },
+            {
+              "language": "o",
+              "value": "James Harden"
+            },
+            {
+              "language": "h",
+              "value": "Ջեյմս Հարդեն"
+            },
+            {
+              "language": "y",
+              "value": "Ջեյմս Հարդեն"
+            },
+            {
+              "language": "l",
+              "value": "Džeimss Hārdens"
+            },
+            {
+              "language": "v",
+              "value": "Džeimss Hārdens"
+            },
+            {
+              "language": "d",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "James Harden"
+            },
+            {
+              "language": "e",
+              "value": "James Harden"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "h",
+              "value": "James Harden"
+            },
+            {
+              "language": "u",
+              "value": "James Harden"
+            },
+            {
+              "language": "f",
+              "value": "جیمز هاردن"
+            },
+            {
+              "language": "a",
+              "value": "جیمز هاردن"
+            },
+            {
+              "language": "s",
+              "value": "The Beard"
+            },
+            {
+              "language": "w",
+              "value": "The Beard"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "i",
+              "value": "James Harden"
+            },
+            {
+              "language": "d",
+              "value": "James Harden"
+            },
+            {
+              "language": "y",
+              "value": "James Harden"
+            },
+            {
+              "language": "o",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "جيمس هاردن"
+            },
+            {
+              "language": "r",
+              "value": "جيمس هاردن"
+            },
+            {
+              "language": "s",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "Харден, Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Харден, Джеймс"
+            },
+            {
+              "language": "c",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "James Harden"
+            },
+            {
+              "language": "c",
+              "value": "James Harden"
+            },
+            {
+              "language": "y",
+              "value": "James Harden"
+            },
+            {
+              "language": "l",
+              "value": "Harden"
+            },
+            {
+              "language": "v",
+              "value": "Harden"
+            },
+            {
+              "language": "h",
+              "value": "ג'יימס הארדן"
+            },
+            {
+              "language": "e",
+              "value": "ג'יימס הארדן"
+            },
+            {
+              "language": "l",
+              "value": "Džeimss Hardens"
+            },
+            {
+              "language": "v",
+              "value": "Džeimss Hardens"
+            },
+            {
+              "language": "m",
+              "value": "Жеймс Харден"
+            },
+            {
+              "language": "n",
+              "value": "Жеймс Харден"
+            },
+            {
+              "language": "l",
+              "value": "James Harden"
+            },
+            {
+              "language": "t",
+              "value": "James Harden"
+            },
+            {
+              "language": "g",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "James Harden"
+            },
+            {
+              "language": "r",
+              "value": "James Harden"
+            },
+            {
+              "language": "o",
+              "value": "James Harden"
+            },
+            {
+              "language": "e",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "n",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "h",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "u",
+              "value": "James Edward Harden, Jr."
+            },
+            {
+              "language": "n",
+              "value": "James Harden"
+            },
+            {
+              "language": "n",
+              "value": "James Harden"
+            },
+            {
+              "language": "f",
+              "value": "James Harden"
+            },
+            {
+              "language": "i",
+              "value": "James Harden"
+            },
+            {
+              "language": "p",
+              "value": "James Edward Harden Jr"
+            },
+            {
+              "language": "l",
+              "value": "James Edward Harden Jr"
+            },
+            {
+              "language": "l",
+              "value": "Hardens"
+            },
+            {
+              "language": "v",
+              "value": "Hardens"
+            },
+            {
+              "language": "l",
+              "value": "Hārdens"
+            },
+            {
+              "language": "v",
+              "value": "Hārdens"
+            },
+            {
+              "language": "d",
+              "value": "James Harden"
+            },
+            {
+              "language": "e",
+              "value": "James Harden"
+            },
+            {
+              "language": "b",
+              "value": "Джеймс Хардън"
+            },
+            {
+              "language": "g",
+              "value": "Джеймс Хардън"
+            },
+            {
+              "language": "e",
+              "value": "James Harden"
+            },
+            {
+              "language": "u",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "Ceyms Harden"
+            },
+            {
+              "language": "z",
+              "value": "Ceyms Harden"
+            },
+            {
+              "language": "u",
+              "value": "James Harden"
+            },
+            {
+              "language": "z",
+              "value": "James Harden"
+            },
+            {
+              "language": "a",
+              "value": "James Harden"
+            },
+            {
+              "language": "n",
+              "value": "James Harden"
+            },
+            {
+              "language": "z",
+              "value": "詹姆斯·哈登"
+            },
+            {
+              "language": "h",
+              "value": "詹姆斯·哈登"
+            },
+            {
+              "language": "s",
+              "value": "Џејмс Харден"
+            },
+            {
+              "language": "r",
+              "value": "Џејмс Харден"
+            },
+            {
+              "language": "k",
+              "value": "ჯეიმზ ჰარდენი"
+            },
+            {
+              "language": "a",
+              "value": "ჯეიმზ ჰარდენი"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "jharden13"
+            },
+            "twitter": {
+              "id": "JHarden13"
+            },
+            "library_of_congress": {
+              "id": "n2015021816"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1989-08-26",
+          "image": {
+            "url": "https://images.qloo.com/i/FA9CB77E-C739-4534-8B41-6BB2787227E5-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "Arizona State Sun Devils men's basketball",
+            "Oklahoma City Thunder",
+            "Brooklyn Nets",
+            "United States men's national basketball team",
+            "Houston Rockets"
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "American basketball player"
+        },
+        "popularity": 0.9965645078874985,
+        "disambiguation": "1989-08-26",
+        "tags": [
+          {
+            "name": "Olympic Gold Medalists For The United States In Basketball",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_united_states_in_basketball"
+          },
+          {
+            "name": "All-american College Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:all_american_college_mens_basketball_players"
+          },
+          {
+            "name": "Los Angeles Clippers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:los_angeles_clippers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:los_angeles_clippers_players"
+          },
+          {
+            "name": "Brooklyn Nets Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brooklyn_nets_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brooklyn_nets_players"
+          },
+          {
+            "name": "21st-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople"
+          },
+          {
+            "name": "Medalists At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2012_summer_olympics"
+          },
+          {
+            "name": "Basketball Players At The 2012 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2012_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2012_summer_olympics"
+          },
+          {
+            "name": "Basketball Players From Los Angeles",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_los_angeles"
+          },
+          {
+            "name": "Houston Dash Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:houston_dash_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:houston_dash_owners"
+          },
+          {
+            "name": "Philadelphia 76ers Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:philadelphia_76ers_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:philadelphia_76ers_players"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "Nba All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_all_stars"
+          },
+          {
+            "name": "Oklahoma City Thunder Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:oklahoma_city_thunder_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:oklahoma_city_thunder_draft_picks"
+          },
+          {
+            "name": "Mcdonalds High School All-americans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mcdonalds_high_school_all_americans"
+          },
+          {
+            "name": "Houston Rockets Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:houston_rockets_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:houston_rockets_players"
+          },
+          {
+            "name": "Fiba Basketball World Cup-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fiba_basketball_world_cup_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fiba_basketball_world_cup_winning_players"
+          },
+          {
+            "name": "Oklahoma City Thunder Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:oklahoma_city_thunder_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:oklahoma_city_thunder_players"
+          },
+          {
+            "name": "20th-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople"
+          },
+          {
+            "name": "Shooting Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shooting_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shooting_guards"
+          },
+          {
+            "name": "Arizona State Sun Devils Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arizona_state_sun_devils_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arizona_state_sun_devils_mens_basketball_players"
+          },
+          {
+            "name": "United States Mens National Basketball Team Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_states_mens_national_basketball_team_players"
+          },
+          {
+            "name": "Parade High School All-americans (boys Basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:parade_high_school_all_americans_boys_basketball"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "2014 Fiba Basketball World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fiba_basketball_world_cup_players"
+          },
+          {
+            "name": "Artesia High School (california) Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:artesia_high_school_california_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:artesia_high_school_california_alumni"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "African-american Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_christians"
+          },
+          {
+            "name": "Houston Dynamo Fc Owners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:houston_dynamo_fc_owners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:houston_dynamo_fc_owners"
+          },
+          {
+            "name": "Nba Most Valuable Player Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_most_valuable_player_award_winners"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3246 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Oliver Bearman",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Oliver Bearman",
+        "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "奧利華·貝爾曼"
+            },
+            {
+              "language": "h",
+              "value": "奧利華·貝爾曼"
+            },
+            {
+              "language": "f",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "c",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "g",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "z",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "u",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "u",
+              "value": "Олівер Берман"
+            },
+            {
+              "language": "k",
+              "value": "Олівер Берман"
+            },
+            {
+              "language": "a",
+              "value": "أوليفر بيرمان"
+            },
+            {
+              "language": "r",
+              "value": "أوليفر بيرمان"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "c",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "a",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "o",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "d",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "c",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "a",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "f",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "h",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "u",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "n",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "k",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "j",
+              "value": "オリバー・ベアーマン"
+            },
+            {
+              "language": "a",
+              "value": "オリバー・ベアーマン"
+            },
+            {
+              "language": "v",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Берман, Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Берман, Оливер"
+            },
+            {
+              "language": "c",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "f",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Оливер Берман"
+            },
+            {
+              "language": "u",
+              "value": "Оливер Берман"
+            },
+            {
+              "language": "z",
+              "value": "奧利華·貝爾文"
+            },
+            {
+              "language": "h",
+              "value": "奧利華·貝爾文"
+            },
+            {
+              "language": "e",
+              "value": "Όλιβερ Μπέρμαν"
+            },
+            {
+              "language": "l",
+              "value": "Όλιβερ Μπέρμαν"
+            },
+            {
+              "language": "e",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "n",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "v",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "v",
+              "value": "Oliie Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliie Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "f",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "t",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "r",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "s",
+              "value": "Oliver James Bearman"
+            },
+            {
+              "language": "d",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "h",
+              "value": "אוליבר ברמן"
+            },
+            {
+              "language": "e",
+              "value": "אוליבר ברמן"
+            },
+            {
+              "language": "v",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "p",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "l",
+              "value": "Ollie Bearman"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Bearman"
+            },
+            {
+              "language": "b",
+              "value": "Oliver Bearman"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "2005-05-08",
+          "image": {
+            "url": "https://images.qloo.com/i/156A597A-0CBD-4FD8-997B-5D06D4824D84-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing"
+          ],
+          "short_description": "British racing driver (born 2005)"
+        },
+        "disambiguation": "2005-05-08",
+        "tags": [
+          {
+            "name": "English Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers"
+          },
+          {
+            "name": "Italian F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          },
+          {
+            "name": "Mumbai Falcons Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mumbai_falcons_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mumbai_falcons_drivers"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Adac Formula 4 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers"
+          },
+          {
+            "name": "Us Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:us_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:us_racing_drivers"
+          },
+          {
+            "name": "Adac Formula 4 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:adac_formula_4_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:adac_formula_4_champions"
+          },
+          {
+            "name": "English Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_racing_drivers"
+          },
+          {
+            "name": "Formula Regional Asian Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Fortec Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fortec_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fortec_motorsport_drivers"
+          },
+          {
+            "name": "Formula Two Driver",
+            "tag_id": "urn:tag:occupation:person:formula_two_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_two_driver"
+          },
+          {
+            "name": "Brdc British Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brdc_british_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brdc_british_formula_3_championship_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Ferrari Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers"
+          },
+          {
+            "name": "Sportspeople From Chelmsford",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_chelmsford",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_chelmsford"
+          },
+          {
+            "name": "Van Amersfoort Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers"
+          },
+          {
+            "name": "Italian F4 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_champions"
+          }
+        ]
+      },
+      {
+        "name": "Jamie Oliver",
+        "entity_id": "36D81004-4EA4-4FFC-A032-7ECB6B37F6DF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "q",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "p",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "l",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "u",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "m",
+              "value": "Џејми Оливер"
+            },
+            {
+              "language": "k",
+              "value": "Џејми Оливер"
+            },
+            {
+              "language": "e",
+              "value": "James Oliver"
+            },
+            {
+              "language": "n",
+              "value": "James Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Оливер, Джеймс Тревор"
+            },
+            {
+              "language": "u",
+              "value": "Оливер, Джеймс Тревор"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "l",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "d",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "k",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "e",
+              "value": "Τζέιμι Όλιβερ"
+            },
+            {
+              "language": "l",
+              "value": "Τζέιμι Όλιβερ"
+            },
+            {
+              "language": "v",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Оливер Джеймс Тревор"
+            },
+            {
+              "language": "u",
+              "value": "Оливер Джеймс Тревор"
+            },
+            {
+              "language": "d",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "h",
+              "value": "השף הערום"
+            },
+            {
+              "language": "e",
+              "value": "השף הערום"
+            },
+            {
+              "language": "t",
+              "value": "เจมี ออลิเวอร์"
+            },
+            {
+              "language": "h",
+              "value": "เจมี ออลิเวอร์"
+            },
+            {
+              "language": "h",
+              "value": "Ջեյմի Օլիվեր"
+            },
+            {
+              "language": "y",
+              "value": "Ջեյմի Օլիվեր"
+            },
+            {
+              "language": "f",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "e",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "t",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "c",
+              "value": "Оливер Джейми"
+            },
+            {
+              "language": "e",
+              "value": "Оливер Джейми"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Оливер"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Оливер"
+            },
+            {
+              "language": "d",
+              "value": "The Naked Chef"
+            },
+            {
+              "language": "e",
+              "value": "The Naked Chef"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Олівер"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Олівер"
+            },
+            {
+              "language": "r",
+              "value": "Голый повар"
+            },
+            {
+              "language": "u",
+              "value": "Голый повар"
+            },
+            {
+              "language": "u",
+              "value": "Джеймі Олівер"
+            },
+            {
+              "language": "k",
+              "value": "Джеймі Олівер"
+            },
+            {
+              "language": "h",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "u",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "z",
+              "value": "謝美·奧利華"
+            },
+            {
+              "language": "h",
+              "value": "謝美·奧利華"
+            },
+            {
+              "language": "c",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "d",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "a",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "b",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "z",
+              "value": "傑米·奧利弗"
+            },
+            {
+              "language": "h",
+              "value": "傑米·奧利弗"
+            },
+            {
+              "language": "n",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "l",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "m",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "e",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "n",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "n",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "b",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "a",
+              "value": "Ceymi Oliver"
+            },
+            {
+              "language": "z",
+              "value": "Ceymi Oliver"
+            },
+            {
+              "language": "j",
+              "value": "ジェイミー・オリバー"
+            },
+            {
+              "language": "a",
+              "value": "ジェイミー・オリバー"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "o",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "a",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "f",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Оливер"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "t",
+              "value": "James Traver Oliver"
+            },
+            {
+              "language": "r",
+              "value": "James Traver Oliver"
+            },
+            {
+              "language": "h",
+              "value": "ג'יימי אוליבר"
+            },
+            {
+              "language": "e",
+              "value": "ג'יימי אוליבר"
+            },
+            {
+              "language": "r",
+              "value": "Джейми Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Джейми Оливер"
+            },
+            {
+              "language": "s",
+              "value": "Џејми Оливер"
+            },
+            {
+              "language": "r",
+              "value": "Џејми Оливер"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "o",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Oliver"
+            },
+            {
+              "language": "v",
+              "value": "Oliver"
+            },
+            {
+              "language": "f",
+              "value": "جیمی اُلیور"
+            },
+            {
+              "language": "a",
+              "value": "جیمی اُلیور"
+            },
+            {
+              "language": "c",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "a",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "d",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "a",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "James Oliver"
+            },
+            {
+              "language": "k",
+              "value": "James Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "z",
+              "value": "傑米·奧利佛"
+            },
+            {
+              "language": "h",
+              "value": "傑米·奧利佛"
+            },
+            {
+              "language": "e",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "n",
+              "value": "Jamie Trevor Oliver"
+            },
+            {
+              "language": "a",
+              "value": "جيمي أوليفر"
+            },
+            {
+              "language": "r",
+              "value": "جيمي أوليفر"
+            },
+            {
+              "language": "i",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "g",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "a",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "p",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "t",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Джеймс Тревор Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Тревор Оливер"
+            },
+            {
+              "language": "e",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "s",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "h",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "k",
+              "value": "제이미 올리버"
+            },
+            {
+              "language": "o",
+              "value": "제이미 올리버"
+            },
+            {
+              "language": "f",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "i",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "p",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "l",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "h",
+              "value": "השף העירום"
+            },
+            {
+              "language": "e",
+              "value": "השף העירום"
+            },
+            {
+              "language": "j",
+              "value": "ジェイミー・オリヴァー"
+            },
+            {
+              "language": "a",
+              "value": "ジェイミー・オリヴァー"
+            },
+            {
+              "language": "r",
+              "value": "Оливер, Джеймс"
+            },
+            {
+              "language": "u",
+              "value": "Оливер, Джеймс"
+            },
+            {
+              "language": "k",
+              "value": "Оливер, Джеймс Тревор"
+            },
+            {
+              "language": "k",
+              "value": "Оливер, Джеймс Тревор"
+            },
+            {
+              "language": "f",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "r",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "f",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "b",
+              "value": "Джейми Оливър"
+            },
+            {
+              "language": "g",
+              "value": "Джейми Оливър"
+            },
+            {
+              "language": "u",
+              "value": "Джеймс Тревор Олівер"
+            },
+            {
+              "language": "k",
+              "value": "Джеймс Тревор Олівер"
+            },
+            {
+              "language": "z",
+              "value": "杰米·奧利弗"
+            },
+            {
+              "language": "h",
+              "value": "杰米·奧利弗"
+            },
+            {
+              "language": "c",
+              "value": "James Oliver"
+            },
+            {
+              "language": "s",
+              "value": "James Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Ҷеймс Тревор Оливер"
+            },
+            {
+              "language": "g",
+              "value": "Ҷеймс Тревор Оливер"
+            },
+            {
+              "language": "z",
+              "value": "傑米奧利佛"
+            },
+            {
+              "language": "h",
+              "value": "傑米奧利佛"
+            },
+            {
+              "language": "c",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "s",
+              "value": "James Trevor Oliver"
+            },
+            {
+              "language": "s",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "v",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "f",
+              "value": "جیمی الیور"
+            },
+            {
+              "language": "a",
+              "value": "جیمی الیور"
+            },
+            {
+              "language": "p",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "t",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "n",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "n",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "f",
+              "value": "Alaston kokki"
+            },
+            {
+              "language": "i",
+              "value": "Alaston kokki"
+            },
+            {
+              "language": "z",
+              "value": "Jamie Oliver"
+            },
+            {
+              "language": "h",
+              "value": "Jamie Oliver"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "5801"
+            },
+            "instagram": {
+              "id": "jamieoliver"
+            },
+            "twitter": {
+              "id": "jamieoliver"
+            },
+            "imdb": {
+              "id": "nm0646871"
+            },
+            "library_of_congress": {
+              "id": "nb98095360"
+            },
+            "goodreads_author": {
+              "id": "5801"
+            },
+            "musicbrainz": {
+              "id": "11426ca4-9a96-4896-81d1-8e056227eb3b"
+            }
+          },
+          "child": [
+            "Daisy Boo Pamela",
+            "Poppy Oliver"
+          ],
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1975-05-27",
+          "image": {
+            "url": "https://images.qloo.com/i/36D81004-4EA4-4FFC-A032-7ECB6B37F6DF-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Juliette Norton"
+          ],
+          "short_description": "British chef and media personality"
+        },
+        "popularity": 0.9964720974983964,
+        "disambiguation": "1975-05-27",
+        "tags": [
+          {
+            "name": "People Educated At Newport Free Grammar School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_newport_free_grammar_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_newport_free_grammar_school"
+          },
+          {
+            "name": "Food and drink",
+            "tag_id": "urn:tag:genre:media:media:food_drink",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:food_drink"
+          },
+          {
+            "name": "Activist",
+            "tag_id": "urn:tag:occupation:person:activist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:activist"
+          },
+          {
+            "name": "Shorty Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shorty_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shorty_award_winners"
+          },
+          {
+            "name": "English Restaurateurs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_restaurateurs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_restaurateurs"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "British Cookbook Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_cookbook_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_cookbook_writers"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "English Television Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_presenters"
+          },
+          {
+            "name": "English Television Chefs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_chefs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_chefs"
+          },
+          {
+            "name": "People Educated At Hockerill Anglo-european College",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_hockerill_anglo_european_college",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_hockerill_anglo_european_college"
+          },
+          {
+            "name": "Food Network Chefs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:food_network_chefs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:food_network_chefs"
+          },
+          {
+            "name": "Writers With Dyslexia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_dyslexia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_dyslexia"
+          },
+          {
+            "name": "Cuisine",
+            "tag_id": "urn:tag:genre:media:media:cuisine",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cuisine"
+          },
+          {
+            "name": "Social Entrepreneurs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:social_entrepreneurs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:social_entrepreneurs"
+          },
+          {
+            "name": "English Male Chefs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_chefs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_chefs"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Cookbooks",
+            "tag_id": "urn:tag:genre:media:media:cookbooks",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cookbooks"
+          },
+          {
+            "name": "Chef",
+            "tag_id": "urn:tag:genre:person:chef",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:chef"
+          },
+          {
+            "name": "Members Of The Order Of The British Empire",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:members_order_british_empire",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:members_order_british_empire"
+          },
+          {
+            "name": "Blogger",
+            "tag_id": "urn:tag:occupation:person:blogger",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:blogger"
+          },
+          {
+            "name": "British Gastronomes",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_gastronomes",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_gastronomes"
+          },
+          {
+            "name": "Lifestyle Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lifestyle_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lifestyle_youtubers"
+          },
+          {
+            "name": "Cookbook Writer",
+            "tag_id": "urn:tag:occupation:person:cookbook_writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cookbook_writer"
+          },
+          {
+            "name": "British Male Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_male_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_male_bloggers"
+          },
+          {
+            "name": "English Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_youtubers"
+          },
+          {
+            "name": "Chefs Of Italian Cuisine",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chefs_italian_cuisine",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chefs_italian_cuisine"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "British Book Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_book_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_book_award_winners"
+          },
+          {
+            "name": "Artist",
+            "tag_id": "urn:tag:occupation:person:artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:artist"
+          },
+          {
+            "name": "English Writers With Disabilities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_writers_disabilities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_writers_disabilities"
+          },
+          {
+            "name": "English Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_bloggers"
+          },
+          {
+            "name": "Food",
+            "tag_id": "urn:tag:genre:media:media:food",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:food"
+          },
+          {
+            "name": "English Video Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_video_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_video_bloggers"
+          },
+          {
+            "name": "Cooking",
+            "tag_id": "urn:tag:genre:media:media:cooking",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cooking"
+          },
+          {
+            "name": "Recipients Of Italian Civil Awards And Decorations",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_italian_civil_awards_decorations",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_italian_civil_awards_decorations"
+          },
+          {
+            "name": "Writers From Essex",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_from_essex",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_from_essex"
+          },
+          {
+            "name": "Primetime Emmy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners"
+          },
+          {
+            "name": "Food Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:food_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:food_activists"
+          },
+          {
+            "name": "English Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_philanthropists"
+          },
+          {
+            "name": "Chef",
+            "tag_id": "urn:tag:occupation:person:chef",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:chef"
+          },
+          {
+            "name": "Engvarb From August 2017",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2017",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2017"
+          },
+          {
+            "name": "English Food Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_food_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_food_writers"
+          },
+          {
+            "name": "Bafta Winners (people)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bafta_winners_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bafta_winners_people"
+          },
+          {
+            "name": "Food And Cooking Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:food_cooking_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:food_cooking_youtubers"
+          },
+          {
+            "name": "Television Personalities From Essex",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_personalities_from_essex",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_personalities_from_essex"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "English Health Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_health_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_health_activists"
+          },
+          {
+            "name": "Restaurateur",
+            "tag_id": "urn:tag:occupation:person:restaurateur",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:restaurateur"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          }
+        ]
+      },
+      {
+        "name": "John Oliver",
+        "entity_id": "F26F0880-E7FA-4A13-9492-5F191830A0D5",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "v",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "t",
+              "value": "จอห์น โอลิเวอร์"
+            },
+            {
+              "language": "h",
+              "value": "จอห์น โอลิเวอร์"
+            },
+            {
+              "language": "b",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "c",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "b",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John Oliver"
+            },
+            {
+              "language": "g",
+              "value": "John Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John Oliver"
+            },
+            {
+              "language": "d",
+              "value": "John Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John Oliver"
+            },
+            {
+              "language": "l",
+              "value": "Džons Olivers"
+            },
+            {
+              "language": "v",
+              "value": "Džons Olivers"
+            },
+            {
+              "language": "e",
+              "value": "John Oliver"
+            },
+            {
+              "language": "u",
+              "value": "John Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John Oliver"
+            },
+            {
+              "language": "h",
+              "value": "जॉन ऑलिवर"
+            },
+            {
+              "language": "i",
+              "value": "जॉन ऑलिवर"
+            },
+            {
+              "language": "c",
+              "value": "John Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John Oliver"
+            },
+            {
+              "language": "b",
+              "value": "John Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "n",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "n",
+              "value": "John Oliver"
+            },
+            {
+              "language": "n",
+              "value": "John Oliver"
+            },
+            {
+              "language": "p",
+              "value": "John Cornelius Oliver"
+            },
+            {
+              "language": "l",
+              "value": "John Cornelius Oliver"
+            },
+            {
+              "language": "m",
+              "value": "Џон Вилијам Оливер"
+            },
+            {
+              "language": "k",
+              "value": "Џон Вилијам Оливер"
+            },
+            {
+              "language": "b",
+              "value": "John Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "d",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John Cornelius Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John Cornelius Oliver"
+            },
+            {
+              "language": "m",
+              "value": "John Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "r",
+              "value": "Джон Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Джон Оливер"
+            },
+            {
+              "language": "t",
+              "value": "ஜான் ஆலிவர்"
+            },
+            {
+              "language": "a",
+              "value": "ஜான் ஆலிவர்"
+            },
+            {
+              "language": "z",
+              "value": "约翰·奥利弗"
+            },
+            {
+              "language": "h",
+              "value": "约翰·奥利弗"
+            },
+            {
+              "language": "u",
+              "value": "Джон Олівер"
+            },
+            {
+              "language": "k",
+              "value": "Джон Олівер"
+            },
+            {
+              "language": "r",
+              "value": "Оливер, Джон"
+            },
+            {
+              "language": "u",
+              "value": "Оливер, Джон"
+            },
+            {
+              "language": "p",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "o",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "u",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John Oliver"
+            },
+            {
+              "language": "f",
+              "value": "John Oliver"
+            },
+            {
+              "language": "n",
+              "value": "John Oliver"
+            },
+            {
+              "language": "l",
+              "value": "John Oliver"
+            },
+            {
+              "language": "c",
+              "value": "John Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "p",
+              "value": "John Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John Oliver"
+            },
+            {
+              "language": "f",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "f",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "f",
+              "value": "جان الیور"
+            },
+            {
+              "language": "a",
+              "value": "جان الیور"
+            },
+            {
+              "language": "m",
+              "value": "ജോൺ ഒലിവർ"
+            },
+            {
+              "language": "l",
+              "value": "ജോൺ ഒലിവർ"
+            },
+            {
+              "language": "h",
+              "value": "ג'ון אוליבר"
+            },
+            {
+              "language": "e",
+              "value": "ג'ון אוליבר"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "q",
+              "value": "John Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John Oliver"
+            },
+            {
+              "language": "o",
+              "value": "John Oliver"
+            },
+            {
+              "language": "p",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "l",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John Oliver"
+            },
+            {
+              "language": "t",
+              "value": "John Oliver"
+            },
+            {
+              "language": "t",
+              "value": "จอห์น วิลเลียม โอลิเวอร์"
+            },
+            {
+              "language": "h",
+              "value": "จอห์น วิลเลียม โอลิเวอร์"
+            },
+            {
+              "language": "z",
+              "value": "約翰·奧利弗"
+            },
+            {
+              "language": "h",
+              "value": "約翰·奧利弗"
+            },
+            {
+              "language": "y",
+              "value": "John Oliver"
+            },
+            {
+              "language": "o",
+              "value": "John Oliver"
+            },
+            {
+              "language": "h",
+              "value": "John Oliver"
+            },
+            {
+              "language": "u",
+              "value": "John Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John Oliver"
+            },
+            {
+              "language": "d",
+              "value": "John Oliver"
+            },
+            {
+              "language": "e",
+              "value": "Τζον Όλιβερ"
+            },
+            {
+              "language": "l",
+              "value": "Τζον Όλιβερ"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "l",
+              "value": "John Oliver"
+            },
+            {
+              "language": "d",
+              "value": "John Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John Oliver"
+            },
+            {
+              "language": "j",
+              "value": "ジョン・オリヴァー"
+            },
+            {
+              "language": "a",
+              "value": "ジョン・オリヴァー"
+            },
+            {
+              "language": "e",
+              "value": "John Oliver"
+            },
+            {
+              "language": "o",
+              "value": "John Oliver"
+            },
+            {
+              "language": "f",
+              "value": "John Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John Oliver"
+            },
+            {
+              "language": "p",
+              "value": "John Oliver"
+            },
+            {
+              "language": "l",
+              "value": "John Oliver"
+            },
+            {
+              "language": "b",
+              "value": "জন অলিভার"
+            },
+            {
+              "language": "n",
+              "value": "জন অলিভার"
+            },
+            {
+              "language": "j",
+              "value": "ジョン・オリバー"
+            },
+            {
+              "language": "a",
+              "value": "ジョン・オリバー"
+            },
+            {
+              "language": "m",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "c",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "h",
+              "value": "Ջոն Օլիվեր"
+            },
+            {
+              "language": "y",
+              "value": "Ջոն Օլիվեր"
+            },
+            {
+              "language": "v",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "a",
+              "value": "جون أوليفر"
+            },
+            {
+              "language": "r",
+              "value": "جون أوليفر"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "v",
+              "value": "John Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John Oliver"
+            },
+            {
+              "language": "s",
+              "value": "John Oliver"
+            },
+            {
+              "language": "v",
+              "value": "John Oliver"
+            },
+            {
+              "language": "i",
+              "value": "John Oliver"
+            },
+            {
+              "language": "f",
+              "value": "John Oliver"
+            },
+            {
+              "language": "r",
+              "value": "John Oliver"
+            },
+            {
+              "language": "d",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "a",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "m",
+              "value": "Џон Оливер"
+            },
+            {
+              "language": "k",
+              "value": "Џон Оливер"
+            },
+            {
+              "language": "b",
+              "value": "Джон Оливър"
+            },
+            {
+              "language": "g",
+              "value": "Джон Оливър"
+            },
+            {
+              "language": "d",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "e",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "h",
+              "value": "ג'ון ויליאם אוליבר"
+            },
+            {
+              "language": "e",
+              "value": "ג'ון ויליאם אוליבר"
+            },
+            {
+              "language": "n",
+              "value": "John Oliver"
+            },
+            {
+              "language": "b",
+              "value": "John Oliver"
+            },
+            {
+              "language": "h",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "u",
+              "value": "John William Oliver"
+            },
+            {
+              "language": "k",
+              "value": "존 올리버"
+            },
+            {
+              "language": "o",
+              "value": "존 올리버"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "iamjohnoliver"
+            },
+            "imdb": {
+              "id": "nm1056659"
+            },
+            "library_of_congress": {
+              "id": "no2011111767"
+            },
+            "musicbrainz": {
+              "id": "06aef249-bf93-4d02-8883-60dc87c836f3"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "United Kingdom"
+          ],
+          "date_of_birth": "1977-04-23",
+          "image": {
+            "url": "https://images.qloo.com/i/F26F0880-E7FA-4A13-9492-5F191830A0D5-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "influenced_by": [
+            "Jon Stewart",
+            "Richard Pryor",
+            "Monty Python",
+            "Peter Cook",
+            "David Letterman"
+          ],
+          "notable_work": [
+            "Last Week Tonight with John Oliver",
+            "The Daily Show Mondays with Jon Stewart",
+            "The Bugle",
+            "The Lion King"
+          ],
+          "spouse": [
+            "Kate Norley"
+          ],
+          "work_period_start": "1998-01-01",
+          "short_description": "British-American comedian and television host"
+        },
+        "popularity": 0.9870244941890173,
+        "disambiguation": "1977-04-23",
+        "tags": [
+          {
+            "name": "English Republicans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_republicans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_republicans"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Late Night Television Talk Show Hosts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:late_night_television_talk_show_hosts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:late_night_television_talk_show_hosts"
+          },
+          {
+            "name": "Journalist",
+            "tag_id": "urn:tag:occupation:person:journalist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:journalist"
+          },
+          {
+            "name": "American Podcasters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_podcasters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_podcasters"
+          },
+          {
+            "name": "20th-century English Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_comedians"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "American Male Television Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_writers"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Alumni Of Christ",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alumni_christ",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alumni_christ"
+          },
+          {
+            "name": "Naturalized Citizens Of The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalized_citizens_united_states"
+          },
+          {
+            "name": "English Comedy Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_comedy_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_comedy_writers"
+          },
+          {
+            "name": "Former Anglicans",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:former_anglicans",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:former_anglicans"
+          },
+          {
+            "name": "Writers Guild Of America Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_guild_america_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_guild_america_award_winners"
+          },
+          {
+            "name": "English Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_personalities"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:occupation:person:comedian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:comedian"
+          },
+          {
+            "name": "American Comedy Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_comedy_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_comedy_writers"
+          },
+          {
+            "name": "People With Multiple Nationality",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_multiple_nationality",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_multiple_nationality"
+          },
+          {
+            "name": "English Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_television_actors"
+          },
+          {
+            "name": "Anti-monarchists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:anti_monarchists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:anti_monarchists"
+          },
+          {
+            "name": "English Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_comedians"
+          },
+          {
+            "name": "21st-century English Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_comedians"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "21st-century American Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_comedians"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "American Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_voice_actors"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "English Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_voice_actors"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "People Educated At Mark Rutherford School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_mark_rutherford_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_mark_rutherford_school"
+          },
+          {
+            "name": "English Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_television_producers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "National Youth Theatre Members",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_youth_theatre_members",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_youth_theatre_members"
+          },
+          {
+            "name": "American Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_personalities"
+          },
+          {
+            "name": "American Television Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_producers"
+          },
+          {
+            "name": "Primetime Emmy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:genre:person:comedian",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:comedian"
+          },
+          {
+            "name": "English Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_emigrants_to_united_states"
+          },
+          {
+            "name": "American Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_comedians"
+          },
+          {
+            "name": "20th-century English Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_male_actors"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "21st-century English Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_male_actors"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "English Podcasters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_podcasters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_podcasters"
+          },
+          {
+            "name": "English Male Television Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_male_television_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_male_television_writers"
+          }
+        ]
+      },
+      {
+        "name": "Oliver Sean",
+        "entity_id": "912D69C1-9072-4B6D-AF3F-45E499DE2E2B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "r",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Sean Alvares"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Sean Alvares"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "d",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "g",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "a",
+              "value": "أوليفر شون"
+            },
+            {
+              "language": "r",
+              "value": "أوليفر شون"
+            },
+            {
+              "language": "b",
+              "value": "অলিভার শান"
+            },
+            {
+              "language": "n",
+              "value": "অলিভার শান"
+            },
+            {
+              "language": "c",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Sean"
+            },
+            {
+              "language": "q",
+              "value": "Oliver Sean"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "oliversean"
+            },
+            "twitter": {
+              "id": "oliversean"
+            },
+            "imdb": {
+              "id": "nm8723591"
+            },
+            "musicbrainz": {
+              "id": "adef13c5-778b-4c88-b02f-fb45d5108da5"
+            }
+          },
+          "citizenship": [
+            "Portugal",
+            "India"
+          ],
+          "date_of_birth": "1979-10-11",
+          "image": {
+            "url": "https://images.qloo.com/i/912D69C1-9072-4B6D-AF3F-45E499DE2E2B-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1999-01-01",
+          "short_description": "MTV Europe Music Awards Nominated Singer Songwriter and Film Maker"
+        },
+        "popularity": 0.9833117709092095,
+        "disambiguation": "1979-10-11",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Indian Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_male_singer_songwriters"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "21st-century Indian Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_male_singers"
+          },
+          {
+            "name": "Portuguese People Of American Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_people_american_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_people_american_descent"
+          },
+          {
+            "name": "21st-century Portuguese Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_portuguese_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_portuguese_male_singers"
+          },
+          {
+            "name": "Engvarb From August 2014",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2014",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2014"
+          },
+          {
+            "name": "Musicians From Goa",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_goa",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_goa"
+          },
+          {
+            "name": "Portuguese Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_singer_songwriters"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "21st-century Indian Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_indian_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_indian_singers"
+          },
+          {
+            "name": "Singers From Goa",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_goa",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_goa"
+          },
+          {
+            "name": "Indian Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_singer_songwriters"
+          },
+          {
+            "name": "Portuguese Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:portuguese_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:portuguese_male_singer_songwriters"
+          },
+          {
+            "name": "Indian People Of American Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indian_people_american_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indian_people_american_descent"
+          }
+        ]
+      },
+      {
+        "name": "Oliver Pocher",
+        "entity_id": "13BDA4A8-0A64-45F9-B11E-8E5A923F3863",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "d",
+              "value": "Straßenkobra"
+            },
+            {
+              "language": "e",
+              "value": "Straßenkobra"
+            },
+            {
+              "language": "g",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "q",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Похер О."
+            },
+            {
+              "language": "u",
+              "value": "Похер О."
+            },
+            {
+              "language": "j",
+              "value": "オリヴァー・ポッヒャー"
+            },
+            {
+              "language": "a",
+              "value": "オリヴァー・ポッヒャー"
+            },
+            {
+              "language": "m",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "k",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "d",
+              "value": "Olli Pocher"
+            },
+            {
+              "language": "e",
+              "value": "Olli Pocher"
+            },
+            {
+              "language": "s",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "r",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "j",
+              "value": "オリヴァー・ポッハー"
+            },
+            {
+              "language": "a",
+              "value": "オリヴァー・ポッハー"
+            },
+            {
+              "language": "c",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "d",
+              "value": "Oli Pocher"
+            },
+            {
+              "language": "e",
+              "value": "Oli Pocher"
+            },
+            {
+              "language": "j",
+              "value": "オリヴァー・ポハー"
+            },
+            {
+              "language": "a",
+              "value": "オリヴァー・ポハー"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "z",
+              "value": "奥利弗·波赫尔"
+            },
+            {
+              "language": "h",
+              "value": "奥利弗·波赫尔"
+            },
+            {
+              "language": "n",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "b",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "o",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "c",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "d",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "h",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "u",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "d",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "a",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "l",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "v",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "f",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Похер"
+            },
+            {
+              "language": "u",
+              "value": "Похер"
+            },
+            {
+              "language": "r",
+              "value": "Похер, Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Похер, Оливер"
+            },
+            {
+              "language": "p",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "t",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "u",
+              "value": "Оливер Похер"
+            },
+            {
+              "language": "e",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "s",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "r",
+              "value": "Похер Оливер"
+            },
+            {
+              "language": "u",
+              "value": "Похер Оливер"
+            },
+            {
+              "language": "f",
+              "value": "Oliver Pocher"
+            },
+            {
+              "language": "i",
+              "value": "Oliver Pocher"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "oliverpocher"
+            },
+            "twitter": {
+              "id": "oliverpocher"
+            },
+            "imdb": {
+              "id": "nm1056986"
+            },
+            "musicbrainz": {
+              "id": "47f689bd-3cc4-42aa-8257-337d86fa90f1"
+            }
+          },
+          "citizenship": [
+            "Germany"
+          ],
+          "date_of_birth": "1978-02-18",
+          "image": {
+            "url": "https://images.qloo.com/i/13BDA4A8-0A64-45F9-B11E-8E5A923F3863-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "spouse": [
+            "Amira Pocher",
+            "Alessandra Meyer-Wölden"
+          ],
+          "short_description": "German comedian and entertainer"
+        },
+        "popularity": 0.9818060251573695,
+        "disambiguation": "1978-02-18",
+        "tags": [
+          {
+            "name": "Rtl Group People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rtl_group_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rtl_group_people"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "German Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_male_comedians"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:occupation:person:comedian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:comedian"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "Prosieben People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prosieben_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prosieben_people"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Musicians From Hanover",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_hanover",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:musicians_from_hanover"
+          },
+          {
+            "name": "Game-show",
+            "tag_id": "urn:tag:genre:media:media:game_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:game_show"
+          },
+          {
+            "name": "Bundesvision Song Contest",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bundesvision_song_contest",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bundesvision_song_contest"
+          },
+          {
+            "name": "Ard (broadcaster) People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ard_broadcaster_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ard_broadcaster_people"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:genre:person:comedian",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:comedian"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Former Jehovahs Witnesses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:former_jehovahs_witnesses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:former_jehovahs_witnesses"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Comedians From Lower Saxony",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_lower_saxony",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_lower_saxony"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Voice Actor",
+            "tag_id": "urn:tag:occupation:person:voice_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:voice_actor"
+          },
+          {
+            "name": "Television People From Lower Saxony",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:television_people_from_lower_saxony",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:television_people_from_lower_saxony"
+          },
+          {
+            "name": "Sat.1 People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sat_1_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sat_1_people"
+          }
+        ]
+      }
+    ]
+  }
+}

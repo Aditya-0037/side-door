@@ -1,0 +1,3428 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Cole Palmer",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Cole Palmer",
+        "entity_id": "A8E2EA95-4C22-4B86-8C9D-26C0F526C564",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Палмер, Коул"
+            },
+            {
+              "language": "u",
+              "value": "Палмер, Коул"
+            },
+            {
+              "language": "i",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "j",
+              "value": "コール・パーマー"
+            },
+            {
+              "language": "a",
+              "value": "コール・パーマー"
+            },
+            {
+              "language": "b",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "u",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "k",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "i",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "h",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "h",
+              "value": "קול פאלמר"
+            },
+            {
+              "language": "e",
+              "value": "קול פאלמר"
+            },
+            {
+              "language": "z",
+              "value": "科尔·帕尔默"
+            },
+            {
+              "language": "h",
+              "value": "科尔·帕尔默"
+            },
+            {
+              "language": "r",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "u",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "s",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "v",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "z",
+              "value": "科爾·帕爾默"
+            },
+            {
+              "language": "h",
+              "value": "科爾·帕爾默"
+            },
+            {
+              "language": "v",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "a",
+              "value": "كول بالمر"
+            },
+            {
+              "language": "r",
+              "value": "كول بالمر"
+            },
+            {
+              "language": "b",
+              "value": "কোল পামার"
+            },
+            {
+              "language": "n",
+              "value": "কোল পামার"
+            },
+            {
+              "language": "f",
+              "value": "کول پالمر"
+            },
+            {
+              "language": "a",
+              "value": "کول پالمر"
+            },
+            {
+              "language": "p",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "k",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "k",
+              "value": "Коул Палмер"
+            },
+            {
+              "language": "z",
+              "value": "高爾·帕馬"
+            },
+            {
+              "language": "h",
+              "value": "高爾·帕馬"
+            },
+            {
+              "language": "i",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "t",
+              "value": "โคล ปาล์มเมอร์"
+            },
+            {
+              "language": "h",
+              "value": "โคล ปาล์มเมอร์"
+            },
+            {
+              "language": "f",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Cole Jermaine Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "k",
+              "value": "콜 파머"
+            },
+            {
+              "language": "o",
+              "value": "콜 파머"
+            },
+            {
+              "language": "n",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "b",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Кол Палмер"
+            },
+            {
+              "language": "r",
+              "value": "Кол Палмер"
+            },
+            {
+              "language": "h",
+              "value": "Cole Palmer"
+            },
+            {
+              "language": "u",
+              "value": "Cole Palmer"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "colepalmer_10"
+            },
+            "imdb": {
+              "id": "nm13622331"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "2002-05-06",
+          "image": {
+            "url": "https://images.qloo.com/i/A8E2EA95-4C22-4B86-8C9D-26C0F526C564-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "England national association football team",
+            "Chelsea F.C.",
+            "England national under-18 association football team",
+            "England national under-17 association football team",
+            "Manchester City F.C.",
+            "England national under-21 association football team"
+          ],
+          "short_description": "English association football player (born 2002)"
+        },
+        "popularity": 0.4485491568910971,
+        "disambiguation": "2002-05-06",
+        "tags": [
+          {
+            "name": "Mens Association Football Wingers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers"
+          },
+          {
+            "name": "Sportspeople Of Saint Kitts And Nevis Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_saint_kitts_nevis_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_saint_kitts_nevis_descent"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "English People Of Saint Kitts And Nevis Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_saint_kitts_nevis_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_saint_kitts_nevis_descent"
+          },
+          {
+            "name": "Engvarb From May 2024",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2024",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2024"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          },
+          {
+            "name": "England Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Footballers From Wythenshawe",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_wythenshawe",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_wythenshawe"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "England Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers"
+          }
+        ]
+      },
+      {
+        "name": "Cole Sprouse",
+        "entity_id": "33494C8B-3E31-4CA7-849D-504C928FDBC0",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "v",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "f",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Коул Спраус"
+            },
+            {
+              "language": "g",
+              "value": "Коул Спраус"
+            },
+            {
+              "language": "t",
+              "value": "โคล มิตเชลล์ สเปราส์"
+            },
+            {
+              "language": "h",
+              "value": "โคล มิตเชลล์ สเปราส์"
+            },
+            {
+              "language": "f",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "m",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "g",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "f",
+              "value": "کول میچل اسپراوس"
+            },
+            {
+              "language": "a",
+              "value": "کول میچل اسپراوس"
+            },
+            {
+              "language": "h",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "콜 스프라우스"
+            },
+            {
+              "language": "o",
+              "value": "콜 스프라우스"
+            },
+            {
+              "language": "m",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "z",
+              "value": "科尔·斯普罗斯"
+            },
+            {
+              "language": "h",
+              "value": "科尔·斯普罗斯"
+            },
+            {
+              "language": "e",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "m",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "f",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "y",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "ქოულ სპროუსი"
+            },
+            {
+              "language": "a",
+              "value": "ქოულ სპროუსი"
+            },
+            {
+              "language": "c",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "m",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "โคล สเปราส์"
+            },
+            {
+              "language": "h",
+              "value": "โคล สเปราส์"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Спроус, Коул"
+            },
+            {
+              "language": "u",
+              "value": "Спроус, Коул"
+            },
+            {
+              "language": "n",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "b",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "z",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "w",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "h",
+              "value": "קול ספראוס"
+            },
+            {
+              "language": "e",
+              "value": "קול ספראוס"
+            },
+            {
+              "language": "s",
+              "value": "Кол Спраус"
+            },
+            {
+              "language": "r",
+              "value": "Кол Спраус"
+            },
+            {
+              "language": "w",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Спраус, Коул"
+            },
+            {
+              "language": "u",
+              "value": "Спраус, Коул"
+            },
+            {
+              "language": "v",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Κολ Σπράους"
+            },
+            {
+              "language": "l",
+              "value": "Κολ Σπράους"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "b",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "b",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "w",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "q",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "Кол Спраус"
+            },
+            {
+              "language": "k",
+              "value": "Кол Спраус"
+            },
+            {
+              "language": "t",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Коул Мітчел Спроус"
+            },
+            {
+              "language": "k",
+              "value": "Коул Мітчел Спроус"
+            },
+            {
+              "language": "r",
+              "value": "Коул Спраус"
+            },
+            {
+              "language": "u",
+              "value": "Коул Спраус"
+            },
+            {
+              "language": "e",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Коул Спроус"
+            },
+            {
+              "language": "k",
+              "value": "Коул Спроус"
+            },
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "y",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "g",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "c",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "h",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "p",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "meo"
+            },
+            {
+              "language": "s",
+              "value": "meo"
+            },
+            {
+              "language": "p",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "p",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "h",
+              "value": "Քոուլ Սփրոուս"
+            },
+            {
+              "language": "y",
+              "value": "Քոուլ Սփրոուս"
+            },
+            {
+              "language": "j",
+              "value": "コール・スプラウス"
+            },
+            {
+              "language": "a",
+              "value": "コール・スプラウス"
+            },
+            {
+              "language": "h",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Коул Спроус"
+            },
+            {
+              "language": "u",
+              "value": "Коул Спроус"
+            },
+            {
+              "language": "g",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "f",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "b",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "v",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "كول سبراوس"
+            },
+            {
+              "language": "r",
+              "value": "كول سبراوس"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "u",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "h",
+              "value": "ג׳הג׳הד ג׳ונס החתיך"
+            },
+            {
+              "language": "e",
+              "value": "ג׳הג׳הד ג׳ונס החתיך"
+            },
+            {
+              "language": "p",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "v",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "n",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "i",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Mitchell Sprouse"
+            },
+            {
+              "language": "s",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "g",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "l",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "k",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "g",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "e",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "o",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "m",
+              "value": "Кол Спрауз"
+            },
+            {
+              "language": "k",
+              "value": "Кол Спрауз"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "f",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "c",
+              "value": "Cole Michael Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Michael Sprouse"
+            },
+            {
+              "language": "d",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "a",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "t",
+              "value": "Cole Sprouse"
+            },
+            {
+              "language": "r",
+              "value": "Cole Sprouse"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "colesprouse"
+            },
+            "metacritic": {
+              "id": "person/cole-sprouse"
+            },
+            "twitter": {
+              "id": "colesprouse"
+            },
+            "imdb": {
+              "id": "nm0819850"
+            },
+            "library_of_congress": {
+              "id": "no00010806"
+            },
+            "musicbrainz": {
+              "id": "d5f23698-da73-41c0-b9c4-03605876f047"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1992-08-04",
+          "image": {
+            "url": "https://images.qloo.com/i/33494C8B-3E31-4CA7-849D-504C928FDBC0-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "notable_work": [
+            "Riverdale",
+            "The Suite Life of Zack & Cody"
+          ],
+          "work_period_start": "1993-01-01",
+          "short_description": "American actor (born 1992)"
+        },
+        "popularity": 0.9992063578347702,
+        "disambiguation": "1992-08-04",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "American Male Child Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_child_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_child_actors"
+          },
+          {
+            "name": "20th-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "American Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_film_actors"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "American Identical Twin Child Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_identical_twin_child_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_identical_twin_child_actors"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "New York University Gallatin School Of Individualized Study Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_university_gallatin_school_individualized_study_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:new_york_university_gallatin_school_individualized_study_alumni"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Male Actors From Tuscany",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_tuscany",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_tuscany"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "Identical Twin Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:identical_twin_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:identical_twin_male_actors"
+          },
+          {
+            "name": "People From Arezzo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_arezzo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_arezzo"
+          },
+          {
+            "name": "Photographer",
+            "tag_id": "urn:tag:occupation:person:photographer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:photographer"
+          }
+        ]
+      },
+      {
+        "name": "J. Cole",
+        "entity_id": "1149A2BB-F73E-42A0-BE28-F130092A7742",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "d",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "q",
+              "value": "J. Cole"
+            },
+            {
+              "language": "i",
+              "value": "Jermaine Cole"
+            },
+            {
+              "language": "g",
+              "value": "Jermaine Cole"
+            },
+            {
+              "language": "c",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "s",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "u",
+              "value": "J. Cole"
+            },
+            {
+              "language": "k",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "J. Cole"
+            },
+            {
+              "language": "r",
+              "value": "J. Cole"
+            },
+            {
+              "language": "f",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "i",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "r",
+              "value": "Коул, Джей"
+            },
+            {
+              "language": "u",
+              "value": "Коул, Джей"
+            },
+            {
+              "language": "h",
+              "value": "ג'יי קול"
+            },
+            {
+              "language": "e",
+              "value": "ג'יי קול"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "l",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "t",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "e",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "J. Cole"
+            },
+            {
+              "language": "c",
+              "value": "J. Cole"
+            },
+            {
+              "language": "y",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "เจ.โคล"
+            },
+            {
+              "language": "h",
+              "value": "เจ.โคล"
+            },
+            {
+              "language": "c",
+              "value": "J. Cole"
+            },
+            {
+              "language": "a",
+              "value": "J. Cole"
+            },
+            {
+              "language": "b",
+              "value": "জে কোল"
+            },
+            {
+              "language": "n",
+              "value": "জে কোল"
+            },
+            {
+              "language": "h",
+              "value": "Ջեյ Քոլ"
+            },
+            {
+              "language": "y",
+              "value": "Ջեյ Քոլ"
+            },
+            {
+              "language": "e",
+              "value": "J. Cole"
+            },
+            {
+              "language": "u",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "s",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "i",
+              "value": "J. Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "g",
+              "value": "J. Cole"
+            },
+            {
+              "language": "a",
+              "value": "J. Cole"
+            },
+            {
+              "language": "m",
+              "value": "ജെ. കോൾ"
+            },
+            {
+              "language": "l",
+              "value": "ജെ. കോൾ"
+            },
+            {
+              "language": "r",
+              "value": "Джей Коул"
+            },
+            {
+              "language": "u",
+              "value": "Джей Коул"
+            },
+            {
+              "language": "n",
+              "value": "J. Cole"
+            },
+            {
+              "language": "b",
+              "value": "J. Cole"
+            },
+            {
+              "language": "v",
+              "value": "J. Cole"
+            },
+            {
+              "language": "i",
+              "value": "J. Cole"
+            },
+            {
+              "language": "m",
+              "value": "Џеј Кол"
+            },
+            {
+              "language": "k",
+              "value": "Џеј Кол"
+            },
+            {
+              "language": "e",
+              "value": "Therapist"
+            },
+            {
+              "language": "n",
+              "value": "Therapist"
+            },
+            {
+              "language": "f",
+              "value": "J. Cole"
+            },
+            {
+              "language": "i",
+              "value": "J. Cole"
+            },
+            {
+              "language": "l",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "J. Cole"
+            },
+            {
+              "language": "i",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "J. Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "v",
+              "value": "J. Cole"
+            },
+            {
+              "language": "d",
+              "value": "J. Cole"
+            },
+            {
+              "language": "a",
+              "value": "J. Cole"
+            },
+            {
+              "language": "i",
+              "value": "J. Cole"
+            },
+            {
+              "language": "d",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "n",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "p",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "J. Cole"
+            },
+            {
+              "language": "s",
+              "value": "Џ. Кол"
+            },
+            {
+              "language": "r",
+              "value": "Џ. Кол"
+            },
+            {
+              "language": "h",
+              "value": "J. Cole"
+            },
+            {
+              "language": "u",
+              "value": "J. Cole"
+            },
+            {
+              "language": "n",
+              "value": "J. Cole"
+            },
+            {
+              "language": "n",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "Kill Edward"
+            },
+            {
+              "language": "n",
+              "value": "Kill Edward"
+            },
+            {
+              "language": "k",
+              "value": "ជេ ខូល"
+            },
+            {
+              "language": "m",
+              "value": "ជេ ខូល"
+            },
+            {
+              "language": "c",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "a",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "i",
+              "value": "J Cole"
+            },
+            {
+              "language": "g",
+              "value": "J Cole"
+            },
+            {
+              "language": "d",
+              "value": "J. Cole"
+            },
+            {
+              "language": "e",
+              "value": "J. Cole"
+            },
+            {
+              "language": "d",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "e",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "k",
+              "value": "제이 콜"
+            },
+            {
+              "language": "o",
+              "value": "제이 콜"
+            },
+            {
+              "language": "v",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "i",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "h",
+              "value": "J. Cole"
+            },
+            {
+              "language": "r",
+              "value": "J. Cole"
+            },
+            {
+              "language": "r",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "o",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "d",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "a",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "w",
+              "value": "J. Cole"
+            },
+            {
+              "language": "p",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "t",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "r",
+              "value": "J. Cole"
+            },
+            {
+              "language": "o",
+              "value": "J. Cole"
+            },
+            {
+              "language": "t",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "r",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "e",
+              "value": "Hollywood Cole"
+            },
+            {
+              "language": "n",
+              "value": "Hollywood Cole"
+            },
+            {
+              "language": "p",
+              "value": "J. Cole"
+            },
+            {
+              "language": "l",
+              "value": "J. Cole"
+            },
+            {
+              "language": "a",
+              "value": "J. Cole"
+            },
+            {
+              "language": "z",
+              "value": "J. Cole"
+            },
+            {
+              "language": "c",
+              "value": "J. Cole"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "r",
+              "value": "J. Cole"
+            },
+            {
+              "language": "u",
+              "value": "J. Cole"
+            },
+            {
+              "language": "h",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "u",
+              "value": "Jermaine Lamarr Cole"
+            },
+            {
+              "language": "s",
+              "value": "Jermaine Lamar Cole"
+            },
+            {
+              "language": "w",
+              "value": "Jermaine Lamar Cole"
+            },
+            {
+              "language": "n",
+              "value": "J. Cole"
+            },
+            {
+              "language": "l",
+              "value": "J. Cole"
+            },
+            {
+              "language": "f",
+              "value": "جی. کول"
+            },
+            {
+              "language": "a",
+              "value": "جی. کول"
+            },
+            {
+              "language": "s",
+              "value": "J. Cole"
+            },
+            {
+              "language": "k",
+              "value": "J. Cole"
+            },
+            {
+              "language": "j",
+              "value": "J・コール"
+            },
+            {
+              "language": "a",
+              "value": "J・コール"
+            },
+            {
+              "language": "z",
+              "value": "J·科尔"
+            },
+            {
+              "language": "h",
+              "value": "J·科尔"
+            },
+            {
+              "language": "f",
+              "value": "J. Cole"
+            },
+            {
+              "language": "r",
+              "value": "J. Cole"
+            },
+            {
+              "language": "a",
+              "value": "جيه. كول"
+            },
+            {
+              "language": "r",
+              "value": "جيه. كول"
+            },
+            {
+              "language": "e",
+              "value": "Τζέι Κόουλ"
+            },
+            {
+              "language": "l",
+              "value": "Τζέι Κόουλ"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "J.+Cole"
+            },
+            "instagram": {
+              "id": "realcoleworld"
+            },
+            "twitter": {
+              "id": "JColeNC"
+            },
+            "spotify": {
+              "id": "6l3HvQ5sa6mXTsMTB19rO5"
+            },
+            "imdb": {
+              "id": "nm3359577"
+            },
+            "library_of_congress": {
+              "id": "no2010206598"
+            },
+            "musicbrainz": {
+              "id": "875203e1-8e58-4b86-8dcb-7190faf411c5"
+            }
+          },
+          "citizenship": [
+            "United States of America",
+            "Germany"
+          ],
+          "date_of_birth": "1985-01-28",
+          "image": {
+            "url": "https://images.qloo.com/i/1149A2BB-F73E-42A0-BE28-F130092A7742-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "American rapper and record producer (born 1985)"
+        },
+        "popularity": 0.9980376382078907,
+        "disambiguation": "1985-01-28",
+        "tags": [
+          {
+            "name": "Rapper",
+            "tag_id": "urn:tag:occupation:person:rapper",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rapper"
+          },
+          {
+            "name": "American Hip Hop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "African-american Male Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_male_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_male_rappers"
+          },
+          {
+            "name": "Singer-songwriters From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_north_carolina"
+          },
+          {
+            "name": "American Male Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_rappers"
+          },
+          {
+            "name": "American Hip Hop Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_hip_hop_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_hip_hop_record_producers"
+          },
+          {
+            "name": "American Salespeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_salespeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_salespeople"
+          },
+          {
+            "name": "21st-century African-american Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_male_singers"
+          },
+          {
+            "name": "21st-century American Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_singers"
+          },
+          {
+            "name": "American Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_singer_songwriters"
+          },
+          {
+            "name": "Rappers From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rappers_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rappers_from_north_carolina"
+          },
+          {
+            "name": "Grammy Award Winners For Rap Music",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:grammy_award_winners_rap_music",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:grammy_award_winners_rap_music"
+          },
+          {
+            "name": "Columbia Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:columbia_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:columbia_records_artists"
+          },
+          {
+            "name": "St. Johns University (new York City) Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:st_johns_university_new_york_city_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:st_johns_university_new_york_city_alumni"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "Businesspeople From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:businesspeople_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:businesspeople_from_north_carolina"
+          },
+          {
+            "name": "American Music Industry Executives",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_music_industry_executives",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_music_industry_executives"
+          },
+          {
+            "name": "J. Cole",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:j_cole",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:j_cole"
+          },
+          {
+            "name": "African-american Record Producers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_record_producers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_record_producers"
+          },
+          {
+            "name": "Scarborough Shooting Stars Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:scarborough_shooting_stars_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:scarborough_shooting_stars_players"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "American Expatriate Basketball People In Canada",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_canada",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_canada"
+          },
+          {
+            "name": "American Expatriate Basketball People In Rwanda",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_rwanda",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_expatriate_basketball_people_in_rwanda"
+          },
+          {
+            "name": "Shooting Guards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:shooting_guards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:shooting_guards"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Patriots Bbc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:patriots_bbc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:patriots_bbc_players"
+          },
+          {
+            "name": "21st-century American Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_rappers"
+          },
+          {
+            "name": "Southern Hip Hop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:southern_hip_hop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:southern_hip_hop_musicians"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Basketball Players From North Carolina",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_from_north_carolina",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_from_north_carolina"
+          },
+          {
+            "name": "Roc Nation Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:roc_nation_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:roc_nation_artists"
+          },
+          {
+            "name": "Record Producer",
+            "tag_id": "urn:tag:occupation:person:record_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:record_producer"
+          },
+          {
+            "name": "Dreamville Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dreamville_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dreamville_records_artists"
+          },
+          {
+            "name": "African-american Male Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_male_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_male_singer_songwriters"
+          }
+        ]
+      },
+      {
+        "name": "Keke Palmer",
+        "entity_id": "0ED2710D-749C-4701-AC86-4C21DB82B39B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "y",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Tonight"
+            },
+            {
+              "language": "t",
+              "value": "Tonight"
+            },
+            {
+              "language": "i",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "g",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕梅尔"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕梅尔"
+            },
+            {
+              "language": "l",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "b",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕爾梅爾"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕爾梅爾"
+            },
+            {
+              "language": "h",
+              "value": "Կեկե Փալմեր"
+            },
+            {
+              "language": "y",
+              "value": "Կեկե Փալմեր"
+            },
+            {
+              "language": "e",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "k",
+              "value": "키키 파머"
+            },
+            {
+              "language": "o",
+              "value": "키키 파머"
+            },
+            {
+              "language": "a",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "k",
+              "value": "케케 파머"
+            },
+            {
+              "language": "o",
+              "value": "케케 파머"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Κέκε Πάλμερ"
+            },
+            {
+              "language": "l",
+              "value": "Κέκε Πάλμερ"
+            },
+            {
+              "language": "g",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "v",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕尔玛"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕尔玛"
+            },
+            {
+              "language": "i",
+              "value": "Lauren Palmer"
+            },
+            {
+              "language": "g",
+              "value": "Lauren Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keke P."
+            },
+            {
+              "language": "s",
+              "value": "Keke P."
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "g",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "y",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "c",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keyana Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Keyana Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Палмер, Кеке"
+            },
+            {
+              "language": "u",
+              "value": "Палмер, Кеке"
+            },
+            {
+              "language": "d",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "j",
+              "value": "キキ・パーマー"
+            },
+            {
+              "language": "a",
+              "value": "キキ・パーマー"
+            },
+            {
+              "language": "u",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "z",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Walls Come Down"
+            },
+            {
+              "language": "t",
+              "value": "Walls Come Down"
+            },
+            {
+              "language": "k",
+              "value": "Кеке Палмер"
+            },
+            {
+              "language": "k",
+              "value": "Кеке Палмер"
+            },
+            {
+              "language": "h",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "u",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Keke"
+            },
+            {
+              "language": "g",
+              "value": "Keke"
+            },
+            {
+              "language": "t",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪‧帕瑪"
+            },
+            {
+              "language": "h",
+              "value": "琪琪‧帕瑪"
+            },
+            {
+              "language": "t",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "k",
+              "value": "კეკე პალმერი"
+            },
+            {
+              "language": "a",
+              "value": "კეკე პალმერი"
+            },
+            {
+              "language": "g",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keyana Lauren Palmer"
+            },
+            {
+              "language": "t",
+              "value": "Keyana Lauren Palmer"
+            },
+            {
+              "language": "v",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "m",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Лорен Кейяна «Кики» Палмер"
+            },
+            {
+              "language": "u",
+              "value": "Лорен Кейяна «Кики» Палмер"
+            },
+            {
+              "language": "n",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keke"
+            },
+            {
+              "language": "n",
+              "value": "Keke"
+            },
+            {
+              "language": "e",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "Awaken"
+            },
+            {
+              "language": "t",
+              "value": "Awaken"
+            },
+            {
+              "language": "h",
+              "value": "קיקי פאלמר"
+            },
+            {
+              "language": "e",
+              "value": "קיקי פאלמר"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Lauren Palmer"
+            },
+            {
+              "language": "n",
+              "value": "Lauren Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕爾默"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕爾默"
+            },
+            {
+              "language": "e",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "d",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "a",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "z",
+              "value": "柯克·帕尔莫"
+            },
+            {
+              "language": "h",
+              "value": "柯克·帕尔莫"
+            },
+            {
+              "language": "t",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Lauren Keyana Palmer"
+            },
+            {
+              "language": "k",
+              "value": "로런 키아나 파머"
+            },
+            {
+              "language": "o",
+              "value": "로런 키아나 파머"
+            },
+            {
+              "language": "e",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "u",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "k",
+              "value": "케케 팔머"
+            },
+            {
+              "language": "o",
+              "value": "케케 팔머"
+            },
+            {
+              "language": "n",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "b",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕姆"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕姆"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "q",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "The One You Call"
+            },
+            {
+              "language": "t",
+              "value": "The One You Call"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "l",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "i",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "o",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "s",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "v",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "p",
+              "value": "The Greatest"
+            },
+            {
+              "language": "t",
+              "value": "The Greatest"
+            },
+            {
+              "language": "a",
+              "value": "كيكي بالمر"
+            },
+            {
+              "language": "r",
+              "value": "كيكي بالمر"
+            },
+            {
+              "language": "d",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "e",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Кеке Палмер"
+            },
+            {
+              "language": "u",
+              "value": "Кеке Палмер"
+            },
+            {
+              "language": "s",
+              "value": "Кики Палмер"
+            },
+            {
+              "language": "r",
+              "value": "Кики Палмер"
+            },
+            {
+              "language": "f",
+              "value": "کیکه پلامر"
+            },
+            {
+              "language": "a",
+              "value": "کیکه پلامر"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕瑪"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕瑪"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕梅拉"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕梅拉"
+            },
+            {
+              "language": "z",
+              "value": "琪琪·帕勒莫爾"
+            },
+            {
+              "language": "h",
+              "value": "琪琪·帕勒莫爾"
+            },
+            {
+              "language": "s",
+              "value": "Palmer"
+            },
+            {
+              "language": "v",
+              "value": "Palmer"
+            },
+            {
+              "language": "f",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "r",
+              "value": "Keke Palmer"
+            },
+            {
+              "language": "u",
+              "value": "Кеке Палмер"
+            },
+            {
+              "language": "k",
+              "value": "Кеке Палмер"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "keke"
+            },
+            "twitter": {
+              "id": "KekePalmer"
+            },
+            "spotify": {
+              "id": "2YFBOR9KIxC6WqHclkj9Yq"
+            },
+            "imdb": {
+              "id": "nm1551130"
+            },
+            "library_of_congress": {
+              "id": "no2006108396"
+            },
+            "musicbrainz": {
+              "id": "58182588-b18f-4bc4-a7fd-3805c408b04b"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1993-08-26",
+          "image": {
+            "url": "https://images.qloo.com/i/0ED2710D-749C-4701-AC86-4C21DB82B39B-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice",
+            "piano"
+          ],
+          "notable_work": [
+            "Jump In!",
+            "Scream Queens",
+            "Joyful Noise",
+            "True Jackson, VP",
+            "Brotherly Love",
+            "Ice Age",
+            "Akeelah and the Bee"
+          ],
+          "work_period_start": "2004-01-01",
+          "short_description": "American actress, singer and television personality"
+        },
+        "popularity": 0.9896663441362891,
+        "disambiguation": "1993-08-26",
+        "tags": [
+          {
+            "name": "21st-century African-american Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_actresses"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Island Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:island_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:island_records_artists"
+          },
+          {
+            "name": "Nickelodeon People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nickelodeon_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nickelodeon_people"
+          },
+          {
+            "name": "American Television Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_actresses"
+          },
+          {
+            "name": "Interscope Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:interscope_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:interscope_records_artists"
+          },
+          {
+            "name": "21st-century American Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_women_singers"
+          },
+          {
+            "name": "American Women Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_pop_singers"
+          },
+          {
+            "name": "American Hip Hop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_hip_hop_singers"
+          },
+          {
+            "name": "Recording Artist",
+            "tag_id": "urn:tag:occupation:person:recording_artist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:recording_artist"
+          },
+          {
+            "name": "American Child Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_actresses"
+          },
+          {
+            "name": "Atlantic Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:atlantic_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:atlantic_records_artists"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Singer-songwriters From Illinois",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_illinois",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singer_songwriters_from_illinois"
+          },
+          {
+            "name": "Actresses From Illinois",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:actresses_from_illinois",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:actresses_from_illinois"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          },
+          {
+            "name": "African-american Women Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_women_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_women_singer_songwriters"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Women Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_women_singer_songwriters"
+          },
+          {
+            "name": "21st-century African-american Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_women_singers"
+          },
+          {
+            "name": "American Child Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_singers"
+          },
+          {
+            "name": "Philanthropists From Illinois",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:philanthropists_from_illinois",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:philanthropists_from_illinois"
+          },
+          {
+            "name": "American Television Talk Show Hosts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_talk_show_hosts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_talk_show_hosts"
+          },
+          {
+            "name": "Film Director",
+            "tag_id": "urn:tag:occupation:person:film_director",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_director"
+          },
+          {
+            "name": "African-american Child Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_child_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_child_actresses"
+          },
+          {
+            "name": "American Voice Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_voice_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_voice_actresses"
+          },
+          {
+            "name": "Voice Actor",
+            "tag_id": "urn:tag:occupation:person:voice_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:voice_actor"
+          },
+          {
+            "name": "American Child Pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_child_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_child_pop_musicians"
+          },
+          {
+            "name": "Primetime Emmy Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primetime_emmy_award_winners"
+          },
+          {
+            "name": "21st-century American Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_singer_songwriters"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "21st-century American Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_actresses"
+          },
+          {
+            "name": "American Contemporary R&b Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_contemporary_r_b_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_contemporary_r_b_singers"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "African-american Television Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_television_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_television_personalities"
+          },
+          {
+            "name": "American Film Actresses",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_film_actresses",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_film_actresses"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          }
+        ]
+      },
+      {
+        "name": "Cole LaBrant",
+        "entity_id": "A40EA864-D83E-47EF-A27C-664ACE52B829",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "s",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "e",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "u",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "f",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "r",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "c",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "s",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "d",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "e",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "c",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "a",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "p",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "t",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "y",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "o",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "s",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "l",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "g",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "a",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "s",
+              "value": "Cole LaBrant"
+            },
+            {
+              "language": "v",
+              "value": "Cole LaBrant"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "18240554"
+            },
+            "instagram": {
+              "id": "cole.labrant"
+            },
+            "imdb": {
+              "id": "nm7805923"
+            },
+            "library_of_congress": {
+              "id": "no2018164040"
+            },
+            "goodreads_author": {
+              "id": "18240554"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1996-08-21",
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Savannah LaBrant"
+          ],
+          "short_description": "American YouTuber"
+        },
+        "popularity": 0.9831432578467292,
+        "disambiguation": "1996-08-21",
+        "tags": [
+          {
+            "name": "Autobiography",
+            "tag_id": "urn:tag:genre:media:media:autobiography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:autobiography"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Influencer",
+            "tag_id": "urn:tag:genre:person:influencer",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:influencer"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:genre:person:youtuber",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:youtuber"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Love",
+            "tag_id": "urn:tag:genre:media:media:love",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:love"
+          },
+          {
+            "name": "Influencer",
+            "tag_id": "urn:tag:occupation:person:influencer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:influencer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Christian",
+            "tag_id": "urn:tag:genre:media:media:christian",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:christian"
+          },
+          {
+            "name": "Family",
+            "tag_id": "urn:tag:genre:media:media:family",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:family"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "Christian non fiction",
+            "tag_id": "urn:tag:genre:media:media:christian_non_fiction",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:christian_non_fiction"
+          }
+        ]
+      }
+    ]
+  }
+}

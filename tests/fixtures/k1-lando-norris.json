@@ -1,0 +1,2325 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Lando Norris",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Lando Norris",
+        "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Ландо Норріс"
+            },
+            {
+              "language": "k",
+              "value": "Ландо Норріс"
+            },
+            {
+              "language": "e",
+              "value": "Λάντο Νόρις"
+            },
+            {
+              "language": "l",
+              "value": "Λάντο Νόρις"
+            },
+            {
+              "language": "h",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "o",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "لینڈو نورس"
+            },
+            {
+              "language": "r",
+              "value": "لینڈو نورس"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "i",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "t",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Ландо Норис"
+            },
+            {
+              "language": "g",
+              "value": "Ландо Норис"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "c",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "i",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "d",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "g",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "c",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "j",
+              "value": "ランド・ノリス"
+            },
+            {
+              "language": "a",
+              "value": "ランド・ノリス"
+            },
+            {
+              "language": "g",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "d",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "h",
+              "value": "לנדו נוריס"
+            },
+            {
+              "language": "e",
+              "value": "לנדו נוריס"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Noriss"
+            },
+            {
+              "language": "v",
+              "value": "Lando Noriss"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "k",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "n",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "n",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "o",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "c",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "t",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Ландо Норрис"
+            },
+            {
+              "language": "u",
+              "value": "Ландо Норрис"
+            },
+            {
+              "language": "g",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Норрис, Ландо"
+            },
+            {
+              "language": "u",
+              "value": "Норрис, Ландо"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "y",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "m",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "h",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "w",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "d",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "k",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "i",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "i",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "z",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "لینڈو نارس"
+            },
+            {
+              "language": "r",
+              "value": "لینڈو نارس"
+            },
+            {
+              "language": "h",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "o",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "d",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "p",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Noris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Noris"
+            },
+            {
+              "language": "n",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "لاندو نوريس"
+            },
+            {
+              "language": "r",
+              "value": "لاندو نوريس"
+            },
+            {
+              "language": "z",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "h",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "z",
+              "value": "蘭多·諾里斯"
+            },
+            {
+              "language": "h",
+              "value": "蘭多·諾里斯"
+            },
+            {
+              "language": "k",
+              "value": "랜도 노리스"
+            },
+            {
+              "language": "o",
+              "value": "랜도 노리스"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "t",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "v",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "n",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "n",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "p",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "t",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "v",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "i",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "e",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "l",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "c",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "g",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "لاندو نوریس"
+            },
+            {
+              "language": "a",
+              "value": "لاندو نوریس"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "f",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "c",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "o",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "u",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "b",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "s",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "q",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "j",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "a",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "t",
+              "value": "Lando Norris"
+            },
+            {
+              "language": "r",
+              "value": "Lando Norris"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "landonorris"
+            },
+            "twitter": {
+              "id": "landonorris"
+            }
+          },
+          "citizenship": [
+            "United Kingdom",
+            "Belgium"
+          ],
+          "date_of_birth": "1999-11-13",
+          "image": {
+            "url": "https://images.qloo.com/i/2E398BAD-AD97-4926-B4B5-DABA15844741-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula One",
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "McLaren"
+          ],
+          "short_description": "British-Belgian racing driver"
+        },
+        "popularity": 0.9867635707374349,
+        "disambiguation": "1999-11-13",
+        "tags": [
+          {
+            "name": "English Victims Of Crime",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_victims_crime",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_victims_crime"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "English Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_formula_one_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Brdc British Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brdc_british_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brdc_british_formula_3_championship_drivers"
+          },
+          {
+            "name": "Josef Kaufmann Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:josef_kaufmann_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:josef_kaufmann_racing_drivers"
+          },
+          {
+            "name": "English Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "English Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_twitch_service_streamers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "People Educated At Millfield",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_millfield",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_millfield"
+          },
+          {
+            "name": "British F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_f4_championship_drivers"
+          },
+          {
+            "name": "Ginetta Junior Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ginetta_junior_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ginetta_junior_championship_drivers"
+          },
+          {
+            "name": "Engvarb From February 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Toyota Racing Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toyota_racing_series_drivers"
+          },
+          {
+            "name": "Sportspeople From Bristol",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_bristol",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_bristol"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "24 Hours Of Daytona Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:24_hours_daytona_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:24_hours_daytona_drivers"
+          },
+          {
+            "name": "Carlin Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:carlin_racing_drivers"
+          },
+          {
+            "name": "Mclaren Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mclaren_formula_one_drivers"
+          },
+          {
+            "name": "Italian F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers"
+          },
+          {
+            "name": "British People Of Belgian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_people_belgian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_people_belgian_descent"
+          },
+          {
+            "name": "United Autosports Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:united_autosports_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:united_autosports_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "Mücke Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mucke_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mucke_motorsport_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Weathertech Sportscar Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:weathertech_sportscar_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:weathertech_sportscar_championship_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Adac Formula 4 Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:adac_formula_4_drivers"
+          },
+          {
+            "name": "English Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_racing_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "M2 Competition Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:m2_competition_drivers"
+          },
+          {
+            "name": "Campos Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campos_racing_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Alex Norris",
+        "entity_id": "717277BD-EF35-4278-971E-BB7C5ABEF39D",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "l",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "e",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "s",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "n",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "l",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "s",
+              "value": "Alex Norris"
+            },
+            {
+              "language": "q",
+              "value": "Alex Norris"
+            }
+          ],
+          "external": {
+            "goodreads": {
+              "id": "15116751"
+            },
+            "instagram": {
+              "id": "sillyalexnorris"
+            },
+            "twitter": {
+              "id": "dorrismccomics"
+            },
+            "library_of_congress": {
+              "id": "no98084582"
+            },
+            "goodreads_author": {
+              "id": "15116751"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/717277BD-EF35-4278-971E-BB7C5ABEF39D-420x-auto.jpg"
+          },
+          "gender": [
+            "non-binary"
+          ],
+          "short_description": "British comic artist"
+        },
+        "popularity": 0.9386177580152423,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Welsh Lgbt Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:welsh_lgbt_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:welsh_lgbt_artists"
+          },
+          {
+            "name": "Graphic novels comics",
+            "tag_id": "urn:tag:genre:media:media:graphic_novels_comics",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:graphic_novels_comics"
+          },
+          {
+            "name": "Author",
+            "tag_id": "urn:tag:genre:person:author",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:author"
+          },
+          {
+            "name": "Artists From Swansea",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:artists_from_swansea",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:artists_from_swansea"
+          },
+          {
+            "name": "Welsh Comics Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:welsh_comics_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:welsh_comics_artists"
+          },
+          {
+            "name": "Welsh Non-binary People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:welsh_non_binary_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:welsh_non_binary_people"
+          },
+          {
+            "name": "British Webcomic Creators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_webcomic_creators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_webcomic_creators"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Lgbt Comics Creators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_comics_creators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_comics_creators"
+          },
+          {
+            "name": "Welsh Internet Celebrities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:welsh_internet_celebrities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:welsh_internet_celebrities"
+          },
+          {
+            "name": "Queer Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:queer_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:queer_artists"
+          },
+          {
+            "name": "Cartoon",
+            "tag_id": "urn:tag:genre:media:media:cartoon",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:cartoon"
+          },
+          {
+            "name": "Comics manga",
+            "tag_id": "urn:tag:genre:media:media:comics_manga",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comics_manga"
+          },
+          {
+            "name": "Cartoonist",
+            "tag_id": "urn:tag:occupation:person:cartoonist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:cartoonist"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Webcomic",
+            "tag_id": "urn:tag:genre:media:media:webcomic",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:webcomic"
+          },
+          {
+            "name": "21st-century Welsh Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_welsh_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_welsh_lgbt_people"
+          },
+          {
+            "name": "Non-binary Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:non_binary_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:non_binary_artists"
+          }
+        ]
+      },
+      {
+        "name": "Sabre Norris",
+        "entity_id": "80C92652-1A6A-4533-81D2-D5D54DC1082F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "e",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "s",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "l",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "e",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "t",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "f",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "r",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "i",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "t",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "n",
+              "value": "Sabre Norris"
+            },
+            {
+              "language": "l",
+              "value": "Sabre Norris"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "sabrenorris"
+            },
+            "imdb": {
+              "id": "nm8641926"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "2005-01-01",
+          "gender": [
+            "female"
+          ],
+          "short_description": "Australian surfer, skater and YouTuber (born 2005)"
+        },
+        "popularity": 0.9382209369326274,
+        "disambiguation": "2005-01-01",
+        "tags": [
+          {
+            "name": "Australian Female Surfers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_female_surfers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_female_surfers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:genre:person:youtuber",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:youtuber"
+          },
+          {
+            "name": "Australian Skateboarders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_skateboarders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_skateboarders"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Surfer",
+            "tag_id": "urn:tag:occupation:person:surfer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:surfer"
+          },
+          {
+            "name": "Influencer",
+            "tag_id": "urn:tag:genre:person:influencer",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:influencer"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          }
+        ]
+      },
+      {
+        "name": "Dean Norris",
+        "entity_id": "AA86AF0C-3033-444A-927C-5FB95CAE4779",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Дин Норис"
+            },
+            {
+              "language": "r",
+              "value": "Дин Норис"
+            },
+            {
+              "language": "n",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "w",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "v",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "دين نوريس"
+            },
+            {
+              "language": "r",
+              "value": "دين نوريس"
+            },
+            {
+              "language": "f",
+              "value": "دین نوریس"
+            },
+            {
+              "language": "a",
+              "value": "دین نوریس"
+            },
+            {
+              "language": "h",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "h",
+              "value": "דין נוריס"
+            },
+            {
+              "language": "e",
+              "value": "דין נוריס"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "j",
+              "value": "ディーン・ノリス"
+            },
+            {
+              "language": "a",
+              "value": "ディーン・ノリス"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "k",
+              "value": "Дин Норрис"
+            },
+            {
+              "language": "k",
+              "value": "Дин Норрис"
+            },
+            {
+              "language": "p",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "f",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "f",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "u",
+              "value": "Дін Норріс"
+            },
+            {
+              "language": "k",
+              "value": "Дін Норріс"
+            },
+            {
+              "language": "f",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "v",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "m",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "g",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "m",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "z",
+              "value": "迪恩·諾里斯"
+            },
+            {
+              "language": "h",
+              "value": "迪恩·諾里斯"
+            },
+            {
+              "language": "t",
+              "value": "ดีน นอร์ริส"
+            },
+            {
+              "language": "h",
+              "value": "ดีน นอร์ริส"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "k",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "w",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "m",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "g",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "k",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "g",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Дин Норрис"
+            },
+            {
+              "language": "u",
+              "value": "Дин Норрис"
+            },
+            {
+              "language": "p",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "p",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "z",
+              "value": "狄恩·諾里斯"
+            },
+            {
+              "language": "h",
+              "value": "狄恩·諾里斯"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "y",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "y",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "f",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "u",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "c",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "k",
+              "value": "딘 노리스"
+            },
+            {
+              "language": "o",
+              "value": "딘 노리스"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "a",
+              "value": "Din Norris"
+            },
+            {
+              "language": "z",
+              "value": "Din Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "v",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "k",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Ντιν Νόρις"
+            },
+            {
+              "language": "l",
+              "value": "Ντιν Νόρις"
+            },
+            {
+              "language": "c",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "v",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "r",
+              "value": "Норрис, Дин"
+            },
+            {
+              "language": "u",
+              "value": "Норрис, Дин"
+            },
+            {
+              "language": "b",
+              "value": "Дийн Норис"
+            },
+            {
+              "language": "g",
+              "value": "Дийн Норис"
+            },
+            {
+              "language": "i",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "z",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "u",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "h",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "u",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "g",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "l",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "u",
+              "value": "ڈین نورس"
+            },
+            {
+              "language": "r",
+              "value": "ڈین نورس"
+            },
+            {
+              "language": "p",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "t",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "q",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "s",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "w",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "z",
+              "value": "迪恩·诺里斯"
+            },
+            {
+              "language": "h",
+              "value": "迪恩·诺里斯"
+            },
+            {
+              "language": "b",
+              "value": "Дзін Норыс"
+            },
+            {
+              "language": "e",
+              "value": "Дзін Норыс"
+            },
+            {
+              "language": "e",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "n",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean J. Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "o",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "f",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "r",
+              "value": "Dean Joseph Norris"
+            },
+            {
+              "language": "b",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "m",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "d",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "e",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "h",
+              "value": "Դին Նորիս"
+            },
+            {
+              "language": "y",
+              "value": "Դին Նորիս"
+            },
+            {
+              "language": "g",
+              "value": "Dean Norris"
+            },
+            {
+              "language": "a",
+              "value": "Dean Norris"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "deanjnorris"
+            },
+            "twitter": {
+              "id": "deanjnorris"
+            },
+            "imdb": {
+              "id": "nm0606487"
+            },
+            "library_of_congress": {
+              "id": "no2010072952"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1963-04-08",
+          "image": {
+            "url": "https://images.qloo.com/i/AA86AF0C-3033-444A-927C-5FB95CAE4779-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "1985-01-01",
+          "short_description": "American actor"
+        },
+        "popularity": 0.9295234885465476,
+        "disambiguation": "1963-04-08",
+        "tags": [
+          {
+            "name": "American People Of Scottish Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_scottish_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_scottish_descent"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "American Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_television_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Alumni Of Rada",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alumni_rada",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alumni_rada"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "20th-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_actors"
+          },
+          {
+            "name": "American People Of Hungarian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_hungarian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_hungarian_descent"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "American People Of English Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_people_english_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_people_english_descent"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:media:media:crime",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:crime"
+          },
+          {
+            "name": "Male Actors From Indiana",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_indiana",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_indiana"
+          },
+          {
+            "name": "American Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_film_actors"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Harvard College Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:harvard_college_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:harvard_college_alumni"
+          }
+        ]
+      },
+      {
+        "name": "Eva Ayllón",
+        "entity_id": "9D211177-7ED3-4A76-8FD0-F647ECBD2D6B",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "q",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "d",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "e",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "q",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "u",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "v",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "i",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "e",
+              "value": "Reina de la canción peruana"
+            },
+            {
+              "language": "s",
+              "value": "Reina de la canción peruana"
+            },
+            {
+              "language": "e",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "s",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "s",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "l",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "d",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "a",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "f",
+              "value": "Eva ayllón"
+            },
+            {
+              "language": "r",
+              "value": "Eva ayllón"
+            },
+            {
+              "language": "i",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "t",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "f",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "r",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "f",
+              "value": "María Angélica Ayllón Urbina"
+            },
+            {
+              "language": "r",
+              "value": "María Angélica Ayllón Urbina"
+            },
+            {
+              "language": "z",
+              "value": "伊娃·艾伦"
+            },
+            {
+              "language": "h",
+              "value": "伊娃·艾伦"
+            },
+            {
+              "language": "g",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "l",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "e",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "s",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "e",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "n",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "c",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "a",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "s",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "v",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "n",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "n",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "n",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "l",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "g",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "a",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "f",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "r",
+              "value": "Eva Ayllon"
+            },
+            {
+              "language": "e",
+              "value": "Reina del landó"
+            },
+            {
+              "language": "s",
+              "value": "Reina del landó"
+            },
+            {
+              "language": "n",
+              "value": "Eva Ayllón"
+            },
+            {
+              "language": "b",
+              "value": "Eva Ayllón"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "evaayllonoficial"
+            },
+            "twitter": {
+              "id": "evaayllon"
+            },
+            "spotify": {
+              "id": "6AQFORISOneOZkh6r1sGS2"
+            },
+            "imdb": {
+              "id": "nm4698417"
+            },
+            "library_of_congress": {
+              "id": "no98032237"
+            }
+          },
+          "citizenship": [
+            "Peru"
+          ],
+          "date_of_birth": "1956-02-07",
+          "image": {
+            "url": "https://images.qloo.com/i/9D211177-7ED3-4A76-8FD0-F647ECBD2D6B-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "1970-01-01",
+          "short_description": "Peruvian composer and singer"
+        },
+        "popularity": 0.9614050727867712,
+        "disambiguation": "1956-02-07",
+        "tags": [
+          {
+            "name": "Latin Grammy Lifetime Achievement Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:latin_grammy_lifetime_achievement_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:latin_grammy_lifetime_achievement_award_winners"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "21st-century Peruvian Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_peruvian_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_peruvian_singers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Peruvian Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:peruvian_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:peruvian_composers"
+          },
+          {
+            "name": "Peruvian Women Composers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:peruvian_women_composers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:peruvian_women_composers"
+          },
+          {
+            "name": "20th-century Peruvian Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_peruvian_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_peruvian_women_singers"
+          },
+          {
+            "name": "20th-century Peruvian Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_peruvian_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_peruvian_singers"
+          },
+          {
+            "name": "Women In Latin Music",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:women_in_latin_music",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:women_in_latin_music"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Singers From Lima",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_lima",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_lima"
+          },
+          {
+            "name": "Masked Singer Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:masked_singer_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:masked_singer_winners"
+          },
+          {
+            "name": "21st-century Peruvian Women Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_peruvian_women_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_peruvian_women_singers"
+          }
+        ]
+      }
+    ]
+  }
+}

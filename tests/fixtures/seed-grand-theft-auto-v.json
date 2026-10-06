@@ -1,0 +1,1500 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Grand Theft Auto V",
+    "take": 5,
+    "types": "urn:entity:videogame"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Grand Theft Auto V",
+        "entity_id": "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "غراند ثفت أوتو 5"
+            },
+            {
+              "language": "cs",
+              "value": "GTA V"
+            },
+            {
+              "language": "et",
+              "value": "GTA V"
+            },
+            {
+              "language": "fi",
+              "value": "GTA V"
+            },
+            {
+              "language": "he",
+              "value": "Grand Theft Auto V"
+            },
+            {
+              "language": "ja",
+              "value": "グランド・セフト・オートV"
+            },
+            {
+              "language": "ko",
+              "value": "그랜드 테프트 오토 5"
+            },
+            {
+              "language": "ml",
+              "value": "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ:V"
+            },
+            {
+              "language": "pl",
+              "value": "GTA V"
+            },
+            {
+              "language": "pt",
+              "value": "Grand Theft Auto V"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Grand Theft Auto V"
+            },
+            {
+              "language": "ro",
+              "value": "GTA V"
+            },
+            {
+              "language": "ru",
+              "value": "GTA V"
+            },
+            {
+              "language": "sv",
+              "value": "GTA V"
+            },
+            {
+              "language": "th",
+              "value": "แกรนด์เธฟต์ออโต V"
+            },
+            {
+              "language": "tl",
+              "value": "Grand Theft Auto V"
+            },
+            {
+              "language": "tr",
+              "value": "Grand Theft Auto V"
+            },
+            {
+              "language": "zh",
+              "value": "侠盗猎车手5"
+            }
+          ],
+          "content_rating": "M",
+          "description": "Grand Theft Auto V is an open-world action-adventure set in the satirical, sun-soaked metropolis of Los Santos where three very different criminals team up to pull off daring heists while navigating crime, excess, and modern American culture.",
+          "developer": "Rockstar North",
+          "external": {
+            "igdb": {
+              "id": "grand-theft-auto-v"
+            },
+            "metacritic": {
+              "critic_rating": 97,
+              "id": "1400597746"
+            },
+            "steam": {
+              "id": "271590"
+            },
+            "twitch": {
+              "id": "grand theft auto v"
+            },
+            "wikidata": {
+              "id": "q17452"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD-420x-auto.jpg"
+          },
+          "platforms": [
+            "PlayStation 3",
+            "Xbox 360",
+            "PlayStation 4",
+            "Xbox One",
+            "PC",
+            "PlayStation 5",
+            "Xbox Series X"
+          ],
+          "publisher": "Rockstar Games",
+          "release_date": "2014-11-18",
+          "release_year": 2014,
+          "short_description": "Three criminals in a sun-soaked metropolis team up to pull off daring heists amid a satirical, crime-filled open world.",
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "2013 action-adventure video game developed by Rockstar North"
+            },
+            {
+              "language": "gl",
+              "value": "videoxogo de 2013"
+            },
+            {
+              "language": "ko",
+              "value": "2013년에 출시된 오픈월드 액션 어드벤쳐 게임"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video terbitan tahun 2013"
+            },
+            {
+              "language": "sv",
+              "value": "actionspel av Rockstar North från 2013"
+            },
+            {
+              "language": "de",
+              "value": "Action-Adventure-Computerspiel aus dem Jahr 2013"
+            },
+            {
+              "language": "id",
+              "value": "gim produksi Rockstar Games"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو عالم مفتوح أكشن ومغامرة صدرت سنة 2013"
+            },
+            {
+              "language": "tl",
+              "value": "2013 larong bidyo"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo d'action-aventure en monde ouvert sorti en 2013"
+            },
+            {
+              "language": "be",
+              "value": "камп’ютарная гульня 2013 года"
+            },
+            {
+              "language": "lt",
+              "value": "2013 metų kompiuterinis žaidimas"
+            },
+            {
+              "language": "ro",
+              "value": "joc open world action din seria Grand Theft Auto"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι δράσης περιπέτειας ανοικτού κόσμου του 2013"
+            },
+            {
+              "language": "is",
+              "value": "2013 tölvuleikur"
+            },
+            {
+              "language": "ka",
+              "value": "2013 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2013"
+            },
+            {
+              "language": "ja",
+              "value": "ロックスター・ゲームスが発売するコンピューターゲーム、GTAシリーズ第十一作"
+            },
+            {
+              "language": "lv",
+              "value": "videospēle"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "tr",
+              "value": "Rockstar Games tarafından yayımlanan 2013 yılı yapımlı video oyunu"
+            },
+            {
+              "language": "eo",
+              "value": "ago-aventura videoludo en malfermita realeca mondo, kiu aperis en 2013"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2013"
+            },
+            {
+              "language": "my",
+              "value": "၂၀၁၃ ခုနှစ် အက်ရှင်ဂိမ်း"
+            },
+            {
+              "language": "sr",
+              "value": "акционо-авантуристичка видео-игра отвореног света из 2013. године"
+            },
+            {
+              "language": "he",
+              "value": "משחק מחשב משנת 2013"
+            },
+            {
+              "language": "fi",
+              "value": "vuonna 2013 julkaistu videopeli"
+            },
+            {
+              "language": "hr",
+              "value": "akcijsko-pustolovna video-igra otvorenog svijeta iz 2013. godine"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2013 roku"
+            },
+            {
+              "language": "et",
+              "value": "2013. aastal videomäng"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2013"
+            },
+            {
+              "language": "az",
+              "value": "2013-cü ilin videooyunu"
+            },
+            {
+              "language": "bn",
+              "value": "২০১৩ ভিডিও গেম"
+            },
+            {
+              "language": "da",
+              "value": "2013 action-adventure videospil, udviklet af Rockstar North"
+            },
+            {
+              "language": "oc",
+              "value": "videojòc de 2013"
+            },
+            {
+              "language": "zh",
+              "value": "2013年電子遊戲"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2013 година"
+            },
+            {
+              "language": "eu",
+              "value": "2013 bideo-joko"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2013"
+            },
+            {
+              "language": "lb",
+              "value": "Computerspill aus dem Joer 2013"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2013 года с открытым миром в жанре action-adventure, разработанная Rockstar North"
+            },
+            {
+              "language": "cs",
+              "value": "počítačová hra"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2013 desenvolvido pela Rockstar North"
+            },
+            {
+              "language": "hu",
+              "value": "2013-as videójáték"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2013"
+            },
+            {
+              "language": "ig",
+              "value": "2013 mepere egwuregwu vidiyo egwuregwu ụwa"
+            },
+            {
+              "language": "sw",
+              "value": "2013 mchezo wa video"
+            },
+            {
+              "language": "hi",
+              "value": "रॉकस्टार द्वारा विकसित 2013 का वीडियो गेम"
+            },
+            {
+              "language": "th",
+              "value": "วิดีโอเกมแอ็กชันผจญภัยเปิดโลก ปี 2013"
+            },
+            {
+              "language": "ta",
+              "value": "2013 ஆண்டைய நிகழ்பட விளையாட்டு"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "sc",
+              "value": "videojòcu de 2013"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2013"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2013"
+            },
+            {
+              "language": "af",
+              "value": "2013 oop wêreld aksie-avontuur video game"
+            },
+            {
+              "language": "tk",
+              "value": "Rockstar Games tarapyndan iberilen 2013-nji ýylda ýasalan wideo oýny"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2013 року з відкритим світом у жанрі пригодницького бойовика"
+            },
+            {
+              "language": "fa",
+              "value": "بازی ویدئویی اکشن-ماجراجویی ۲۰۱۳"
+            },
+            {
+              "language": "sk",
+              "value": "akčno-adventúrna \"počítačová hra s otvoreným svetom z 2013"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel van Rockstar North"
+            },
+            {
+              "language": "de",
+              "value": "Drei Kriminelle navigieren Verrat und Raubüberfälle in einer weitläufigen Stadt und riskieren alles für Überleben und Erfolg im Chaos."
+            },
+            {
+              "language": "es",
+              "value": "Tres criminales enfrentan traiciones y robos en una ciudad extensa, arriesgando todo para sobrevivir y triunfar en medio del caos."
+            },
+            {
+              "language": "fr",
+              "value": "Trois criminels naviguent entre trahisons et braquages dans une vaste ville, risquant tout pour survivre et réussir au milieu du chaos."
+            },
+            {
+              "language": "en",
+              "value": "Three criminals navigate betrayal and heists in a sprawling city, risking everything for survival and success amidst chaos."
+            }
+          ]
+        },
+        "popularity": 0.957813099173664,
+        "disambiguation": "2014-11-18, Rockstar North",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Photorealistic",
+            "tag_id": "urn:tag:art_style:qloo:photorealistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:art_style:qloo:cinematic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "open-world sandbox",
+            "tag_id": "urn:tag:audience:qloo:open_world_sandbox",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "heist missions",
+            "tag_id": "urn:tag:audience:qloo:heist_missions",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "extensive multiplayer",
+            "tag_id": "urn:tag:audience:qloo:extensive_multiplayer",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "dark satire",
+            "tag_id": "urn:tag:audience:qloo:dark_satire",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "high production values",
+            "tag_id": "urn:tag:audience:qloo:high_production_values",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "long playtime",
+            "tag_id": "urn:tag:audience:qloo:long_playtime",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "satirical",
+            "tag_id": "urn:tag:emotional_tone:qloo:satirical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "darkly humorous",
+            "tag_id": "urn:tag:emotional_tone:qloo:darkly_humorous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "gritty",
+            "tag_id": "urn:tag:emotional_tone:qloo:gritty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "adrenaline-fueled",
+            "tag_id": "urn:tag:emotional_tone:qloo:adrenaline_fueled",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "irreverent",
+            "tag_id": "urn:tag:emotional_tone:qloo:irreverent",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "online multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:online_multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "open-world sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:open_world_sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:genre:qloo:open_world",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PlayStation 3",
+            "tag_id": "urn:tag:platform:qloo:playstation_3",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox 360",
+            "tag_id": "urn:tag:platform:qloo:xbox_360",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 5",
+            "tag_id": "urn:tag:platform:qloo:playstation_5",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series X",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_x",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player; Multiplayer (GTA Online)",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_multiplayer_gta_online_",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Moderate",
+            "tag_id": "urn:tag:skill_level:qloo:moderate",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:category:qloo:open_world",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:category:qloo:action",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:category:qloo:crime",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Singleplayer",
+            "tag_id": "urn:tag:category:qloo:singleplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:category:qloo:sandbox",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Driving",
+            "tag_id": "urn:tag:category:qloo:driving",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:category:qloo:shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Violent",
+            "tag_id": "urn:tag:category:qloo:violent",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Satire",
+            "tag_id": "urn:tag:category:qloo:satire",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+        "entity_id": "5FDC48A7-2FE1-4B21-B007-DB10A0911B23",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "cs",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "et",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "fi",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "pl",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "ro",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "ru",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "sv",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            },
+            {
+              "language": "tr",
+              "value": "Grand Theft Auto: Vice City – The Definitive Edition"
+            }
+          ],
+          "content_rating": "",
+          "description": "Experience the genre-defining classic, updated for a new generation with across-the-board enhancements including brilliant new lighting and environmental upgrades, with high-resolution textures, increased draw distance, Grand Theft Auto V-style controls and targeting, and much more.\\n \\nWelcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti's tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities.",
+          "developer": "Video Games Deluxe",
+          "external": {
+            "igdb": {
+              "id": "grand-theft-auto-vice-city-the-definitive-edition"
+            },
+            "metacritic": {
+              "critic_rating": 0,
+              "id": "1400745195"
+            },
+            "steam": {
+              "id": "1546990"
+            },
+            "wikidata": {
+              "id": "q109240477"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/5FDC48A7-2FE1-4B21-B007-DB10A0911B23-420x-auto.jpg"
+          },
+          "platforms": [
+            "Nintendo Switch",
+            "PC",
+            "Xbox One",
+            "PlayStation 4",
+            "iOS (iPhone/iPad)"
+          ],
+          "publisher": "Rockstar Games",
+          "release_date": "2023-12-14",
+          "release_year": 2023,
+          "short_description": "A man's rise to power in a vibrant 1980s city filled with crime, betrayal, and endless opportunities.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Der Aufstieg eines Mannes zur Macht in einer lebendigen Stadt der 1980er Jahre voller Verbrechen, Verrat und endloser Möglichkeiten."
+            },
+            {
+              "language": "es",
+              "value": "La ascensión de un hombre al poder en una vibrante ciudad de los años 80 llena de crimen, traición y oportunidades sin fin."
+            },
+            {
+              "language": "fr",
+              "value": "L'ascension d'un homme au pouvoir dans une ville vibrante des années 1980, pleine de crime, de trahison et d'opportunités infinies."
+            },
+            {
+              "language": "en",
+              "value": "A man's rise to power in a vibrant 1980s city filled with crime, betrayal, and endless opportunities."
+            }
+          ]
+        },
+        "popularity": 0.9787444739167843,
+        "disambiguation": "2023-12-14, Video Games Deluxe",
+        "tags": [
+          {
+            "name": "Open-World Action",
+            "tag_id": "urn:tag:genre:media:open_world_action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:open_world_action"
+          }
+        ]
+      },
+      {
+        "name": "Grand Theft Auto: Vice City",
+        "entity_id": "CBCBE8D7-87BB-49F2-9B79-56872321A63F",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "جي تي أي: فايس سيتي"
+            },
+            {
+              "language": "cs",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "et",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "fi",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "he",
+              "value": "GTA Vice City"
+            },
+            {
+              "language": "ja",
+              "value": "グランド・セフト・オート・バイスシティ"
+            },
+            {
+              "language": "ko",
+              "value": "그랜드 테프트 오토: 바이스 시티"
+            },
+            {
+              "language": "ml",
+              "value": "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ: വൈസ് സിറ്റി"
+            },
+            {
+              "language": "pl",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "pt",
+              "value": "GTA Vice City"
+            },
+            {
+              "language": "pt_pt",
+              "value": "GTA Vice City"
+            },
+            {
+              "language": "ro",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "ru",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "sv",
+              "value": "Grand Theft Auto: Vice City"
+            },
+            {
+              "language": "th",
+              "value": "แกรนด์เทฟต์ออโต: ไวซ์ซิตี"
+            },
+            {
+              "language": "tr",
+              "value": "gta"
+            },
+            {
+              "language": "zh",
+              "value": "俠盜獵車手：罪惡城市"
+            }
+          ],
+          "content_rating": "M",
+          "description": "[Metacritic's 2002 PS2 Game of the Year] Welcome to Vice City. Welcome to the 1980s. Having just made it back onto the streets of Liberty City after a long stretch in maximum security, Tommy Vercetti is sent to Vice City by his old boss, Sonny Forelli. They were understandably nervous about his re-appearance in Liberty City, so a trip down south seemed like a good idea. But all does not go smoothly upon his arrival in the glamorous, hedonistic metropolis of Vice City. He's set up and is left with no money and no merchandise. Sonny wants his money back, but the biker gangs, Cuban gangsters, and corrupt politicians stand in his way. Most of Vice City seems to want Tommy dead. His only answer is to fight back and take over the city himself. Vice City offers vehicular pleasures to suit every taste. For the speed enthusiast, there's high-performance cars and motorbikes. For the sportsman, a powerboat or a golf buggy lets you enjoy the great outdoors. For those that need that sense of freedom and escape, why not charter a helicopter and see the beauty of Vice City from the air?",
+          "developer": "Rockstar North",
+          "external": {
+            "igdb": {
+              "id": "grand-theft-auto-vice-city"
+            },
+            "metacritic": {
+              "critic_rating": 95,
+              "id": "1400491552"
+            },
+            "steam": {
+              "id": "12110"
+            },
+            "wikidata": {
+              "id": "q94671"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/CBCBE8D7-87BB-49F2-9B79-56872321A63F-420x-auto.jpg"
+          },
+          "platforms": [
+            "PlayStation 2",
+            "PC",
+            "Xbox",
+            "PlayStation 4"
+          ],
+          "publisher": "Rockstar Games",
+          "release_date": "2002-10-29",
+          "release_year": 2002,
+          "short_description": "An ex-con rises through 1980s Miami's criminal underworld to reclaim what he lost and ultimately take over the city.",
+          "short_descriptions": [
+            {
+              "language": "cs",
+              "value": "videohra z roku 2002"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2002"
+            },
+            {
+              "language": "en",
+              "value": "2002 open world action-adventure video game developed by Rockstar North"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра"
+            },
+            {
+              "language": "hi",
+              "value": "रॉकस्टार द्वारा विकसित 2002 का वीडियो गेम"
+            },
+            {
+              "language": "pl",
+              "value": "gra wideo z 2002 roku"
+            },
+            {
+              "language": "ja",
+              "value": "ロックスター・ゲームスが発売するコンピューターゲーム、GTA第四作及びGTAⅢシリーズ第二弾"
+            },
+            {
+              "language": "bs",
+              "value": "videoigra"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2002"
+            },
+            {
+              "language": "ta",
+              "value": "2002 ஆண்டைய கணினி விளையாட்டு"
+            },
+            {
+              "language": "tr",
+              "value": "2002 video oyunu"
+            },
+            {
+              "language": "hu",
+              "value": "2002-es videójáték"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2002"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2002"
+            },
+            {
+              "language": "fi",
+              "value": "2002 videopeli"
+            },
+            {
+              "language": "fa",
+              "value": "بازی ویدئویی اکشن-ماجراجویی ۲۰۰۲"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2002 година"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2002"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2002 року"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра"
+            },
+            {
+              "language": "lv",
+              "value": "videospēle"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel van Rockstar North"
+            },
+            {
+              "language": "gl",
+              "value": "cuarta entrega do videoxogo Grand Theft Auto"
+            },
+            {
+              "language": "ig",
+              "value": "2002 mepere egwuregwu vidiyo ihe egwuregwu ụwa nke Rockstar North mepụtara"
+            },
+            {
+              "language": "he",
+              "value": "משחק מחשב משנת 2002"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2002"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2002 года"
+            },
+            {
+              "language": "de",
+              "value": "Action-Adventure-Computerspiel aus dem Jahr 2002"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2002"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2002"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2002"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2002 desenvolvido pela Rockstar North"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2002"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2002"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2002"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2002"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "de",
+              "value": "Ein Gangster sucht Rache und Macht in einer lebhaften Stadt der 1980er, kämpft gegen rivalisierende Banden und korrupte Beamte, um sein kriminelles Imperium aufzubauen."
+            },
+            {
+              "language": "es",
+              "value": "Un mafioso busca venganza y poder en una vibrante ciudad de los años 80, enfrentándose a bandas rivales y funcionarios corruptos para establecer su imperio criminal."
+            },
+            {
+              "language": "fr",
+              "value": "Un gangster cherche vengeance et pouvoir dans une ville vibrante des années 1980, affrontant gangs rivaux et fonctionnaires corrompus pour établir son empire criminel."
+            },
+            {
+              "language": "en",
+              "value": "A mobster seeks revenge and power in a vibrant 1980s city, battling rival gangs and corrupt officials to establish his criminal empire."
+            }
+          ]
+        },
+        "popularity": 0.9699882644748248,
+        "disambiguation": "2002-10-29, Rockstar North",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "cult classic",
+            "tag_id": "urn:tag:audience:qloo:cult_classic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "iconic soundtrack",
+            "tag_id": "urn:tag:audience:qloo:iconic_soundtrack",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "period setting",
+            "tag_id": "urn:tag:audience:qloo:period_setting",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "criminal protagonist",
+            "tag_id": "urn:tag:audience:qloo:criminal_protagonist",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "throwback",
+            "tag_id": "urn:tag:audience:qloo:throwback",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "nostalgic",
+            "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "satirical",
+            "tag_id": "urn:tag:emotional_tone:qloo:satirical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "darkly humorous",
+            "tag_id": "urn:tag:emotional_tone:qloo:darkly_humorous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "gritty",
+            "tag_id": "urn:tag:emotional_tone:qloo:gritty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "energetic",
+            "tag_id": "urn:tag:emotional_tone:qloo:energetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "open-world",
+            "tag_id": "urn:tag:gameplay_type:qloo:open_world",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "action-adventure",
+            "tag_id": "urn:tag:gameplay_type:qloo:action_adventure",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "driving",
+            "tag_id": "urn:tag:gameplay_type:qloo:driving",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:qloo:adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:genre:qloo:open_world",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PlayStation 2",
+            "tag_id": "urn:tag:platform:qloo:playstation_2",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox",
+            "tag_id": "urn:tag:platform:qloo:xbox",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "single-player",
+            "tag_id": "urn:tag:player_mode:qloo:single_player",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:skill_level:qloo:casual",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:category:qloo:open_world",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:category:qloo:crime",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:category:qloo:action",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Third Person",
+            "tag_id": "urn:tag:category:qloo:third_person",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Story Rich",
+            "tag_id": "urn:tag:category:qloo:story_rich",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Driving",
+            "tag_id": "urn:tag:category:qloo:driving",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Classic",
+            "tag_id": "urn:tag:category:qloo:classic",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Singleplayer",
+            "tag_id": "urn:tag:category:qloo:singleplayer",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Grand Theft Auto V Enhanced",
+        "entity_id": "3AE7D8F2-16BA-425F-BD76-3A4577EE508C",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "",
+          "developer": "Rockstar North",
+          "external": {
+            "metacritic": {
+              "critic_rating": 0,
+              "id": "1400821490"
+            }
+          },
+          "publisher": "Rockstar Games",
+          "release_date": "2025-03-04",
+          "release_year": 2025,
+          "short_descriptions": []
+        },
+        "popularity": 0.9662572507255547,
+        "disambiguation": "2025-03-04, Rockstar North"
+      },
+      {
+        "name": "Grand Theft Auto: Vice City Stories",
+        "entity_id": "C64B1C7F-EE8E-4C32-ABE4-8C98061C9B06",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "GTA: Vice City Stories"
+            },
+            {
+              "language": "en_au",
+              "value": "GTA Vice City Stories"
+            },
+            {
+              "language": "es",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "es_ar",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "it",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "nl",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "fr",
+              "value": "GTA: VCS"
+            },
+            {
+              "language": "ar",
+              "value": "جراند ثفت أوتو: فايس سيتي ستوريز"
+            },
+            {
+              "language": "cs",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "fi",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "he",
+              "value": "Grand Theft Auto VCS"
+            },
+            {
+              "language": "ja",
+              "value": "グランド・セフト・オート・バイスシティ・ストーリーズ"
+            },
+            {
+              "language": "ko",
+              "value": "그랜드 테프트 오토: 바이스 시티 스토리즈"
+            },
+            {
+              "language": "pl",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "pt",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "ro",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "ru",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "sv",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "tr",
+              "value": "Grand Theft Auto: Vice City Stories"
+            },
+            {
+              "language": "zh",
+              "value": "俠盜獵車手：罪惡城市傳奇"
+            }
+          ],
+          "content_rating": "M",
+          "description": "Set in 1984 Vice City, an ex-soldier is forced onto the streets where drugs, corruption and violent rivalries drive a brutal struggle for power; players must build a criminal empire or be crushed amid the city's neon glamour and crime.",
+          "developer": "Rockstar Leeds",
+          "external": {
+            "igdb": {
+              "id": "grand-theft-auto-vice-city-stories"
+            },
+            "metacritic": {
+              "critic_rating": 86,
+              "id": "1400528586"
+            },
+            "wikidata": {
+              "id": "q94640"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/C64B1C7F-EE8E-4C32-ABE4-8C98061C9B06-420x-auto.jpg"
+          },
+          "platforms": [
+            "PlayStation 2",
+            "PlayStation Portable",
+            "PlayStation 4"
+          ],
+          "publisher": "Rockstar Games",
+          "release_date": "2006-10-31",
+          "release_year": 2006,
+          "short_description": "An ex-soldier fights to survive and build a criminal empire in 1984 Vice City amid drugs, corruption, and violent rivalries.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Im Jahr 1984 in Vice City muss ein Soldat Verbrechen und Verrat meistern, um ein Imperium aufzubauen oder zu scheitern."
+            },
+            {
+              "language": "es",
+              "value": "En 1984 en Vice City, un soldado debe navegar entre el crimen y la traición para construir un imperio o enfrentar la destrucción."
+            },
+            {
+              "language": "fr",
+              "value": "En 1984 à Vice City, un soldat doit naviguer entre crime et trahison pour bâtir un empire ou faire face à la destruction."
+            },
+            {
+              "language": "en",
+              "value": "In 1984 Vice City, a soldier must navigate crime and betrayal to build an empire or face destruction."
+            }
+          ]
+        },
+        "popularity": 0.9566163675264773,
+        "disambiguation": "2006-10-31, Rockstar Leeds",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "1980s Setting",
+            "tag_id": "urn:tag:audience:qloo:1980s_setting",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Crime Fiction",
+            "tag_id": "urn:tag:audience:qloo:crime_fiction",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Nostalgia",
+            "tag_id": "urn:tag:audience:qloo:nostalgia",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Soundtrack Driven",
+            "tag_id": "urn:tag:audience:qloo:soundtrack_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Character-driven",
+            "tag_id": "urn:tag:audience:qloo:character_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:emotional_tone:qloo:gritty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Satirical",
+            "tag_id": "urn:tag:emotional_tone:qloo:satirical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Action-packed",
+            "tag_id": "urn:tag:emotional_tone:qloo:action_packed",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Dark",
+            "tag_id": "urn:tag:emotional_tone:qloo:dark",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Local Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:local_multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:gameplay_type:qloo:open_world",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action-Adventure",
+            "tag_id": "urn:tag:genre:qloo:action_adventure",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:genre:qloo:open_world",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PlayStation 2",
+            "tag_id": "urn:tag:platform:qloo:playstation_2",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation Portable",
+            "tag_id": "urn:tag:platform:qloo:playstation_portable",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player with optional local multiplayer modes",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_with_optional_local_multiplayer_modes",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:skill_level:qloo:casual",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Open World",
+            "tag_id": "urn:tag:category:qloo:open_world",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:category:qloo:crime",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:category:qloo:action",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Third-Person",
+            "tag_id": "urn:tag:category:qloo:third_person",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:category:qloo:sandbox",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Driving",
+            "tag_id": "urn:tag:category:qloo:driving",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Violent",
+            "tag_id": "urn:tag:category:qloo:violent",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Story Rich",
+            "tag_id": "urn:tag:category:qloo:story_rich",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:category:qloo:mature",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2765 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Max Verstappen",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Max Verstappen",
+        "entity_id": "9AFE6FB6-C365-4D63-87E4-66AA3C33B166",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Эміліян Ферстапен"
+            },
+            {
+              "language": "e",
+              "value": "Макс Эміліян Ферстапен"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "p",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "r",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "y",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "j",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "j",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "मॅक्स व्हर्सटॅपन"
+            },
+            {
+              "language": "r",
+              "value": "मॅक्स व्हर्सटॅपन"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Makss Verstapens"
+            },
+            {
+              "language": "v",
+              "value": "Makss Verstapens"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "y",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "k",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "y",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "p",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "ماكس فيرستابين"
+            },
+            {
+              "language": "r",
+              "value": "ماكس فيرستابين"
+            },
+            {
+              "language": "m",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "j",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Верстапэн"
+            },
+            {
+              "language": "e",
+              "value": "Макс Верстапэн"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Эміліян Верстапен"
+            },
+            {
+              "language": "e",
+              "value": "Макс Эміліян Верстапен"
+            },
+            {
+              "language": "p",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "q",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "z",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "w",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "z",
+              "value": "馬克斯·艾米利亞·維斯塔潘"
+            },
+            {
+              "language": "h",
+              "value": "馬克斯·艾米利亞·維斯塔潘"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "มักซ์ แฟร์สตัปเปิน"
+            },
+            {
+              "language": "h",
+              "value": "มักซ์ แฟร์สตัปเปิน"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "z",
+              "value": "馬克斯·維斯塔潘"
+            },
+            {
+              "language": "h",
+              "value": "馬克斯·維斯塔潘"
+            },
+            {
+              "language": "m",
+              "value": "Макс Ферстапен"
+            },
+            {
+              "language": "k",
+              "value": "Макс Ферстапен"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "z",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Эміліян Вэрстапэн"
+            },
+            {
+              "language": "e",
+              "value": "Макс Эміліян Вэрстапэн"
+            },
+            {
+              "language": "p",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Ферстапен"
+            },
+            {
+              "language": "e",
+              "value": "Макс Ферстапен"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "Макс Верштаппен"
+            },
+            {
+              "language": "n",
+              "value": "Макс Верштаппен"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "g",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "מקס ורסטאפן"
+            },
+            {
+              "language": "e",
+              "value": "מקס ורסטאפן"
+            },
+            {
+              "language": "r",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "u",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "k",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "m",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Макс Эмилиан Ферстаппен"
+            },
+            {
+              "language": "u",
+              "value": "Макс Эмилиан Ферстаппен"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "मैक्स वेर्स्टाप्पेन"
+            },
+            {
+              "language": "i",
+              "value": "मैक्स वेर्स्टाप्पेन"
+            },
+            {
+              "language": "z",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "მაქს ვერსტაპენი"
+            },
+            {
+              "language": "a",
+              "value": "მაქს ვერსტაპენი"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen Emilian"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen Emilian"
+            },
+            {
+              "language": "l",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "q",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "m",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "n",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "w",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "z",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "میکس ورسٹپن"
+            },
+            {
+              "language": "r",
+              "value": "میکس ورسٹپن"
+            },
+            {
+              "language": "h",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Эміліян Верстапэн"
+            },
+            {
+              "language": "e",
+              "value": "Макс Эміліян Верстапэн"
+            },
+            {
+              "language": "r",
+              "value": "Ферстаппен, Макс"
+            },
+            {
+              "language": "u",
+              "value": "Ферстаппен, Макс"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Μαξ Φερστάπεν"
+            },
+            {
+              "language": "l",
+              "value": "Μαξ Φερστάπεν"
+            },
+            {
+              "language": "j",
+              "value": "マックス・フェルスタッペン"
+            },
+            {
+              "language": "a",
+              "value": "マックス・フェルスタッペン"
+            },
+            {
+              "language": "l",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Maks Ferstappen"
+            },
+            {
+              "language": "z",
+              "value": "Maks Ferstappen"
+            },
+            {
+              "language": "f",
+              "value": "ماکس فرستاپن"
+            },
+            {
+              "language": "a",
+              "value": "ماکس فرستاپن"
+            },
+            {
+              "language": "f",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "y",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "h",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "e",
+              "value": "Макс Верстапен"
+            },
+            {
+              "language": "m",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Макс Вэрстапэн"
+            },
+            {
+              "language": "e",
+              "value": "Макс Вэрстапэн"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Emilian Verstappen"
+            },
+            {
+              "language": "k",
+              "value": "막스 페르스타펀"
+            },
+            {
+              "language": "o",
+              "value": "막스 페르스타펀"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "maxverstappen1"
+            },
+            "twitter": {
+              "id": "Max33Verstappen"
+            },
+            "library_of_congress": {
+              "id": "n2019043211"
+            }
+          },
+          "citizenship": [
+            "Kingdom of the Netherlands",
+            "Belgium"
+          ],
+          "date_of_birth": "1997-09-30",
+          "image": {
+            "url": "https://images.qloo.com/i/9AFE6FB6-C365-4D63-87E4-66AA3C33B166-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "Formula Three",
+            "Formula One",
+            "kart racing"
+          ],
+          "member_of_sports_team": [
+            "Red Bull Racing",
+            "Van Amersfoort Racing",
+            "Scuderia Toro Rosso"
+          ],
+          "short_description": "Belgian-Dutch racing driver (born 1997)"
+        },
+        "popularity": 0.994379273980496,
+        "disambiguation": "1997-09-30",
+        "tags": [
+          {
+            "name": "Dutch Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_racing_drivers"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Officers Of The Order Of Orange-nassau",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:officers_order_orange_nassau",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:officers_order_orange_nassau"
+          },
+          {
+            "name": "Sportspeople From Hasselt",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_hasselt",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_hasselt"
+          },
+          {
+            "name": "Belgian Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belgian_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belgian_twitch_service_streamers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Motopark Academy Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:motopark_academy_drivers"
+          },
+          {
+            "name": "Belgian Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belgian_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belgian_racing_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Red Bull Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers"
+          },
+          {
+            "name": "Formula One World Drivers Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_world_drivers_champions"
+          },
+          {
+            "name": "Dutch Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_twitch_service_streamers"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Dutch Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_formula_one_drivers"
+          },
+          {
+            "name": "Toro Rosso Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "Van Amersfoort Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers"
+          },
+          {
+            "name": "Dutch People Of Belgian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_people_belgian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_people_belgian_descent"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Belgian People Of Dutch Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belgian_people_dutch_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belgian_people_dutch_descent"
+          },
+          {
+            "name": "Belgian Expatriates In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belgian_expatriates_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belgian_expatriates_in_monaco"
+          }
+        ]
+      },
+      {
+        "name": "Max Verstappen",
+        "entity_id": "02572ADA-F355-4889-84A8-D0A5DC713747",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "v",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "y",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "p",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "t",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "o",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "u",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "k",
+              "value": "Макс Ферстаппен"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "l",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "q",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "r",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "d",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "n",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "b",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "f",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "i",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "c",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "e",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "s",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "g",
+              "value": "Max Verstappen"
+            },
+            {
+              "language": "a",
+              "value": "Max Verstappen"
+            }
+          ],
+          "external": {
+            "imdb": {
+              "id": "nm1014159"
+            }
+          },
+          "citizenship": [
+            "Kingdom of the Netherlands"
+          ],
+          "date_of_birth": "1957-11-24",
+          "image": {
+            "url": "https://images.qloo.com/i/02572ADA-F355-4889-84A8-D0A5DC713747-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "short_description": "Dutch puppet creator and puppeteer"
+        },
+        "disambiguation": "1957-11-24",
+        "tags": [
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Puppeteer",
+            "tag_id": "urn:tag:occupation:person:puppeteer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:puppeteer"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Max Korzh",
+        "entity_id": "BFFEB4CF-55DC-46E2-83D5-D7152815B734",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "k",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "l",
+              "value": "Maks Koržs"
+            },
+            {
+              "language": "v",
+              "value": "Maks Koržs"
+            },
+            {
+              "language": "i",
+              "value": "Maksim Korž"
+            },
+            {
+              "language": "t",
+              "value": "Maksim Korž"
+            },
+            {
+              "language": "b",
+              "value": "Максім Анатолевіч Корж"
+            },
+            {
+              "language": "e",
+              "value": "Максім Анатолевіч Корж"
+            },
+            {
+              "language": "h",
+              "value": "Մաքս Կորժ"
+            },
+            {
+              "language": "y",
+              "value": "Մաքս Կորժ"
+            },
+            {
+              "language": "p",
+              "value": "Maksim Korż"
+            },
+            {
+              "language": "l",
+              "value": "Maksim Korż"
+            },
+            {
+              "language": "z",
+              "value": "馬克斯·科爾日"
+            },
+            {
+              "language": "h",
+              "value": "馬克斯·科爾日"
+            },
+            {
+              "language": "b",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "e",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "d",
+              "value": "Maxim Anatolewitsch Korsch"
+            },
+            {
+              "language": "e",
+              "value": "Maxim Anatolewitsch Korsch"
+            },
+            {
+              "language": "l",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "v",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "t",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "l",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "e",
+              "value": "Maksim Korzh"
+            },
+            {
+              "language": "n",
+              "value": "Maksim Korzh"
+            },
+            {
+              "language": "i",
+              "value": "Maks Korž"
+            },
+            {
+              "language": "t",
+              "value": "Maks Korž"
+            },
+            {
+              "language": "u",
+              "value": "Максим Анатолійович Корж"
+            },
+            {
+              "language": "k",
+              "value": "Максим Анатолійович Корж"
+            },
+            {
+              "language": "h",
+              "value": "Մաքսիմ Կորժ"
+            },
+            {
+              "language": "y",
+              "value": "Մաքսիմ Կորժ"
+            },
+            {
+              "language": "d",
+              "value": "Maxim Korsch"
+            },
+            {
+              "language": "e",
+              "value": "Maxim Korsch"
+            },
+            {
+              "language": "h",
+              "value": "Մաքսիմ Անատոլիի Կորժ"
+            },
+            {
+              "language": "y",
+              "value": "Մաքսիմ Անատոլիի Կորժ"
+            },
+            {
+              "language": "i",
+              "value": "Maksim Anatolevič Korž"
+            },
+            {
+              "language": "t",
+              "value": "Maksim Anatolevič Korž"
+            },
+            {
+              "language": "s",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "q",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "g",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "a",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "p",
+              "value": "Maksim Anatoliewicz Korż"
+            },
+            {
+              "language": "l",
+              "value": "Maksim Anatoliewicz Korż"
+            },
+            {
+              "language": "r",
+              "value": "Максим Корж"
+            },
+            {
+              "language": "u",
+              "value": "Максим Корж"
+            },
+            {
+              "language": "r",
+              "value": "Корж, Макс"
+            },
+            {
+              "language": "u",
+              "value": "Корж, Макс"
+            },
+            {
+              "language": "r",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "u",
+              "value": "Макс Корж"
+            },
+            {
+              "language": "e",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "s",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "b",
+              "value": "Максім Корж"
+            },
+            {
+              "language": "e",
+              "value": "Максім Корж"
+            },
+            {
+              "language": "r",
+              "value": "Максим Анатольевич Корж"
+            },
+            {
+              "language": "u",
+              "value": "Максим Анатольевич Корж"
+            },
+            {
+              "language": "e",
+              "value": "Maksim Anatolievich Korzh"
+            },
+            {
+              "language": "n",
+              "value": "Maksim Anatolievich Korzh"
+            },
+            {
+              "language": "u",
+              "value": "Максим Корж"
+            },
+            {
+              "language": "k",
+              "value": "Максим Корж"
+            },
+            {
+              "language": "n",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "l",
+              "value": "Max Korzh"
+            },
+            {
+              "language": "d",
+              "value": "Max Korsch"
+            },
+            {
+              "language": "e",
+              "value": "Max Korsch"
+            },
+            {
+              "language": "p",
+              "value": "Maks Korż"
+            },
+            {
+              "language": "l",
+              "value": "Maks Korż"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Макс+Корж"
+            },
+            "instagram": {
+              "id": "maxkorzhmus"
+            },
+            "twitter": {
+              "id": "max_korzh_mus"
+            },
+            "spotify": {
+              "id": "5meD8C7oGK5yUEY2T7ZZ7W"
+            },
+            "imdb": {
+              "id": "nm5616987"
+            },
+            "musicbrainz": {
+              "id": "38cfabf6-080c-499d-b8e8-b48aa60b7237"
+            }
+          },
+          "citizenship": [
+            "Belarus"
+          ],
+          "date_of_birth": "1988-11-23",
+          "image": {
+            "url": "https://images.qloo.com/i/BFFEB4CF-55DC-46E2-83D5-D7152815B734-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "keyboard instrument",
+            "guitar",
+            "synthesizer",
+            "voice",
+            "piano"
+          ],
+          "work_period_start": "2006-01-01",
+          "short_description": "Belarusian singer-songwriter"
+        },
+        "popularity": 0.9839260282014763,
+        "disambiguation": "1988-11-23",
+        "tags": [
+          {
+            "name": "21st-century Belarusian Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_belarusian_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_belarusian_male_singers"
+          },
+          {
+            "name": "Belarusian Rappers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belarusian_rappers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belarusian_rappers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Director",
+            "tag_id": "urn:tag:occupation:person:director",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:director"
+          },
+          {
+            "name": "Songwriter",
+            "tag_id": "urn:tag:occupation:person:songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:songwriter"
+          },
+          {
+            "name": "Ska Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ska_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ska_musicians"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Hip Hop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hip_hop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hip_hop_singers"
+          },
+          {
+            "name": "Russian-language Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_language_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_language_singers"
+          },
+          {
+            "name": "Belarusian Singer-songwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:belarusian_singer_songwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:belarusian_singer_songwriters"
+          },
+          {
+            "name": "Rapper",
+            "tag_id": "urn:tag:occupation:person:rapper",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:rapper"
+          }
+        ]
+      },
+      {
+        "name": "Max Holloway",
+        "entity_id": "B410EC5A-FF45-4199-A299-ABF6F2ADA16F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "n",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "h",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "u",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "e",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "s",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "n",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "b",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "s",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "v",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "e",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "s",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "i",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "t",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "n",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "l",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "p",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "l",
+              "value": "Jerome-Max Holloway"
+            },
+            {
+              "language": "e",
+              "value": "Τζερόμ Μαξ Χόλογουεϊ"
+            },
+            {
+              "language": "l",
+              "value": "Τζερόμ Μαξ Χόλογουεϊ"
+            },
+            {
+              "language": "b",
+              "value": "Макс Холоуей"
+            },
+            {
+              "language": "g",
+              "value": "Макс Холоуей"
+            },
+            {
+              "language": "h",
+              "value": "Մաքս Հոլոուեյ"
+            },
+            {
+              "language": "y",
+              "value": "Մաքս Հոլոուեյ"
+            },
+            {
+              "language": "e",
+              "value": "Μαξ Χόλογουεϊ"
+            },
+            {
+              "language": "l",
+              "value": "Μαξ Χόλογουεϊ"
+            },
+            {
+              "language": "h",
+              "value": "מקס הולוואי"
+            },
+            {
+              "language": "e",
+              "value": "מקס הולוואי"
+            },
+            {
+              "language": "k",
+              "value": "맥스 할로웨이"
+            },
+            {
+              "language": "o",
+              "value": "맥스 할로웨이"
+            },
+            {
+              "language": "d",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "e",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "u",
+              "value": "Макс Холловей"
+            },
+            {
+              "language": "k",
+              "value": "Макс Холловей"
+            },
+            {
+              "language": "f",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "r",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "r",
+              "value": "Макс Холлоуэй"
+            },
+            {
+              "language": "u",
+              "value": "Макс Холлоуэй"
+            },
+            {
+              "language": "d",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "a",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "h",
+              "value": "Jerome Max Holloway"
+            },
+            {
+              "language": "u",
+              "value": "Jerome Max Holloway"
+            },
+            {
+              "language": "c",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "a",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "p",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "l",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "d",
+              "value": "Jerome-Max Kelii Holloway"
+            },
+            {
+              "language": "a",
+              "value": "Jerome-Max Kelii Holloway"
+            },
+            {
+              "language": "f",
+              "value": "مکس هالووی"
+            },
+            {
+              "language": "a",
+              "value": "مکس هالووی"
+            },
+            {
+              "language": "a",
+              "value": "ماكس هولواي"
+            },
+            {
+              "language": "r",
+              "value": "ماكس هولواي"
+            },
+            {
+              "language": "j",
+              "value": "マックス・ホロウェイ"
+            },
+            {
+              "language": "a",
+              "value": "マックス・ホロウェイ"
+            },
+            {
+              "language": "n",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "n",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "f",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "i",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "s",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "q",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "z",
+              "value": "马克斯·霍洛威"
+            },
+            {
+              "language": "h",
+              "value": "马克斯·霍洛威"
+            },
+            {
+              "language": "p",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "t",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "g",
+              "value": "Max Holloway"
+            },
+            {
+              "language": "a",
+              "value": "Max Holloway"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "blessedmma"
+            },
+            "twitter": {
+              "id": "BlessedMMA"
+            },
+            "imdb": {
+              "id": "nm7276921"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1991-12-04",
+          "image": {
+            "url": "https://images.qloo.com/i/B410EC5A-FF45-4199-A299-ABF6F2ADA16F-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "mixed martial arts"
+          ],
+          "spouse": [
+            "Alessa Quizon"
+          ],
+          "short_description": "American mixed martial artist"
+        },
+        "popularity": 0.9662919515986997,
+        "disambiguation": "1991-12-04",
+        "tags": [
+          {
+            "name": "Native Hawaiian Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:native_hawaiian_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:native_hawaiian_sportspeople"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Practitioners Of Brazilian Jiu-jitsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_practitioners_brazilian_jiu_jitsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_practitioners_brazilian_jiu_jitsu"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Brazilian Jiu-jitsu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_brazilian_jiu_jitsu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_brazilian_jiu_jitsu"
+          },
+          {
+            "name": "American Male Mixed Martial Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_mixed_martial_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_mixed_martial_artists"
+          },
+          {
+            "name": "Ultimate Fighting Championship Male Fighters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_male_fighters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_male_fighters"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          },
+          {
+            "name": "Featherweight Mixed Martial Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:featherweight_mixed_martial_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:featherweight_mixed_martial_artists"
+          },
+          {
+            "name": "People From Oahu",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_oahu",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_oahu"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Mixed Martial Arts Fighter",
+            "tag_id": "urn:tag:occupation:person:mixed_martial_arts_fighter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:mixed_martial_arts_fighter"
+          },
+          {
+            "name": "Ultimate Fighting Championship Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ultimate_fighting_championship_champions"
+          },
+          {
+            "name": "Mixed Martial Artists Utilizing Kickboxing",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_kickboxing",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_utilizing_kickboxing"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Mixed Martial Artists From Hawaii",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_from_hawaii",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mixed_martial_artists_from_hawaii"
+          }
+        ]
+      },
+      {
+        "name": "Max Boublil",
+        "entity_id": "EADEEF83-C8E0-4376-B23B-9B35E517B708",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "马克斯·鲍伯利"
+            },
+            {
+              "language": "h",
+              "value": "马克斯·鲍伯利"
+            },
+            {
+              "language": "n",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "n",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "g",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "a",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "s",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "v",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "e",
+              "value": "Maximilien Boublil"
+            },
+            {
+              "language": "s",
+              "value": "Maximilien Boublil"
+            },
+            {
+              "language": "s",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "q",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "h",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "u",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "c",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "a",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "n",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "b",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "i",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "t",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "f",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "i",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Бублиль, Макс"
+            },
+            {
+              "language": "u",
+              "value": "Бублиль, Макс"
+            },
+            {
+              "language": "d",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "e",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "t",
+              "value": "Maximilien Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Maximilien Boublil"
+            },
+            {
+              "language": "d",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "a",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "f",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "f",
+              "value": "Maximilien Léon Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Maximilien Léon Boublil"
+            },
+            {
+              "language": "p",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "t",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "e",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "s",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "n",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "l",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "t",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "s",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "l",
+              "value": "Max Boublil"
+            },
+            {
+              "language": "r",
+              "value": "Макс Бублиль"
+            },
+            {
+              "language": "u",
+              "value": "Макс Бублиль"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "max_boublil"
+            },
+            "imdb": {
+              "id": "nm0991511"
+            },
+            "musicbrainz": {
+              "id": "ed958549-eb8b-4b8f-b9d5-cee49ee261f3"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1979-05-17",
+          "image": {
+            "url": "https://images.qloo.com/i/EADEEF83-C8E0-4376-B23B-9B35E517B708-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "short_description": "French comedian, singer and film / TV actor"
+        },
+        "popularity": 0.965009077961753,
+        "disambiguation": "1979-05-17",
+        "tags": [
+          {
+            "name": "Music",
+            "tag_id": "urn:tag:genre:media:media:music",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:music"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "21st-century French Sephardi Jews",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_french_sephardi_jews",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_french_sephardi_jews"
+          },
+          {
+            "name": "21st-century French Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_french_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_french_singers"
+          },
+          {
+            "name": "French Male Comedians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_male_comedians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_male_comedians"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Screenwriter",
+            "tag_id": "urn:tag:occupation:person:screenwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:screenwriter"
+          },
+          {
+            "name": "French Male Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_male_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_male_screenwriters"
+          },
+          {
+            "name": "French Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_male_television_actors"
+          },
+          {
+            "name": "French People Of Tunisian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_people_tunisian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_people_tunisian_descent"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:occupation:person:comedian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:comedian"
+          },
+          {
+            "name": "French Screenwriters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_screenwriters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_screenwriters"
+          },
+          {
+            "name": "21st-century French Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_french_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_french_male_actors"
+          },
+          {
+            "name": "Comedians From Paris",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedians_from_paris",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedians_from_paris"
+          },
+          {
+            "name": "French Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_male_film_actors"
+          },
+          {
+            "name": "20th-century French Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_french_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_french_male_actors"
+          },
+          {
+            "name": "Comedian",
+            "tag_id": "urn:tag:genre:person:comedian",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:comedian"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Fantasy",
+            "tag_id": "urn:tag:genre:media:media:fantasy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:fantasy"
+          },
+          {
+            "name": "21st-century French Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_french_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_french_male_singers"
+          }
+        ]
+      }
+    ]
+  }
+}

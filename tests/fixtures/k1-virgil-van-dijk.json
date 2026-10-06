@@ -1,0 +1,4173 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Virgil van Dijk",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Virgil van Dijk",
+        "entity_id": "92192CE5-8276-4965-A321-B323D0BB73F8",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "t",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "q",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Վիրջիլ Վան Դեյք"
+            },
+            {
+              "language": "y",
+              "value": "Վիրջիլ Վան Դեյք"
+            },
+            {
+              "language": "r",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "버질 반 다이크"
+            },
+            {
+              "language": "o",
+              "value": "버질 반 다이크"
+            },
+            {
+              "language": "m",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Виржил ван Дейк"
+            },
+            {
+              "language": "n",
+              "value": "Виржил ван Дейк"
+            },
+            {
+              "language": "k",
+              "value": "버질 판 데이크"
+            },
+            {
+              "language": "o",
+              "value": "버질 판 데이크"
+            },
+            {
+              "language": "v",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Vircil van Deyk"
+            },
+            {
+              "language": "z",
+              "value": "Vircil van Deyk"
+            },
+            {
+              "language": "j",
+              "value": "フィルジル・ファン・ダイク"
+            },
+            {
+              "language": "a",
+              "value": "フィルジル・ファン・ダイク"
+            },
+            {
+              "language": "p",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "维吉尔·范戴克"
+            },
+            {
+              "language": "h",
+              "value": "维吉尔·范戴克"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "维吉尔·范迪克"
+            },
+            {
+              "language": "h",
+              "value": "维吉尔·范迪克"
+            },
+            {
+              "language": "n",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Вірджіл ван Дейк"
+            },
+            {
+              "language": "k",
+              "value": "Вірджіл ван Дейк"
+            },
+            {
+              "language": "n",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Virjil van Deyk"
+            },
+            {
+              "language": "z",
+              "value": "Virjil van Deyk"
+            },
+            {
+              "language": "h",
+              "value": "וירגל ואן דיק"
+            },
+            {
+              "language": "e",
+              "value": "וירגל ואן דיק"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Вирџил ван Дајк"
+            },
+            {
+              "language": "k",
+              "value": "Вирџил ван Дајк"
+            },
+            {
+              "language": "b",
+              "value": "ভার্জিল ভান ডাইক"
+            },
+            {
+              "language": "n",
+              "value": "ভার্জিল ভান ডাইক"
+            },
+            {
+              "language": "i",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "വെർജിൽ വാൻ ഡൈക്ക്"
+            },
+            {
+              "language": "l",
+              "value": "വെർജിൽ വാൻ ഡൈക്ക്"
+            },
+            {
+              "language": "j",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "p",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "ویرجیل ون دایک"
+            },
+            {
+              "language": "a",
+              "value": "ویرجیل ون دایک"
+            },
+            {
+              "language": "b",
+              "value": "Върджил ван Дайк"
+            },
+            {
+              "language": "g",
+              "value": "Върджил ван Дайк"
+            },
+            {
+              "language": "f",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "ვირჯილ ვან დეიკი"
+            },
+            {
+              "language": "a",
+              "value": "ვირჯილ ვან დეიკი"
+            },
+            {
+              "language": "l",
+              "value": "Virdžils van Deiks"
+            },
+            {
+              "language": "v",
+              "value": "Virdžils van Deiks"
+            },
+            {
+              "language": "q",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "雲迪克"
+            },
+            {
+              "language": "h",
+              "value": "雲迪克"
+            },
+            {
+              "language": "s",
+              "value": "Вирџил ван Дајк"
+            },
+            {
+              "language": "r",
+              "value": "Вирџил ван Дајк"
+            },
+            {
+              "language": "g",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Вірджыл ван Дэйк"
+            },
+            {
+              "language": "e",
+              "value": "Вірджыл ван Дэйк"
+            },
+            {
+              "language": "k",
+              "value": "Вирджил ван Дейк"
+            },
+            {
+              "language": "k",
+              "value": "Вирджил ван Дейк"
+            },
+            {
+              "language": "h",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "버질 반 데이크"
+            },
+            {
+              "language": "o",
+              "value": "버질 반 데이크"
+            },
+            {
+              "language": "e",
+              "value": "Φίρχιλ φαν Ντάικ"
+            },
+            {
+              "language": "l",
+              "value": "Φίρχιλ φαν Ντάικ"
+            },
+            {
+              "language": "d",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Вирджил ван Дейк"
+            },
+            {
+              "language": "u",
+              "value": "Вирджил ван Дейк"
+            },
+            {
+              "language": "r",
+              "value": "Дейк, Вирджил ван"
+            },
+            {
+              "language": "u",
+              "value": "Дейк, Вирджил ван"
+            },
+            {
+              "language": "f",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "เฟอร์จิล ฟัน ไดก์"
+            },
+            {
+              "language": "h",
+              "value": "เฟอร์จิล ฟัน ไดก์"
+            },
+            {
+              "language": "c",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Virgil van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "فيرجيل فان دايك"
+            },
+            {
+              "language": "r",
+              "value": "فيرجيل فان دايك"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "virgilvandijk"
+            },
+            "twitter": {
+              "id": "VirgilvDijk"
+            },
+            "library_of_congress": {
+              "id": "nb2023005010"
+            }
+          },
+          "citizenship": [
+            "Kingdom of the Netherlands"
+          ],
+          "date_of_birth": "1991-07-08",
+          "image": {
+            "url": "https://images.qloo.com/i/92192CE5-8276-4965-A321-B323D0BB73F8-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Netherlands national association football team",
+            "Netherlands national under-21 football team",
+            "Southampton F.C.",
+            "Sepsi OSK Sfântu Gheorghe",
+            "FC Groningen",
+            "Netherlands national under-19 football team",
+            "Celtic F.C.",
+            "Liverpool F.C."
+          ],
+          "work_period_start": "2011-05-01",
+          "short_description": "Dutch association football player"
+        },
+        "popularity": 0.9964938411193616,
+        "disambiguation": "1991-07-08",
+        "tags": [
+          {
+            "name": "Celtic F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:celtic_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:celtic_f_c_players"
+          },
+          {
+            "name": "Scottish Professional Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:scottish_professional_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:scottish_professional_football_league_players"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "Netherlands Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:netherlands_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:netherlands_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Netherlands Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:netherlands_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:netherlands_mens_youth_international_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Liverpool F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Netherlands Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:netherlands_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:netherlands_mens_international_footballers"
+          },
+          {
+            "name": "Dutch Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_mens_footballers"
+          },
+          {
+            "name": "Fc Groningen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_groningen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_groningen_players"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In Scotland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_scotland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_scotland"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Scotland",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_scotland",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_scotland"
+          },
+          {
+            "name": "Southampton F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:southampton_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:southampton_f_c_players"
+          },
+          {
+            "name": "Uefa Mens Player Of The Year Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_mens_player_year_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_mens_player_year_award_winners"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Willem Ii (football Club) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:willem_ii_football_club_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:willem_ii_football_club_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Dutch People Of Chinese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_people_chinese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_people_chinese_descent"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Dutch Sportspeople Of Surinamese Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_sportspeople_surinamese_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_sportspeople_surinamese_descent"
+          },
+          {
+            "name": "Dutch Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_mens_footballers"
+          },
+          {
+            "name": "Mens Association Football Central Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders"
+          },
+          {
+            "name": "Engvarb From January 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_january_2019"
+          },
+          {
+            "name": "Footballers From Breda",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_breda",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_breda"
+          },
+          {
+            "name": "Eredivisie Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eredivisie_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eredivisie_players"
+          }
+        ]
+      },
+      {
+        "name": "Sergio van Dijk",
+        "entity_id": "1D72DE8D-B1C4-41EF-8192-8D190B39977C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Сержіо ван Дейк"
+            },
+            {
+              "language": "k",
+              "value": "Сержіо ван Дейк"
+            },
+            {
+              "language": "r",
+              "value": "Сержио Ван Дейк"
+            },
+            {
+              "language": "u",
+              "value": "Сержио Ван Дейк"
+            },
+            {
+              "language": "s",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "q",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "سرجیو فان دیک"
+            },
+            {
+              "language": "a",
+              "value": "سرجیو فان دیک"
+            },
+            {
+              "language": "c",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "سيرجيو فان دايك"
+            },
+            {
+              "language": "r",
+              "value": "سيرجيو فان دايك"
+            },
+            {
+              "language": "d",
+              "value": "Serginho van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Serginho van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "雲迪克"
+            },
+            {
+              "language": "h",
+              "value": "雲迪克"
+            },
+            {
+              "language": "f",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "p",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "j",
+              "value": "セルジオ・ファン・ダイク"
+            },
+            {
+              "language": "a",
+              "value": "セルジオ・ファン・ダイク"
+            },
+            {
+              "language": "d",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Sergio van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "סרג'יו ואן דיק"
+            },
+            {
+              "language": "e",
+              "value": "סרג'יו ואן דיק"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "serginhovandijk"
+            },
+            "twitter": {
+              "id": "serginhovandijk"
+            }
+          },
+          "citizenship": [
+            "Kingdom of the Netherlands"
+          ],
+          "date_of_birth": "1982-08-06",
+          "image": {
+            "url": "https://images.qloo.com/i/1D72DE8D-B1C4-41EF-8192-8D190B39977C-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "FC Emmen",
+            "Brisbane Roar FC",
+            "FC Groningen",
+            "Suphanburi F.C.",
+            "Persib Bandung",
+            "Adelaide United Football Club",
+            "Indonesia national football team",
+            "Sepahan F.C.",
+            "Helmond Sport"
+          ],
+          "short_description": "Dutch association football player"
+        },
+        "popularity": 0.9402648373033561,
+        "disambiguation": "1982-08-06",
+        "tags": [
+          {
+            "name": "Eredivisie Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eredivisie_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eredivisie_players"
+          },
+          {
+            "name": "Sepahan S.c. Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sepahan_s_c_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sepahan_s_c_footballers"
+          },
+          {
+            "name": "Dutch Fashion Designers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_fashion_designers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_fashion_designers"
+          },
+          {
+            "name": "Naturalised Citizens Of Indonesia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_indonesia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_indonesia"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In Iran",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_iran",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_iran"
+          },
+          {
+            "name": "Indonesian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_mens_footballers"
+          },
+          {
+            "name": "Liga 1 (indonesia) Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_1_indonesia_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_1_indonesia_players"
+          },
+          {
+            "name": "Expatriate Mens Soccer Players In Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_soccer_players_in_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_soccer_players_in_australia"
+          },
+          {
+            "name": "Brisbane Roar Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brisbane_roar_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brisbane_roar_fc_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Fashion Designer",
+            "tag_id": "urn:tag:occupation:person:fashion_designer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:fashion_designer"
+          },
+          {
+            "name": "Indo People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indo_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indo_people"
+          },
+          {
+            "name": "Suphanburi F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:suphanburi_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:suphanburi_f_c_players"
+          },
+          {
+            "name": "Dutch People Of Indonesian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_people_indonesian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_people_indonesian_descent"
+          },
+          {
+            "name": "Indonesian People Of Dutch Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_people_dutch_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_people_dutch_descent"
+          },
+          {
+            "name": "Helmond Sport Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:helmond_sport_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:helmond_sport_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Indonesian Expatriate Sportspeople In Thailand",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_sportspeople_in_thailand",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_sportspeople_in_thailand"
+          },
+          {
+            "name": "Fc Groningen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_groningen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_groningen_players"
+          },
+          {
+            "name": "Adelaide United Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:adelaide_united_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:adelaide_united_fc_players"
+          },
+          {
+            "name": "Dutch Emigrants To Indonesia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_emigrants_to_indonesia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_emigrants_to_indonesia"
+          },
+          {
+            "name": "Sportspeople Of Indonesian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_indonesian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_indonesian_descent"
+          },
+          {
+            "name": "Marquee Players (a-league Men)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:marquee_players_a_league_men",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:marquee_players_a_league_men"
+          },
+          {
+            "name": "Dutch Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_mens_footballers"
+          },
+          {
+            "name": "Persib Bandung Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:persib_bandung_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:persib_bandung_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Iran",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_iran",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_iran"
+          },
+          {
+            "name": "Fc Emmen Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_emmen_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_emmen_players"
+          },
+          {
+            "name": "Indonesian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Thai League 1 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_league_1_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_league_1_players"
+          },
+          {
+            "name": "A-league Men Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:a_league_men_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:a_league_men_players"
+          },
+          {
+            "name": "Dutch Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_mens_footballers"
+          },
+          {
+            "name": "Sportspeople From Assen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_assen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_assen"
+          },
+          {
+            "name": "Naturalised Association Football Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalised_association_football_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalised_association_football_players"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_australia"
+          },
+          {
+            "name": "Footballers From Drenthe",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_drenthe",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_drenthe"
+          },
+          {
+            "name": "Dutch Expatriate Sportspeople In Thailand",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_thailand",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dutch_expatriate_sportspeople_in_thailand"
+          },
+          {
+            "name": "Indonesia Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesia_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesia_mens_international_footballers"
+          },
+          {
+            "name": "Eerste Divisie Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eerste_divisie_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eerste_divisie_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Indonesian Expatriate Sportspeople In Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_sportspeople_in_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:indonesian_expatriate_sportspeople_in_australia"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Thailand",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_thailand",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_thailand"
+          }
+        ]
+      },
+      {
+        "name": "Paul van Dyk",
+        "entity_id": "8E8DAB24-83A3-4259-A6CF-125F854EDFAA",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "l",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "v",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "r",
+              "value": "Пауль фан Дюк"
+            },
+            {
+              "language": "u",
+              "value": "Пауль фан Дюк"
+            },
+            {
+              "language": "r",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "u",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "o",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "c",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "t",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "h",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "i",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "d",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "t",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "r",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "s",
+              "value": "Матијас Пол"
+            },
+            {
+              "language": "r",
+              "value": "Матијас Пол"
+            },
+            {
+              "language": "h",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "r",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "u",
+              "value": "Ван Дайк Пол"
+            },
+            {
+              "language": "k",
+              "value": "Ван Дайк Пол"
+            },
+            {
+              "language": "s",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "k",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "b",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "g",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "g",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "d",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "e",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "r",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "u",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "r",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "o",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "n",
+              "value": "Paul van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "PvD"
+            },
+            {
+              "language": "h",
+              "value": "PvD"
+            },
+            {
+              "language": "n",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "f",
+              "value": "پل ون دیک"
+            },
+            {
+              "language": "a",
+              "value": "پل ون دیک"
+            },
+            {
+              "language": "f",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "r",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "h",
+              "value": "פול ואן דייק"
+            },
+            {
+              "language": "e",
+              "value": "פול ואן דייק"
+            },
+            {
+              "language": "z",
+              "value": "保羅凡戴克"
+            },
+            {
+              "language": "h",
+              "value": "保羅凡戴克"
+            },
+            {
+              "language": "u",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "k",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "c",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "c",
+              "value": "PvD"
+            },
+            {
+              "language": "s",
+              "value": "PvD"
+            },
+            {
+              "language": "e",
+              "value": "PVD"
+            },
+            {
+              "language": "n",
+              "value": "PVD"
+            },
+            {
+              "language": "s",
+              "value": "Dyk, Paul van"
+            },
+            {
+              "language": "v",
+              "value": "Dyk, Paul van"
+            },
+            {
+              "language": "p",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Пол ван Дајк"
+            },
+            {
+              "language": "r",
+              "value": "Пол ван Дајк"
+            },
+            {
+              "language": "e",
+              "value": "Πωλ βαν Ντάικ"
+            },
+            {
+              "language": "l",
+              "value": "Πωλ βαν Ντάικ"
+            },
+            {
+              "language": "e",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "u",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "e",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "u",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "i",
+              "value": "PvD"
+            },
+            {
+              "language": "t",
+              "value": "PvD"
+            },
+            {
+              "language": "g",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "l",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "k",
+              "value": "პოლ ვან დაიკი"
+            },
+            {
+              "language": "a",
+              "value": "პოლ ვან დაიკი"
+            },
+            {
+              "language": "z",
+              "value": "PVD"
+            },
+            {
+              "language": "h",
+              "value": "PVD"
+            },
+            {
+              "language": "d",
+              "value": "PvD"
+            },
+            {
+              "language": "e",
+              "value": "PvD"
+            },
+            {
+              "language": "i",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "t",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "h",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "u",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "c",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "s",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "d",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "e",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "e",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "n",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "e",
+              "value": "PvD"
+            },
+            {
+              "language": "s",
+              "value": "PvD"
+            },
+            {
+              "language": "k",
+              "value": "파울 반 디크"
+            },
+            {
+              "language": "o",
+              "value": "파울 반 디크"
+            },
+            {
+              "language": "k",
+              "value": "폴 반 다이크"
+            },
+            {
+              "language": "o",
+              "value": "폴 반 다이크"
+            },
+            {
+              "language": "l",
+              "value": "Pauls van Diks"
+            },
+            {
+              "language": "v",
+              "value": "Pauls van Diks"
+            },
+            {
+              "language": "a",
+              "value": "بول فان ديك"
+            },
+            {
+              "language": "r",
+              "value": "بول فان ديك"
+            },
+            {
+              "language": "h",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "u",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "f",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "i",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "e",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "s",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "q",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "t",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "c",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "a",
+              "value": "Paul Van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "k",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "p",
+              "value": "PvD"
+            },
+            {
+              "language": "l",
+              "value": "PvD"
+            },
+            {
+              "language": "j",
+              "value": "マティアス・パウル"
+            },
+            {
+              "language": "a",
+              "value": "マティアス・パウル"
+            },
+            {
+              "language": "u",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "k",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "l",
+              "value": "Pols van Daiks"
+            },
+            {
+              "language": "v",
+              "value": "Pols van Daiks"
+            },
+            {
+              "language": "n",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "b",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "m",
+              "value": "Пол ван Дајк"
+            },
+            {
+              "language": "k",
+              "value": "Пол ван Дајк"
+            },
+            {
+              "language": "f",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "r",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "p",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "t",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "r",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "r",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "p",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "l",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "j",
+              "value": "ポール・ヴァン・ダイク"
+            },
+            {
+              "language": "a",
+              "value": "ポール・ヴァン・ダイク"
+            },
+            {
+              "language": "e",
+              "value": "PvD"
+            },
+            {
+              "language": "n",
+              "value": "PvD"
+            },
+            {
+              "language": "f",
+              "value": "پال ون دایک"
+            },
+            {
+              "language": "a",
+              "value": "پال ون دایک"
+            },
+            {
+              "language": "k",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "y",
+              "value": "Пол ван Дайк"
+            },
+            {
+              "language": "f",
+              "value": "پل ون دایک"
+            },
+            {
+              "language": "a",
+              "value": "پل ون دایک"
+            },
+            {
+              "language": "z",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "h",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "k",
+              "value": "폴 반 다익"
+            },
+            {
+              "language": "o",
+              "value": "폴 반 다익"
+            },
+            {
+              "language": "e",
+              "value": "Dyk"
+            },
+            {
+              "language": "n",
+              "value": "Dyk"
+            },
+            {
+              "language": "c",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "d",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "a",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "j",
+              "value": "パウル・ヴァン・ダイク"
+            },
+            {
+              "language": "a",
+              "value": "パウル・ヴァン・ダイク"
+            },
+            {
+              "language": "t",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "r",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "n",
+              "value": "Paul van Dyke"
+            },
+            {
+              "language": "b",
+              "value": "Paul van Dyke"
+            },
+            {
+              "language": "r",
+              "value": "Ван Дайк, Пол"
+            },
+            {
+              "language": "u",
+              "value": "Ван Дайк, Пол"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "v",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "e",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "s",
+              "value": "Paul van Dyk"
+            },
+            {
+              "language": "h",
+              "value": "Փոլ վան Դայկ"
+            },
+            {
+              "language": "y",
+              "value": "Փոլ վան Դայկ"
+            },
+            {
+              "language": "t",
+              "value": "เพาล์ ฟัน ดึค"
+            },
+            {
+              "language": "h",
+              "value": "เพาล์ ฟัน ดึค"
+            },
+            {
+              "language": "p",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "t",
+              "value": "Matthias Paul"
+            },
+            {
+              "language": "z",
+              "value": "保羅·凡戴克"
+            },
+            {
+              "language": "h",
+              "value": "保羅·凡戴克"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "paulvandyk"
+            },
+            "twitter": {
+              "id": "PAULVANDYK"
+            },
+            "spotify": {
+              "id": "7wU1naftD3lNq7rNsiDvOR"
+            },
+            "imdb": {
+              "id": "nm1364729"
+            },
+            "library_of_congress": {
+              "id": "no2001040291"
+            },
+            "musicbrainz": {
+              "id": "092ca127-2e07-4cbd-9cba-e412b4ddddd9"
+            }
+          },
+          "citizenship": [
+            "Germany"
+          ],
+          "date_of_birth": "1971-12-16",
+          "image": {
+            "url": "https://images.qloo.com/i/8E8DAB24-83A3-4259-A6CF-125F854EDFAA-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "DJ mixer",
+            "synthesizer",
+            "electronic keyboard"
+          ],
+          "work_period_start": "1990-01-01",
+          "short_description": "German DJ and trance music producer"
+        },
+        "popularity": 0.9509463911025103,
+        "disambiguation": "1971-12-16",
+        "tags": [
+          {
+            "name": "Progressive House Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:progressive_house_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:progressive_house_musicians"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Disc Jockey",
+            "tag_id": "urn:tag:occupation:person:disc_jockey",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:disc_jockey"
+          },
+          {
+            "name": "Armada Music Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:armada_music_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:armada_music_artists"
+          },
+          {
+            "name": "Best Original Music Score Ariel Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:best_original_music_score_ariel_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:best_original_music_score_ariel_award_winners"
+          },
+          {
+            "name": "German Electronic Dance Music Djs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_electronic_dance_music_djs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_electronic_dance_music_djs"
+          },
+          {
+            "name": "Eurodance Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eurodance_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eurodance_musicians"
+          },
+          {
+            "name": "Club Dj",
+            "tag_id": "urn:tag:occupation:person:club_dj",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:club_dj"
+          },
+          {
+            "name": "People From Bezirk Frankfurt",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_bezirk_frankfurt",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_bezirk_frankfurt"
+          },
+          {
+            "name": "German Club Djs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_club_djs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_club_djs"
+          },
+          {
+            "name": "German Radio Personalities",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_radio_personalities",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_radio_personalities"
+          },
+          {
+            "name": "Mute Records Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mute_records_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mute_records_artists"
+          },
+          {
+            "name": "Dance-pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dance_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dance_pop_musicians"
+          },
+          {
+            "name": "German Dance Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_dance_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_dance_musicians"
+          },
+          {
+            "name": "German Trance Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_trance_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_trance_musicians"
+          },
+          {
+            "name": "Radio Personality",
+            "tag_id": "urn:tag:occupation:person:radio_personality",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:radio_personality"
+          },
+          {
+            "name": "Film Score Composer",
+            "tag_id": "urn:tag:occupation:person:film_score_composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_score_composer"
+          },
+          {
+            "name": "Record Producer",
+            "tag_id": "urn:tag:occupation:person:record_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:record_producer"
+          },
+          {
+            "name": "German Anti-war Activists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_anti_war_activists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_anti_war_activists"
+          },
+          {
+            "name": "Electro House Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:electro_house_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:electro_house_musicians"
+          },
+          {
+            "name": "German Remixers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:german_remixers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:german_remixers"
+          },
+          {
+            "name": "Ministry Of Sound Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ministry_sound_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ministry_sound_artists"
+          },
+          {
+            "name": "People From Eisenhüttenstadt",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_eisenhuttenstadt",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_eisenhuttenstadt"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Recipients Of The Order Of Merit Of Berlin",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:recipients_order_merit_berlin",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:recipients_order_merit_berlin"
+          }
+        ]
+      },
+      {
+        "name": "Ruel",
+        "entity_id": "0F0D13ED-9D00-469F-B5CE-59CCF674A5C9",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "z",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "d",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "j",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "p",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "q",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "q",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Руель Вінсент ван Дайк"
+            },
+            {
+              "language": "k",
+              "value": "Руель Вінсент ван Дайк"
+            },
+            {
+              "language": "p",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "d",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "q",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Руель"
+            },
+            {
+              "language": "k",
+              "value": "Руель"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "p",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "z",
+              "value": "Ruel"
+            },
+            {
+              "language": "q",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Ruel"
+            },
+            {
+              "language": "j",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "x",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "j",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "u",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "z",
+              "value": "Ruel"
+            },
+            {
+              "language": "u",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "p",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ռուլ"
+            },
+            {
+              "language": "y",
+              "value": "Ռուլ"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "j",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "x",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "รูล"
+            },
+            {
+              "language": "h",
+              "value": "รูล"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "رول"
+            },
+            {
+              "language": "a",
+              "value": "رول"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "רואל"
+            },
+            {
+              "language": "e",
+              "value": "רואל"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "j",
+              "value": "Ruel"
+            },
+            {
+              "language": "d",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel"
+            },
+            {
+              "language": "b",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "w",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "f",
+              "value": "Ruel"
+            },
+            {
+              "language": "m",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "h",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "y",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "w",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "d",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "j",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Ruel"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "v",
+              "value": "Ruel"
+            },
+            {
+              "language": "n",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "b",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Ruel"
+            },
+            {
+              "language": "h",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "v",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "k",
+              "value": "Ruel"
+            },
+            {
+              "language": "g",
+              "value": "Ruel"
+            },
+            {
+              "language": "t",
+              "value": "Ruel"
+            },
+            {
+              "language": "r",
+              "value": "Ruel"
+            },
+            {
+              "language": "i",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "o",
+              "value": "Ruel Vincent van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "s",
+              "value": "Ruel"
+            },
+            {
+              "language": "d",
+              "value": "Ruel"
+            },
+            {
+              "language": "a",
+              "value": "Ruel"
+            },
+            {
+              "language": "y",
+              "value": "Ruel"
+            },
+            {
+              "language": "o",
+              "value": "Ruel"
+            }
+          ],
+          "external": {
+            "lastfm": {
+              "id": "Ruel"
+            },
+            "instagram": {
+              "id": "oneruel"
+            },
+            "twitter": {
+              "id": "oneruel"
+            },
+            "spotify": {
+              "id": "5xkAtLTf309LAGZTbvULBn"
+            },
+            "imdb": {
+              "id": "nm10915154"
+            },
+            "library_of_congress": {
+              "id": "no2018095369"
+            },
+            "musicbrainz": {
+              "id": "bc153bd5-7963-4195-a6fb-c38588f31007"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "2002-10-29",
+          "image": {
+            "url": "https://images.qloo.com/i/0F0D13ED-9D00-469F-B5CE-59CCF674A5C9-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "2017-01-01",
+          "short_description": "British-Australian singer-songwriter"
+        },
+        "popularity": 0.9400310933779802,
+        "disambiguation": "2002-10-29",
+        "tags": [
+          {
+            "name": "Child Pop Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:child_pop_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:child_pop_musicians"
+          },
+          {
+            "name": "Sony Music Australia Artists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sony_music_australia_artists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sony_music_australia_artists"
+          },
+          {
+            "name": "British Emigrants To Australia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:british_emigrants_to_australia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:british_emigrants_to_australia"
+          },
+          {
+            "name": "Australian People Of English Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_people_english_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_people_english_descent"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Australian People Of Dutch Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_people_dutch_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_people_dutch_descent"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Mtv Europe Music Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners"
+          },
+          {
+            "name": "Australian Pop Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_pop_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_pop_singers"
+          },
+          {
+            "name": "Aria Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:aria_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:aria_award_winners"
+          },
+          {
+            "name": "Singers From Sydney",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_sydney",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_sydney"
+          },
+          {
+            "name": "21st-century Australian Musicians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_australian_musicians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_australian_musicians"
+          },
+          {
+            "name": "Singer-songwriter",
+            "tag_id": "urn:tag:occupation:person:singer_songwriter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer_songwriter"
+          }
+        ]
+      },
+      {
+        "name": "Nikki van Dijk",
+        "entity_id": "2BEA7175-3B8E-4B70-87FB-1019A8CB06C1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "نيكي فان ديجيك"
+            },
+            {
+              "language": "r",
+              "value": "نيكي فان ديجيك"
+            },
+            {
+              "language": "h",
+              "value": "ניקי ואן דייק"
+            },
+            {
+              "language": "e",
+              "value": "ניקי ואן דייק"
+            },
+            {
+              "language": "p",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "g",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "e",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "q",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "c",
+              "value": "Nikki Van Dijk"
+            },
+            {
+              "language": "a",
+              "value": "Nikki Van Dijk"
+            },
+            {
+              "language": "f",
+              "value": "Nikki Van Dijk"
+            },
+            {
+              "language": "r",
+              "value": "Nikki Van Dijk"
+            },
+            {
+              "language": "s",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "l",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "i",
+              "value": "Nikki van Dijk"
+            },
+            {
+              "language": "t",
+              "value": "Nikki van Dijk"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "nikkivandijk"
+            },
+            "twitter": {
+              "id": "nikkivandijk_"
+            },
+            "imdb": {
+              "id": "nm12302438"
+            }
+          },
+          "citizenship": [
+            "Australia"
+          ],
+          "date_of_birth": "1994-11-28",
+          "image": {
+            "url": "https://images.qloo.com/i/2BEA7175-3B8E-4B70-87FB-1019A8CB06C1-420x-auto.jpg"
+          },
+          "gender": [
+            "female"
+          ],
+          "sport": [
+            "surfing"
+          ],
+          "short_description": "surfer"
+        },
+        "popularity": 0.8321283743381785,
+        "disambiguation": "1994-11-28",
+        "tags": [
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Australian Female Surfers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:australian_female_surfers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:australian_female_surfers"
+          },
+          {
+            "name": "Surfer",
+            "tag_id": "urn:tag:occupation:person:surfer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:surfer"
+          },
+          {
+            "name": "World Surf League Surfers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_surf_league_surfers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_surf_league_surfers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Sportswomen From Victoria (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportswomen_from_victoria_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportswomen_from_victoria_state"
+          }
+        ]
+      }
+    ]
+  }
+}

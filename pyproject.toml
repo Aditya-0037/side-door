@@ -1,0 +1,14 @@
+[project]
+name = "side-door"
+version = "0.1.0"
+description = "Get into a sport through your taste in films, music and games (Qloo Agentic Hackathon)."
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["httpx", "pydantic>=2", "python-dotenv"]
+
+[project.optional-dependencies]
+dev = ["pytest", "respx"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

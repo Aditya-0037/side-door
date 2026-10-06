@@ -1,0 +1,2932 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Charles Leclerc",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Charles Leclerc",
+        "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "m",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "y",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "შარლ მარკ ერვე პერსივალ ლეკლერი"
+            },
+            {
+              "language": "a",
+              "value": "შარლ მარკ ერვე პერსივალ ლეკლერი"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "k",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "q",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Marc Hervé Perceval Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Marc Hervé Perceval Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "شارل لوكلير"
+            },
+            {
+              "language": "r",
+              "value": "شارل لوكلير"
+            },
+            {
+              "language": "c",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "y",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc (autocoureur)"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc (autocoureur)"
+            },
+            {
+              "language": "z",
+              "value": "查爾斯·李克勒克"
+            },
+            {
+              "language": "h",
+              "value": "查爾斯·李克勒克"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "g",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "g",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "ชาร์ล เลอแกลร์"
+            },
+            {
+              "language": "h",
+              "value": "ชาร์ล เลอแกลร์"
+            },
+            {
+              "language": "t",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "y",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "g",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "შარლ ლეკლერი"
+            },
+            {
+              "language": "a",
+              "value": "შარლ ლეკლერი"
+            },
+            {
+              "language": "w",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "m",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Шарл Леклер"
+            },
+            {
+              "language": "r",
+              "value": "Шарл Леклер"
+            },
+            {
+              "language": "z",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "h",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "z",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Čārlzs Leklērs"
+            },
+            {
+              "language": "v",
+              "value": "Čārlzs Leklērs"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "y",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Σαρλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Σαρλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "夏爾·勒克萊爾"
+            },
+            {
+              "language": "h",
+              "value": "夏爾·勒克萊爾"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "g",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Şarl Lekler"
+            },
+            {
+              "language": "z",
+              "value": "Şarl Lekler"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "j",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "샤를 르클레르"
+            },
+            {
+              "language": "o",
+              "value": "샤를 르클레르"
+            },
+            {
+              "language": "r",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "g",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Шарль Марк Эрве Персиваль Леклер"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Марк Эрве Персиваль Леклер"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "查爾斯·勒克萊爾"
+            },
+            {
+              "language": "h",
+              "value": "查爾斯·勒克萊爾"
+            },
+            {
+              "language": "z",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "y",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "g",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "k",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Carolus leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Carolus leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "שארל לקלר"
+            },
+            {
+              "language": "e",
+              "value": "שארל לקלר"
+            },
+            {
+              "language": "f",
+              "value": "شارل لکلرک"
+            },
+            {
+              "language": "a",
+              "value": "شارل لکلرک"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "j",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "a",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "k",
+              "value": "ჩარლზ ლეკლერკი"
+            },
+            {
+              "language": "a",
+              "value": "ჩარლზ ლეკლერკი"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "查理斯·李克勒克"
+            },
+            {
+              "language": "h",
+              "value": "查理斯·李克勒克"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "o",
+              "value": "Chales Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Marc Hervé Percival Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Шарль Марк Эрвэ Персиваль Леклер"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Марк Эрвэ Персиваль Леклер"
+            },
+            {
+              "language": "e",
+              "value": "Σαρλ Μαρκ Ερβέ Περσιβάλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Σαρλ Μαρκ Ερβέ Περσιβάλ Λεκλέρ"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "m",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "n",
+              "value": "Шарль Леклер"
+            },
+            {
+              "language": "v",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Шарл Льоклер"
+            },
+            {
+              "language": "g",
+              "value": "Шарл Льоклер"
+            },
+            {
+              "language": "m",
+              "value": "Шарл Леклер"
+            },
+            {
+              "language": "k",
+              "value": "Шарл Леклер"
+            },
+            {
+              "language": "r",
+              "value": "Леклер, Шарль"
+            },
+            {
+              "language": "u",
+              "value": "Леклер, Шарль"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "charles_leclerc"
+            },
+            "twitter": {
+              "id": "Charles_Leclerc"
+            },
+            "imdb": {
+              "id": "nm9712430"
+            },
+            "library_of_congress": {
+              "id": "n2023013204"
+            },
+            "musicbrainz": {
+              "id": "cf57ba0a-634e-4f11-8eae-e1527d13b415"
+            }
+          },
+          "citizenship": [
+            "Monaco"
+          ],
+          "date_of_birth": "1997-10-16",
+          "image": {
+            "url": "https://images.qloo.com/i/D9B34D35-4ADE-4AAB-A19A-A739F8E049CB-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "sport": [
+            "FIA Formula 2 Championship",
+            "FIA European Formula Three Championship",
+            "Formula One",
+            "Formule Renault 2.0 Alps",
+            "GP3 Series",
+            "Formula Renault Eurocup"
+          ],
+          "member_of_sports_team": [
+            "Scuderia Ferrari",
+            "Sauber"
+          ],
+          "short_description": "Monegasque racing driver"
+        },
+        "popularity": 0.9871875713462563,
+        "disambiguation": "1997-10-16",
+        "tags": [
+          {
+            "name": "Fortec Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fortec_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fortec_motorsport_drivers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Fia Formula 2 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_champions"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "Ferrari Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ferrari_formula_one_drivers"
+          },
+          {
+            "name": "Short",
+            "tag_id": "urn:tag:genre:media:media:short",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:short"
+          },
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Biography With Signature",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:biography_signature",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:biography_signature"
+          },
+          {
+            "name": "Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp3_series_drivers"
+          },
+          {
+            "name": "Formula One Race Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_one_race_winners"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Van Amersfoort Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:van_amersfoort_racing_drivers"
+          },
+          {
+            "name": "Sauber Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sauber_formula_one_drivers"
+          },
+          {
+            "name": "Engvarb From February 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019"
+          },
+          {
+            "name": "Art Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Monegasque Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:monegasque_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:monegasque_racing_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "Monegasque Twitch (service) Streamers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:monegasque_twitch_service_streamers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:monegasque_twitch_service_streamers"
+          },
+          {
+            "name": "Formula Renault 2.0 Alps Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers"
+          },
+          {
+            "name": "Gp3 Series Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gp3_series_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gp3_series_champions"
+          },
+          {
+            "name": "Monegasque Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:monegasque_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:monegasque_formula_one_drivers"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "People From Monte Carlo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_monte_carlo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_monte_carlo"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Charles Leclerc",
+        "entity_id": "2FBC612D-0629-4304-B7F2-896CEE7BA536",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Чарльз Леклерк"
+            },
+            {
+              "language": "u",
+              "value": "Чарльз Леклерк"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "查爾斯·李克勒克"
+            },
+            {
+              "language": "h",
+              "value": "查爾斯·李克勒克"
+            },
+            {
+              "language": "j",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "a",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "夏爾·勒克萊爾"
+            },
+            {
+              "language": "h",
+              "value": "夏爾·勒克萊爾"
+            },
+            {
+              "language": "z",
+              "value": "查理斯·李克勒克"
+            },
+            {
+              "language": "h",
+              "value": "查理斯·李克勒克"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "تشارلز لو كلارك"
+            },
+            {
+              "language": "r",
+              "value": "تشارلز لو كلارك"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "h",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "查爾斯·勒克萊爾"
+            },
+            {
+              "language": "h",
+              "value": "查爾斯·勒克萊爾"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1887-09-29",
+          "date_of_death": "1962-12-09",
+          "gender": [
+            "male"
+          ],
+          "short_description": "French politician"
+        },
+        "disambiguation": "1887-09-29",
+        "tags": [
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          }
+        ]
+      },
+      {
+        "name": "Charles Victoire Emmanuel Leclerc",
+        "entity_id": "33BC69AA-7E9B-4824-B2F4-7ABC60C58851",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "r",
+              "value": "Леклерк, Шарль Виктор Эммануэль"
+            },
+            {
+              "language": "u",
+              "value": "Леклерк, Шарль Виктор Эммануэль"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Victor Emanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Victor Emanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc (jenderal, kelahiran 1772)"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc (jenderal, kelahiran 1772)"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc d'Ostin"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc d'Ostin"
+            },
+            {
+              "language": "f",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "تشارلز لو كلارك"
+            },
+            {
+              "language": "r",
+              "value": "تشارلز لو كلارك"
+            },
+            {
+              "language": "e",
+              "value": "Βικτόρ-Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Βικτόρ-Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "f",
+              "value": "شارل لکلرک (فرمانده)"
+            },
+            {
+              "language": "a",
+              "value": "شارل لکلرک (فرمانده)"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "u",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Шарл Виктор Леклер"
+            },
+            {
+              "language": "r",
+              "value": "Шарл Виктор Леклер"
+            },
+            {
+              "language": "p",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "夏尔·维克图瓦·埃马纽埃尔·勒克莱尔"
+            },
+            {
+              "language": "h",
+              "value": "夏尔·维克图瓦·埃马纽埃尔·勒克莱尔"
+            },
+            {
+              "language": "e",
+              "value": "Σαρλ Βικτουάρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Σαρλ Βικτουάρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "s",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "Charles Leclerc (babban, an haife shi a shekara ta 1772)"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc (babban, an haife shi a shekara ta 1772)"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "j",
+              "value": "シャルル・ヴィクトール・エマニュエル・ルクレール"
+            },
+            {
+              "language": "a",
+              "value": "シャルル・ヴィクトール・エマニュエル・ルクレール"
+            },
+            {
+              "language": "r",
+              "value": "Шарль Леклерк"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Леклерк"
+            },
+            {
+              "language": "e",
+              "value": "Βικτόρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Βικτόρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "u",
+              "value": "Шарль Леклерк"
+            },
+            {
+              "language": "k",
+              "value": "Шарль Леклерк"
+            },
+            {
+              "language": "h",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Victoire-Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Victoire-Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Леклерк, Шарль"
+            },
+            {
+              "language": "u",
+              "value": "Леклерк, Шарль"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "j",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "a",
+              "value": "シャルル・ルクレール"
+            },
+            {
+              "language": "f",
+              "value": "Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "b",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "h",
+              "value": "שרל לקלרק"
+            },
+            {
+              "language": "e",
+              "value": "שרל לקלרק"
+            },
+            {
+              "language": "z",
+              "value": "勒克莱尔"
+            },
+            {
+              "language": "h",
+              "value": "勒克莱尔"
+            },
+            {
+              "language": "e",
+              "value": "Charles Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Karol Wiktor Emanuel Leclerc d'Ostin"
+            },
+            {
+              "language": "l",
+              "value": "Karol Wiktor Emanuel Leclerc d'Ostin"
+            },
+            {
+              "language": "r",
+              "value": "Леклерк Шарль"
+            },
+            {
+              "language": "u",
+              "value": "Леклерк Шарль"
+            },
+            {
+              "language": "d",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "z",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "h",
+              "value": "夏尔·勒克莱尔"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Victoire Emmanuel Leclerc d'Ostin"
+            },
+            {
+              "language": "l",
+              "value": "Charles Victoire Emmanuel Leclerc d'Ostin"
+            },
+            {
+              "language": "c",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "c",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Σαρλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Σαρλ Λεκλέρ"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Victor-Emmanuel Leclerc"
+            },
+            {
+              "language": "i",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "f",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Σαρλ Βικτόρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "l",
+              "value": "Σαρλ Βικτόρ Εμανουέλ Λεκλέρ"
+            },
+            {
+              "language": "d",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "a",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Victoire Emmanuel Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Leclerc d'Ostin"
+            },
+            {
+              "language": "e",
+              "value": "Leclerc d'Ostin"
+            },
+            {
+              "language": "f",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "r",
+              "value": "Леклерк д'Остэн"
+            },
+            {
+              "language": "u",
+              "value": "Леклерк д'Остэн"
+            },
+            {
+              "language": "s",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "v",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc d'Ostin"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc d'Ostin"
+            },
+            {
+              "language": "i",
+              "value": "Victoire Leclerc"
+            },
+            {
+              "language": "t",
+              "value": "Victoire Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Leclerc d’Ostin"
+            },
+            {
+              "language": "e",
+              "value": "Leclerc d’Ostin"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "n",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "d",
+              "value": "Charles Victor Emmanuel Leclerc"
+            },
+            {
+              "language": "e",
+              "value": "Charles Victor Emmanuel Leclerc"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "n87822651"
+            }
+          },
+          "child": [
+            "Dermide Leclerc"
+          ],
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1772-03-17",
+          "date_of_death": "1802-11-02",
+          "image": {
+            "url": "https://images.qloo.com/i/33BC69AA-7E9B-4824-B2F4-7ABC60C58851-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "spouse": [
+            "Pauline Bonaparte"
+          ],
+          "short_description": "French general (1772-1802)"
+        },
+        "disambiguation": "1772-03-17",
+        "tags": [
+          {
+            "name": "People Of The Haitian Revolution",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_haitian_revolution",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_haitian_revolution"
+          },
+          {
+            "name": "Names Inscribed Under The Arc De Triomphe",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:names_inscribed_under_arc_triomphe",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:names_inscribed_under_arc_triomphe"
+          },
+          {
+            "name": "18th-century French Military Personnel",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:18th_century_french_military_personnel",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:18th_century_french_military_personnel"
+          },
+          {
+            "name": "People From Pontoise",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_pontoise",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_pontoise"
+          },
+          {
+            "name": "French War Criminals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_war_criminals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_war_criminals"
+          },
+          {
+            "name": "Governors Of Saint-domingue",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:governors_saint_domingue",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:governors_saint_domingue"
+          },
+          {
+            "name": "French Generals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_generals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_generals"
+          },
+          {
+            "name": "French Mass Murderers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_mass_murderers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_mass_murderers"
+          },
+          {
+            "name": "Military Officer",
+            "tag_id": "urn:tag:occupation:person:military_officer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:military_officer"
+          },
+          {
+            "name": "Deaths From Yellow Fever",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deaths_from_yellow_fever",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deaths_from_yellow_fever"
+          },
+          {
+            "name": "Genocide Perpetrators",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:genocide_perpetrators",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:genocide_perpetrators"
+          },
+          {
+            "name": "1800s In Guadeloupe",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:1800s_in_guadeloupe",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:1800s_in_guadeloupe"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Infectious Disease Deaths In Haiti",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:infectious_disease_deaths_in_haiti",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:infectious_disease_deaths_in_haiti"
+          },
+          {
+            "name": "French Republican Military Leaders Of The French Revolutionary Wars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_republican_military_leaders_french_revolutionary_wars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_republican_military_leaders_french_revolutionary_wars"
+          },
+          {
+            "name": "White Supremacists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:white_supremacists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:white_supremacists"
+          }
+        ]
+      },
+      {
+        "name": "Charles-Antoine Leclerc de La Bruère",
+        "entity_id": "F9F0DE43-3996-4EEF-B6DB-C10A01FA1028",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "t",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "r",
+              "value": "Шарль-Антуан Леклерк де Ла Брюер"
+            },
+            {
+              "language": "u",
+              "value": "Шарль-Антуан Леклерк де Ла Брюер"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "l",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "c",
+              "value": "Charles Le Clerc de La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles Le Clerc de La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Leclerc Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Antoine Leclerc Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "q",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles Antoine Leclerc Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles Antoine Leclerc Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles Leclerc Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles Leclerc Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "p",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "t",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "p",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "l",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "b",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "l",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "c",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "d",
+              "value": "Leclerc de La Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "s",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "h",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "u",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "l",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "n",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "d",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "t",
+              "value": "Charles Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "r",
+              "value": "Charles Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "d",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "a",
+              "value": "Charles-antoine leclerc de la bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-Antoine Leclerc De La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Le Clerc de la Bruère"
+            },
+            {
+              "language": "n",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "b",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "i",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "v",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Leclerc de La Bruere"
+            },
+            {
+              "language": "d",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "e",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "i",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "f",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "t",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "r",
+              "value": "Charles-Antoine Leclerc de La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-Antoine Le Clerc De La Bruère"
+            },
+            {
+              "language": "s",
+              "value": "Charles-antoine le clerc de la bruère"
+            },
+            {
+              "language": "v",
+              "value": "Charles-antoine le clerc de la bruère"
+            }
+          ],
+          "external": {
+            "library_of_congress": {
+              "id": "n82129348"
+            },
+            "musicbrainz": {
+              "id": "38eeda27-6c24-4ae9-bc36-f8cf1b8491f0"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1714-01-01",
+          "date_of_death": "1754-09-18",
+          "gender": [
+            "male"
+          ],
+          "short_description": "French historian and diplomat"
+        },
+        "disambiguation": "1714-01-01",
+        "tags": [
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Historian",
+            "tag_id": "urn:tag:occupation:person:historian",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:historian"
+          },
+          {
+            "name": "French Opera Librettists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_opera_librettists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_opera_librettists"
+          },
+          {
+            "name": "18th-century French Historians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:18th_century_french_historians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:18th_century_french_historians"
+          },
+          {
+            "name": "18th-century French Diplomats",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:18th_century_french_diplomats",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:18th_century_french_diplomats"
+          },
+          {
+            "name": "18th-century French Dramatists And Playwrights",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:18th_century_french_dramatists_playwrights",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:18th_century_french_dramatists_playwrights"
+          },
+          {
+            "name": "Diplomat",
+            "tag_id": "urn:tag:occupation:person:diplomat",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:diplomat"
+          },
+          {
+            "name": "Playwright",
+            "tag_id": "urn:tag:occupation:person:playwright",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:playwright"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:genre:person:politician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:politician"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Academic",
+            "tag_id": "urn:tag:genre:person:academic",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:academic"
+          }
+        ]
+      },
+      {
+        "name": "Charles Hyacinthe Leclerc de Landremont",
+        "entity_id": "B5C8F3BE-35F2-4CC3-96A6-82D20B89727C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "l",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "t",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "r",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "p",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "l",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "n",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "l",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "j",
+              "value": "シャルル・ヤシント・ルクレルク・ド・ランドルモン"
+            },
+            {
+              "language": "a",
+              "value": "シャルル・ヤシント・ルクレルク・ド・ランドルモン"
+            },
+            {
+              "language": "f",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "r",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "e",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "s",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "f",
+              "value": "Charles hyacinthe leclerc de landremont"
+            },
+            {
+              "language": "r",
+              "value": "Charles hyacinthe leclerc de landremont"
+            },
+            {
+              "language": "c",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "a",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "f",
+              "value": "Charles Hyacinthe Leclerc De Landremont"
+            },
+            {
+              "language": "r",
+              "value": "Charles Hyacinthe Leclerc De Landremont"
+            },
+            {
+              "language": "h",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "u",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "p",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "l",
+              "value": "Charles Leclerc"
+            },
+            {
+              "language": "p",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "t",
+              "value": "Charles Hyacinthe Leclerc de Landremont"
+            },
+            {
+              "language": "p",
+              "value": "Karol Hiacynt Leclerc de Landremont"
+            },
+            {
+              "language": "l",
+              "value": "Karol Hiacynt Leclerc de Landremont"
+            }
+          ],
+          "external": {},
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "1739-08-21",
+          "date_of_death": "1818-09-26",
+          "gender": [
+            "male"
+          ],
+          "short_description": "French general"
+        },
+        "disambiguation": "1739-08-21",
+        "tags": [
+          {
+            "name": "Knights Of The Order Of Saint Louis",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:knights_order_saint_louis",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:knights_order_saint_louis"
+          },
+          {
+            "name": "French Republican Military Leaders Of The French Revolutionary Wars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_republican_military_leaders_french_revolutionary_wars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_republican_military_leaders_french_revolutionary_wars"
+          },
+          {
+            "name": "Military Officer",
+            "tag_id": "urn:tag:occupation:person:military_officer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:military_officer"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "French Generals",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_generals",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_generals"
+          },
+          {
+            "name": "Names Inscribed Under The Arc De Triomphe",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:names_inscribed_under_arc_triomphe",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:names_inscribed_under_arc_triomphe"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3180 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Phil Foden",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Phil Foden",
+        "entity_id": "966AD5FA-BE7B-48C7-8FA3-54B9584F4FCE",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "m",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "d",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "e",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "k",
+              "value": "ფილ ფოდენი"
+            },
+            {
+              "language": "a",
+              "value": "ფილ ფოდენი"
+            },
+            {
+              "language": "e",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "t",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "e",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "s",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "z",
+              "value": "菲爾·科頓"
+            },
+            {
+              "language": "h",
+              "value": "菲爾·科頓"
+            },
+            {
+              "language": "j",
+              "value": "フィル・フォーデン"
+            },
+            {
+              "language": "a",
+              "value": "フィル・フォーデン"
+            },
+            {
+              "language": "d",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "a",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "b",
+              "value": "Філ Фодэн"
+            },
+            {
+              "language": "e",
+              "value": "Філ Фодэн"
+            },
+            {
+              "language": "f",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "r",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "i",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "d",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "v",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "i",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "c",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "i",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "z",
+              "value": "菲爾·科登"
+            },
+            {
+              "language": "h",
+              "value": "菲爾·科登"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "v",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "r",
+              "value": "Фоден, Фил"
+            },
+            {
+              "language": "u",
+              "value": "Фоден, Фил"
+            },
+            {
+              "language": "k",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "k",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "g",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "l",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Foden"
+            },
+            {
+              "language": "w",
+              "value": "Foden"
+            },
+            {
+              "language": "b",
+              "value": "ফিল ফোডেন"
+            },
+            {
+              "language": "n",
+              "value": "ফিল ফোডেন"
+            },
+            {
+              "language": "a",
+              "value": "فيل فودين"
+            },
+            {
+              "language": "r",
+              "value": "فيل فودين"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "l",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "f",
+              "value": "فیل فودن"
+            },
+            {
+              "language": "a",
+              "value": "فیل فودن"
+            },
+            {
+              "language": "e",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "r",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "j",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "v",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "r",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "o",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "s",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "w",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "m",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "k",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "u",
+              "value": "Філ Фоден"
+            },
+            {
+              "language": "k",
+              "value": "Філ Фоден"
+            },
+            {
+              "language": "e",
+              "value": "Φιλ Φόντεν"
+            },
+            {
+              "language": "l",
+              "value": "Φιλ Φόντεν"
+            },
+            {
+              "language": "l",
+              "value": "Fils Fodens"
+            },
+            {
+              "language": "v",
+              "value": "Fils Fodens"
+            },
+            {
+              "language": "b",
+              "value": "Фил Фодън"
+            },
+            {
+              "language": "g",
+              "value": "Фил Фодън"
+            },
+            {
+              "language": "a",
+              "value": "Fil Foden"
+            },
+            {
+              "language": "z",
+              "value": "Fil Foden"
+            },
+            {
+              "language": "n",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "b",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "j",
+              "value": "フィリップ・ウォルター・フォーデン"
+            },
+            {
+              "language": "a",
+              "value": "フィリップ・ウォルター・フォーデン"
+            },
+            {
+              "language": "t",
+              "value": "ฟิล โฟเดน"
+            },
+            {
+              "language": "h",
+              "value": "ฟิล โฟเดน"
+            },
+            {
+              "language": "n",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "l",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "i",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "t",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "k",
+              "value": "필 포든"
+            },
+            {
+              "language": "o",
+              "value": "필 포든"
+            },
+            {
+              "language": "h",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "a",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "c",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "a",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "s",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "w",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "h",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "u",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "p",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "l",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "p",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "l",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "e",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "u",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "h",
+              "value": "Ֆիլ Ֆոդեն"
+            },
+            {
+              "language": "y",
+              "value": "Ֆիլ Ֆոդեն"
+            },
+            {
+              "language": "t",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "r",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "z",
+              "value": "菲爾·福登"
+            },
+            {
+              "language": "h",
+              "value": "菲爾·福登"
+            },
+            {
+              "language": "f",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "i",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "h",
+              "value": "פיל פודן"
+            },
+            {
+              "language": "e",
+              "value": "פיל פודן"
+            },
+            {
+              "language": "t",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "r",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "e",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "n",
+              "value": "Philip Walter Foden"
+            },
+            {
+              "language": "r",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "u",
+              "value": "Фил Фоден"
+            },
+            {
+              "language": "u",
+              "value": "Philip Foden"
+            },
+            {
+              "language": "z",
+              "value": "Philip Foden"
+            },
+            {
+              "language": "h",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "r",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "p",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "t",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "c",
+              "value": "Phil Foden"
+            },
+            {
+              "language": "a",
+              "value": "Phil Foden"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "philfoden"
+            },
+            "twitter": {
+              "id": "PhilFoden"
+            },
+            "imdb": {
+              "id": "nm10013222"
+            },
+            "library_of_congress": {
+              "id": "no2023007898"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "2000-05-28",
+          "image": {
+            "url": "https://images.qloo.com/i/966AD5FA-BE7B-48C7-8FA3-54B9584F4FCE-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "England national association football team",
+            "England national under-18 association football team",
+            "England national under-16 association football team",
+            "England national under-19 association football team",
+            "England national under-17 association football team",
+            "Manchester City F.C.",
+            "England national under-21 association football team"
+          ],
+          "work_period_start": "2016-01-01",
+          "short_description": "English association football player (born 2000)"
+        },
+        "popularity": 0.9729237559930856,
+        "disambiguation": "2000-05-28",
+        "tags": [
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Footballers From Stockport",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_stockport",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_stockport"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "England Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Engvarb From August 2018",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2018",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_august_2018"
+          },
+          {
+            "name": "Uefa Euro 2020 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players"
+          },
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Footballers Educated At St Bede",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_educated_at_st_bede",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_educated_at_st_bede"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "England Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          }
+        ]
+      },
+      {
+        "name": "Phil Lester",
+        "entity_id": "C46DAFE7-9A76-4C94-836B-63CB5EA6CF7C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "n",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "l",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "h",
+              "value": "Ֆիլ Լեստեր"
+            },
+            {
+              "language": "y",
+              "value": "Ֆիլ Լեստեր"
+            },
+            {
+              "language": "f",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "i",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "r",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "o",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "c",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "a",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "e",
+              "value": "Philly"
+            },
+            {
+              "language": "s",
+              "value": "Philly"
+            },
+            {
+              "language": "n",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "n",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "e",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "n",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "g",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "a",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "n",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "b",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "d",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "e",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "e",
+              "value": "Philip Michael \"Phil\" Lester"
+            },
+            {
+              "language": "n",
+              "value": "Philip Michael \"Phil\" Lester"
+            },
+            {
+              "language": "e",
+              "value": "Phillion"
+            },
+            {
+              "language": "n",
+              "value": "Phillion"
+            },
+            {
+              "language": "h",
+              "value": "פיל לסטר"
+            },
+            {
+              "language": "e",
+              "value": "פיל לסטר"
+            },
+            {
+              "language": "i",
+              "value": "Philip Lester"
+            },
+            {
+              "language": "t",
+              "value": "Philip Lester"
+            },
+            {
+              "language": "t",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "r",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "e",
+              "value": "Philly"
+            },
+            {
+              "language": "n",
+              "value": "Philly"
+            },
+            {
+              "language": "z",
+              "value": "菲爾·萊斯特"
+            },
+            {
+              "language": "h",
+              "value": "菲爾·萊斯特"
+            },
+            {
+              "language": "e",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "s",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "n",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "l",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "h",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "u",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "q",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "h",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "u",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "l",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "t",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "e",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "f",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "r",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "c",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "d",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "e",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "i",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "t",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "l",
+              "value": "Philas Lesteris"
+            },
+            {
+              "language": "t",
+              "value": "Philas Lesteris"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "v",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "k",
+              "value": "필 레스터"
+            },
+            {
+              "language": "o",
+              "value": "필 레스터"
+            },
+            {
+              "language": "e",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "s",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "d",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "e",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "r",
+              "value": "Фил Лэстер"
+            },
+            {
+              "language": "u",
+              "value": "Фил Лэстер"
+            },
+            {
+              "language": "s",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "v",
+              "value": "AmazingPhil"
+            },
+            {
+              "language": "a",
+              "value": "فيل ليستير"
+            },
+            {
+              "language": "r",
+              "value": "فيل ليستير"
+            },
+            {
+              "language": "d",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "a",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "e",
+              "value": "Philip Michael \"Phil\" Lester"
+            },
+            {
+              "language": "s",
+              "value": "Philip Michael \"Phil\" Lester"
+            },
+            {
+              "language": "u",
+              "value": "Філ Лестер"
+            },
+            {
+              "language": "k",
+              "value": "Філ Лестер"
+            },
+            {
+              "language": "i",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "s",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "k",
+              "value": "필립 마이클 레스터"
+            },
+            {
+              "language": "o",
+              "value": "필립 마이클 레스터"
+            },
+            {
+              "language": "p",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "t",
+              "value": "Phil Lester"
+            },
+            {
+              "language": "s",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "v",
+              "value": "Philip Michael Lester"
+            },
+            {
+              "language": "l",
+              "value": "Philipas Michaelis Lesteris"
+            },
+            {
+              "language": "t",
+              "value": "Philipas Michaelis Lesteris"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "amazingphil"
+            },
+            "twitter": {
+              "id": "AmazingPhil"
+            },
+            "imdb": {
+              "id": "nm2886816"
+            },
+            "library_of_congress": {
+              "id": "n2015044608"
+            },
+            "musicbrainz": {
+              "id": "cbaeeb78-a6ba-46fe-b523-e8b085cb6491"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1987-01-30",
+          "image": {
+            "url": "https://images.qloo.com/i/C46DAFE7-9A76-4C94-836B-63CB5EA6CF7C-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "2006-01-01",
+          "short_description": "English YouTube vlogger and radio personality"
+        },
+        "popularity": 0.995466455028756,
+        "disambiguation": "1987-01-30",
+        "tags": [
+          {
+            "name": "Lgbt Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_bloggers"
+          },
+          {
+            "name": "Television Presenter",
+            "tag_id": "urn:tag:occupation:person:television_presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_presenter"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "Gaming Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gaming_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gaming_youtubers"
+          },
+          {
+            "name": "Stage Actor",
+            "tag_id": "urn:tag:occupation:person:stage_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:stage_actor"
+          },
+          {
+            "name": "Lgbt Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lgbt_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lgbt_youtubers"
+          },
+          {
+            "name": "English Company Founders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_company_founders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_company_founders"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "20th-century English Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_english_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_english_lgbt_people"
+          },
+          {
+            "name": "Youtubers From Lancashire",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_from_lancashire",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_from_lancashire"
+          },
+          {
+            "name": "People From Rawtenstall",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_rawtenstall",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_rawtenstall"
+          },
+          {
+            "name": "Alumni Of The University Of York",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:alumni_university_york",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:alumni_university_york"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People Educated At Bacup And Rawtenstall Grammar School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_bacup_rawtenstall_grammar_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_bacup_rawtenstall_grammar_school"
+          },
+          {
+            "name": "Youtubers Who Make Lgbt-related Content",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtubers_who_make_lgbt_related_content",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtubers_who_make_lgbt_related_content"
+          },
+          {
+            "name": "English Gay Entertainers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_gay_entertainers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_gay_entertainers"
+          },
+          {
+            "name": "English Radio Djs",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_radio_djs",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_radio_djs"
+          },
+          {
+            "name": "Mass Media People From Lancashire",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mass_media_people_from_lancashire",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mass_media_people_from_lancashire"
+          },
+          {
+            "name": "Animation",
+            "tag_id": "urn:tag:genre:media:media:animation",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:animation"
+          },
+          {
+            "name": "English Video Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_video_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_video_bloggers"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Bbc Radio 1 Presenters",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:bbc_radio_1_presenters",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:bbc_radio_1_presenters"
+          },
+          {
+            "name": "Engvarb From September 2014",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2014",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_september_2014"
+          },
+          {
+            "name": "Radio Personality",
+            "tag_id": "urn:tag:occupation:person:radio_personality",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:radio_personality"
+          },
+          {
+            "name": "21st-century English Lgbt People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_english_lgbt_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_english_lgbt_people"
+          },
+          {
+            "name": "Dan And Phil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dan_phil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dan_phil"
+          }
+        ]
+      },
+      {
+        "name": "Phil Heath",
+        "entity_id": "65FDCA8A-0F85-4A67-8AB2-3FFAD18AD197",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "فیل هیث"
+            },
+            {
+              "language": "a",
+              "value": "فیل هیث"
+            },
+            {
+              "language": "c",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "s",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "p",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "l",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "p",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "t",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "h",
+              "value": "Ֆիլ Հիթ"
+            },
+            {
+              "language": "y",
+              "value": "Ֆիլ Հիթ"
+            },
+            {
+              "language": "h",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "r",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "r",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "o",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "k",
+              "value": "필 히스"
+            },
+            {
+              "language": "o",
+              "value": "필 히스"
+            },
+            {
+              "language": "d",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "a",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "u",
+              "value": "Філ Хіт"
+            },
+            {
+              "language": "k",
+              "value": "Філ Хіт"
+            },
+            {
+              "language": "n",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "l",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "i",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "t",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "n",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "f",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "r",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "b",
+              "value": "Фил Хийт"
+            },
+            {
+              "language": "g",
+              "value": "Фил Хийт"
+            },
+            {
+              "language": "c",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "a",
+              "value": "Phillip Heath"
+            },
+            {
+              "language": "p",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "l",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "s",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "a",
+              "value": "فيل هيث"
+            },
+            {
+              "language": "r",
+              "value": "فيل هيث"
+            },
+            {
+              "language": "a",
+              "value": "Fil Hit"
+            },
+            {
+              "language": "z",
+              "value": "Fil Hit"
+            },
+            {
+              "language": "m",
+              "value": "फिल हीथ"
+            },
+            {
+              "language": "r",
+              "value": "फिल हीथ"
+            },
+            {
+              "language": "e",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "s",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "p",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "t",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "j",
+              "value": "フィル・ヒース"
+            },
+            {
+              "language": "a",
+              "value": "フィル・ヒース"
+            },
+            {
+              "language": "r",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "o",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "g",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "a",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "n",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "b",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "h",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "u",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "d",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Jerrod Heath"
+            },
+            {
+              "language": "z",
+              "value": "菲爾·希思"
+            },
+            {
+              "language": "h",
+              "value": "菲爾·希思"
+            },
+            {
+              "language": "b",
+              "value": "Филип Хийт"
+            },
+            {
+              "language": "g",
+              "value": "Филип Хийт"
+            },
+            {
+              "language": "n",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "n",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "d",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "e",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "f",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "r",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "s",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "v",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "s",
+              "value": "Фил Хит"
+            },
+            {
+              "language": "r",
+              "value": "Фил Хит"
+            },
+            {
+              "language": "r",
+              "value": "Фил Хит"
+            },
+            {
+              "language": "u",
+              "value": "Фил Хит"
+            },
+            {
+              "language": "f",
+              "value": "Phil Heath"
+            },
+            {
+              "language": "i",
+              "value": "Phil Heath"
+            }
+          ],
+          "external": {
+            "twitter": {
+              "id": "PHILHEATH"
+            },
+            "imdb": {
+              "id": "nm3681901"
+            }
+          },
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1979-12-18",
+          "image": {
+            "url": "https://images.qloo.com/i/65FDCA8A-0F85-4A67-8AB2-3FFAD18AD197-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "bodybuilding"
+          ],
+          "short_description": "American bodybuilder"
+        },
+        "popularity": 0.980582946478077,
+        "disambiguation": "1979-12-18",
+        "tags": [
+          {
+            "name": "People From Seattle",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_seattle",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_seattle"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Denver Pioneers Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:denver_pioneers_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:denver_pioneers_mens_basketball_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Rainier Beach High School Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rainier_beach_high_school_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rainier_beach_high_school_alumni"
+          },
+          {
+            "name": "20th-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_african_american_sportspeople"
+          },
+          {
+            "name": "American Male Bodybuilders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_bodybuilders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_bodybuilders"
+          },
+          {
+            "name": "American Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_mens_basketball_players"
+          },
+          {
+            "name": "21st-century African-american Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_african_american_sportspeople"
+          },
+          {
+            "name": "Professional Bodybuilders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:professional_bodybuilders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:professional_bodybuilders"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Bodybuilder",
+            "tag_id": "urn:tag:occupation:person:bodybuilder",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:bodybuilder"
+          },
+          {
+            "name": "African-american Bodybuilders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:african_american_bodybuilders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:african_american_bodybuilders"
+          }
+        ]
+      },
+      {
+        "name": "Phil McGraw",
+        "entity_id": "DD597A8B-B974-4336-A3FA-A6E0447AA33A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "f",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "o",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "h",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "u",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "f",
+              "value": "فیل مک‌گراو"
+            },
+            {
+              "language": "a",
+              "value": "فیل مک‌گراو"
+            },
+            {
+              "language": "h",
+              "value": "פיל מקגרו"
+            },
+            {
+              "language": "e",
+              "value": "פיל מקגרו"
+            },
+            {
+              "language": "v",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "c",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Doctor Phil"
+            },
+            {
+              "language": "s",
+              "value": "Doctor Phil"
+            },
+            {
+              "language": "e",
+              "value": "Phillip McGraw"
+            },
+            {
+              "language": "n",
+              "value": "Phillip McGraw"
+            },
+            {
+              "language": "h",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "u",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "p",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "t",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "c",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "v",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "z",
+              "value": "菲尔·麦格劳"
+            },
+            {
+              "language": "h",
+              "value": "菲尔·麦格劳"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "t",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "p",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "n",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "n",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "b",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "r",
+              "value": "Фил Макгроу"
+            },
+            {
+              "language": "u",
+              "value": "Фил Макгроу"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "n",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "t",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "k",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "j",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "v",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Philippus Calvinus McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Philippus Calvinus McGraw"
+            },
+            {
+              "language": "h",
+              "value": "ד\"ר פיל"
+            },
+            {
+              "language": "e",
+              "value": "ד\"ר פיל"
+            },
+            {
+              "language": "j",
+              "value": "ドクター・フィル"
+            },
+            {
+              "language": "a",
+              "value": "ドクター・フィル"
+            },
+            {
+              "language": "w",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "r",
+              "value": "Макгроу, Фил"
+            },
+            {
+              "language": "u",
+              "value": "Макгроу, Фил"
+            },
+            {
+              "language": "s",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "q",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "z",
+              "value": "菲儿·麦格罗"
+            },
+            {
+              "language": "h",
+              "value": "菲儿·麦格罗"
+            },
+            {
+              "language": "z",
+              "value": "費爾醫生"
+            },
+            {
+              "language": "h",
+              "value": "費爾醫生"
+            },
+            {
+              "language": "c",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "v",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "u",
+              "value": "Філ Макгро"
+            },
+            {
+              "language": "k",
+              "value": "Філ Макгро"
+            },
+            {
+              "language": "f",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Doctor Phill"
+            },
+            {
+              "language": "n",
+              "value": "Doctor Phill"
+            },
+            {
+              "language": "k",
+              "value": "필 맥그로"
+            },
+            {
+              "language": "o",
+              "value": "필 맥그로"
+            },
+            {
+              "language": "z",
+              "value": "費爾·麥格羅"
+            },
+            {
+              "language": "h",
+              "value": "費爾·麥格羅"
+            },
+            {
+              "language": "n",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "n",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "n",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "f",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "r",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "j",
+              "value": "フィル・マグロー"
+            },
+            {
+              "language": "a",
+              "value": "フィル・マグロー"
+            },
+            {
+              "language": "e",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "s",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "d",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "f",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "c",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "y",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "g",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "فيل ماكجراو"
+            },
+            {
+              "language": "r",
+              "value": "فيل ماكجراو"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Phillip Calvin McGraw"
+            },
+            {
+              "language": "y",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "o",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "e",
+              "value": "Dr. Phil"
+            },
+            {
+              "language": "c",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "o",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "o",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "p",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "i",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "d",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "e",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "s",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "v",
+              "value": "Phil McGraw"
+            },
+            {
+              "language": "l",
+              "value": "Philippus McGraw"
+            },
+            {
+              "language": "a",
+              "value": "Philippus McGraw"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "drphil"
+            },
+            "twitter": {
+              "id": "DrPhil"
+            },
+            "imdb": {
+              "id": "nm1114695"
+            },
+            "library_of_congress": {
+              "id": "n98091209"
+            },
+            "musicbrainz": {
+              "id": "6677fa6b-75dc-4fd0-9dfc-45f667013e4e"
+            }
+          },
+          "child": [
+            "Jay McGraw"
+          ],
+          "citizenship": [
+            "United States of America"
+          ],
+          "date_of_birth": "1950-09-01",
+          "image": {
+            "url": "https://images.qloo.com/i/DD597A8B-B974-4336-A3FA-A6E0447AA33A-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "esports"
+          ],
+          "short_description": "American television personality"
+        },
+        "popularity": 0.9704504191082941,
+        "disambiguation": "1950-09-01",
+        "tags": [
+          {
+            "name": "American Family And Parenting Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_family_parenting_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_family_parenting_writers"
+          },
+          {
+            "name": "Popular Psychology",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:popular_psychology",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:popular_psychology"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Politician",
+            "tag_id": "urn:tag:occupation:person:politician",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:politician"
+          },
+          {
+            "name": "Celebrity Doctors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:celebrity_doctors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:celebrity_doctors"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "University Of North Texas Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:university_north_texas_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:university_north_texas_alumni"
+          },
+          {
+            "name": "21st-century American Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_actors"
+          },
+          {
+            "name": "20th-century American Psychologists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_psychologists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_psychologists"
+          },
+          {
+            "name": "American Television Talk Show Hosts",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_television_talk_show_hosts",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_television_talk_show_hosts"
+          },
+          {
+            "name": "20th-century American Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_non_fiction_writers"
+          },
+          {
+            "name": "Psychologist",
+            "tag_id": "urn:tag:occupation:person:psychologist",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:psychologist"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "21st-century American Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_non_fiction_writers"
+          },
+          {
+            "name": "Film Producer",
+            "tag_id": "urn:tag:occupation:person:film_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_producer"
+          },
+          {
+            "name": "Presenter",
+            "tag_id": "urn:tag:occupation:person:presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:presenter"
+          },
+          {
+            "name": "American Self-help Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_self_help_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_self_help_writers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "American Male Non-fiction Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_male_non_fiction_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_male_non_fiction_writers"
+          },
+          {
+            "name": "21st-century American Male Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_male_writers"
+          },
+          {
+            "name": "20th-century American Male Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:20th_century_american_male_writers"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Midwestern State University Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:midwestern_state_university_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:midwestern_state_university_alumni"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "American Christians",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_christians",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_christians"
+          },
+          {
+            "name": "American Health And Wellness Writers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:american_health_wellness_writers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:american_health_wellness_writers"
+          },
+          {
+            "name": "Writers From Oklahoma",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:writers_from_oklahoma",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:writers_from_oklahoma"
+          },
+          {
+            "name": "Talk-show",
+            "tag_id": "urn:tag:genre:media:media:talk_show",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:talk_show"
+          },
+          {
+            "name": "Diet Food Advocates",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:diet_food_advocates",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:diet_food_advocates"
+          },
+          {
+            "name": "University Of Tulsa Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:university_tulsa_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:university_tulsa_alumni"
+          },
+          {
+            "name": "21st-century American Psychologists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_american_psychologists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_american_psychologists"
+          },
+          {
+            "name": "Male Actors From Oklahoma",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_oklahoma",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_oklahoma"
+          },
+          {
+            "name": "Internet Memes",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:internet_memes",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:internet_memes"
+          },
+          {
+            "name": "Tulsa Golden Hurricane Football Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:tulsa_golden_hurricane_football_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:tulsa_golden_hurricane_football_players"
+          },
+          {
+            "name": "Reality-tv",
+            "tag_id": "urn:tag:genre:media:media:reality_tv",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:reality_tv"
+          },
+          {
+            "name": "Biography",
+            "tag_id": "urn:tag:genre:media:media:biography",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:biography"
+          }
+        ]
+      },
+      {
+        "name": "Phil Jones",
+        "entity_id": "E8FA5FEB-9942-4574-9515-F0C910875444",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "a",
+              "value": "Fil Cons"
+            },
+            {
+              "language": "z",
+              "value": "Fil Cons"
+            },
+            {
+              "language": "c",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "z",
+              "value": "菲尔·琼斯"
+            },
+            {
+              "language": "h",
+              "value": "菲尔·琼斯"
+            },
+            {
+              "language": "m",
+              "value": "Фил Жонс"
+            },
+            {
+              "language": "n",
+              "value": "Фил Жонс"
+            },
+            {
+              "language": "h",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "u",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "a",
+              "value": "فيل جونز"
+            },
+            {
+              "language": "r",
+              "value": "فيل جونز"
+            },
+            {
+              "language": "r",
+              "value": "Фил Джонс"
+            },
+            {
+              "language": "u",
+              "value": "Фил Джонс"
+            },
+            {
+              "language": "b",
+              "value": "ফিল জোন্স"
+            },
+            {
+              "language": "n",
+              "value": "ফিল জোন্স"
+            },
+            {
+              "language": "h",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "u",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "s",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "w",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "l",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "l",
+              "value": "Fils Džonss"
+            },
+            {
+              "language": "v",
+              "value": "Fils Džonss"
+            },
+            {
+              "language": "n",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "e",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "v",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "i",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "m",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "t",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "w",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "a",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "u",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "z",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "k",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "l",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Фил Џоунс"
+            },
+            {
+              "language": "r",
+              "value": "Фил Џоунс"
+            },
+            {
+              "language": "m",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "g",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "d",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "e",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "k",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "r",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "o",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "j",
+              "value": "フィリップ・アンソニー・ジョーンズ"
+            },
+            {
+              "language": "a",
+              "value": "フィリップ・アンソニー・ジョーンズ"
+            },
+            {
+              "language": "m",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "r",
+              "value": "फिल जोन्स"
+            },
+            {
+              "language": "g",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "a",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "f",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "r",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "n",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "b",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "f",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "i",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "i",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "v",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "r",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "h",
+              "value": "Ֆի՛լիպ Է՛նթոնի Ջոնս"
+            },
+            {
+              "language": "y",
+              "value": "Ֆի՛լիպ Է՛նթոնի Ջոնս"
+            },
+            {
+              "language": "t",
+              "value": "Philip Jones"
+            },
+            {
+              "language": "r",
+              "value": "Philip Jones"
+            },
+            {
+              "language": "m",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "e",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "s",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "e",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "h",
+              "value": "Ֆիլ Ջոնս"
+            },
+            {
+              "language": "y",
+              "value": "Ֆիլ Ջոնս"
+            },
+            {
+              "language": "f",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "i",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "p",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "l",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "ฟิล โจนส์"
+            },
+            {
+              "language": "h",
+              "value": "ฟิล โจนส์"
+            },
+            {
+              "language": "s",
+              "value": "Phil Anthony Jones"
+            },
+            {
+              "language": "r",
+              "value": "Phil Anthony Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "q",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "p",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "l",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "n",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "n",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "e",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "j",
+              "value": "フィル・ジョーンズ"
+            },
+            {
+              "language": "a",
+              "value": "フィル・ジョーンズ"
+            },
+            {
+              "language": "k",
+              "value": "필 존스"
+            },
+            {
+              "language": "o",
+              "value": "필 존스"
+            },
+            {
+              "language": "n",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "l",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "h",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "b",
+              "value": "Фил Джоунс"
+            },
+            {
+              "language": "g",
+              "value": "Фил Джоунс"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "r",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "i",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "t",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "i",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "d",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "p",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "t",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "u",
+              "value": "Філ Джонс"
+            },
+            {
+              "language": "k",
+              "value": "Філ Джонс"
+            },
+            {
+              "language": "r",
+              "value": "Джонс, Фил"
+            },
+            {
+              "language": "u",
+              "value": "Джонс, Фил"
+            },
+            {
+              "language": "m",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "u",
+              "value": "Філіп Ентоні Джонс"
+            },
+            {
+              "language": "k",
+              "value": "Філіп Ентоні Джонс"
+            },
+            {
+              "language": "m",
+              "value": "Фил Џонс"
+            },
+            {
+              "language": "k",
+              "value": "Фил Џонс"
+            },
+            {
+              "language": "h",
+              "value": "פיל ג'ונס"
+            },
+            {
+              "language": "e",
+              "value": "פיל ג'ונס"
+            },
+            {
+              "language": "b",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "v",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "o",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "p",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "t",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "k",
+              "value": "ფილ ჯონსი"
+            },
+            {
+              "language": "a",
+              "value": "ფილ ჯონსი"
+            },
+            {
+              "language": "v",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "i",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Фил Ентони Џоунс"
+            },
+            {
+              "language": "r",
+              "value": "Фил Ентони Џоунс"
+            },
+            {
+              "language": "i",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Фил Џонс"
+            },
+            {
+              "language": "r",
+              "value": "Фил Џонс"
+            },
+            {
+              "language": "e",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "n",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "c",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "a",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "d",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "a",
+              "value": "Phil Jones"
+            },
+            {
+              "language": "s",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "v",
+              "value": "Philip Anthony Jones"
+            },
+            {
+              "language": "f",
+              "value": "فیل جونز"
+            },
+            {
+              "language": "a",
+              "value": "فیل جونز"
+            },
+            {
+              "language": "j",
+              "value": "フィル・ジョーンズ (サッカー選手)"
+            },
+            {
+              "language": "a",
+              "value": "フィル・ジョーンズ (サッカー選手)"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "philjones_4"
+            },
+            "twitter": {
+              "id": "PhilJones4"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1992-02-21",
+          "image": {
+            "url": "https://images.qloo.com/i/E8FA5FEB-9942-4574-9515-F0C910875444-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Blackburn Rovers F.C.",
+            "England national association football team",
+            "England national under-19 association football team",
+            "England national under-21 association football team",
+            "Manchester United F.C."
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "English association football player, born 1992"
+        },
+        "popularity": 0.9675585175199226,
+        "disambiguation": "1992-02-21",
+        "tags": [
+          {
+            "name": "England Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers"
+          },
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "People From Clayton-le-woods",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_clayton_woods",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_clayton_woods"
+          },
+          {
+            "name": "2014 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "England Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers"
+          },
+          {
+            "name": "Uefa Europa League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "Mens Association Football Central Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Manchester United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players"
+          },
+          {
+            "name": "Blackburn Rovers F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:blackburn_rovers_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:blackburn_rovers_f_c_players"
+          },
+          {
+            "name": "Uefa Euro 2012 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2012_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2012_players"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          }
+        ]
+      }
+    ]
+  }
+}

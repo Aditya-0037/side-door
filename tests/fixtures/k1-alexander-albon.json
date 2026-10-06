@@ -1,0 +1,4114 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Alexander Albon",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Alexander Albon",
+        "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "n",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "a",
+              "value": "أليكسندر ألبون"
+            },
+            {
+              "language": "r",
+              "value": "أليكسندر ألبون"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "b",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "s",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "h",
+              "value": "एलेक्ज़ेंडर एल्बोन"
+            },
+            {
+              "language": "i",
+              "value": "एलेक्ज़ेंडर एल्बोन"
+            },
+            {
+              "language": "i",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "t",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "o",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "c",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "v",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "z",
+              "value": "亞歷山大·阿邦"
+            },
+            {
+              "language": "h",
+              "value": "亞歷山大·阿邦"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Albon"
+            },
+            {
+              "language": "z",
+              "value": "Aleksandr Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "k",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "d",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "e",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "r",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "o",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "b",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "b",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "c",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "o",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "อเล็กซานเดอร์ อัลบอน"
+            },
+            {
+              "language": "h",
+              "value": "อเล็กซานเดอร์ อัลบอน"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "p",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "c",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "h",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "u",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "k",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "d",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "b",
+              "value": "Александър Албон"
+            },
+            {
+              "language": "g",
+              "value": "Александър Албон"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "y",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "q",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "f",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "r",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon Ansushina"
+            },
+            {
+              "language": "u",
+              "value": "Alexander Albon Ansushina"
+            },
+            {
+              "language": "t",
+              "value": "อเล็ก อัลบอน"
+            },
+            {
+              "language": "h",
+              "value": "อเล็ก อัลบอน"
+            },
+            {
+              "language": "s",
+              "value": "Александер Албон"
+            },
+            {
+              "language": "r",
+              "value": "Александер Албон"
+            },
+            {
+              "language": "e",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "o",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "r",
+              "value": "Александр Элбон"
+            },
+            {
+              "language": "u",
+              "value": "Александр Элбон"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "h",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandrs Albons"
+            },
+            {
+              "language": "v",
+              "value": "Aleksandrs Albons"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "o",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "f",
+              "value": "الکساندر آلبون"
+            },
+            {
+              "language": "a",
+              "value": "الکساندر آلبون"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "h",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "j",
+              "value": "アレクサンダー・アルボン"
+            },
+            {
+              "language": "a",
+              "value": "アレクサンダー・アルボン"
+            },
+            {
+              "language": "i",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "n",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "l",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "b",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "h",
+              "value": "אלכסנדר אלבון"
+            },
+            {
+              "language": "e",
+              "value": "אלכסנדר אלבון"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "w",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "u",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντερ Άλμπον"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντερ Άλμπον"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "b",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "n",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "l",
+              "value": "อเล็กซานเดอร์ อัลบอน อังศุสิงห์"
+            },
+            {
+              "language": "z",
+              "value": "亞歷山大·阿爾邦"
+            },
+            {
+              "language": "h",
+              "value": "亞歷山大·阿爾邦"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "y",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "d",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "a",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "v",
+              "value": "Alexander Albon"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Albon Ansusinha"
+            },
+            {
+              "language": "u",
+              "value": "Александр Албон"
+            },
+            {
+              "language": "k",
+              "value": "Александр Албон"
+            },
+            {
+              "language": "f",
+              "value": "Alex Albon"
+            },
+            {
+              "language": "r",
+              "value": "Alex Albon"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "alex_albon"
+            },
+            "twitter": {
+              "id": "alex_albon"
+            },
+            "imdb": {
+              "id": "nm2718641"
+            }
+          },
+          "citizenship": [
+            "Thailand",
+            "United Kingdom"
+          ],
+          "date_of_birth": "1996-03-23",
+          "image": {
+            "url": "https://images.qloo.com/i/7248B65E-719E-49E2-AECC-B6972E9A8FF4-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "formula racing",
+            "auto racing"
+          ],
+          "member_of_sports_team": [
+            "Red Bull Racing",
+            "Williams Racing",
+            "Scuderia Toro Rosso"
+          ],
+          "short_description": "Thai-British motorsports racing driver"
+        },
+        "popularity": 0.9305400028266707,
+        "disambiguation": "1996-03-23",
+        "tags": [
+          {
+            "name": "Fia Formula 3 European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_european_championship_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Nec Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_nec_drivers"
+          },
+          {
+            "name": "English Expatriate Sportspeople In Monaco",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_expatriate_sportspeople_in_monaco"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Deutsche Tourenwagen Masters Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:deutsche_tourenwagen_masters_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:deutsche_tourenwagen_masters_drivers"
+          },
+          {
+            "name": "Racing Drivers From London",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_london",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_london"
+          },
+          {
+            "name": "Racing Automobile Driver",
+            "tag_id": "urn:tag:occupation:person:racing_automobile_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_automobile_driver"
+          },
+          {
+            "name": "Toro Rosso Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:toro_rosso_formula_one_drivers"
+          },
+          {
+            "name": "Formula Renault Eurocup Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_eurocup_drivers"
+          },
+          {
+            "name": "Af Corse Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:af_corse_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:af_corse_drivers"
+          },
+          {
+            "name": "Thai Theravada Buddhists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_theravada_buddhists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_theravada_buddhists"
+          },
+          {
+            "name": "English Buddhists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_buddhists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_buddhists"
+          },
+          {
+            "name": "Hitech Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hitech_grand_prix_drivers"
+          },
+          {
+            "name": "Formula Renault 2.0 Alps Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_renault_2_0_alps_drivers"
+          },
+          {
+            "name": "Thai People Of English Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_people_english_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_people_english_descent"
+          },
+          {
+            "name": "Dams Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:dams_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:dams_drivers"
+          },
+          {
+            "name": "Signature Team Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:signature_team_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:signature_team_drivers"
+          },
+          {
+            "name": "Thai Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_formula_one_drivers"
+          },
+          {
+            "name": "Epic Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:epic_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:epic_racing_drivers"
+          },
+          {
+            "name": "Williams Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:williams_formula_one_drivers"
+          },
+          {
+            "name": "Formula One Driver",
+            "tag_id": "urn:tag:occupation:person:formula_one_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:formula_one_driver"
+          },
+          {
+            "name": "Thai Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_racing_drivers"
+          },
+          {
+            "name": "Art Grand Prix Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_grand_prix_drivers"
+          },
+          {
+            "name": "English Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_racing_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          },
+          {
+            "name": "English Theravada Buddhists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_theravada_buddhists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_theravada_buddhists"
+          },
+          {
+            "name": "Red Bull Formula One Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:red_bull_formula_one_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Ktr Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ktr_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ktr_drivers"
+          },
+          {
+            "name": "English People Of Thai Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_thai_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_thai_descent"
+          },
+          {
+            "name": "Engvarb From February 2019",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_february_2019"
+          },
+          {
+            "name": "Thai Gp3 Series Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:thai_gp3_series_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:thai_gp3_series_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Trent Alexander-Arnold",
+        "entity_id": "33FBEF53-8CF7-40F9-9D72-9255CFEB8E70",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "f",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "Տրենտ Ալեքսանդր-Առնոլդ"
+            },
+            {
+              "language": "y",
+              "value": "Տրենտ Ալեքսանդր-Առնոլդ"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "y",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Трент Александер Арнолд"
+            },
+            {
+              "language": "r",
+              "value": "Трент Александер Арнолд"
+            },
+            {
+              "language": "b",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "w",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "y",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "TAA"
+            },
+            {
+              "language": "s",
+              "value": "TAA"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "p",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "z",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "p",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent"
+            },
+            {
+              "language": "w",
+              "value": "Trent"
+            },
+            {
+              "language": "a",
+              "value": "Trent Aleksandr-Arnold"
+            },
+            {
+              "language": "z",
+              "value": "Trent Aleksandr-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "TAA"
+            },
+            {
+              "language": "n",
+              "value": "TAA"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "ট্রেন্ট আলেকজান্ডার-আর্নল্ড"
+            },
+            {
+              "language": "n",
+              "value": "ট্রেন্ট আলেকজান্ডার-আর্নল্ড"
+            },
+            {
+              "language": "g",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "w",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Τρεντ Αλεξάντερ-Άρνολντ"
+            },
+            {
+              "language": "l",
+              "value": "Τρεντ Αλεξάντερ-Άρνολντ"
+            },
+            {
+              "language": "d",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent John Alexander Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "w",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "f",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "z",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "ട്രെന്റ് അലക്സാണ്ടർ-അർനോൾഡ്"
+            },
+            {
+              "language": "l",
+              "value": "ട്രെന്റ് അലക്സാണ്ടർ-അർനോൾഡ്"
+            },
+            {
+              "language": "d",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "f",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "z",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "j",
+              "value": "Trènt Alèxander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trènt Alèxander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "z",
+              "value": "特倫·阿歷山大·艾諾特"
+            },
+            {
+              "language": "h",
+              "value": "特倫·阿歷山大·艾諾特"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "d",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "f",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trents Aleksandrs Arnolds"
+            },
+            {
+              "language": "v",
+              "value": "Trents Aleksandrs Arnolds"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "p",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "w",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "Трент Александер-Арнольд"
+            },
+            {
+              "language": "k",
+              "value": "Трент Александер-Арнольд"
+            },
+            {
+              "language": "t",
+              "value": "เทรนต์ อเล็กซานเดอร์-อาร์โนลด์"
+            },
+            {
+              "language": "h",
+              "value": "เทรนต์ อเล็กซานเดอร์-อาร์โนลด์"
+            },
+            {
+              "language": "a",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "f",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "r",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "f",
+              "value": "ترنت الکساندر- آرنولد"
+            },
+            {
+              "language": "a",
+              "value": "ترنت الکساندر- آرنولد"
+            },
+            {
+              "language": "v",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "k",
+              "value": "트렌트 알렉산더아널드"
+            },
+            {
+              "language": "o",
+              "value": "트렌트 알렉산더아널드"
+            },
+            {
+              "language": "n",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "b",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "u",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "n",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "g",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "j",
+              "value": "トレント・アレクサンダー＝アーノルド"
+            },
+            {
+              "language": "a",
+              "value": "トレント・アレクサンダー＝アーノルド"
+            },
+            {
+              "language": "u",
+              "value": "Трент Александер-Арнольд"
+            },
+            {
+              "language": "k",
+              "value": "Трент Александер-Арнольд"
+            },
+            {
+              "language": "w",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Трент Александер-Арнолд"
+            },
+            {
+              "language": "k",
+              "value": "Трент Александер-Арнолд"
+            },
+            {
+              "language": "f",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "a",
+              "value": "ترنت ألكساندر-أرنولد"
+            },
+            {
+              "language": "r",
+              "value": "ترنت ألكساندر-أرنولد"
+            },
+            {
+              "language": "r",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "m",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "w",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "p",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "l",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "c",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "i",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent John Alexander-Arnold"
+            },
+            {
+              "language": "e",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "t",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "s",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "v",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "o",
+              "value": "Trent Alexander-Arnold"
+            },
+            {
+              "language": "h",
+              "value": "טרנט אלכסנדר-ארנולד"
+            },
+            {
+              "language": "e",
+              "value": "טרנט אלכסנדר-ארנולד"
+            },
+            {
+              "language": "r",
+              "value": "Трент Александер-Арнольд"
+            },
+            {
+              "language": "u",
+              "value": "Трент Александер-Арнольд"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "trentarnold66"
+            },
+            "twitter": {
+              "id": "TrentAA"
+            },
+            "library_of_congress": {
+              "id": "no2022148300"
+            }
+          },
+          "citizenship": [
+            "United Kingdom"
+          ],
+          "date_of_birth": "1998-10-07",
+          "image": {
+            "url": "https://images.qloo.com/i/33FBEF53-8CF7-40F9-9D72-9255CFEB8E70-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "England national association football team",
+            "England national under-16 association football team",
+            "England national under-18 association football team",
+            "England national under-19 association football team",
+            "England national under-17 association football team",
+            "Liverpool F.C.",
+            "England national under-21 association football team"
+          ],
+          "work_period_start": "2016-01-01",
+          "short_description": "English association football player"
+        },
+        "popularity": 0.9887096248138203,
+        "disambiguation": "1998-10-07",
+        "tags": [
+          {
+            "name": "Mens Association Football Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_defenders"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "England Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Footballers From Liverpool",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_liverpool",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_liverpool"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Uefa Euro 2024 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2024_players"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Uefa Champions League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_champions_league_winning_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "England Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_international_footballers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Liverpool F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players"
+          },
+          {
+            "name": "Black British Sportsmen",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:black_british_sportsmen",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:black_british_sportsmen"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Kondrashov",
+        "entity_id": "88DCA086-6AE2-44F8-9BA6-474CCFC859A1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "d",
+              "value": "Alexander Wiktorowitsch Kondraschow"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Wiktorowitsch Kondraschow"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Kondraschow"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Kondraschow"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "q",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "r",
+              "value": "Александр Викторович Кондрашов"
+            },
+            {
+              "language": "u",
+              "value": "Александр Викторович Кондрашов"
+            },
+            {
+              "language": "r",
+              "value": "Кондрашов Александр Викторович"
+            },
+            {
+              "language": "u",
+              "value": "Кондрашов Александр Викторович"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "r",
+              "value": "Кондрашов, Александр"
+            },
+            {
+              "language": "u",
+              "value": "Кондрашов, Александр"
+            },
+            {
+              "language": "r",
+              "value": "Александр Кондрашов"
+            },
+            {
+              "language": "u",
+              "value": "Александр Кондрашов"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "r",
+              "value": "Кондрашов, Александр Викторович"
+            },
+            {
+              "language": "u",
+              "value": "Кондрашов, Александр Викторович"
+            },
+            {
+              "language": "c",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Kondrashov"
+            },
+            {
+              "language": "e",
+              "value": "Александр Викторович Кондрашов"
+            },
+            {
+              "language": "n",
+              "value": "Александр Викторович Кондрашов"
+            },
+            {
+              "language": "r",
+              "value": "Кондрашов Александр"
+            },
+            {
+              "language": "u",
+              "value": "Кондрашов Александр"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "kondrashov"
+            }
+          },
+          "citizenship": [
+            "Soviet Union",
+            "Russia"
+          ],
+          "date_of_birth": "1983-11-21",
+          "image": {
+            "url": "https://images.qloo.com/i/88DCA086-6AE2-44F8-9BA6-474CCFC859A1-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "notable_work": [
+            "Life in motion. How to achieve success while remaining true to yourself"
+          ],
+          "work_period_start": "2011-01-01",
+          "short_description": "Russian travel blogger (born 1983)"
+        },
+        "popularity": 0.9869918787575696,
+        "disambiguation": "1983-11-21",
+        "tags": [
+          {
+            "name": "Russian Explorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_explorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_explorers"
+          },
+          {
+            "name": "Writer",
+            "tag_id": "urn:tag:occupation:person:writer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:writer"
+          },
+          {
+            "name": "Russian Male Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_male_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_male_bloggers"
+          },
+          {
+            "name": "Instagram Blogger",
+            "tag_id": "urn:tag:occupation:person:instagram_blogger",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:instagram_blogger"
+          },
+          {
+            "name": "Russian Bloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_bloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_bloggers"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "Explorer",
+            "tag_id": "urn:tag:occupation:person:explorer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:explorer"
+          },
+          {
+            "name": "Video Blogger",
+            "tag_id": "urn:tag:occupation:person:video_blogger",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:video_blogger"
+          },
+          {
+            "name": "Internet Celebrity",
+            "tag_id": "urn:tag:occupation:person:internet_celebrity",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:internet_celebrity"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Ovechkin",
+        "entity_id": "3CA27CAA-F913-416A-9653-3A21952F07B6",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "k",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "k",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "f",
+              "value": "Aleksander Ovetshkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksander Ovetshkin"
+            },
+            {
+              "language": "b",
+              "value": "Александър Овечкин"
+            },
+            {
+              "language": "g",
+              "value": "Александър Овечкин"
+            },
+            {
+              "language": "u",
+              "value": "Овечкін Олександр Михайлович"
+            },
+            {
+              "language": "k",
+              "value": "Овечкін Олександр Михайлович"
+            },
+            {
+              "language": "j",
+              "value": "アレックス・オベチキン"
+            },
+            {
+              "language": "a",
+              "value": "アレックス・オベチキン"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "i",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин, Александр"
+            },
+            {
+              "language": "u",
+              "value": "Овечкин, Александр"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Owetschkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Owetschkin"
+            },
+            {
+              "language": "h",
+              "value": "Aleksandr Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Ovečkin"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Ovetsjkin"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Ovetsjkin"
+            },
+            {
+              "language": "d",
+              "value": "Aleksandr Mikhajlovitj Ovetjkin"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Mikhajlovitj Ovetjkin"
+            },
+            {
+              "language": "d",
+              "value": "Aleksandr Ovetjkin"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Ovetjkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Aleksandr Ovetjkin"
+            },
+            {
+              "language": "v",
+              "value": "Aleksandr Ovetjkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "b",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "e",
+              "value": "Aleksandr Oveĉkin"
+            },
+            {
+              "language": "o",
+              "value": "Aleksandr Oveĉkin"
+            },
+            {
+              "language": "h",
+              "value": "Alekszandr Mihajlovics Ovecskin"
+            },
+            {
+              "language": "u",
+              "value": "Alekszandr Mihajlovics Ovecskin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovetchkine"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Ovetchkine"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandras Ovečkinas"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandras Ovečkinas"
+            },
+            {
+              "language": "f",
+              "value": "Alexandr Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexandr Ovechkin"
+            },
+            {
+              "language": "m",
+              "value": "Александр Овечкин"
+            },
+            {
+              "language": "n",
+              "value": "Александр Овечкин"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Oveçkin"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Oveçkin"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин Александр Михайлович"
+            },
+            {
+              "language": "u",
+              "value": "Овечкин Александр Михайлович"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин Александр"
+            },
+            {
+              "language": "u",
+              "value": "Овечкин Александр"
+            },
+            {
+              "language": "c",
+              "value": "Aleksandr Ovetxkin"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Ovetxkin"
+            },
+            {
+              "language": "p",
+              "value": "Aleksandr Owieczkin"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Owieczkin"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksander Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksander Ovechkin"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandrs Mihailovičs Ovečkins"
+            },
+            {
+              "language": "v",
+              "value": "Aleksandrs Mihailovičs Ovečkins"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovetshkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovetshkin"
+            },
+            {
+              "language": "i",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "d",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "e",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "z",
+              "value": "亚历山大·奥韦奇金"
+            },
+            {
+              "language": "h",
+              "value": "亚历山大·奥韦奇金"
+            },
+            {
+              "language": "c",
+              "value": "Alexandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Mikhaylovich Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovechkine"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Ovechkine"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "q",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Ovie"
+            },
+            {
+              "language": "t",
+              "value": "Ovie"
+            },
+            {
+              "language": "f",
+              "value": "Alexandre Ovetchkine"
+            },
+            {
+              "language": "r",
+              "value": "Alexandre Ovetchkine"
+            },
+            {
+              "language": "n",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "l",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "s",
+              "value": "Ovetjkin"
+            },
+            {
+              "language": "v",
+              "value": "Ovetjkin"
+            },
+            {
+              "language": "e",
+              "value": "Aleksandr Ovetškin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Ovetškin"
+            },
+            {
+              "language": "h",
+              "value": "Aleksander Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Aleksander Ovečkin"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Michajlovič Ovečkin"
+            },
+            {
+              "language": "k",
+              "value": "Alexander Michajlovič Ovečkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "h",
+              "value": "Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Ovečkin"
+            },
+            {
+              "language": "h",
+              "value": "אלכסנדר אובצ'קין"
+            },
+            {
+              "language": "e",
+              "value": "אלכסנדר אובצ'קין"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Mikhailovich Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Mihajlovič Ovečkin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Mihajlovič Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин А. М."
+            },
+            {
+              "language": "u",
+              "value": "Овечкин А. М."
+            },
+            {
+              "language": "s",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "q",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Ovecikin"
+            },
+            {
+              "language": "o",
+              "value": "Aleksandr Ovecikin"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин А."
+            },
+            {
+              "language": "u",
+              "value": "Овечкин А."
+            },
+            {
+              "language": "l",
+              "value": "Aleksandrs Ovečkins"
+            },
+            {
+              "language": "v",
+              "value": "Aleksandrs Ovečkins"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "c",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Ovetchkin"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Ovetchkin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "f",
+              "value": "Alex Ovetškin"
+            },
+            {
+              "language": "i",
+              "value": "Alex Ovetškin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovechkine"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Ovechkine"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "j",
+              "value": "アレキサンダー・オベチキン"
+            },
+            {
+              "language": "a",
+              "value": "アレキサンダー・オベチキン"
+            },
+            {
+              "language": "r",
+              "value": "Овечкин, Александр Михайлович"
+            },
+            {
+              "language": "u",
+              "value": "Овечкин, Александр Михайлович"
+            },
+            {
+              "language": "e",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Aleksandr Ovechkin"
+            },
+            {
+              "language": "e",
+              "value": "Ovi Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Ovi Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "v",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexandr Ovečkin"
+            },
+            {
+              "language": "k",
+              "value": "Alexandr Ovečkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Owetschkin"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Owetschkin"
+            },
+            {
+              "language": "s",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "v",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Александр Овечкин"
+            },
+            {
+              "language": "u",
+              "value": "Александр Овечкин"
+            },
+            {
+              "language": "e",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "h",
+              "value": "Aleksandar Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandar Ovečkin"
+            },
+            {
+              "language": "c",
+              "value": "Alexandr Ovečkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexandr Ovečkin"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Ови"
+            },
+            {
+              "language": "u",
+              "value": "Ови"
+            },
+            {
+              "language": "i",
+              "value": "Alexandre Ovetchkine"
+            },
+            {
+              "language": "t",
+              "value": "Alexandre Ovetchkine"
+            },
+            {
+              "language": "l",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "v",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "k",
+              "value": "Alexandr Michajlovič Ovečkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovetskin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovetskin"
+            },
+            {
+              "language": "l",
+              "value": "Ovečkins"
+            },
+            {
+              "language": "v",
+              "value": "Ovečkins"
+            },
+            {
+              "language": "a",
+              "value": "ألكسندر أوفيشكين"
+            },
+            {
+              "language": "r",
+              "value": "ألكسندر أوفيشكين"
+            },
+            {
+              "language": "f",
+              "value": "Alexandr Ovetshkin"
+            },
+            {
+              "language": "i",
+              "value": "Alexandr Ovetshkin"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Michailowitsch Owetschkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Michailowitsch Owetschkin"
+            },
+            {
+              "language": "r",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "u",
+              "value": "Александр Михайлович Овечкин"
+            },
+            {
+              "language": "i",
+              "value": "Alexandr Mihailovich Ovechkin"
+            },
+            {
+              "language": "o",
+              "value": "Alexandr Mihailovich Ovechkin"
+            },
+            {
+              "language": "e",
+              "value": "OVI"
+            },
+            {
+              "language": "n",
+              "value": "OVI"
+            },
+            {
+              "language": "h",
+              "value": "Alexander Ovečkin"
+            },
+            {
+              "language": "r",
+              "value": "Alexander Ovečkin"
+            },
+            {
+              "language": "f",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "u",
+              "value": "Олександр Овечкін"
+            },
+            {
+              "language": "k",
+              "value": "Олександр Овечкін"
+            },
+            {
+              "language": "e",
+              "value": "Ovi One"
+            },
+            {
+              "language": "n",
+              "value": "Ovi One"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovečkin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Ovečkin"
+            },
+            {
+              "language": "l",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "v",
+              "value": "Ovechkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Ovetsjkin"
+            },
+            {
+              "language": "h",
+              "value": "Ալեքսանդր Օվեչկին"
+            },
+            {
+              "language": "y",
+              "value": "Ալեքսանդր Օվեչկին"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Oveckin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Oveckin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Mikhajlovitsj Ovetsjkin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Mikhajlovitsj Ovetsjkin"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Ovechkin"
+            },
+            {
+              "language": "k",
+              "value": "알렉산드르 오베치킨"
+            },
+            {
+              "language": "o",
+              "value": "알렉산드르 오베치킨"
+            },
+            {
+              "language": "f",
+              "value": "Aleksandr Ovetškin"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Ovetškin"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Mikhajlovitsj Ovetsjkin"
+            },
+            {
+              "language": "b",
+              "value": "Aleksandr Mikhajlovitsj Ovetsjkin"
+            },
+            {
+              "language": "s",
+              "value": "Александар Овечкин"
+            },
+            {
+              "language": "r",
+              "value": "Александар Овечкин"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Michailowitsch Ovechkin"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Michailowitsch Ovechkin"
+            },
+            {
+              "language": "r",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "u",
+              "value": "Alex Ovechkin"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Ovečkin"
+            },
+            {
+              "language": "k",
+              "value": "Alexander Ovečkin"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Mihayloviç Oveçkin"
+            },
+            {
+              "language": "r",
+              "value": "Aleksandr Mihayloviç Oveçkin"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "aleksandrovechkinofficial"
+            },
+            "twitter": {
+              "id": "ovi8"
+            },
+            "imdb": {
+              "id": "nm2307140"
+            },
+            "library_of_congress": {
+              "id": "n2006068112"
+            }
+          },
+          "citizenship": [
+            "Soviet Union",
+            "Russia"
+          ],
+          "date_of_birth": "1985-09-17",
+          "image": {
+            "url": "https://images.qloo.com/i/3CA27CAA-F913-416A-9653-3A21952F07B6-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "ice hockey"
+          ],
+          "member_of_sports_team": [
+            "HC Dynamo Moscow",
+            "Washington Capitals"
+          ],
+          "short_description": "Russian ice hockey player"
+        },
+        "popularity": 0.9853284917537317,
+        "disambiguation": "1985-09-17",
+        "tags": [
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Russian Ice Hockey Left Wingers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_ice_hockey_left_wingers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_ice_hockey_left_wingers"
+          },
+          {
+            "name": "Olympic Ice Hockey Players For Russia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_ice_hockey_players_russia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_ice_hockey_players_russia"
+          },
+          {
+            "name": "Washington Capitals Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:washington_capitals_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:washington_capitals_players"
+          },
+          {
+            "name": "Russian Emigrants To The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_emigrants_to_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_emigrants_to_united_states"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Ice Hockey Player",
+            "tag_id": "urn:tag:occupation:person:ice_hockey_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:ice_hockey_player"
+          },
+          {
+            "name": "Rocket Richard Trophy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:rocket_richard_trophy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:rocket_richard_trophy_winners"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "First Overall Nhl Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_overall_nhl_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_overall_nhl_draft_picks"
+          },
+          {
+            "name": "Washington Capitals Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:washington_capitals_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:washington_capitals_draft_picks"
+          },
+          {
+            "name": "Nhl First-round Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nhl_first_round_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nhl_first_round_draft_picks"
+          },
+          {
+            "name": "Calder Trophy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:calder_trophy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:calder_trophy_winners"
+          },
+          {
+            "name": "Eastern Orthodox Christians From Russia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:eastern_orthodox_christians_from_russia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:eastern_orthodox_christians_from_russia"
+          },
+          {
+            "name": "Ice Hockey People From Moscow",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ice_hockey_people_from_moscow",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ice_hockey_people_from_moscow"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:media:documentary",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:documentary"
+          },
+          {
+            "name": "Russian Orthodox Christians From Russia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_orthodox_christians_from_russia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_orthodox_christians_from_russia"
+          },
+          {
+            "name": "Hart Memorial Trophy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hart_memorial_trophy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hart_memorial_trophy_winners"
+          },
+          {
+            "name": "Ice Hockey Players At The 2010 Winter Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2010_winter_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2010_winter_olympics"
+          },
+          {
+            "name": "Art Ross Trophy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:art_ross_trophy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:art_ross_trophy_winners"
+          },
+          {
+            "name": "Russian Expatriate Ice Hockey Players In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_expatriate_ice_hockey_players_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_expatriate_ice_hockey_players_in_united_states"
+          },
+          {
+            "name": "Lester B. Pearson Award Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:lester_b_pearson_award_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:lester_b_pearson_award_winners"
+          },
+          {
+            "name": "Vague Or Ambiguous Time From June 2023",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_june_2023",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:vague_ambiguous_time_from_june_2023"
+          },
+          {
+            "name": "Washington Capitals Captains",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:washington_capitals_captains",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:washington_capitals_captains"
+          },
+          {
+            "name": "Mordvin People",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mordvin_people",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mordvin_people"
+          },
+          {
+            "name": "Ice Hockey Players At The 2014 Winter Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2014_winter_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2014_winter_olympics"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Stanley Cup Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stanley_cup_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stanley_cup_champions"
+          },
+          {
+            "name": "Hc Dynamo Moscow Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:hc_dynamo_moscow_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:hc_dynamo_moscow_players"
+          },
+          {
+            "name": "National Hockey League All-stars",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:national_hockey_league_all_stars",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:national_hockey_league_all_stars"
+          },
+          {
+            "name": "Russian Philanthropists",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_philanthropists",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_philanthropists"
+          },
+          {
+            "name": "Conn Smythe Trophy Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:conn_smythe_trophy_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:conn_smythe_trophy_winners"
+          },
+          {
+            "name": "Ice Hockey Players At The 2006 Winter Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2006_winter_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ice_hockey_players_at_2006_winter_olympics"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Petrov",
+        "entity_id": "CD2F3FF0-2A59-40F5-803D-1F523ACD2CD1",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "v",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "z",
+              "value": "亞歷山大·佩特羅夫"
+            },
+            {
+              "language": "h",
+              "value": "亞歷山大·佩特羅夫"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Andreevitsj (aktjor) Petrov"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Andreevitsj (aktjor) Petrov"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "e",
+              "value": "Aleksander Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksander Petrov"
+            },
+            {
+              "language": "e",
+              "value": "Aleksandr Andreyevich Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Andreyevich Petrov"
+            },
+            {
+              "language": "c",
+              "value": "Петров, Александр Андреевич (актёр)"
+            },
+            {
+              "language": "e",
+              "value": "Петров, Александр Андреевич (актёр)"
+            },
+            {
+              "language": "c",
+              "value": "Alexandr Petrov"
+            },
+            {
+              "language": "s",
+              "value": "Alexandr Petrov"
+            },
+            {
+              "language": "r",
+              "value": "Александр Андреевич Петров"
+            },
+            {
+              "language": "u",
+              "value": "Александр Андреевич Петров"
+            },
+            {
+              "language": "s",
+              "value": "Александр Петров"
+            },
+            {
+              "language": "q",
+              "value": "Александр Петров"
+            },
+            {
+              "language": "p",
+              "value": "Aleksandr Andriejewicz Pietrow"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Andriejewicz Pietrow"
+            },
+            {
+              "language": "g",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "a",
+              "value": "Alexander Petrov"
+            },
+            {
+              "language": "b",
+              "value": "Аляксандр Андрэевіч Пятроў"
+            },
+            {
+              "language": "e",
+              "value": "Аляксандр Андрэевіч Пятроў"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Petrow"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Petrow"
+            },
+            {
+              "language": "r",
+              "value": "Александр Петров"
+            },
+            {
+              "language": "u",
+              "value": "Александр Петров"
+            },
+            {
+              "language": "t",
+              "value": "อเล็กซานเดอร์ เปตรอฟ"
+            },
+            {
+              "language": "h",
+              "value": "อเล็กซานเดอร์ เปตรอฟ"
+            },
+            {
+              "language": "h",
+              "value": "אלכסנדר פטרוב"
+            },
+            {
+              "language": "e",
+              "value": "אלכסנדר פטרוב"
+            },
+            {
+              "language": "f",
+              "value": "Alexandre Petrov"
+            },
+            {
+              "language": "r",
+              "value": "Alexandre Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Andrejevitsj Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Andrejevitsj Petrov"
+            },
+            {
+              "language": "r",
+              "value": "Петров, Александр Андреевич"
+            },
+            {
+              "language": "u",
+              "value": "Петров, Александр Андреевич"
+            },
+            {
+              "language": "p",
+              "value": "Aleksander Pietrow"
+            },
+            {
+              "language": "l",
+              "value": "Aleksander Pietrow"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντρ Πέτροφ"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντρ Πέτροφ"
+            },
+            {
+              "language": "u",
+              "value": "Олександр Андрійович Петров"
+            },
+            {
+              "language": "k",
+              "value": "Олександр Андрійович Петров"
+            },
+            {
+              "language": "c",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "h",
+              "value": "Alekszandr Petrov"
+            },
+            {
+              "language": "u",
+              "value": "Alekszandr Petrov"
+            },
+            {
+              "language": "i",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "b",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "c",
+              "value": "Петров Александр Андреевич (актёр)"
+            },
+            {
+              "language": "v",
+              "value": "Петров Александр Андреевич (актёр)"
+            },
+            {
+              "language": "e",
+              "value": "Aleksander Andreyevich Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksander Andreyevich Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Andrejevitsj Petrov"
+            },
+            {
+              "language": "b",
+              "value": "Aleksandr Andrejevitsj Petrov"
+            },
+            {
+              "language": "f",
+              "value": "Alexander Andrejewitsch Petrow"
+            },
+            {
+              "language": "i",
+              "value": "Alexander Andrejewitsch Petrow"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντερ Πέτροφ"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντερ Πέτροφ"
+            },
+            {
+              "language": "b",
+              "value": "Аляксандр Пятроў"
+            },
+            {
+              "language": "e",
+              "value": "Аляксандр Пятроў"
+            },
+            {
+              "language": "s",
+              "value": "Александар Петров"
+            },
+            {
+              "language": "r",
+              "value": "Александар Петров"
+            },
+            {
+              "language": "u",
+              "value": "Олександр Петров"
+            },
+            {
+              "language": "k",
+              "value": "Олександр Петров"
+            },
+            {
+              "language": "v",
+              "value": "Aleksandr Petrov (dramatan)"
+            },
+            {
+              "language": "o",
+              "value": "Aleksandr Petrov (dramatan)"
+            },
+            {
+              "language": "j",
+              "value": "アレクサンダー・ペトロフ (俳優)"
+            },
+            {
+              "language": "a",
+              "value": "アレクサンダー・ペトロフ (俳優)"
+            },
+            {
+              "language": "e",
+              "value": "Αλεξάντρ Πέτροβ"
+            },
+            {
+              "language": "l",
+              "value": "Αλεξάντρ Πέτροβ"
+            },
+            {
+              "language": "e",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Andreevich Petrov"
+            },
+            {
+              "language": "n",
+              "value": "Alexander Andreevich Petrov"
+            },
+            {
+              "language": "a",
+              "value": "ألكسندر بتروف"
+            },
+            {
+              "language": "r",
+              "value": "ألكسندر بتروف"
+            },
+            {
+              "language": "h",
+              "value": "Ալեքսանդր Պետրով"
+            },
+            {
+              "language": "y",
+              "value": "Ալեքսանդր Պետրով"
+            },
+            {
+              "language": "m",
+              "value": "Alexander Andreevich Petrov"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Andreevich Petrov"
+            },
+            {
+              "language": "p",
+              "value": "Aleksandr Pietrow"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandr Pietrow"
+            },
+            {
+              "language": "s",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "q",
+              "value": "Aleksandr Petrov"
+            },
+            {
+              "language": "p",
+              "value": "Alexander Andrejewitsch Petrow"
+            },
+            {
+              "language": "t",
+              "value": "Alexander Andrejewitsch Petrow"
+            },
+            {
+              "language": "c",
+              "value": "Aleksandr Andréievitx Petrov"
+            },
+            {
+              "language": "a",
+              "value": "Aleksandr Andréievitx Petrov"
+            },
+            {
+              "language": "l",
+              "value": "Aleksandras Petrovas"
+            },
+            {
+              "language": "t",
+              "value": "Aleksandras Petrovas"
+            },
+            {
+              "language": "m",
+              "value": "Alexander Petrov (pelakon)"
+            },
+            {
+              "language": "s",
+              "value": "Alexander Petrov (pelakon)"
+            },
+            {
+              "language": "d",
+              "value": "Alexander Andrejewitsch Petrow"
+            },
+            {
+              "language": "e",
+              "value": "Alexander Andrejewitsch Petrow"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "actorsashapetrov"
+            },
+            "twitter": {
+              "id": "actorpetrov"
+            },
+            "imdb": {
+              "id": "nm5003252"
+            },
+            "library_of_congress": {
+              "id": "no2016161323"
+            },
+            "musicbrainz": {
+              "id": "b6839861-e49d-443e-a514-e551ddd441d8"
+            }
+          },
+          "citizenship": [
+            "Soviet Union",
+            "Russia"
+          ],
+          "date_of_birth": "1989-01-25",
+          "image": {
+            "url": "https://images.qloo.com/i/CD2F3FF0-2A59-40F5-803D-1F523ACD2CD1-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "work_period_start": "2010-01-01",
+          "short_description": "Russian film and television actor"
+        },
+        "popularity": 0.9757395549080788,
+        "disambiguation": "1989-01-25",
+        "tags": [
+          {
+            "name": "Russian Male Television Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_male_television_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_male_television_actors"
+          },
+          {
+            "name": "Drama",
+            "tag_id": "urn:tag:genre:media:media:drama",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:drama"
+          },
+          {
+            "name": "Russian Academy Of Theatre Arts Alumni",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_academy_theatre_arts_alumni",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_academy_theatre_arts_alumni"
+          },
+          {
+            "name": "Crime",
+            "tag_id": "urn:tag:genre:media:media:crime",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:crime"
+          },
+          {
+            "name": "Sport",
+            "tag_id": "urn:tag:genre:media:media:sport",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:sport"
+          },
+          {
+            "name": "Thriller",
+            "tag_id": "urn:tag:genre:media:media:thriller",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:thriller"
+          },
+          {
+            "name": "Male Actors From Moscow",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_moscow",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_moscow"
+          },
+          {
+            "name": "Adventure",
+            "tag_id": "urn:tag:genre:media:media:adventure",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:adventure"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Russian Male Voice Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_male_voice_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_male_voice_actors"
+          },
+          {
+            "name": "Romance",
+            "tag_id": "urn:tag:genre:media:media:romance",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:romance"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          },
+          {
+            "name": "Russian Male Film Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_male_film_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_male_film_actors"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:media:media:action",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:action"
+          },
+          {
+            "name": "Russian Male Stage Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_male_stage_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_male_stage_actors"
+          },
+          {
+            "name": "People From Pereslavl-zalessky",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_pereslavl_zalessky",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_pereslavl_zalessky"
+          },
+          {
+            "name": "Film Actor",
+            "tag_id": "urn:tag:occupation:person:film_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:film_actor"
+          },
+          {
+            "name": "Comedy",
+            "tag_id": "urn:tag:genre:media:media:comedy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:comedy"
+          },
+          {
+            "name": "21st-century Russian Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_russian_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_russian_male_actors"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:genre:person:actor",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:actor"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Horror",
+            "tag_id": "urn:tag:genre:media:media:horror",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:media:horror"
+          }
+        ]
+      }
+    ]
+  }
+}

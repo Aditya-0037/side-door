@@ -1,0 +1,524 @@
+{
+  "status": 200,
+  "params": {
+    "query": "The Sims 4",
+    "take": 5,
+    "types": "urn:entity:videogame"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "The Sims 4",
+        "entity_id": "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ru",
+              "value": "The Sims 4: Родители"
+            },
+            {
+              "language": "sv",
+              "value": "The Sims 4 : Föräldraliv"
+            }
+          ],
+          "content_rating": "T",
+          "description": "The Sims 4 is an open-ended life simulation in which you create and control Sims whose personalities and a new emotions system influence their choices, relationships, careers and daily lives. Emotions give Sims new interactions and shape emergent stories while you build homes, customize characters and guide long-term ambitions.",
+          "developer": "Maxis",
+          "external": {
+            "facebook": {
+              "id": "thesims"
+            },
+            "igdb": {
+              "id": "the-sims-4-city-living"
+            },
+            "metacritic": {
+              "critic_rating": 70,
+              "id": "1400685058"
+            },
+            "steam": {
+              "id": "1222670"
+            },
+            "twitter": {
+              "id": "thesimsrussia"
+            },
+            "wikidata": {
+              "id": "q30641763"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/2225FC45-A2BE-454C-8527-6EAF3F4BF3DB-420x-auto.jpg"
+          },
+          "platforms": [
+            "Microsoft Windows (PC)",
+            "macOS",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X",
+            "Xbox Series S"
+          ],
+          "publisher": "Electronic Arts",
+          "release_date": "2014-09-02",
+          "release_year": 2014,
+          "short_description": "Create and control Sims in an open-ended life-simulation, managing their emotions, relationships, homes, careers and daily stories.",
+          "short_descriptions": [
+            {
+              "language": "sv",
+              "value": "datorspel från 2014"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel van Maxis"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2014 року"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2014"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2014 roku"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2014"
+            },
+            {
+              "language": "lv",
+              "value": "videospēle"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2014"
+            },
+            {
+              "language": "sq",
+              "value": "video lojë"
+            },
+            {
+              "language": "zh",
+              "value": "2014年電子遊戲"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra"
+            },
+            {
+              "language": "en",
+              "value": "2014 video game"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2014"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2014 года в жанре симулятора жизни"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2014"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2014"
+            },
+            {
+              "language": "tr",
+              "value": "2014 yaşam simülasyonu video oyunu"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2014"
+            },
+            {
+              "language": "hu",
+              "value": "2014-es videójáték"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2014"
+            },
+            {
+              "language": "cs",
+              "value": "počítačová hra"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche"
+            },
+            {
+              "language": "he",
+              "value": "משחק סימולציה"
+            },
+            {
+              "language": "id",
+              "value": "permainan video"
+            },
+            {
+              "language": "fi",
+              "value": "The Sims -pelisarjan uusin osa vuodelta 2014"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel aus dem Jahr 2014"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2014"
+            },
+            {
+              "language": "de",
+              "value": "Spieler erstellen und steuern Charaktere mit einzigartigen Emotionen und Persönlichkeiten, die ihr Leben und ihre Interaktionen in einer lebendigen virtuellen Welt gestalten."
+            },
+            {
+              "language": "es",
+              "value": "Los jugadores crean y controlan personajes con emociones y personalidades únicas, moldeando sus vidas e interacciones en un mundo virtual vibrante."
+            },
+            {
+              "language": "fr",
+              "value": "Les joueurs créent et contrôlent des personnages avec des émotions et des personnalités uniques, façonnant leur vie et leurs interactions dans un monde virtuel dynamique."
+            },
+            {
+              "language": "en",
+              "value": "Players create and control characters with unique emotions and personalities, shaping their lives and interactions in a vibrant virtual world."
+            }
+          ]
+        },
+        "popularity": 0.9779519592292225,
+        "disambiguation": "2014-09-02, Maxis",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Stylized",
+            "tag_id": "urn:tag:art_style:qloo:stylized",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Cartoonish",
+            "tag_id": "urn:tag:art_style:qloo:cartoonish",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "creative",
+            "tag_id": "urn:tag:audience:qloo:creative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "customization",
+            "tag_id": "urn:tag:audience:qloo:customization",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "story-driven emergent gameplay",
+            "tag_id": "urn:tag:audience:qloo:story_driven_emergent_gameplay",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "design-oriented",
+            "tag_id": "urn:tag:audience:qloo:design_oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Whimsical",
+            "tag_id": "urn:tag:emotional_tone:qloo:whimsical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Playful",
+            "tag_id": "urn:tag:emotional_tone:qloo:playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Slice of Life",
+            "tag_id": "urn:tag:emotional_tone:qloo:slice_of_life",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Lighthearted",
+            "tag_id": "urn:tag:emotional_tone:qloo:lighthearted",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Life Simulation",
+            "tag_id": "urn:tag:gameplay_type:qloo:life_simulation",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:gameplay_type:qloo:sandbox",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Simulation",
+            "tag_id": "urn:tag:genre:qloo:simulation",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Life Simulation",
+            "tag_id": "urn:tag:genre:qloo:life_simulation",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:genre:qloo:sandbox",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Microsoft Windows (PC)",
+            "tag_id": "urn:tag:platform:qloo:microsoft_windows_pc_",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "macOS",
+            "tag_id": "urn:tag:platform:qloo:macos",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 5",
+            "tag_id": "urn:tag:platform:qloo:playstation_5",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series X",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_x",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series S",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_s",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "single-player",
+            "tag_id": "urn:tag:player_mode:qloo:single_player",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:skill_level:qloo:casual",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Simulation",
+            "tag_id": "urn:tag:category:qloo:simulation",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Life Sim",
+            "tag_id": "urn:tag:category:qloo:life_sim",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Sandbox",
+            "tag_id": "urn:tag:category:qloo:sandbox",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Casual",
+            "tag_id": "urn:tag:category:qloo:casual",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Singleplayer",
+            "tag_id": "urn:tag:category:qloo:singleplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Building",
+            "tag_id": "urn:tag:category:qloo:building",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Character Customization",
+            "tag_id": "urn:tag:category:qloo:character_customization",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "The Sims 4: Businesses & Hobbies Expansion Pack",
+        "entity_id": "1F5E2561-2349-4B0B-89C1-53EDD661D149",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "",
+          "developer": "Maxis",
+          "external": {
+            "metacritic": {
+              "critic_rating": 0,
+              "id": "1400822395"
+            }
+          },
+          "publisher": "Electronic Arts",
+          "release_date": "2025-03-06",
+          "release_year": 2025,
+          "short_descriptions": []
+        },
+        "popularity": 0.979943703081599,
+        "disambiguation": "2025-03-06, Maxis"
+      },
+      {
+        "name": "The Sims 4: Growing Together",
+        "entity_id": "A5A14343-82ED-44BD-B8F5-488C478066CD",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "T",
+          "developer": "Maxis",
+          "external": {
+            "metacritic": {
+              "critic_rating": 82,
+              "id": "1400704840"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/A5A14343-82ED-44BD-B8F5-488C478066CD-420x-auto.jpg"
+          },
+          "publisher": "Electronic Arts",
+          "release_date": "2023-03-16",
+          "release_year": 2023,
+          "short_descriptions": []
+        },
+        "popularity": 0.9780871372932379,
+        "disambiguation": "2023-03-16, Maxis"
+      },
+      {
+        "name": "The Sims 4: Castle Estate Kit",
+        "entity_id": "992DFF44-1EF1-477E-B2AE-64C1AF860527",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "",
+          "description": "Capture the classic grandeur of a castle with The Sims™ 4 Castle Estate Kit. This community-voted collection features stone walls, leaded glass, and everything you need to create the perfect dramatic backdrop for your next story.",
+          "developer": "Maxis",
+          "external": {
+            "metacritic": {
+              "critic_rating": 0,
+              "id": "1400749783"
+            }
+          },
+          "image": {},
+          "platforms": [
+            "PC"
+          ],
+          "publisher": "Electronic Arts",
+          "release_date": "2024-01-18",
+          "release_year": 2024,
+          "short_description": "Create a majestic castle estate with classic architecture and dramatic elements for storytelling in a life simulation game.",
+          "short_descriptions": [
+            {
+              "language": "de",
+              "value": "Erstelle ein majestätisches Schlossanwesen mit klassischer Architektur und dramatischen Elementen für Geschichten in einem Lebenssimulationsspiel."
+            },
+            {
+              "language": "es",
+              "value": "Crea una majestuosa finca con arquitectura clásica y elementos dramáticos para contar historias en un juego de simulación de vida."
+            },
+            {
+              "language": "fr",
+              "value": "Créez un domaine de château majestueux avec une architecture classique et des éléments dramatiques pour raconter des histoires dans un jeu de simulation de vie."
+            },
+            {
+              "language": "en",
+              "value": "Create a majestic castle estate with classic architecture and dramatic elements for storytelling in a life simulation game."
+            }
+          ]
+        },
+        "popularity": 0.9776088164446594,
+        "disambiguation": "2024-01-18, Maxis",
+        "tags": [
+          {
+            "name": "Virtual Life",
+            "tag_id": "urn:tag:genre:media:virtual_life",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:virtual_life"
+          }
+        ]
+      },
+      {
+        "name": "The Sims 4: Casanova Cave Kit",
+        "entity_id": "6D18D166-F035-412E-9B61-1F0E2D733D3E",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [],
+          "content_rating": "",
+          "description": "",
+          "developer": "Maxis",
+          "external": {
+            "metacritic": {
+              "id": "1400813412"
+            }
+          },
+          "image": {},
+          "platforms": [
+            "PC"
+          ],
+          "publisher": "Electronic Arts",
+          "release_date": "2025-01-16",
+          "release_year": 2025,
+          "short_descriptions": []
+        },
+        "popularity": 0.9752626864159468,
+        "disambiguation": "2025-01-16, Maxis",
+        "tags": [
+          {
+            "name": "Virtual Life",
+            "tag_id": "urn:tag:genre:media:virtual_life",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:virtual_life"
+          }
+        ]
+      }
+    ]
+  }
+}

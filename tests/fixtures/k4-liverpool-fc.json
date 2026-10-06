@@ -1,0 +1,2839 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Liverpool FC",
+    "take": 5
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Liverpool F.C.",
+        "entity_id": "2480D550-8B1D-43F0-B231-1CE82B9D674E",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "et",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "nn",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "no",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "fi",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "gl",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "pl",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "nb",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "hu",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "da",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "hr",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "ca",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "lt",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "sk",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "cs",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "tr",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "vi",
+              "value": "Câu lạc bộ bóng đá Liverpool"
+            },
+            {
+              "language": "sw",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "tl",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "sv",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "kk",
+              "value": "Ливерпуль (футбол клубы)"
+            },
+            {
+              "language": "ta",
+              "value": "லிவர்பூல் கால்பந்து கழகம்"
+            },
+            {
+              "language": "es",
+              "value": "Liverpool Fútbol Club"
+            },
+            {
+              "language": "es_ar",
+              "value": "Liverpool Fútbol Club"
+            },
+            {
+              "language": "it",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "de",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "af",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "sq",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "lv",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "bs",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "en_au",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "pt",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "nl",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "id",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "ms",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "eu",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "sl",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "fr",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลลิเวอร์พูล"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦足球俱樂部"
+            },
+            {
+              "language": "hi",
+              "value": "लिवरपूल एफ़.सी."
+            },
+            {
+              "language": "ru",
+              "value": "ФК «Ливерпуль»"
+            },
+            {
+              "language": "ml",
+              "value": "ലിവർപൂൾ എഫ്.സി."
+            },
+            {
+              "language": "ka",
+              "value": "ლივერპული (საფეხბურთო კლუბი)"
+            },
+            {
+              "language": "uk",
+              "value": "ФК Ліверпуль"
+            },
+            {
+              "language": "te",
+              "value": "లివర్‌పూల్ ఎఫ్.సి."
+            },
+            {
+              "language": "lo",
+              "value": "ສະໂມສອນ ລິເວີພູລ"
+            },
+            {
+              "language": "km",
+              "value": "ក្លឹបបាល់ទាត់ហង្សក្រហមលីវ៉ឺភូល"
+            },
+            {
+              "language": "he",
+              "value": "מועדון הכדורגל ליבר풀"
+            },
+            {
+              "language": "ja",
+              "value": "リヴァプールFC"
+            },
+            {
+              "language": "sr",
+              "value": "ФК Ливерпул"
+            },
+            {
+              "language": "mk",
+              "value": "ФК Ливерпул"
+            },
+            {
+              "language": "bn",
+              "value": "লিভারপুল ফুটবল ক্লাব"
+            },
+            {
+              "language": "az",
+              "value": "Liverpul"
+            },
+            {
+              "language": "bg",
+              "value": "Ф.К. Ливърпул"
+            },
+            {
+              "language": "my",
+              "value": "လီဗာပူးလ် ဘောလုံးအသင်း"
+            },
+            {
+              "language": "ko",
+              "value": "리버풀FC"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفربول لكرة القدم"
+            },
+            {
+              "language": "el",
+              "value": "Ποδοσφαιρικός Όμιλος Λίβερπουλ"
+            }
+          ],
+          "description": "An internationally acclaimed football club based in Liverpool, known for its deep historical roots and passionate global fanbase. Established in 1892, the club operates as both a competitive sports entity and a cultural institution that emphasizes social responsibility through various community initiatives. With its home at the historic Anfield stadium, it consistently competes at the highest levels of professional football, supported by an extensive network of partners and global supporters. The organization focuses on long-term growth and sustainable practices, balancing its pursuit of sporting excellence with a commitment to inclusivity and local development.",
+          "external": {
+            "instagram": {
+              "id": "liverpoolfc"
+            },
+            "twitter": {
+              "id": "lfc"
+            },
+            "wikidata": {
+              "id": "Q1130849"
+            }
+          },
+          "founded_year": "1892",
+          "image": {
+            "url": "https://images.qloo.com/i/2480D550-8B1D-43F0-B231-1CE82B9D674E-420x-auto.jpg"
+          },
+          "short_description": "Liverpool F.C. is a professional football club based in Liverpool, England, known for winning multiple Premier League and European titles.",
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A historic and globally renowned football club defined by a passionate following, an iconic stadium, and a commitment to competitive excellence."
+            },
+            {
+              "language": "es",
+              "value": "Un histórico y mundialmente famoso club de fútbol definido por una afición apasionada, un estadio icónico y un compromiso con la excelencia competitiva."
+            },
+            {
+              "language": "fr",
+              "value": "Un club de football historique et mondialement célèbre, défini par une base de fans passionnée, un stade emblématique et un engagement envers l'excellence compétitive."
+            },
+            {
+              "language": "de",
+              "value": "Ein historischer und weltweit renommierter Fußballverein, der sich durch eine leidenschaftliche Anhängerschaft, ein ikonisches Stadion und das Streben nach sportlicher Höchstleistung auszeichnet."
+            }
+          ]
+        },
+        "popularity": 0.9995338271939788,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "England Soccer",
+            "tag_id": "urn:tag:genre:brand:sports_organization:soccer:england",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Red Color Palette",
+            "tag_id": "urn:tag:aesthetic_property:qloo:red_color_palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Historic Stadium Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:historic_stadium_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Corporate Identity",
+            "tag_id": "urn:tag:aesthetic_property:qloo:corporate_identity",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Athletic Apparel",
+            "tag_id": "urn:tag:aesthetic_property:qloo:athletic_apparel",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Success",
+            "tag_id": "urn:tag:lifestyle:qloo:success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Achievement",
+            "tag_id": "urn:tag:lifestyle:qloo:global_achievement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Historical Significance",
+            "tag_id": "urn:tag:lifestyle:qloo:historical_significance",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Team Spirit",
+            "tag_id": "urn:tag:lifestyle:qloo:team_spirit",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Manchester United",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_united",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Arsenal",
+            "tag_id": "urn:tag:competitor_brand:qloo:arsenal",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Chelsea",
+            "tag_id": "urn:tag:competitor_brand:qloo:chelsea",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester City",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_city",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Real Madrid",
+            "tag_id": "urn:tag:competitor_brand:qloo:real_madrid",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Inclusivity",
+            "tag_id": "urn:tag:core_value:qloo:inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Responsibility",
+            "tag_id": "urn:tag:core_value:qloo:responsibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:core_value:qloo:community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Tradition",
+            "tag_id": "urn:tag:core_value:qloo:tradition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Football Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_football_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Social Responsibility",
+            "tag_id": "urn:tag:cultural_relevance:qloo:social_responsibility",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Diversity and Inclusion",
+            "tag_id": "urn:tag:cultural_relevance:qloo:diversity_and_inclusion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Global Football Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:global_football_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Local Supporters",
+            "tag_id": "urn:tag:customer_segment:qloo:local_supporters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Sports Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:sports_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Families",
+            "tag_id": "urn:tag:customer_segment:qloo:families",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:emotional_tone:qloo:resilient",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:emotional_tone:qloo:loyal",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Historic",
+            "tag_id": "urn:tag:emotional_tone:qloo:historic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Inspiring",
+            "tag_id": "urn:tag:emotional_tone:qloo:inspiring",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports Club",
+            "tag_id": "urn:tag:industry:qloo:professional_sports_club",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Celebrity Fans",
+            "tag_id": "urn:tag:influencer_appeal:qloo:celebrity_fans",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Football Analysts",
+            "tag_id": "urn:tag:influencer_appeal:qloo:football_analysts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Football Culture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:football_culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Community Service",
+            "tag_id": "urn:tag:interest_adjacency:qloo:community_service",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Stadium Architecture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:stadium_architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:interest_adjacency:qloo:global_travel",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "United States",
+            "tag_id": "urn:tag:key_market:qloo:united_states",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Southeast Asia",
+            "tag_id": "urn:tag:key_market:qloo:southeast_asia",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Scandinavia",
+            "tag_id": "urn:tag:key_market:qloo:scandinavia",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Anfield",
+            "tag_id": "urn:tag:keyword:qloo:anfield",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Premier League",
+            "tag_id": "urn:tag:keyword:qloo:premier_league",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Sports Heritage",
+            "tag_id": "urn:tag:keyword:qloo:sports_heritage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Social Responsibility",
+            "tag_id": "urn:tag:keyword:qloo:social_responsibility",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Standard Chartered",
+            "tag_id": "urn:tag:partnership:qloo:standard_chartered",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Adidas",
+            "tag_id": "urn:tag:partnership:qloo:adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Matchday Rituals",
+            "tag_id": "urn:tag:lifestyle:qloo:matchday_rituals",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Sporting Traditions",
+            "tag_id": "urn:tag:lifestyle:qloo:sporting_traditions",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:community_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Supporter Group Participation",
+            "tag_id": "urn:tag:lifestyle:qloo:supporter_group_participation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Cult",
+            "tag_id": "urn:tag:market_archetype:qloo:cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "sporty",
+            "tag_id": "urn:tag:personal_style:qloo:sporty",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "casual",
+            "tag_id": "urn:tag:personal_style:qloo:casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "teamwear",
+            "tag_id": "urn:tag:personal_style:qloo:teamwear",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "athletic",
+            "tag_id": "urn:tag:personal_style:qloo:athletic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "streetwear crossover",
+            "tag_id": "urn:tag:personal_style:qloo:streetwear_crossover",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Professional Football Matches",
+            "tag_id": "urn:tag:product_service:qloo:professional_football_matches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Hospitality Services",
+            "tag_id": "urn:tag:product_service:qloo:hospitality_services",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Stadium Tours",
+            "tag_id": "urn:tag:product_service:qloo:stadium_tours",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Football Academy",
+            "tag_id": "urn:tag:product_service:qloo:football_academy",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Membership Programs",
+            "tag_id": "urn:tag:product_service:qloo:membership_programs",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Barcelona",
+            "tag_id": "urn:tag:similar_brand:qloo:barcelona",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Bayern Munich",
+            "tag_id": "urn:tag:similar_brand:qloo:bayern_munich",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "AC Milan",
+            "tag_id": "urn:tag:similar_brand:qloo:ac_milan",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Juventus",
+            "tag_id": "urn:tag:similar_brand:qloo:juventus",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Borussia Dortmund",
+            "tag_id": "urn:tag:similar_brand:qloo:borussia_dortmund",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "LFC Foundation",
+            "tag_id": "urn:tag:subsidiary:qloo:lfc_foundation",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Liverpool F.C. Women",
+            "tag_id": "urn:tag:subsidiary:qloo:liverpool_f_c_women",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "The Red Way",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:the_red_way",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Community Outreach",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:community_outreach",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Social Impact",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Supply Chain Transparency",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:target_age_group:qloo:children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Seniors",
+            "tag_id": "urn:tag:target_age_group:qloo:seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Low",
+            "tag_id": "urn:tag:target_income_level:qloo:low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Low to Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Liverpool",
+        "entity_id": "B31D0B6C-2609-4FA9-A8BF-90856F792210",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "an",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفربول الإنجليزي"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفربول لكرة القدم"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفرفول"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفربول"
+            },
+            {
+              "language": "cs",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "de",
+              "value": "F.C. Liverpool"
+            },
+            {
+              "language": "de",
+              "value": "The Reds"
+            },
+            {
+              "language": "de",
+              "value": "FC Liverpool"
+            },
+            {
+              "language": "en",
+              "value": "Liverpool"
+            },
+            {
+              "language": "en",
+              "value": "L.F.C."
+            },
+            {
+              "language": "en",
+              "value": "LiverpoolF.C."
+            },
+            {
+              "language": "en",
+              "value": "LiverpoolFC"
+            },
+            {
+              "language": "en",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "es",
+              "value": "Los Rojos"
+            },
+            {
+              "language": "es",
+              "value": "Liverpool F. C."
+            },
+            {
+              "language": "es",
+              "value": "The Reds"
+            },
+            {
+              "language": "es",
+              "value": "Liverpool Fútbol Club"
+            },
+            {
+              "language": "et",
+              "value": "Liverpool F. C."
+            },
+            {
+              "language": "et",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "eu",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "fa",
+              "value": "اف سی لیورپول"
+            },
+            {
+              "language": "fa",
+              "value": "لیورپول (باشگاه فوتبال)"
+            },
+            {
+              "language": "fa",
+              "value": "لیورپول اف.سی"
+            },
+            {
+              "language": "fa",
+              "value": "باشگاه فوتبال لیورپول"
+            },
+            {
+              "language": "fi",
+              "value": "Curse of Dalglish"
+            },
+            {
+              "language": "fi",
+              "value": "Liverpool F. C."
+            },
+            {
+              "language": "fi",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "fr",
+              "value": "Liverpool"
+            },
+            {
+              "language": "fr",
+              "value": "L.F.C."
+            },
+            {
+              "language": "fr",
+              "value": "LiverpoolF.C."
+            },
+            {
+              "language": "fr",
+              "value": "LiverpoolFC"
+            },
+            {
+              "language": "fr",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "fy",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "ga",
+              "value": "C.S. Learphoill"
+            },
+            {
+              "language": "ga",
+              "value": "Club Peile Learphoill"
+            },
+            {
+              "language": "ga",
+              "value": "Club Sacair Learphóil"
+            },
+            {
+              "language": "ga",
+              "value": "Club Sacair Learphoill"
+            },
+            {
+              "language": "ga",
+              "value": "Learpholl"
+            },
+            {
+              "language": "ga",
+              "value": "C.P. Learphoill"
+            },
+            {
+              "language": "gl",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "he",
+              "value": "ליברפול (מועדון כדורגל)"
+            },
+            {
+              "language": "he",
+              "value": "ליברפול (קבוצת הכדורגל)"
+            },
+            {
+              "language": "he",
+              "value": "ליברפול (קבוצת כדורגל)"
+            },
+            {
+              "language": "he",
+              "value": "מועדון הכדורגל ליברפול"
+            },
+            {
+              "language": "he",
+              "value": "ליברפול"
+            },
+            {
+              "language": "hi",
+              "value": "लिवरपूल एफ़.सी."
+            },
+            {
+              "language": "hy",
+              "value": "Լիվերպուլ ՖԱ"
+            },
+            {
+              "language": "it",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "ja",
+              "value": "リヴァプール"
+            },
+            {
+              "language": "ja",
+              "value": "リバプールFC"
+            },
+            {
+              "language": "ja",
+              "value": "リヴァプールFC"
+            },
+            {
+              "language": "ko",
+              "value": "FC 리버풀"
+            },
+            {
+              "language": "ko",
+              "value": "리버풀"
+            },
+            {
+              "language": "ko",
+              "value": "리버풀 F.C."
+            },
+            {
+              "language": "ko",
+              "value": "리버풀fc"
+            },
+            {
+              "language": "ko",
+              "value": "리버풀FC"
+            },
+            {
+              "language": "ko",
+              "value": "리버풀 FC"
+            },
+            {
+              "language": "nl",
+              "value": "The Reds"
+            },
+            {
+              "language": "nl",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "pl",
+              "value": "The Reds"
+            },
+            {
+              "language": "pl",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "pt",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool F.C"
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool f.c."
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool fc"
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool football club"
+            },
+            {
+              "language": "ro",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "ru",
+              "value": "Ливерпуль (футбол)"
+            },
+            {
+              "language": "ru",
+              "value": "Ливерпуль (футбольный клуб)"
+            },
+            {
+              "language": "ru",
+              "value": "Мерсисайдцы"
+            },
+            {
+              "language": "ru",
+              "value": "ФК «Ливерпуль»"
+            },
+            {
+              "language": "ru",
+              "value": "ФК Ливерпуль"
+            },
+            {
+              "language": "ru",
+              "value": "Ливерпуль"
+            },
+            {
+              "language": "sv",
+              "value": "FcLiverpool"
+            },
+            {
+              "language": "sv",
+              "value": "Kopites"
+            },
+            {
+              "language": "sv",
+              "value": "Kops"
+            },
+            {
+              "language": "sv",
+              "value": "The Reds"
+            },
+            {
+              "language": "sv",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "th",
+              "value": "ลิเวอร์พูล เอฟซี"
+            },
+            {
+              "language": "th",
+              "value": "สโมสรลิเวอร์พูล"
+            },
+            {
+              "language": "th",
+              "value": "หงส์แดง"
+            },
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลลิเวอร์พูล"
+            },
+            {
+              "language": "tl",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "tr",
+              "value": "F.C. Liverpool"
+            },
+            {
+              "language": "tr",
+              "value": "Liverpool (futbol takımı)"
+            },
+            {
+              "language": "tr",
+              "value": "Liverpool F.C"
+            },
+            {
+              "language": "tr",
+              "value": "Liverpool fc"
+            },
+            {
+              "language": "tr",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "tt",
+              "value": "Ливерпуль"
+            },
+            {
+              "language": "ur",
+              "value": "لیورپول فٹ بال کلب"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦足球俱乐部"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦足球會"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦足球俱樂部"
+            },
+            {
+              "language": "bn",
+              "value": "লিভারপুল ফুটবল ক্লাব"
+            },
+            {
+              "language": "gu",
+              "value": "લિવરપૂલ ફૂટબોલ ક્લબ"
+            },
+            {
+              "language": "ha",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "kn",
+              "value": "ಲಿವರ್ ಪೂಲ್ ಫುಟ್ ಬಾಲ್ ಕ್ಲಬ್"
+            },
+            {
+              "language": "ml",
+              "value": "ലിവർപൂൾ എഫ്.സി."
+            },
+            {
+              "language": "mr",
+              "value": "लिव्हरपूल एफ.सी."
+            },
+            {
+              "language": "ml",
+              "value": "ലിവർപൂൾ F.C."
+            },
+            {
+              "language": "ml",
+              "value": "ലിവർപൂൾ എഫ്.സി"
+            },
+            {
+              "language": "mr",
+              "value": "लिवरपूल एफ.सी."
+            },
+            {
+              "language": "mr",
+              "value": "लीव्हरपूल"
+            },
+            {
+              "language": "ta",
+              "value": "லிவர்பூல் எஃப்.சி."
+            },
+            {
+              "language": "ta",
+              "value": "லிவர்பூல் கால்பந்து அணி"
+            },
+            {
+              "language": "pa",
+              "value": "ਲਿਵਰਪੂਲ ਫੁੱਟਬਾਲ ਕਲੱਬ"
+            },
+            {
+              "language": "sw",
+              "value": "Liverpool F.C."
+            },
+            {
+              "language": "ta",
+              "value": "லிவர்பூல் கால்பந்து கழகம்"
+            },
+            {
+              "language": "te",
+              "value": "లివర్పూల్ ఎఫ్.సి."
+            }
+          ],
+          "description": "Established in 1847, this department store is a cornerstone of the Mexican retail sector, offering a vast array of high-quality products including fashion, electronics, and home furnishings. It serves as a comprehensive destination for consumers, blending a deep heritage of service with a modern e-commerce presence. The brand is known for its wide market reach, catering to middle-to-high income families and individuals seeking variety and reliability. Through its focus on a broad product portfolio and strategic boutiques, it maintains a significant influence on consumer lifestyle habits across Mexico.",
+          "external": {
+            "instagram": {
+              "id": "liverpool_mexico"
+            },
+            "twitter": {
+              "id": "liverpoolmexico"
+            },
+            "wikidata": {
+              "id": "Q1143318"
+            }
+          },
+          "founded_year": "1847",
+          "image": {
+            "url": "https://images.qloo.com/i/B31D0B6C-2609-4FA9-A8BF-90856F792210-420x-auto.jpg"
+          },
+          "short_description": "Liverpool is a leading Mexican department store chain offering a wide range of fashion, home goods, and boutiques featuring renowned brands.",
+          "short_descriptions": [
+            {
+              "language": "fr",
+              "value": "Une chaîne de grands magasins de premier plan proposant une vaste sélection de mode, d'articles pour la maison, de beauté et de boutiques pour le consommateur moderne."
+            },
+            {
+              "language": "es",
+              "value": "Una destacada cadena de tiendas departamentales que ofrece una amplia gama de moda, artículos para el hogar, belleza y marcas reconocidas en todo México."
+            },
+            {
+              "language": "en",
+              "value": "A premier department store chain providing a comprehensive selection of fashion, home goods, beauty products, and curated boutiques for the modern consumer."
+            },
+            {
+              "language": "de",
+              "value": "Eine führende Warenhauskette mit einer umfassenden Auswahl an Mode, Haushaltswaren, Kosmetik und Boutiquen für den modernen Konsumenten."
+            }
+          ]
+        },
+        "popularity": 0.9871082029462122,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Retail companies established in 1847",
+            "tag_id": "urn:tag:wikipedia_category:retail_companies_established_in_1847",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Companies listed on the Mexican Stock Exchange",
+            "tag_id": "urn:tag:wikipedia_category:companies_listed_on_the_mexican_stock_exchange",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Department stores of Mexico",
+            "tag_id": "urn:tag:wikipedia_category:department_stores_of_mexico",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Food halls",
+            "tag_id": "urn:tag:wikipedia_category:food_halls",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Cuajimalpa",
+            "tag_id": "urn:tag:wikipedia_category:cuajimalpa",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Retail companies of Mexico",
+            "tag_id": "urn:tag:wikipedia_category:retail_companies_of_mexico",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Companies based in Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:companies_based_in_mexico_city",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "1847 establishments in Mexico",
+            "tag_id": "urn:tag:wikipedia_category:1847_establishments_in_mexico",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Mexican brands",
+            "tag_id": "urn:tag:wikipedia_category:mexican_brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "name": "Polished",
+            "tag_id": "urn:tag:aesthetic_property:qloo:polished",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Clean",
+            "tag_id": "urn:tag:aesthetic_property:qloo:clean",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Organized",
+            "tag_id": "urn:tag:aesthetic_property:qloo:organized",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Contemporary",
+            "tag_id": "urn:tag:aesthetic_property:qloo:contemporary",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Bright",
+            "tag_id": "urn:tag:aesthetic_property:qloo:bright",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Upscale Home Comfort",
+            "tag_id": "urn:tag:lifestyle:qloo:upscale_home_comfort",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Personalized Style",
+            "tag_id": "urn:tag:lifestyle:qloo:personalized_style",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Curated Living",
+            "tag_id": "urn:tag:lifestyle:qloo:curated_living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Effortless Sophistication",
+            "tag_id": "urn:tag:lifestyle:qloo:effortless_sophistication",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Retail Brand",
+            "tag_id": "urn:tag:brand_type:qloo:retail_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Palacio de Hierro",
+            "tag_id": "urn:tag:competitor_brand:qloo:palacio_de_hierro",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Sears",
+            "tag_id": "urn:tag:competitor_brand:qloo:sears",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Quality",
+            "tag_id": "urn:tag:core_value:qloo:quality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Customer Service",
+            "tag_id": "urn:tag:core_value:qloo:customer_service",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Tradition",
+            "tag_id": "urn:tag:core_value:qloo:tradition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Accessibility",
+            "tag_id": "urn:tag:core_value:qloo:accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Mexican Consumer Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:mexican_consumer_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Modern Lifestyle Trends",
+            "tag_id": "urn:tag:cultural_relevance:qloo:modern_lifestyle_trends",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Urban Families",
+            "tag_id": "urn:tag:customer_segment:qloo:urban_families",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Style-Conscious Professionals",
+            "tag_id": "urn:tag:customer_segment:qloo:style_conscious_professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Home Owners",
+            "tag_id": "urn:tag:customer_segment:qloo:home_owners",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Reliable",
+            "tag_id": "urn:tag:emotional_tone:qloo:reliable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sophisticated",
+            "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Welcoming",
+            "tag_id": "urn:tag:emotional_tone:qloo:welcoming",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Diverse",
+            "tag_id": "urn:tag:emotional_tone:qloo:diverse",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Retail",
+            "tag_id": "urn:tag:industry:qloo:retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Department Stores",
+            "tag_id": "urn:tag:industry:qloo:department_stores",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "E-commerce",
+            "tag_id": "urn:tag:industry:qloo:e_commerce",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Lifestyle Vloggers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:lifestyle_vloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Fashion Stylists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Home Decor Enthusiasts",
+            "tag_id": "urn:tag:influencer_appeal:qloo:home_decor_enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Beauty Bloggers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:beauty_bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Parenting Influencers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:parenting_influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Interior Design",
+            "tag_id": "urn:tag:interest_adjacency:qloo:interior_design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Personal Styling",
+            "tag_id": "urn:tag:interest_adjacency:qloo:personal_styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Household Organization",
+            "tag_id": "urn:tag:interest_adjacency:qloo:household_organization",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Beauty Rituals",
+            "tag_id": "urn:tag:interest_adjacency:qloo:beauty_rituals",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Family Living",
+            "tag_id": "urn:tag:interest_adjacency:qloo:family_living",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Mexico",
+            "tag_id": "urn:tag:key_market:qloo:mexico",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Department Store",
+            "tag_id": "urn:tag:keyword:qloo:department_store",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Retail Mexico",
+            "tag_id": "urn:tag:keyword:qloo:retail_mexico",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Fashion Retail",
+            "tag_id": "urn:tag:keyword:qloo:fashion_retail",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Home Goods",
+            "tag_id": "urn:tag:keyword:qloo:home_goods",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Lifestyle Shopping",
+            "tag_id": "urn:tag:keyword:qloo:lifestyle_shopping",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Disney",
+            "tag_id": "urn:tag:partnership:qloo:disney",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Samsung",
+            "tag_id": "urn:tag:partnership:qloo:samsung",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Estée Lauder",
+            "tag_id": "urn:tag:partnership:qloo:estee_lauder",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Apple",
+            "tag_id": "urn:tag:partnership:qloo:apple",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Urban Living",
+            "tag_id": "urn:tag:lifestyle:qloo:urban_living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Family-Centric",
+            "tag_id": "urn:tag:lifestyle:qloo:family_centric",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Hosting",
+            "tag_id": "urn:tag:lifestyle:qloo:hosting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Professional",
+            "tag_id": "urn:tag:lifestyle:qloo:professional",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Modern Convenience",
+            "tag_id": "urn:tag:lifestyle:qloo:modern_convenience",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "$$",
+            "tag_id": "urn:tag:price_level:qloo:_",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "name": "Apparel",
+            "tag_id": "urn:tag:product_service:qloo:apparel",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Footwear",
+            "tag_id": "urn:tag:product_service:qloo:footwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Home Decor",
+            "tag_id": "urn:tag:product_service:qloo:home_decor",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Cosmetics",
+            "tag_id": "urn:tag:product_service:qloo:cosmetics",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Electronics",
+            "tag_id": "urn:tag:product_service:qloo:electronics",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Furniture",
+            "tag_id": "urn:tag:product_service:qloo:furniture",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Kitchenware",
+            "tag_id": "urn:tag:product_service:qloo:kitchenware",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Jewelry",
+            "tag_id": "urn:tag:product_service:qloo:jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Watches",
+            "tag_id": "urn:tag:product_service:qloo:watches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Sporting Goods",
+            "tag_id": "urn:tag:product_service:qloo:sporting_goods",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Nordstrom",
+            "tag_id": "urn:tag:similar_brand:qloo:nordstrom",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Macy's",
+            "tag_id": "urn:tag:similar_brand:qloo:macy_s",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "El Corte Inglés",
+            "tag_id": "urn:tag:similar_brand:qloo:el_corte_ingles",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Suburbia",
+            "tag_id": "urn:tag:subsidiary:qloo:suburbia",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Williams Sonoma Mexico",
+            "tag_id": "urn:tag:subsidiary:qloo:williams_sonoma_mexico",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Pottery Barn Mexico",
+            "tag_id": "urn:tag:subsidiary:qloo:pottery_barn_mexico",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Environmental Social Governance Reporting",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:environmental_social_governance_reporting",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Liverpool FC Women",
+        "entity_id": "AF1C43CB-DE40-493C-9167-AD20190ADF0E",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "nl",
+              "value": "Liverpool LFC"
+            },
+            {
+              "language": "no",
+              "value": "Liverpool LFC"
+            },
+            {
+              "language": "fi",
+              "value": "Liverpool LFC"
+            },
+            {
+              "language": "nb",
+              "value": "Liverpool LFC"
+            },
+            {
+              "language": "it",
+              "value": "Liverpool Football Club Women"
+            },
+            {
+              "language": "es",
+              "value": "Liverpool Football Club Women"
+            },
+            {
+              "language": "es_ar",
+              "value": "Liverpool Football Club Women"
+            },
+            {
+              "language": "id",
+              "value": "Liverpool F.C. Wanita"
+            },
+            {
+              "language": "sv",
+              "value": "Liverpool FC Women"
+            },
+            {
+              "language": "ja",
+              "value": "リヴァプールFCウィメン"
+            },
+            {
+              "language": "tr",
+              "value": "Liverpool FC (kadın futbol takımı)"
+            },
+            {
+              "language": "da",
+              "value": "Liverpool F.C. Women"
+            },
+            {
+              "language": "en_au",
+              "value": "Liverpool F.C. Women"
+            },
+            {
+              "language": "pl",
+              "value": "Liverpool F.C. Women"
+            },
+            {
+              "language": "ca",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "hu",
+              "value": "Liverpool FC"
+            },
+            {
+              "language": "lt",
+              "value": "Liverpool L.F.C."
+            },
+            {
+              "language": "th",
+              "value": "สโมสรฟุตบอลหญิงลิเวอร์พูล"
+            },
+            {
+              "language": "eu",
+              "value": "Liverpool Football Club"
+            },
+            {
+              "language": "fr",
+              "value": "Liverpool Ladies Football Club"
+            },
+            {
+              "language": "ru",
+              "value": "Ливерпуль (женский футбольный клуб)"
+            },
+            {
+              "language": "zh",
+              "value": "利物浦女子足球俱乐部"
+            },
+            {
+              "language": "he",
+              "value": "ליברפול (כדורגל נשים)"
+            },
+            {
+              "language": "uk",
+              "value": "Ліверпуль (жіночий футбольний клуб)"
+            },
+            {
+              "language": "ar",
+              "value": "نادي ليفربول للسيدات"
+            }
+          ],
+          "description": "A prominent professional women's football club with a rich heritage, operating as a key component of a globally recognized sporting institution. The club is committed to high-level competitive performance alongside deep community engagement, emphasizing equality, diversity, and social responsibility. Through its extensive infrastructure and dedication to development, it fosters both local talent and international appeal. The brand balances its storied history with a forward-looking commitment to the future of the sport.",
+          "external": {
+            "instagram": {
+              "id": "lfcladies"
+            },
+            "twitter": {
+              "id": "lfcladies"
+            },
+            "wikidata": {
+              "id": "Q588085"
+            }
+          },
+          "founded_year": "1989",
+          "image": {
+            "url": "https://images.qloo.com/i/AF1C43CB-DE40-493C-9167-AD20190ADF0E-420x-auto.jpg"
+          },
+          "short_description": "Liverpool FC Women is the women's football team affiliated with Liverpool FC, competing in women's football leagues and known for players like Asisat Oshoala and Lucy Bronze.",
+          "short_descriptions": [
+            {
+              "language": "es",
+              "value": "Un club de fútbol femenino profesional, histórico y competitivo, que representa a una institución deportiva inglesa de renombre mundial."
+            },
+            {
+              "language": "en",
+              "value": "A historic and competitive professional women's football club representing a world-renowned English sporting institution."
+            },
+            {
+              "language": "de",
+              "value": "Ein historischer und wettbewerbsfähiger professioneller Frauenfußballverein, der eine weltbekannte englische Sportinstitution repräsentiert."
+            },
+            {
+              "language": "fr",
+              "value": "Un club de football féminin professionnel historique et compétitif, représentant une institution sportive anglaise de renommée mondiale."
+            }
+          ]
+        },
+        "popularity": 0.9692495465409978,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Woman",
+            "tag_id": "urn:tag:genre:brand:sports_organization:women",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Classic Red",
+            "tag_id": "urn:tag:aesthetic_property:qloo:classic_red",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Clean Branding",
+            "tag_id": "urn:tag:aesthetic_property:qloo:clean_branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Athletic Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:athletic_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "High-Performance Graphics",
+            "tag_id": "urn:tag:aesthetic_property:qloo:high_performance_graphics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Heritage-Inspired Visuals",
+            "tag_id": "urn:tag:aesthetic_property:qloo:heritage_inspired_visuals",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Professional Athletic Achievement",
+            "tag_id": "urn:tag:lifestyle:qloo:professional_athletic_achievement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Sporting Excellence",
+            "tag_id": "urn:tag:lifestyle:qloo:global_sporting_excellence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Leadership",
+            "tag_id": "urn:tag:lifestyle:qloo:community_leadership",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Historical Legacy Preservation",
+            "tag_id": "urn:tag:lifestyle:qloo:historical_legacy_preservation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Manchester City WFC",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_city_wfc",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Chelsea FC Women",
+            "tag_id": "urn:tag:competitor_brand:qloo:chelsea_fc_women",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Arsenal Women",
+            "tag_id": "urn:tag:competitor_brand:qloo:arsenal_women",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Manchester United Women",
+            "tag_id": "urn:tag:competitor_brand:qloo:manchester_united_women",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Everton Women",
+            "tag_id": "urn:tag:competitor_brand:qloo:everton_women",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:core_value:qloo:community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Equality",
+            "tag_id": "urn:tag:core_value:qloo:equality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Diversity",
+            "tag_id": "urn:tag:core_value:qloo:diversity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Inclusion",
+            "tag_id": "urn:tag:core_value:qloo:inclusion",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Sustainability",
+            "tag_id": "urn:tag:core_value:qloo:sustainability",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Professional Football Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:professional_football_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Women's Empowerment",
+            "tag_id": "urn:tag:cultural_relevance:qloo:women_s_empowerment",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Regional Civic Pride",
+            "tag_id": "urn:tag:cultural_relevance:qloo:regional_civic_pride",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Global Sports Media",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_sports_media",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Local Residents",
+            "tag_id": "urn:tag:customer_segment:qloo:local_residents",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "International Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:international_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Youth Players",
+            "tag_id": "urn:tag:customer_segment:qloo:youth_players",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Sports Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:sports_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:emotional_tone:qloo:resilient",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Proud",
+            "tag_id": "urn:tag:emotional_tone:qloo:proud",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Inclusive",
+            "tag_id": "urn:tag:emotional_tone:qloo:inclusive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:emotional_tone:qloo:determined",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:industry:qloo:professional_sports",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Broadcasters",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_broadcasters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Community Activists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:community_activists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Fitness Educators",
+            "tag_id": "urn:tag:influencer_appeal:qloo:fitness_educators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Cultural Ambassadors",
+            "tag_id": "urn:tag:influencer_appeal:qloo:cultural_ambassadors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:professional_sports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Community Advocacy",
+            "tag_id": "urn:tag:interest_adjacency:qloo:community_advocacy",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Physical Training",
+            "tag_id": "urn:tag:interest_adjacency:qloo:physical_training",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Local History",
+            "tag_id": "urn:tag:interest_adjacency:qloo:local_history",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Sports Culture",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Global",
+            "tag_id": "urn:tag:key_market:qloo:global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Liverpool",
+            "tag_id": "urn:tag:keyword:qloo:liverpool",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Womens Sport",
+            "tag_id": "urn:tag:keyword:qloo:womens_sport",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Red Together",
+            "tag_id": "urn:tag:keyword:qloo:red_together",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Athleticism",
+            "tag_id": "urn:tag:keyword:qloo:athleticism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Standard Chartered",
+            "tag_id": "urn:tag:partnership:qloo:standard_chartered",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Adidas",
+            "tag_id": "urn:tag:partnership:qloo:adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "LFC Foundation",
+            "tag_id": "urn:tag:partnership:qloo:lfc_foundation",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Matchday Attendance",
+            "tag_id": "urn:tag:lifestyle:qloo:matchday_attendance",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Active Living",
+            "tag_id": "urn:tag:lifestyle:qloo:active_living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Community Volunteering",
+            "tag_id": "urn:tag:lifestyle:qloo:community_volunteering",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Sports Viewing",
+            "tag_id": "urn:tag:lifestyle:qloo:sports_viewing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Local Civic Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:local_civic_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Professional Football",
+            "tag_id": "urn:tag:product_service:qloo:professional_football",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Match Tickets",
+            "tag_id": "urn:tag:product_service:qloo:match_tickets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Team Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:team_merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Football Training",
+            "tag_id": "urn:tag:product_service:qloo:football_training",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Community Programs",
+            "tag_id": "urn:tag:product_service:qloo:community_programs",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "FC Barcelona Femení",
+            "tag_id": "urn:tag:similar_brand:qloo:fc_barcelona_femeni",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Olympique Lyonnais Féminin",
+            "tag_id": "urn:tag:similar_brand:qloo:olympique_lyonnais_feminin",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Paris Saint-Germain Féminines",
+            "tag_id": "urn:tag:similar_brand:qloo:paris_saint_germain_feminines",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Bayern Munich Frauen",
+            "tag_id": "urn:tag:similar_brand:qloo:bayern_munich_frauen",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Juventus Women",
+            "tag_id": "urn:tag:similar_brand:qloo:juventus_women",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "The Red Way",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:the_red_way",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Social Impact",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Supply Chain Transparency",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Children",
+            "tag_id": "urn:tag:target_age_group:qloo:children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Seniors",
+            "tag_id": "urn:tag:target_age_group:qloo:seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Low",
+            "tag_id": "urn:tag:target_income_level:qloo:low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Low to Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Liverpool FC",
+        "entity_id": "2EC07BDA-DC8C-4B6A-B2C6-27CB9510ED5E",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "properties": {
+          "akas": [],
+          "duration": {},
+          "external": {
+            "lastfm": {
+              "id": "liverpool%20fc",
+              "listeners": 5814,
+              "scrobbles": 53062
+            },
+            "musicbrainz": {},
+            "spotify": {}
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/2EC07BDA-DC8C-4B6A-B2C6-27CB9510ED5E-420x-auto.jpg"
+          },
+          "short_description": ""
+        },
+        "popularity": 0.7713209023956601,
+        "disambiguation": "Liverpool FC",
+        "tags": [
+          {
+            "name": "Liverpool",
+            "tag_id": "urn:tag:genre:liverpool",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:liverpool"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:genre:football",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:football"
+          },
+          {
+            "name": "Football Songs",
+            "tag_id": "urn:tag:genre:football_songs",
+            "type": "urn:tag:genre",
+            "value": "urn:tag:genre:football_songs"
+          }
+        ]
+      },
+      {
+        "name": "Liverpool FC: The 30-Year Wait",
+        "entity_id": "F33581F3-B491-47ED-A9B5-13E8C84227E3",
+        "types": [
+          "urn:entity:movie"
+        ],
+        "properties": {
+          "akas": [],
+          "description": "Liverpool FC: The 30-Year Wait (2020), directed by Louis Myles and featuring interviews with figures such as John Barnes, Rafael Benítez and Jordan Henderson, is a sports documentary that follows a top English club's 30-year struggle to reclaim the domestic title. Through archival footage and contemporary interviews it charts managerial upheaval, transfer policy failures, the long shadow of the Hillsborough disaster, and the enduring loyalty of supporters. The film frames these events as part of a larger story about resilience, legacy and eventual redemption, delivering an emotionally resonant and reflective portrait of club and community.",
+          "external": {
+            "imdb": {
+              "id": "tt13017850",
+              "user_rating": 7.9,
+              "user_rating_count": 211
+            }
+          },
+          "filming_location": "",
+          "image": {
+            "url": "https://images.qloo.com/i/F33581F3-B491-47ED-A9B5-13E8C84227E3-420x-auto.jpg"
+          },
+          "is_special": false,
+          "production_company": "BBC Film",
+          "release_country": "United Kingdom",
+          "release_date": "2020-08-30",
+          "release_year": 2020,
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A documentary following a major English football club's 30-year quest to reclaim the top domestic title, tracing decline, tragedy, rebuilding, and eventual triumph."
+            },
+            {
+              "language": "de",
+              "value": "Eine Dokumentation über die 30-jährige Suche eines großen englischen Vereins nach dem nationalen Titel, die Niedergang, Tragödie, Wiederaufbau und Triumph zeigt."
+            },
+            {
+              "language": "es",
+              "value": "Un documental que sigue la búsqueda de 30 años de un gran club inglés por recuperar el título nacional, repasando declive, tragedia, reconstrucción y triunfo."
+            },
+            {
+              "language": "fr",
+              "value": "Un documentaire qui suit la quête de 30 ans d’un grand club anglais pour retrouver le titre national, entre déclin, tragédie, reconstruction et victoire."
+            }
+          ]
+        },
+        "disambiguation": "2020",
+        "tags": [
+          {
+            "name": "Haunted",
+            "tag_id": "urn:tag:character:qloo:haunted",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Mature",
+            "tag_id": "urn:tag:audience:qloo:mature",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Fans",
+            "tag_id": "urn:tag:keyword:qloo:fans",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Documentary storytelling",
+            "tag_id": "urn:tag:interests:qloo:documentary_storytelling",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:theme:qloo:community",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Resilience",
+            "tag_id": "urn:tag:theme:qloo:resilience",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Liverpool",
+            "tag_id": "urn:tag:keyword:qloo:liverpool",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Managers",
+            "tag_id": "urn:tag:keyword:qloo:managers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:theme:qloo:redemption",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:audience:qloo:reflective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Montage heavy",
+            "tag_id": "urn:tag:style:qloo:montage_heavy",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "The underdog",
+            "tag_id": "urn:tag:archetype:qloo:the_underdog",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Competition",
+            "tag_id": "urn:tag:theme:qloo:competition",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Atmospheric",
+            "tag_id": "urn:tag:style:qloo:atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Oral history",
+            "tag_id": "urn:tag:interests:qloo:oral_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "The hero",
+            "tag_id": "urn:tag:archetype:qloo:the_hero",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Observational",
+            "tag_id": "urn:tag:style:qloo:observational",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Rebuilding",
+            "tag_id": "urn:tag:theme:qloo:rebuilding",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Trophies",
+            "tag_id": "urn:tag:keyword:qloo:trophies",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Investigative",
+            "tag_id": "urn:tag:plot:qloo:investigative",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Redemption",
+            "tag_id": "urn:tag:archetype:qloo:redemption",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:style:qloo:realistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Tragedy",
+            "tag_id": "urn:tag:archetype:qloo:tragedy",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Committed",
+            "tag_id": "urn:tag:character:qloo:committed",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Emotional",
+            "tag_id": "urn:tag:plot:qloo:emotional",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:character:qloo:passionate",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Hillsborough disaster",
+            "tag_id": "urn:tag:keyword:qloo:hillsborough_disaster",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:media:football",
+            "type": "urn:tag:keyword:media"
+          },
+          {
+            "name": "Football supporters",
+            "tag_id": "urn:tag:audience:qloo:football_supporters",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:character:qloo:resilient",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:plot:qloo:nostalgic",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Inspirational",
+            "tag_id": "urn:tag:plot:qloo:inspirational",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Premier league",
+            "tag_id": "urn:tag:keyword:qloo:premier_league",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Club history",
+            "tag_id": "urn:tag:subgenre:qloo:club_history",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Leadership",
+            "tag_id": "urn:tag:theme:qloo:leadership",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Interview focused",
+            "tag_id": "urn:tag:style:qloo:interview_focused",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Documentary like",
+            "tag_id": "urn:tag:style:qloo:documentary_like",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Historical documentary",
+            "tag_id": "urn:tag:subgenre:qloo:historical_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Reflective",
+            "tag_id": "urn:tag:plot:qloo:reflective",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Loyal",
+            "tag_id": "urn:tag:character:qloo:loyal",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:media:documentary",
+            "type": "urn:tag:genre:media"
+          },
+          {
+            "name": "Transfers",
+            "tag_id": "urn:tag:keyword:qloo:transfers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Social history",
+            "tag_id": "urn:tag:interests:qloo:social_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Community",
+            "tag_id": "urn:tag:archetype:qloo:community",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Football",
+            "tag_id": "urn:tag:keyword:qloo:football",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Fan culture",
+            "tag_id": "urn:tag:interests:qloo:fan_culture",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "The comeback",
+            "tag_id": "urn:tag:archetype:qloo:the_comeback",
+            "type": "urn:tag:archetype:qloo"
+          },
+          {
+            "name": "Intimate",
+            "tag_id": "urn:tag:style:qloo:intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Nostalgic",
+            "tag_id": "urn:tag:audience:qloo:nostalgic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:character:qloo:determined",
+            "type": "urn:tag:character:qloo"
+          },
+          {
+            "name": "Legacy",
+            "tag_id": "urn:tag:keyword:qloo:legacy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Football documentary",
+            "tag_id": "urn:tag:subgenre:qloo:football_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Emotionally engaged",
+            "tag_id": "urn:tag:audience:qloo:emotionally_engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Title race",
+            "tag_id": "urn:tag:keyword:qloo:title_race",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Grief",
+            "tag_id": "urn:tag:theme:qloo:grief",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Legacy",
+            "tag_id": "urn:tag:theme:qloo:legacy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Documentary",
+            "tag_id": "urn:tag:genre:qloo:documentary",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Triumph",
+            "tag_id": "urn:tag:theme:qloo:triumph",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "name": "Sports history",
+            "tag_id": "urn:tag:interests:qloo:sports_history",
+            "type": "urn:tag:interests:qloo"
+          },
+          {
+            "name": "Sports",
+            "tag_id": "urn:tag:genre:qloo:sports",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Chronological",
+            "tag_id": "urn:tag:plot:qloo:chronological",
+            "type": "urn:tag:plot:qloo"
+          },
+          {
+            "name": "Culturally curious",
+            "tag_id": "urn:tag:audience:qloo:culturally_curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Sports documentary",
+            "tag_id": "urn:tag:subgenre:qloo:sports_documentary",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "name": "Chronicle led",
+            "tag_id": "urn:tag:style:qloo:chronicle_led",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Archival driven",
+            "tag_id": "urn:tag:style:qloo:archival_driven",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "name": "Fan centric",
+            "tag_id": "urn:tag:style:qloo:fan_centric",
+            "type": "urn:tag:style:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}

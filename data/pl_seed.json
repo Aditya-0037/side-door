@@ -1,0 +1,26 @@
+{
+  "_note": "MANUALLY CURATED SEED LIST - not from any API. football-data.org squads are not on the free tier. Well-known Premier League players for the 2026-27 season, curated from knowledge as of mid-2026: re-check summer-2026 transfers before any demo. Qloo IDs are resolved and verified by scripts/verify_rosters.py.",
+  "curated_on": "2026-10-06",
+  "players": [
+    {"name": "Bukayo Saka", "team": "Arsenal"},
+    {"name": "Declan Rice", "team": "Arsenal"},
+    {"name": "Martin Ødegaard", "team": "Arsenal", "aliases": ["Martin Odegaard"]},
+    {"name": "Mohamed Salah", "team": "Liverpool"},
+    {"name": "Virgil van Dijk", "team": "Liverpool"},
+    {"name": "Florian Wirtz", "team": "Liverpool"},
+    {"name": "Alexander Isak", "team": "Liverpool"},
+    {"name": "Erling Haaland", "team": "Manchester City"},
+    {"name": "Phil Foden", "team": "Manchester City"},
+    {"name": "Rodri", "team": "Manchester City", "aliases": ["Rodrigo Hernández Cascante", "Rodrigo Hernández"]},
+    {"name": "Cole Palmer", "team": "Chelsea"},
+    {"name": "Moisés Caicedo", "team": "Chelsea"},
+    {"name": "Enzo Fernández", "team": "Chelsea"},
+    {"name": "Bruno Fernandes", "team": "Manchester United"},
+    {"name": "Bryan Mbeumo", "team": "Manchester United"},
+    {"name": "Bruno Guimarães", "team": "Newcastle United"},
+    {"name": "Anthony Gordon", "team": "Newcastle United"},
+    {"name": "Ollie Watkins", "team": "Aston Villa"},
+    {"name": "Jordan Pickford", "team": "Everton"},
+    {"name": "Kaoru Mitoma", "team": "Brighton & Hove Albion"}
+  ]
+}

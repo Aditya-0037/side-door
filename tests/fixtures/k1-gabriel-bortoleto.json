@@ -1,0 +1,2340 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Gabriel Bortoleto",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Gabriel Bortoleto",
+        "entity_id": "8C8FE1F2-61D2-4F73-A21A-9EF186B4787E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "c",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Bortoleto Oliveira"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Bortoleto Oliveira"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃尔·博托莱托"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃尔·博托莱托"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "r",
+              "value": "Габриэль Бортолето Оливейра"
+            },
+            {
+              "language": "u",
+              "value": "Габриэль Бортолето Оливейра"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "r",
+              "value": "Габриэль Бортолето"
+            },
+            {
+              "language": "u",
+              "value": "Габриэль Бортолето"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "h",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Bortoleto Oliveira"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Bortoleto Oliveira"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃尔·博尔托莱托"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃尔·博尔托莱托"
+            },
+            {
+              "language": "r",
+              "value": "Габриэль Лоренсо Бортолето Оливейра"
+            },
+            {
+              "language": "u",
+              "value": "Габриэль Лоренсо Бортолето Оливейра"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Bortoleto"
+            },
+            {
+              "language": "j",
+              "value": "ガブリエル・ボルトレト"
+            },
+            {
+              "language": "a",
+              "value": "ガブリエル・ボルトレト"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "gabrielbortoleto_"
+            },
+            "twitter": {
+              "id": "gabortoleto85"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "2004-10-14",
+          "image": {
+            "url": "https://images.qloo.com/i/8C8FE1F2-61D2-4F73-A21A-9EF186B4787E-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "auto racing"
+          ],
+          "short_description": "Brazilian racing driver"
+        },
+        "popularity": 0.23781541840162643,
+        "disambiguation": "2004-10-14",
+        "tags": [
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Formula Regional European Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_regional_european_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_regional_european_championship_drivers"
+          },
+          {
+            "name": "Prema Powerteam Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:prema_powerteam_drivers"
+          },
+          {
+            "name": "Stock Car Brasil Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stock_car_brasil_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stock_car_brasil_drivers"
+          },
+          {
+            "name": "Racing Driver",
+            "tag_id": "urn:tag:occupation:person:racing_driver",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:racing_driver"
+          },
+          {
+            "name": "Fia Formula 3 Champions",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_champions",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_champions"
+          },
+          {
+            "name": "Racing Drivers From São Paulo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_sao_paulo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:racing_drivers_from_sao_paulo"
+          },
+          {
+            "name": "Fa Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fa_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fa_racing_drivers"
+          },
+          {
+            "name": "Karting World Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:karting_world_championship_drivers"
+          },
+          {
+            "name": "Mp Motorsport Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mp_motorsport_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mp_motorsport_drivers"
+          },
+          {
+            "name": "after Parameter Includes The Word incumbent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:after_parameter_includes_word_incumbent"
+          },
+          {
+            "name": "Brazilian Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_racing_drivers"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "R-ace Gp Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:r_ace_gp_drivers"
+          },
+          {
+            "name": "Fia Formula 3 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_3_championship_drivers"
+          },
+          {
+            "name": "Trident Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:trident_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:trident_racing_drivers"
+          },
+          {
+            "name": "Italian F4 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:italian_f4_championship_drivers"
+          },
+          {
+            "name": "Formula Regional Asian Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:formula_regional_asian_championship_drivers"
+          },
+          {
+            "name": "Virtuosi Racing Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:virtuosi_racing_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:virtuosi_racing_drivers"
+          },
+          {
+            "name": "Fia Formula 2 Championship Drivers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fia_formula_2_championship_drivers"
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Montiel Gutiérrez",
+        "entity_id": "D3B787D3-028A-437F-8BB4-B5A09FD00606",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "e",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "e",
+              "value": "Gaborever"
+            },
+            {
+              "language": "n",
+              "value": "Gaborever"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃尔·蒙铁尔·古铁雷斯"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃尔·蒙铁尔·古铁雷斯"
+            },
+            {
+              "language": "e",
+              "value": "Werevertumorro"
+            },
+            {
+              "language": "s",
+              "value": "Werevertumorro"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Montiel Gutierrez"
+            },
+            {
+              "language": "q",
+              "value": "Gabriel Montiel Gutierrez"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "e",
+              "value": "Gabo"
+            },
+            {
+              "language": "n",
+              "value": "Gabo"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "e",
+              "value": "Werevertumorro"
+            },
+            {
+              "language": "n",
+              "value": "Werevertumorro"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "a",
+              "value": "جبريل مونتيل غوتيريز"
+            },
+            {
+              "language": "r",
+              "value": "جبريل مونتيل غوتيريز"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Montiel Gutierrez"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Montiel Gutierrez"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Montiel Gutiérrez"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Montiel Gutiérrez"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "werevertumorro"
+            },
+            "twitter": {
+              "id": "werevertumorro"
+            },
+            "spotify": {
+              "id": "2ICYPep2FwpOb1XZqnkaeZ"
+            }
+          },
+          "citizenship": [
+            "Mexico"
+          ],
+          "date_of_birth": "1989-09-23",
+          "image": {
+            "url": "https://images.qloo.com/i/D3B787D3-028A-437F-8BB4-B5A09FD00606-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "short_description": "Mexican YouTuber and association football player"
+        },
+        "popularity": 0.996972200780596,
+        "disambiguation": "1989-09-23",
+        "tags": [
+          {
+            "name": "Gaming Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:gaming_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:gaming_youtubers"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:occupation:person:youtuber",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:youtuber"
+          },
+          {
+            "name": "Spanish-language Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:spanish_language_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:spanish_language_youtubers"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Mexican Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_mens_footballers"
+          },
+          {
+            "name": "Mexican Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mexican_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mexican_youtubers"
+          },
+          {
+            "name": "Footballers From Mexico City",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_mexico_city",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_mexico_city"
+          },
+          {
+            "name": "Comedy Youtubers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:comedy_youtubers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:comedy_youtubers"
+          },
+          {
+            "name": "Youtube Vloggers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:youtube_vloggers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:youtube_vloggers"
+          },
+          {
+            "name": "Youtuber",
+            "tag_id": "urn:tag:genre:person:youtuber",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:youtuber"
+          },
+          {
+            "name": "Mens Association Football Midfielders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_midfielders"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Influencer",
+            "tag_id": "urn:tag:genre:person:influencer",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:influencer"
+          },
+          {
+            "name": "Television Producer",
+            "tag_id": "urn:tag:occupation:person:television_producer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_producer"
+          },
+          {
+            "name": "Murciélagos F.c. Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:murcielagos_f_c_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:murcielagos_f_c_footballers"
+          },
+          {
+            "name": "Liga Premier De México Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_premier_mexico_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_premier_mexico_players"
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Jesus",
+        "entity_id": "2B6B60FF-A3E8-4A39-A754-C684F5833C9E",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "m",
+              "value": "Габриел Хесус"
+            },
+            {
+              "language": "k",
+              "value": "Габриел Хесус"
+            },
+            {
+              "language": "t",
+              "value": "Габриэл Хесус"
+            },
+            {
+              "language": "g",
+              "value": "Габриэл Хесус"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "m",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "h",
+              "value": "Գաբրիել Ժեսուս"
+            },
+            {
+              "language": "y",
+              "value": "Գաբրիել Ժեսուս"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "o",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃爾·熱蘇斯"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃爾·熱蘇斯"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "b",
+              "value": "Габриел Фернандо де Хесус"
+            },
+            {
+              "language": "g",
+              "value": "Габриел Фернандо де Хесус"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "z",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "f",
+              "value": "گابریل ژسوس"
+            },
+            {
+              "language": "a",
+              "value": "گابریل ژسوس"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "l",
+              "value": "Gabriels Žezuss"
+            },
+            {
+              "language": "v",
+              "value": "Gabriels Žezuss"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "t",
+              "value": "กาบรีแยล เฌซุส"
+            },
+            {
+              "language": "h",
+              "value": "กาบรีแยล เฌซุส"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "w",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "o",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "o",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Габријел Жезус"
+            },
+            {
+              "language": "r",
+              "value": "Габријел Жезус"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "o",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "k",
+              "value": "가브리에우 제주스"
+            },
+            {
+              "language": "o",
+              "value": "가브리에우 제주스"
+            },
+            {
+              "language": "r",
+              "value": "Габриэл Жезус"
+            },
+            {
+              "language": "u",
+              "value": "Габриэл Жезус"
+            },
+            {
+              "language": "h",
+              "value": "גבריאל ז'סוס"
+            },
+            {
+              "language": "e",
+              "value": "גבריאל ז'סוס"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "j",
+              "value": "ガブリエル・ジェズス"
+            },
+            {
+              "language": "a",
+              "value": "ガブリエル・ジェズス"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "h",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "k",
+              "value": "გაბრიელ ჟეზუსი"
+            },
+            {
+              "language": "a",
+              "value": "გაბრიელ ჟეზუსი"
+            },
+            {
+              "language": "u",
+              "value": "Габріел Жезус"
+            },
+            {
+              "language": "k",
+              "value": "Габріел Жезус"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "k",
+              "value": "Габриэл Жезус"
+            },
+            {
+              "language": "k",
+              "value": "Габриэл Жезус"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "b",
+              "value": "গাব্রিয়েল জেসুস"
+            },
+            {
+              "language": "n",
+              "value": "গাব্রিয়েল জেসুস"
+            },
+            {
+              "language": "e",
+              "value": "Γκαμπριέλ Ζεσούς"
+            },
+            {
+              "language": "l",
+              "value": "Γκαμπριέλ Ζεσούς"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "h",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "w",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "n",
+              "value": "ग्यब्रिएल जेसुस"
+            },
+            {
+              "language": "e",
+              "value": "ग्यब्रिएल जेसुस"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "b",
+              "value": "Габриел Хесус"
+            },
+            {
+              "language": "g",
+              "value": "Габриел Хесус"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "h",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "a",
+              "value": "غابرييل خيسوس"
+            },
+            {
+              "language": "r",
+              "value": "غابرييل خيسوس"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "غابرييل جيسوس"
+            },
+            {
+              "language": "r",
+              "value": "غابرييل جيسوس"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Jesus"
+            },
+            {
+              "language": "a",
+              "value": "Qabriel Jesus"
+            },
+            {
+              "language": "z",
+              "value": "Qabriel Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "m",
+              "value": "Gabriel Fernando de Jesus"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Fernando de Jesus"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "dejesusoficial"
+            },
+            "twitter": {
+              "id": "gabrieljesus33"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1997-04-03",
+          "image": {
+            "url": "https://images.qloo.com/i/2B6B60FF-A3E8-4A39-A754-C684F5833C9E-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Brazil Olympic football team",
+            "Brazil national football team",
+            "Arsenal F.C.",
+            "Manchester City F.C.",
+            "Brazil national under-20 football team",
+            "Sociedade Esportiva Palmeiras"
+          ],
+          "work_period_start": "2015-03-07",
+          "short_description": "Brazilian association football player"
+        },
+        "popularity": 0.9941835813918092,
+        "disambiguation": "1997-04-03",
+        "tags": [
+          {
+            "name": "Brazilian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Brazil Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Se Palmeiras Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:se_palmeiras_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:se_palmeiras_players"
+          },
+          {
+            "name": "Footballers At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics"
+          },
+          {
+            "name": "2021 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2021_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2021_copa_america_players"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "2022 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2022_fifa_world_cup_players"
+          },
+          {
+            "name": "2019 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2019_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2019_copa_america_players"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Arsenal F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:arsenal_f_c_players"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Manchester City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_city_f_c_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Brazilian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers"
+          },
+          {
+            "name": "Copa América-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_america_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_america_winning_players"
+          },
+          {
+            "name": "Footballers From São Paulo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_paulo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_paulo"
+          },
+          {
+            "name": "Brazil Mens Under-20 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers"
+          },
+          {
+            "name": "Campeonato Brasileiro Série A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Brazil Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers"
+          },
+          {
+            "name": "Olympic Footballers For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil"
+          },
+          {
+            "name": "Olympic Medalists In Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football"
+          },
+          {
+            "name": "Brazilian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Olympic Gold Medalists For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_brazil"
+          },
+          {
+            "name": "Medalists At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics"
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Barbosa",
+        "entity_id": "20D7529A-983C-4D74-A161-A62D98BA081C",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "z",
+              "value": "加比爾·巴保沙"
+            },
+            {
+              "language": "h",
+              "value": "加比爾·巴保沙"
+            },
+            {
+              "language": "m",
+              "value": "Габриел Барбоса Алмеида"
+            },
+            {
+              "language": "k",
+              "value": "Габриел Барбоса Алмеида"
+            },
+            {
+              "language": "k",
+              "value": "가브리엘 바르보사"
+            },
+            {
+              "language": "o",
+              "value": "가브리엘 바르보사"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "h",
+              "value": "גבריאל ברבוסה"
+            },
+            {
+              "language": "e",
+              "value": "גבריאל ברבוסה"
+            },
+            {
+              "language": "z",
+              "value": "加百列·巴博薩"
+            },
+            {
+              "language": "h",
+              "value": "加百列·巴博薩"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel"
+            },
+            {
+              "language": "n",
+              "value": "Gabigol"
+            },
+            {
+              "language": "n",
+              "value": "Gabigol"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "n",
+              "value": "Gabigol"
+            },
+            {
+              "language": "b",
+              "value": "Gabigol"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "k",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "r",
+              "value": "Барбоза, Габриэл"
+            },
+            {
+              "language": "u",
+              "value": "Барбоза, Габриэл"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "z",
+              "value": "加百列·巴保沙"
+            },
+            {
+              "language": "h",
+              "value": "加百列·巴保沙"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "n",
+              "value": "ग्याब्रियर बारबोसा"
+            },
+            {
+              "language": "e",
+              "value": "ग्याब्रियर बारबोसा"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "b",
+              "value": "গাব্রিয়েল বারবোসা"
+            },
+            {
+              "language": "n",
+              "value": "গাব্রিয়েল বারবোসা"
+            },
+            {
+              "language": "e",
+              "value": "Gabigol"
+            },
+            {
+              "language": "n",
+              "value": "Gabigol"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "i",
+              "value": "Gabigol"
+            },
+            {
+              "language": "t",
+              "value": "Gabigol"
+            },
+            {
+              "language": "t",
+              "value": "Габриэл Барбоза"
+            },
+            {
+              "language": "g",
+              "value": "Габриэл Барбоза"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃尔·巴尔博萨·阿尔梅达"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃尔·巴尔博萨·阿尔梅达"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "h",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "u",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "h",
+              "value": "Գաբրիել Բարբոզա"
+            },
+            {
+              "language": "y",
+              "value": "Գաբրիել Բարբոզա"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "a",
+              "value": "غابرييل باربوسا"
+            },
+            {
+              "language": "r",
+              "value": "غابرييل باربوسا"
+            },
+            {
+              "language": "j",
+              "value": "ガブリエウ・バルボーザ・アウメイダ"
+            },
+            {
+              "language": "a",
+              "value": "ガブリエウ・バルボーザ・アウメイダ"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "t",
+              "value": "กาบรีแยล บาร์บอซา"
+            },
+            {
+              "language": "h",
+              "value": "กาบรีแยล บาร์บอซา"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "k",
+              "value": "Габриэль Барбоза"
+            },
+            {
+              "language": "k",
+              "value": "Габриэль Барбоза"
+            },
+            {
+              "language": "z",
+              "value": "加布里埃爾·巴博薩"
+            },
+            {
+              "language": "h",
+              "value": "加布里埃爾·巴博薩"
+            },
+            {
+              "language": "u",
+              "value": "Габріел Барбоза"
+            },
+            {
+              "language": "k",
+              "value": "Габріел Барбоза"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "b",
+              "value": "Габриел Барбоза"
+            },
+            {
+              "language": "g",
+              "value": "Габриел Барбоза"
+            },
+            {
+              "language": "z",
+              "value": "加比爾"
+            },
+            {
+              "language": "h",
+              "value": "加比爾"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "r",
+              "value": "Габриэл Барбоза"
+            },
+            {
+              "language": "u",
+              "value": "Габриэл Барбоза"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "i",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Barbosa Almeida"
+            },
+            {
+              "language": "f",
+              "value": "گابریل باربوسا"
+            },
+            {
+              "language": "a",
+              "value": "گابریل باربوسا"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Barbosa"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Barbosa"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "gabigol"
+            },
+            "twitter": {
+              "id": "gabigol"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1996-08-29",
+          "image": {
+            "url": "https://images.qloo.com/i/20D7529A-983C-4D74-A161-A62D98BA081C-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "member_of_sports_team": [
+            "Brazil Olympic football team",
+            "Santos F.C.",
+            "Brazil national football team",
+            "Brazil national under-15 football team",
+            "Brazil national under-20 football team",
+            "Clube de Regatas do Flamengo",
+            "Brazil national under-17 football team"
+          ],
+          "work_period_start": "2013-05-26",
+          "short_description": "Brazilian association football player"
+        },
+        "popularity": 0.992531066198454,
+        "disambiguation": "1996-08-29",
+        "tags": [
+          {
+            "name": "Expatriate Mens Footballers In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy"
+          },
+          {
+            "name": "Inter Milan Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:inter_milan_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:inter_milan_players"
+          },
+          {
+            "name": "Olympic Gold Medalists For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_gold_medalists_brazil"
+          },
+          {
+            "name": "2021 Copa América Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2021_copa_america_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2021_copa_america_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Cr Flamengo Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:cr_flamengo_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:cr_flamengo_footballers"
+          },
+          {
+            "name": "Brazil Mens Under-20 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_under_20_international_footballers"
+          },
+          {
+            "name": "Santos Fc Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:santos_fc_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:santos_fc_players"
+          },
+          {
+            "name": "Copa Libertadores Top Scorers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_libertadores_top_scorers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_libertadores_top_scorers"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          },
+          {
+            "name": "Campeonato Brasileiro Série A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:campeonato_brasileiro_serie_a_players"
+          },
+          {
+            "name": "Brazil Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_international_footballers"
+          },
+          {
+            "name": "Olympic Medalists In Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_medalists_in_football"
+          },
+          {
+            "name": "Copa Libertadores-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_libertadores_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_libertadores_winning_players"
+          },
+          {
+            "name": "South American Footballer Of The Year Winners",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:south_american_footballer_year_winners",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:south_american_footballer_year_winners"
+          },
+          {
+            "name": "Serie A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serie_a_players"
+          },
+          {
+            "name": "Mens Association Football Forwards",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_forwards"
+          },
+          {
+            "name": "Medalists At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:medalists_at_2016_summer_olympics"
+          },
+          {
+            "name": "Brazilian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_mens_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Olympic Footballers For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_footballers_brazil"
+          },
+          {
+            "name": "Footballers At The 2016 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_at_2016_summer_olympics"
+          },
+          {
+            "name": "Brazil Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazil_mens_youth_international_footballers"
+          },
+          {
+            "name": "S.l. Benfica Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers"
+          },
+          {
+            "name": "Brazilian Expatriate Sportspeople In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_portugal"
+          },
+          {
+            "name": "Doping Cases In Association Football",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:doping_cases_in_association_football",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:doping_cases_in_association_football"
+          },
+          {
+            "name": "Brazilian Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "Copa América Centenario Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:copa_america_centenario_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:copa_america_centenario_players"
+          },
+          {
+            "name": "Brazilian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_expatriate_mens_footballers"
+          },
+          {
+            "name": "Footballers From São Bernardo Do Campo",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_bernardo_do_campo",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_sao_bernardo_do_campo"
+          }
+        ]
+      },
+      {
+        "name": "Gabriel Medina",
+        "entity_id": "10A36809-CE5F-4B26-AA93-6F4353B85112",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "i",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "f",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "r",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "j",
+              "value": "ガブリエル・メジーナ"
+            },
+            {
+              "language": "a",
+              "value": "ガブリエル・メジーナ"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "v",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "c",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "d",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "a",
+              "value": "جبريل ميدينا"
+            },
+            {
+              "language": "r",
+              "value": "جبريل ميدينا"
+            },
+            {
+              "language": "p",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "t",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "b",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "n",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "e",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "s",
+              "value": "Gabriel Medina Pinto Ferreira"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "a",
+              "value": "Gabriel Medina"
+            },
+            {
+              "language": "g",
+              "value": "Gabriel Medina (surfista)"
+            },
+            {
+              "language": "l",
+              "value": "Gabriel Medina (surfista)"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "gabrielmedina"
+            },
+            "twitter": {
+              "id": "gabriel1medina"
+            },
+            "library_of_congress": {
+              "id": "n2019251066"
+            }
+          },
+          "citizenship": [
+            "Brazil"
+          ],
+          "date_of_birth": "1993-12-22",
+          "image": {
+            "url": "https://images.qloo.com/i/10A36809-CE5F-4B26-AA93-6F4353B85112-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "surfing"
+          ],
+          "short_description": "Brazilian surfer"
+        },
+        "popularity": 0.9889379328339548,
+        "disambiguation": "1993-12-22",
+        "tags": [
+          {
+            "name": "Brazilian Surfers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:brazilian_surfers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:brazilian_surfers"
+          },
+          {
+            "name": "Sportspeople From São Paulo (state)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sao_paulo_state",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_sao_paulo_state"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Surfers At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:surfers_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:surfers_at_2024_summer_olympics"
+          },
+          {
+            "name": "World Surf League Surfers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:world_surf_league_surfers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:world_surf_league_surfers"
+          },
+          {
+            "name": "Surfer",
+            "tag_id": "urn:tag:occupation:person:surfer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:surfer"
+          },
+          {
+            "name": "Olympic Surfers For Brazil",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_surfers_brazil",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_surfers_brazil"
+          },
+          {
+            "name": "Surfers At The 2020 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:surfers_at_2020_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:surfers_at_2020_summer_olympics"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          }
+        ]
+      }
+    ]
+  }
+}

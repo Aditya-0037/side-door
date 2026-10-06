@@ -1,0 +1,8 @@
+httpx
+pydantic>=2
+python-dotenv
+# dev / tests
+pytest
+respx
+# only for the Day-1 script scripts/kill_tests.py
+requests

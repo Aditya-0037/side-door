@@ -1,0 +1,2600 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Victor Wembanyama",
+    "take": 5,
+    "types": "urn:entity:person"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Victor Wembanyama",
+        "entity_id": "FC741C5B-DF97-49C9-AD67-EE5A39AD93E6",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "b",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Wemby"
+            },
+            {
+              "language": "w",
+              "value": "Wemby"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "w",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "m",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "y",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Wemby"
+            },
+            {
+              "language": "n",
+              "value": "Wemby"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Вембаньяма"
+            },
+            {
+              "language": "u",
+              "value": "Виктор Вембаньяма"
+            },
+            {
+              "language": "k",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "g",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "u",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "n",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "n",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "g",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "d",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "n",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "วิคเตอร์ เวมบันยามา"
+            },
+            {
+              "language": "h",
+              "value": "วิคเตอร์ เวมบันยามา"
+            },
+            {
+              "language": "j",
+              "value": "ビクター・ウェンバンヤマ"
+            },
+            {
+              "language": "a",
+              "value": "ビクター・ウェンバンヤマ"
+            },
+            {
+              "language": "b",
+              "value": "Виктор Уембаняма"
+            },
+            {
+              "language": "g",
+              "value": "Виктор Уембаняма"
+            },
+            {
+              "language": "h",
+              "value": "ויקטור ומבניאמה"
+            },
+            {
+              "language": "e",
+              "value": "ויקטור ומבניאמה"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "d",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "p",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "n",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "b",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "p",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "v",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "g",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "k",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "h",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "u",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "v",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "d",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Wemby"
+            },
+            {
+              "language": "t",
+              "value": "Wemby"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "m",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "k",
+              "value": "빅토르 왕방야마"
+            },
+            {
+              "language": "o",
+              "value": "빅토르 왕방야마"
+            },
+            {
+              "language": "h",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "u",
+              "value": "Віктор Венбаньяма"
+            },
+            {
+              "language": "k",
+              "value": "Віктор Венбаньяма"
+            },
+            {
+              "language": "m",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "g",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "w",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Виктор Вембањама"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Вембањама"
+            },
+            {
+              "language": "v",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "z",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "u",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "q",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "f",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "b",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "f",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Βικτόρ Ουεμπανιαμά"
+            },
+            {
+              "language": "l",
+              "value": "Βικτόρ Ουεμπανιαμά"
+            },
+            {
+              "language": "w",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "z",
+              "value": "維克多·文班亞馬"
+            },
+            {
+              "language": "h",
+              "value": "維克多·文班亞馬"
+            },
+            {
+              "language": "o",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "c",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "n",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "e",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "فيكتور ويمبانياما"
+            },
+            {
+              "language": "r",
+              "value": "فيكتور ويمبانياما"
+            },
+            {
+              "language": "h",
+              "value": "Վիկտոր Վեմբանյամա"
+            },
+            {
+              "language": "y",
+              "value": "Վիկտոր Վեմբանյամա"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "s",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "a",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "f",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "t",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "r",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "i",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "d",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "g",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "l",
+              "value": "Victor Wembanyama"
+            },
+            {
+              "language": "z",
+              "value": "维克托·韦姆邦亚马"
+            },
+            {
+              "language": "h",
+              "value": "维克托·韦姆邦亚马"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "wemby"
+            },
+            "twitter": {
+              "id": "vicw_32"
+            },
+            "imdb": {
+              "id": "nm14965903"
+            }
+          },
+          "citizenship": [
+            "France"
+          ],
+          "date_of_birth": "2004-01-04",
+          "image": {
+            "url": "https://images.qloo.com/i/FC741C5B-DF97-49C9-AD67-EE5A39AD93E6-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "basketball"
+          ],
+          "member_of_sports_team": [
+            "ASVEL Lyon-Villeurbanne",
+            "San Antonio Spurs",
+            "Centre Fédéral de Basket-ball",
+            "Nanterre 92",
+            "Metropolitans 92"
+          ],
+          "work_period_start": "2019-01-01",
+          "short_description": "French basketball player"
+        },
+        "popularity": 0.6650884421782759,
+        "disambiguation": "2004-01-04",
+        "tags": [
+          {
+            "name": "Olympic Basketball Players For France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:olympic_basketball_players_france"
+          },
+          {
+            "name": "People From Le Chesnay",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_chesnay",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_chesnay"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Nba Players From France",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nba_players_from_france",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nba_players_from_france"
+          },
+          {
+            "name": "Black French Sportspeople",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:black_french_sportspeople",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:black_french_sportspeople"
+          },
+          {
+            "name": "French Sportspeople Of Democratic Republic Of The Congo Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_sportspeople_democratic_republic_congo_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_sportspeople_democratic_republic_congo_descent"
+          },
+          {
+            "name": "Basketball Player",
+            "tag_id": "urn:tag:occupation:person:basketball_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:basketball_player"
+          },
+          {
+            "name": "French Mens Basketball Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_mens_basketball_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_mens_basketball_players"
+          },
+          {
+            "name": "Metropolitans 92 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:metropolitans_92_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:metropolitans_92_players"
+          },
+          {
+            "name": "Engvarb From May 2023",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2023",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:engvarb_from_may_2023"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "San Antonio Spurs Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:san_antonio_spurs_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:san_antonio_spurs_players"
+          },
+          {
+            "name": "Basketball Players At The 2024 Summer Olympics",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:basketball_players_at_2024_summer_olympics"
+          },
+          {
+            "name": "Centers (basketball)",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:centers_basketball",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:centers_basketball"
+          },
+          {
+            "name": "French Expatriate Basketball People In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:french_expatriate_basketball_people_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:french_expatriate_basketball_people_in_united_states"
+          },
+          {
+            "name": "Nanterre 92 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nanterre_92_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nanterre_92_players"
+          },
+          {
+            "name": "First Overall Nba Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:first_overall_nba_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:first_overall_nba_draft_picks"
+          },
+          {
+            "name": "Sportspeople From Yvelines",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_yvelines",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_yvelines"
+          },
+          {
+            "name": "San Antonio Spurs Draft Picks",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:san_antonio_spurs_draft_picks",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:san_antonio_spurs_draft_picks"
+          },
+          {
+            "name": "Asvel Basket Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:asvel_basket_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:asvel_basket_players"
+          }
+        ]
+      },
+      {
+        "name": "Víctor Drija",
+        "entity_id": "890B382C-3BE3-4F4C-8022-75EF16B931AF",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "s",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "l",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "e",
+              "value": "Víctor Antonio Drija Vivas"
+            },
+            {
+              "language": "n",
+              "value": "Víctor Antonio Drija Vivas"
+            },
+            {
+              "language": "p",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "t",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "s",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "q",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "a",
+              "value": "فيكتور دريجا"
+            },
+            {
+              "language": "r",
+              "value": "فيكتور دريجا"
+            },
+            {
+              "language": "c",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "a",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "e",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "t",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "z",
+              "value": "维克多·德里亚"
+            },
+            {
+              "language": "h",
+              "value": "维克多·德里亚"
+            },
+            {
+              "language": "d",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "e",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "e",
+              "value": "Víctor Antonio Drija Vivas"
+            },
+            {
+              "language": "s",
+              "value": "Víctor Antonio Drija Vivas"
+            },
+            {
+              "language": "e",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "t",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "g",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "a",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "f",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "r",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "n",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "l",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "e",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "s",
+              "value": "Víctor Drija"
+            },
+            {
+              "language": "f",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "i",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "n",
+              "value": "Victor Drija"
+            },
+            {
+              "language": "l",
+              "value": "Victor Drija"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "victordrija"
+            },
+            "twitter": {
+              "id": "victordrija"
+            },
+            "imdb": {
+              "id": "nm1563345"
+            },
+            "musicbrainz": {
+              "id": "251b4bd6-be10-43c3-b907-275e554b226c"
+            }
+          },
+          "citizenship": [
+            "Venezuela"
+          ],
+          "date_of_birth": "1985-01-16",
+          "gender": [
+            "male"
+          ],
+          "instrument": [
+            "voice"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "singer"
+        },
+        "popularity": 0.9742392450614801,
+        "disambiguation": "1985-01-16",
+        "tags": [
+          {
+            "name": "Venezuelan Male Telenovela Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:venezuelan_male_telenovela_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:venezuelan_male_telenovela_actors"
+          },
+          {
+            "name": "Singers From Caracas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:singers_from_caracas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:singers_from_caracas"
+          },
+          {
+            "name": "Television Actor",
+            "tag_id": "urn:tag:occupation:person:television_actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:television_actor"
+          },
+          {
+            "name": "Venezuelan Male Dancers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:venezuelan_male_dancers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:venezuelan_male_dancers"
+          },
+          {
+            "name": "Presenter",
+            "tag_id": "urn:tag:occupation:person:presenter",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:presenter"
+          },
+          {
+            "name": "Male Actors From Caracas",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:male_actors_from_caracas",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:male_actors_from_caracas"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "21st-century Venezuelan Male Singers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_singers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_singers"
+          },
+          {
+            "name": "21st-century Venezuelan Male Actors",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_actors",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:21st_century_venezuelan_male_actors"
+          },
+          {
+            "name": "Choreographer",
+            "tag_id": "urn:tag:occupation:person:choreographer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:choreographer"
+          },
+          {
+            "name": "Dancer",
+            "tag_id": "urn:tag:occupation:person:dancer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:dancer"
+          },
+          {
+            "name": "Venezuelan Dancers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:venezuelan_dancers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:venezuelan_dancers"
+          },
+          {
+            "name": "Composer",
+            "tag_id": "urn:tag:occupation:person:composer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:composer"
+          },
+          {
+            "name": "Singer",
+            "tag_id": "urn:tag:occupation:person:singer",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:singer"
+          },
+          {
+            "name": "Musician",
+            "tag_id": "urn:tag:genre:person:musician",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:musician"
+          },
+          {
+            "name": "Actor",
+            "tag_id": "urn:tag:occupation:person:actor",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:actor"
+          }
+        ]
+      },
+      {
+        "name": "Victor Melo",
+        "entity_id": "5241B114-A5CB-460A-B5EA-BC0FAB12DD69",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "external": {}
+        },
+        "popularity": 0.9682380056750851,
+        "disambiguation": ""
+      },
+      {
+        "name": "Victor Lindelöf",
+        "entity_id": "4CF1733A-6807-4B88-B920-9BA35CDD9F4F",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "n",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "b",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "h",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "u",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "f",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "z",
+              "value": "林德洛夫"
+            },
+            {
+              "language": "h",
+              "value": "林德洛夫"
+            },
+            {
+              "language": "k",
+              "value": "ვიქტორ ლინდელეფი"
+            },
+            {
+              "language": "a",
+              "value": "ვიქტორ ლინდელეფი"
+            },
+            {
+              "language": "h",
+              "value": "ויקטור לינדלף"
+            },
+            {
+              "language": "e",
+              "value": "ויקטור לינדלף"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "t",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "v",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "b",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "b",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "m",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "f",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "h",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "b",
+              "value": "Виктор Линдельоф"
+            },
+            {
+              "language": "g",
+              "value": "Виктор Линдельоф"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "d",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "z",
+              "value": "維克托·林德洛夫"
+            },
+            {
+              "language": "h",
+              "value": "維克托·林德洛夫"
+            },
+            {
+              "language": "b",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "d",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "k",
+              "value": "빅토르 린델뢰프"
+            },
+            {
+              "language": "o",
+              "value": "빅토르 린델뢰프"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "k",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "q",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "v",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "t",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "v",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "فيكتور ليندلوف"
+            },
+            {
+              "language": "r",
+              "value": "فيكتور ليندلوف"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "y",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "m",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "u",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "z",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "k",
+              "value": "Виктор Линделёф"
+            },
+            {
+              "language": "k",
+              "value": "Виктор Линделёф"
+            },
+            {
+              "language": "p",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "t",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Viktor Lindelöf"
+            },
+            {
+              "language": "z",
+              "value": "Viktor Lindelöf"
+            },
+            {
+              "language": "w",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "u",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "فيكتور لينديلوف"
+            },
+            {
+              "language": "r",
+              "value": "فيكتور لينديلوف"
+            },
+            {
+              "language": "d",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "j",
+              "value": "ヴィクトル・リンデロフ"
+            },
+            {
+              "language": "a",
+              "value": "ヴィクトル・リンデロフ"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "w",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "z",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "u",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "w",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Виктор Линделеф"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Линделеф"
+            },
+            {
+              "language": "u",
+              "value": "Віктор Ліндельоф"
+            },
+            {
+              "language": "k",
+              "value": "Віктор Ліндельоф"
+            },
+            {
+              "language": "t",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "f",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "d",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "g",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "a",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Линделёф"
+            },
+            {
+              "language": "u",
+              "value": "Виктор Линделёф"
+            },
+            {
+              "language": "t",
+              "value": "วิกตอร์ ลินเดอเลิฟ"
+            },
+            {
+              "language": "h",
+              "value": "วิกตอร์ ลินเดอเลิฟ"
+            },
+            {
+              "language": "k",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "g",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Βίκτορ Λίντελεφ"
+            },
+            {
+              "language": "l",
+              "value": "Βίκτορ Λίντελεφ"
+            },
+            {
+              "language": "n",
+              "value": "Victor Nilsson Lindelof"
+            },
+            {
+              "language": "l",
+              "value": "Victor Nilsson Lindelof"
+            },
+            {
+              "language": "f",
+              "value": "ویکتور لیندلوف"
+            },
+            {
+              "language": "a",
+              "value": "ویکتور لیندلوف"
+            },
+            {
+              "language": "i",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "t",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "v",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "p",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Lindelof"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelof"
+            },
+            {
+              "language": "m",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "g",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "m",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "e",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "g",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Viktors Lindelēfs"
+            },
+            {
+              "language": "v",
+              "value": "Viktors Lindelēfs"
+            },
+            {
+              "language": "s",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "v",
+              "value": "Victor Jörgen Nilsson Lindelöf"
+            },
+            {
+              "language": "n",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "l",
+              "value": "Victor Nilsson Lindelöf"
+            },
+            {
+              "language": "c",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "s",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "b",
+              "value": "ভিক্তর লিন্দেলোফ"
+            },
+            {
+              "language": "n",
+              "value": "ভিক্তর লিন্দেলোফ"
+            },
+            {
+              "language": "h",
+              "value": "Վիկտոր Լինդելոֆ"
+            },
+            {
+              "language": "y",
+              "value": "Վիկտոր Լինդելոֆ"
+            },
+            {
+              "language": "e",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "o",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "g",
+              "value": "Victor Lindelöf"
+            },
+            {
+              "language": "d",
+              "value": "Victor Lindelöf"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "victorlindelof"
+            },
+            "twitter": {
+              "id": "vlindelof"
+            }
+          },
+          "citizenship": [
+            "Sweden"
+          ],
+          "date_of_birth": "1994-07-17",
+          "image": {
+            "url": "https://images.qloo.com/i/4CF1733A-6807-4B88-B920-9BA35CDD9F4F-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "spouse": [
+            "Maja Nilsson Lindelöf"
+          ],
+          "member_of_sports_team": [
+            "Sweden national under-19 football team",
+            "S.L. Benfica",
+            "Sweden national association football team",
+            "Sweden national under-21 football team",
+            "Västerås SK Fotboll",
+            "S.L. Benfica B",
+            "Västerås IK",
+            "Sweden national under-17 football team",
+            "Manchester United F.C."
+          ],
+          "work_period_start": "2009-01-01",
+          "short_description": "Swedish association football player"
+        },
+        "popularity": 0.962182407236277,
+        "disambiguation": "1994-07-17",
+        "tags": [
+          {
+            "name": "Västerås Sk Fotboll Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:vasteras_sk_fotboll_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:vasteras_sk_fotboll_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_portugal"
+          },
+          {
+            "name": "Manchester United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:manchester_united_f_c_players"
+          },
+          {
+            "name": "Sweden Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sweden_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sweden_mens_youth_international_footballers"
+          },
+          {
+            "name": "Uefa Euro 2016 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2016_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2016_players"
+          },
+          {
+            "name": "Swedish Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swedish_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swedish_mens_footballers"
+          },
+          {
+            "name": "Sweden Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sweden_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sweden_mens_international_footballers"
+          },
+          {
+            "name": "Swedish Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_mens_footballers"
+          },
+          {
+            "name": "Uefa Euro 2020 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_euro_2020_players"
+          },
+          {
+            "name": "Swedish Expatriate Sportspeople In Portugal",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_sportspeople_in_portugal",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_sportspeople_in_portugal"
+          },
+          {
+            "name": "Sweden Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sweden_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sweden_mens_under_21_international_footballers"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "S.l. Benfica B Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:s_l_benfica_b_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:s_l_benfica_b_players"
+          },
+          {
+            "name": "Ettan Fotboll Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ettan_fotboll_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ettan_fotboll_players"
+          },
+          {
+            "name": "Mens Association Football Central Defenders",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_central_defenders"
+          },
+          {
+            "name": "Superettan Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:superettan_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:superettan_players"
+          },
+          {
+            "name": "Liga Portugal 2 Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liga_portugal_2_players"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Sportspeople From Västerås",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_from_vasteras",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_from_vasteras"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "S.l. Benfica Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:s_l_benfica_footballers"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "Swedish Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:swedish_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Primeira Liga Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:primeira_liga_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:primeira_liga_players"
+          }
+        ]
+      },
+      {
+        "name": "Victor Moses",
+        "entity_id": "5F5DB979-3A15-4855-AC10-405E94B3541A",
+        "types": [
+          "urn:entity:person"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "u",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "z",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "m",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "n",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "l",
+              "value": "Viktors Mozess"
+            },
+            {
+              "language": "v",
+              "value": "Viktors Mozess"
+            },
+            {
+              "language": "j",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "v",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "วิกเตอร์ โมเซส"
+            },
+            {
+              "language": "h",
+              "value": "วิกเตอร์ โมเซส"
+            },
+            {
+              "language": "p",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "l",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "v",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "h",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "u",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "f",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "r",
+              "value": "Мозес, Виктор"
+            },
+            {
+              "language": "u",
+              "value": "Мозес, Виктор"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "l",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "v",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "k",
+              "value": "빅터 모제스"
+            },
+            {
+              "language": "o",
+              "value": "빅터 모제스"
+            },
+            {
+              "language": "a",
+              "value": "فيكتور موزيس"
+            },
+            {
+              "language": "r",
+              "value": "فيكتور موزيس"
+            },
+            {
+              "language": "f",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "r",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "d",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "a",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "f",
+              "value": "ویکتور موسز"
+            },
+            {
+              "language": "a",
+              "value": "ویکتور موسز"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "b",
+              "value": "Виктор Моузес"
+            },
+            {
+              "language": "g",
+              "value": "Виктор Моузес"
+            },
+            {
+              "language": "c",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "l",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "a",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "f",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "p",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "k",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "k",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "m",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "n",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "l",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "r",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "e",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "f",
+              "value": "ویکتور موسس"
+            },
+            {
+              "language": "a",
+              "value": "ویکتور موسس"
+            },
+            {
+              "language": "h",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "a",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "e",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "d",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "j",
+              "value": "ビクター・モーゼス"
+            },
+            {
+              "language": "a",
+              "value": "ビクター・モーゼス"
+            },
+            {
+              "language": "r",
+              "value": "Моузес, Виктор"
+            },
+            {
+              "language": "u",
+              "value": "Моузес, Виктор"
+            },
+            {
+              "language": "d",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "e",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "z",
+              "value": "维克托·莫塞斯"
+            },
+            {
+              "language": "h",
+              "value": "维克托·莫塞斯"
+            },
+            {
+              "language": "h",
+              "value": "ויקטור מוזס"
+            },
+            {
+              "language": "e",
+              "value": "ויקטור מוזס"
+            },
+            {
+              "language": "n",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "b",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "u",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "w",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "e",
+              "value": "Βίκτορ Μόουζες"
+            },
+            {
+              "language": "l",
+              "value": "Βίκτορ Μόουζες"
+            },
+            {
+              "language": "z",
+              "value": "域陀·摩西斯"
+            },
+            {
+              "language": "h",
+              "value": "域陀·摩西斯"
+            },
+            {
+              "language": "c",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "a",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "m",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "g",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "y",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "o",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "u",
+              "value": "Віктор Мозес"
+            },
+            {
+              "language": "k",
+              "value": "Віктор Мозес"
+            },
+            {
+              "language": "b",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "i",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "g",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "h",
+              "value": "Վիկտոր Մոզես"
+            },
+            {
+              "language": "y",
+              "value": "Վիկտոր Մոզես"
+            },
+            {
+              "language": "g",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "a",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "t",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "h",
+              "value": "Victor Moses"
+            },
+            {
+              "language": "s",
+              "value": "Виктор Мозес"
+            },
+            {
+              "language": "r",
+              "value": "Виктор Мозес"
+            }
+          ],
+          "external": {
+            "instagram": {
+              "id": "victormoses"
+            },
+            "twitter": {
+              "id": "victormoses"
+            }
+          },
+          "citizenship": [
+            "Nigeria",
+            "England"
+          ],
+          "date_of_birth": "1990-12-12",
+          "image": {
+            "url": "https://images.qloo.com/i/5F5DB979-3A15-4855-AC10-405E94B3541A-420x-auto.jpg"
+          },
+          "gender": [
+            "male"
+          ],
+          "sport": [
+            "association football"
+          ],
+          "spouse": [
+            "Josephine"
+          ],
+          "member_of_sports_team": [
+            "Chelsea F.C.",
+            "Fenerbahçe Istanbul",
+            "Wigan Athletic F.C.",
+            "England national under-16 association football team",
+            "West Ham United F.C.",
+            "Spartak Moscow",
+            "England national under-19 association football team",
+            "England national under-17 association football team",
+            "Liverpool F.C.",
+            "England national under-21 association football team",
+            "Stoke City F.C.",
+            "Inter Milan",
+            "Nigeria national football team"
+          ],
+          "work_period_start": "2007-01-01",
+          "short_description": "Nigerian association football player (born 1990)"
+        },
+        "popularity": 0.9575455800654483,
+        "disambiguation": "1990-12-12",
+        "tags": [
+          {
+            "name": "Nigerian Expatriate Sportspeople In Turkey",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_turkey",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_turkey"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Turkey",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_turkey",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_turkey"
+          },
+          {
+            "name": "Nigerian Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_mens_footballers"
+          },
+          {
+            "name": "Nigerian Emigrants To The United Kingdom",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_emigrants_to_united_kingdom",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_emigrants_to_united_kingdom"
+          },
+          {
+            "name": "Athlete",
+            "tag_id": "urn:tag:genre:person:athlete",
+            "type": "urn:tag:genre:person",
+            "value": "urn:tag:genre:person:athlete"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_italy"
+          },
+          {
+            "name": "Uefa Europa League Winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:uefa_europa_league_winning_players"
+          },
+          {
+            "name": "West Ham United F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:west_ham_united_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:west_ham_united_f_c_players"
+          },
+          {
+            "name": "Stoke City F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:stoke_city_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:stoke_city_f_c_players"
+          },
+          {
+            "name": "Inter Milan Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:inter_milan_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:inter_milan_players"
+          },
+          {
+            "name": "Wigan Athletic F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:wigan_athletic_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:wigan_athletic_f_c_players"
+          },
+          {
+            "name": "Naturalised Citizens Of The United Kingdom",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_united_kingdom",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:naturalised_citizens_united_kingdom"
+          },
+          {
+            "name": "English Football League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_football_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_football_league_players"
+          },
+          {
+            "name": "2013 Africa Cup Of Nations Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2013_africa_cup_nations_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2013_africa_cup_nations_players"
+          },
+          {
+            "name": "Süper Lig Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:super_lig_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:super_lig_players"
+          },
+          {
+            "name": "Person",
+            "tag_id": "urn:tag:category:wikidata:person",
+            "type": "urn:tag:category:wikidata",
+            "value": "urn:tag:category:wikidata:person"
+          },
+          {
+            "name": "People From Southern Kaduna",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_from_southern_kaduna",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_from_southern_kaduna"
+          },
+          {
+            "name": "Nigerian Expatriate Sportspeople In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_england"
+          },
+          {
+            "name": "Fenerbahçe S.k. Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fenerbahce_s_k_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fenerbahce_s_k_footballers"
+          },
+          {
+            "name": "Nigeria Mens International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigeria_mens_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigeria_mens_international_footballers"
+          },
+          {
+            "name": "English People Of Nigerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_people_nigerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_people_nigerian_descent"
+          },
+          {
+            "name": "England Mens Youth International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_youth_international_footballers"
+          },
+          {
+            "name": "2014 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2014_fifa_world_cup_players"
+          },
+          {
+            "name": "Mens Association Football Wingers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:mens_association_football_wingers"
+          },
+          {
+            "name": "England Mens Under-21 International Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:england_mens_under_21_international_footballers"
+          },
+          {
+            "name": "Russian Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:russian_premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:russian_premier_league_players"
+          },
+          {
+            "name": "Nigerian Expatriate Sportspeople In Italy",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_italy",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_italy"
+          },
+          {
+            "name": "Footballers From Lagos",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:footballers_from_lagos",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:footballers_from_lagos"
+          },
+          {
+            "name": "Chelsea F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:chelsea_f_c_players"
+          },
+          {
+            "name": "Liverpool F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:liverpool_f_c_players"
+          },
+          {
+            "name": "2018 Fifa World Cup Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:2018_fifa_world_cup_players"
+          },
+          {
+            "name": "Sportspeople Of Nigerian Descent",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:sportspeople_nigerian_descent",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:sportspeople_nigerian_descent"
+          },
+          {
+            "name": "Nigerian Expatriate Sportspeople In Russia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_russia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_sportspeople_in_russia"
+          },
+          {
+            "name": "Expatriate Mens Footballers In England",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_england"
+          },
+          {
+            "name": "Association Football Player",
+            "tag_id": "urn:tag:occupation:person:association_football_player",
+            "type": "urn:tag:occupation:person",
+            "value": "urn:tag:occupation:person:association_football_player"
+          },
+          {
+            "name": "People Educated At Whitgift School",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:people_educated_at_whitgift_school",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:people_educated_at_whitgift_school"
+          },
+          {
+            "name": "Expatriate Mens Footballers In Russia",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_russia",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:expatriate_mens_footballers_in_russia"
+          },
+          {
+            "name": "Serie A Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:serie_a_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:serie_a_players"
+          },
+          {
+            "name": "Fc Spartak Moscow Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:fc_spartak_moscow_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:fc_spartak_moscow_players"
+          },
+          {
+            "name": "Crystal Palace F.c. Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:crystal_palace_f_c_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:crystal_palace_f_c_players"
+          },
+          {
+            "name": "Nigerian Expatriate Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:nigerian_expatriate_mens_footballers"
+          },
+          {
+            "name": "English Mens Footballers",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:english_mens_footballers",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:english_mens_footballers"
+          },
+          {
+            "name": "Premier League Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:premier_league_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:premier_league_players"
+          },
+          {
+            "name": "Members Of The Order Of The Niger",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:members_order_niger",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:members_order_niger"
+          },
+          {
+            "name": "Africa Cup Of Nations-winning Players",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:africa_cup_nations_winning_players",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:africa_cup_nations_winning_players"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2364 @@
+{
+  "status": 200,
+  "params": {
+    "query": "Call of Duty",
+    "take": 5,
+    "types": "urn:entity:videogame"
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Call of Duty",
+        "entity_id": "A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "it",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "de",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "es",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "nl",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "es_ar",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "fr",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "en_au",
+              "value": "CoD"
+            },
+            {
+              "language": "ar",
+              "value": "نداء الواجب"
+            },
+            {
+              "language": "cs",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "et",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "fi",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "he",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "ja",
+              "value": "コール オブ デューティー"
+            },
+            {
+              "language": "ko",
+              "value": "콜 오브 듀티"
+            },
+            {
+              "language": "pl",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "pt",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "ro",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "ru",
+              "value": "Зов долга"
+            },
+            {
+              "language": "sv",
+              "value": "Call of Duty"
+            },
+            {
+              "language": "th",
+              "value": "คอลล์ออฟดิวตี"
+            },
+            {
+              "language": "tr",
+              "value": "Call of Duty 1"
+            },
+            {
+              "language": "zh",
+              "value": "使命召唤"
+            }
+          ],
+          "content_rating": "T",
+          "description": "Call of Duty delivers gritty, cinematic World War II combat through the eyes of ordinary soldiers from American, British and Soviet forces. Players move and fight as part of well-trained squads across 24 missions spanning four interlinked campaigns, using authentic weapons, vehicles and tactics in infantry assaults, stealth, sabotage and vehicle sequences.",
+          "developer": "Infinity Ward",
+          "external": {
+            "igdb": {
+              "id": "call-of-duty"
+            },
+            "metacritic": {
+              "critic_rating": 91,
+              "id": "1400027614"
+            },
+            "steam": {
+              "id": "2620"
+            },
+            "wikidata": {
+              "id": "q211096"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/A2BFD7FA-EFB3-4E78-B5FD-744DD6A7A002-420x-auto.jpg"
+          },
+          "platforms": [
+            "Microsoft Windows",
+            "Mac OS X",
+            "PlayStation 3",
+            "Xbox 360",
+            "Steam"
+          ],
+          "publisher": "Activision",
+          "release_date": "2003-10-29",
+          "release_year": 2003,
+          "short_description": "Experience World War II through interconnected American, British and Soviet campaigns as ordinary soldiers fight in cinematic, squad-based battles across 24 missions.",
+          "short_descriptions": [
+            {
+              "language": "cs",
+              "value": "herní série"
+            },
+            {
+              "language": "th",
+              "value": "แฟรนไซส์วีดีโอเกม"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι"
+            },
+            {
+              "language": "en",
+              "value": "video game franchise"
+            },
+            {
+              "language": "hi",
+              "value": "फर्स्ट पर्सन शूटर कंप्यूटर/वीडियो गेम फ्रैंचाइज़ी"
+            },
+            {
+              "language": "pt",
+              "value": "série de jogos eletrônicos"
+            },
+            {
+              "language": "sv",
+              "value": "serie förstapersonsskjutspel"
+            },
+            {
+              "language": "vi",
+              "value": "dòng trò chơi điện tử"
+            },
+            {
+              "language": "gl",
+              "value": "serie de videoxogos de disparar"
+            },
+            {
+              "language": "tr",
+              "value": "video oyunu serisi"
+            },
+            {
+              "language": "pl",
+              "value": "seria gier komputerowych"
+            },
+            {
+              "language": "da",
+              "value": "videospilserie af first-person shooters"
+            },
+            {
+              "language": "te",
+              "value": "ఫస్ట్ పర్సన్ షూటర్ కంప్యూటర్/వీడియో గేమ్ ఫ్రాంచైజ్"
+            },
+            {
+              "language": "id",
+              "value": "Warabala permainan video penembak orang pertama"
+            },
+            {
+              "language": "ca",
+              "value": "joc de guerres"
+            },
+            {
+              "language": "zh",
+              "value": "第一人稱射擊電子遊戲系列"
+            },
+            {
+              "language": "ja",
+              "value": "FPSゲームシリーズ"
+            },
+            {
+              "language": "he",
+              "value": "סדרת משחקי וידאו"
+            },
+            {
+              "language": "sl",
+              "value": "serija videoiger"
+            },
+            {
+              "language": "fr",
+              "value": "série de jeux vidéo"
+            },
+            {
+              "language": "ru",
+              "value": "серия компьютерных игр"
+            },
+            {
+              "language": "it",
+              "value": "serie di videogiochi statunitense"
+            },
+            {
+              "language": "ar",
+              "value": "سلسلة ألعاب فيديو من منظور الشخص الأول"
+            },
+            {
+              "language": "ro",
+              "value": "joc Actiune/Impuscaturi"
+            },
+            {
+              "language": "nl",
+              "value": "computerspelserie"
+            },
+            {
+              "language": "fa",
+              "value": "محصولی از شرکت اکتیویژن"
+            },
+            {
+              "language": "es",
+              "value": "franquicia de videojuegos"
+            },
+            {
+              "language": "de",
+              "value": "Computerspielreihe"
+            },
+            {
+              "language": "hu",
+              "value": "belsőnézetes lövöldözős videójáték franchise"
+            },
+            {
+              "language": "nb",
+              "value": "videospillserie av førstepersonsskytespill"
+            },
+            {
+              "language": "fi",
+              "value": "videopelisarja"
+            },
+            {
+              "language": "sr",
+              "value": "серијал видео-игара у жанру пуцачине из првог лица"
+            },
+            {
+              "language": "th",
+              "value": "วีดีโอเกม วางจำหน่าย ค.ศ. 2003"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2003 года"
+            },
+            {
+              "language": "fi",
+              "value": "2003 videopeli"
+            },
+            {
+              "language": "ja",
+              "value": "『CoDシリーズ』の第1作目"
+            },
+            {
+              "language": "bs",
+              "value": "videoigra"
+            },
+            {
+              "language": "lv",
+              "value": "videospēle"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche a foilsíodh sa bhliain 2003"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2003"
+            },
+            {
+              "language": "ka",
+              "value": "2003 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2003"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2003"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2003 година"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2003"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2003"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2003"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu vidiyo 2003"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2003 desenvolvido pela Infinity Ward"
+            },
+            {
+              "language": "ko",
+              "value": "액티비전이 발매한 2003년 게임"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2003"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2003"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2003"
+            },
+            {
+              "language": "id",
+              "value": "permainan video tahun 2003"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel uit 2003"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2003"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2003"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2003"
+            },
+            {
+              "language": "en",
+              "value": "2003 video game"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "cs",
+              "value": "videohra z roku 2003"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2003 року"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2003 roku"
+            },
+            {
+              "language": "tr",
+              "value": "2003 video oyunu"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2003 година"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel aus dem Jahr 2003"
+            },
+            {
+              "language": "zh",
+              "value": "2003年发售的一款电子游戏"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2003"
+            },
+            {
+              "language": "he",
+              "value": "משחק וידאו (2003)"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "hu",
+              "value": "2003-as videójáték"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو"
+            },
+            {
+              "language": "de",
+              "value": "Erlebe den Zweiten Weltkrieg aus der Sicht von Soldaten verschiedener Nationen, die in verbundenen Kampagnen die moderne Geschichte prägen."
+            },
+            {
+              "language": "es",
+              "value": "Vive la Segunda Guerra Mundial a través de soldados de varias naciones, luchando en campañas interconectadas que moldean la historia moderna."
+            },
+            {
+              "language": "fr",
+              "value": "Vivez la Seconde Guerre mondiale à travers les yeux de soldats de plusieurs nations, combattant dans des campagnes interconnectées pour façonner l'histoire moderne."
+            },
+            {
+              "language": "en",
+              "value": "Experience World War II through the eyes of soldiers from multiple nations, battling across interconnected campaigns to shape modern history."
+            }
+          ]
+        },
+        "popularity": 0.9700428138347619,
+        "disambiguation": "2003-10-29, Infinity Ward",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "cinematic campaigns",
+            "tag_id": "urn:tag:audience:qloo:cinematic_campaigns",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "squad-based gameplay",
+            "tag_id": "urn:tag:audience:qloo:squad_based_gameplay",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "authentic weapons",
+            "tag_id": "urn:tag:audience:qloo:authentic_weapons",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "historical accuracy",
+            "tag_id": "urn:tag:audience:qloo:historical_accuracy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "immersive sound design",
+            "tag_id": "urn:tag:audience:qloo:immersive_sound_design",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "Gritty",
+            "tag_id": "urn:tag:emotional_tone:qloo:gritty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Intense",
+            "tag_id": "urn:tag:emotional_tone:qloo:intense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Cinematic",
+            "tag_id": "urn:tag:emotional_tone:qloo:cinematic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Somber",
+            "tag_id": "urn:tag:emotional_tone:qloo:somber",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "First-Person Shooter",
+            "tag_id": "urn:tag:genre:qloo:first_person_shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "War",
+            "tag_id": "urn:tag:genre:qloo:war",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Microsoft Windows",
+            "tag_id": "urn:tag:platform:qloo:microsoft_windows",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Mac OS X",
+            "tag_id": "urn:tag:platform:qloo:mac_os_x",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 3",
+            "tag_id": "urn:tag:platform:qloo:playstation_3",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox 360",
+            "tag_id": "urn:tag:platform:qloo:xbox_360",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Steam",
+            "tag_id": "urn:tag:platform:qloo:steam",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player and Multiplayer",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_and_multiplayer",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Moderate",
+            "tag_id": "urn:tag:skill_level:qloo:moderate",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "World War II",
+            "tag_id": "urn:tag:category:qloo:world_war_ii",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Military",
+            "tag_id": "urn:tag:category:qloo:military",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Singleplayer",
+            "tag_id": "urn:tag:category:qloo:singleplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "War",
+            "tag_id": "urn:tag:category:qloo:war",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Tactical",
+            "tag_id": "urn:tag:category:qloo:tactical",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Story Rich",
+            "tag_id": "urn:tag:category:qloo:story_rich",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:category:qloo:shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:category:qloo:realistic",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Call of Duty: Warzone",
+        "entity_id": "B9318203-796E-4327-B161-5EEC584C382F",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "es",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "es_ar",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "fr",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "it",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "hi",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "nl",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "en_au",
+              "value": "Warzone"
+            },
+            {
+              "language": "ar",
+              "value": "كول أوف ديوتي: وورزون"
+            },
+            {
+              "language": "cs",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "et",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "fi",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "he",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "ja",
+              "value": "コール オブ デューティ ウォーゾーン"
+            },
+            {
+              "language": "ko",
+              "value": "콜 오브 듀티: 워존"
+            },
+            {
+              "language": "pl",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "pt",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "ro",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "ru",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "sv",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "th",
+              "value": "คอลล์ออฟดิวตี: วอร์โซน"
+            },
+            {
+              "language": "tr",
+              "value": "Call of Duty: Warzone"
+            },
+            {
+              "language": "zh",
+              "value": "使命召唤：战争地带"
+            }
+          ],
+          "content_rating": "M",
+          "description": "Call of Duty: Warzone is a massive, free-to-play, large-scale Battle Royale and multiplayer experience set in the Modern Warfare era; Warzone 2.0 launched alongside Modern Warfare II with new technology, seasonal live-service updates, and expanded gameplay innovations.",
+          "developer": "Infinity Ward",
+          "external": {
+            "igdb": {
+              "id": "call-of-duty-warzone"
+            },
+            "metacritic": {
+              "critic_rating": 79,
+              "id": "1400685078",
+              "user_rating": "4"
+            },
+            "twitch": {
+              "id": "call of duty: warzone"
+            },
+            "wikidata": {
+              "id": "q87416343"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/B9318203-796E-4327-B161-5EEC584C382F-420x-auto.jpg"
+          },
+          "platforms": [
+            "PlayStation 5",
+            "Xbox Series X",
+            "PC",
+            "PlayStation 4",
+            "Xbox One"
+          ],
+          "publisher": "Activision",
+          "release_date": "2022-11-14",
+          "release_year": 2022,
+          "short_description": "A free-to-play, large-scale battle royale where squads fight to be the last team standing across a realistic modern combat map with evolving seasons and live-service updates.",
+          "short_descriptions": [
+            {
+              "language": "ca",
+              "value": "videojoc de 2020"
+            },
+            {
+              "language": "be",
+              "value": "камп’ютарная гульня 2020 года"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2020 година"
+            },
+            {
+              "language": "zh",
+              "value": "大逃杀类型游戏"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2020"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2020"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2020 desenvolvido pela Infinity Ward e Raven Software"
+            },
+            {
+              "language": "ka",
+              "value": "2020 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "lv",
+              "value": "2020. gadā videospēle"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2020"
+            },
+            {
+              "language": "bn",
+              "value": "২০২০ ভিডিও গেম"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра из 2020. године"
+            },
+            {
+              "language": "hu",
+              "value": "2020-as videójáték"
+            },
+            {
+              "language": "et",
+              "value": "2020. aastal videomäng"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2020 года"
+            },
+            {
+              "language": "gl",
+              "value": "videoxogo de 2020"
+            },
+            {
+              "language": "id",
+              "value": "permainan video tahun 2020"
+            },
+            {
+              "language": "ja",
+              "value": "アクティビジョンが配信する基本プレイ無料のバトルロイヤルゲーム"
+            },
+            {
+              "language": "he",
+              "value": "משחק מחשב משנת 2020"
+            },
+            {
+              "language": "sc",
+              "value": "videojòcu de 2020"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2020"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2020 року"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2020"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2020"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2020 roku"
+            },
+            {
+              "language": "eu",
+              "value": "2020 bideo-joko"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel aus dem Jahr 2020"
+            },
+            {
+              "language": "fa",
+              "value": "بازی ویدیویی بتل رویال تیراندازی اول شخص ۲۰۲۰"
+            },
+            {
+              "language": "lb",
+              "value": "Computerspill aus dem Joer 2020"
+            },
+            {
+              "language": "is",
+              "value": "2020 tölvuleikur"
+            },
+            {
+              "language": "oc",
+              "value": "videojòc de 2020"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel uit 2020"
+            },
+            {
+              "language": "ig",
+              "value": "2020 onye mbụ na-agba ụta egwuregwu royale egwuregwu vidiyo"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو صدرت سنة 2020"
+            },
+            {
+              "language": "tr",
+              "value": "2020 video oyunu"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2020"
+            },
+            {
+              "language": "fi",
+              "value": "2020 videopeli"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra iz 2020. godine"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2020"
+            },
+            {
+              "language": "te",
+              "value": "2020 వీడియో గేమ్"
+            },
+            {
+              "language": "lt",
+              "value": "2020 metų kompiuterinis žaidimas"
+            },
+            {
+              "language": "cs",
+              "value": "videohra z roku 2020"
+            },
+            {
+              "language": "en",
+              "value": "2020 first-person shooter battle royale video game"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2020"
+            },
+            {
+              "language": "eo",
+              "value": "videoludo de 2020"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video terbitan tahun 2020"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2020"
+            },
+            {
+              "language": "hi",
+              "value": "२०२० वीडियो गेममेम0"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2020"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2020"
+            },
+            {
+              "language": "az",
+              "value": "2020-ci ilin video oyunu"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2020 година"
+            },
+            {
+              "language": "de",
+              "value": "In einer vom Krieg zerrissenen Welt kämpfen Fraktionen um die Kontrolle und decken tiefe Verschwörungen und Bedrohungen auf, die das Schicksal der Nationen verändern könnten."
+            },
+            {
+              "language": "es",
+              "value": "En un mundo devastado por la guerra, facciones luchan por el control, descubriendo conspiraciones profundas y amenazas que podrían cambiar el destino de las naciones."
+            },
+            {
+              "language": "fr",
+              "value": "Dans un monde déchiré par la guerre, des factions s'affrontent pour le contrôle, dévoilant des conspirations profondes et des menaces pouvant changer le destin des nations."
+            },
+            {
+              "language": "en",
+              "value": "In a war-torn world, factions clash for control, uncovering deep conspiracies and threats that could change the fate of nations."
+            }
+          ]
+        },
+        "popularity": 0.9789457081375454,
+        "disambiguation": "2022-11-14, Infinity Ward",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "high skill ceiling",
+            "tag_id": "urn:tag:audience:qloo:high_skill_ceiling",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "fast-paced",
+            "tag_id": "urn:tag:audience:qloo:fast_paced",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "team-based",
+            "tag_id": "urn:tag:audience:qloo:team_based",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "strategic",
+            "tag_id": "urn:tag:audience:qloo:strategic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "live-service",
+            "tag_id": "urn:tag:audience:qloo:live_service",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "intense",
+            "tag_id": "urn:tag:emotional_tone:qloo:intense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "adrenaline-fueled",
+            "tag_id": "urn:tag:emotional_tone:qloo:adrenaline_fueled",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "tense",
+            "tag_id": "urn:tag:emotional_tone:qloo:tense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "competitive",
+            "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Battle Royale",
+            "tag_id": "urn:tag:gameplay_type:qloo:battle_royale",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Team-based",
+            "tag_id": "urn:tag:gameplay_type:qloo:team_based",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Live Service",
+            "tag_id": "urn:tag:gameplay_type:qloo:live_service",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:genre:qloo:shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Tactical",
+            "tag_id": "urn:tag:genre:qloo:tactical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PlayStation 5",
+            "tag_id": "urn:tag:platform:qloo:playstation_5",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox Series X",
+            "tag_id": "urn:tag:platform:qloo:xbox_series_x",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "online multiplayer (Battle Royale)",
+            "tag_id": "urn:tag:player_mode:qloo:online_multiplayer_battle_royale_",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "All skill levels",
+            "tag_id": "urn:tag:skill_level:qloo:all_skill_levels",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Battle Royale",
+            "tag_id": "urn:tag:category:qloo:battle_royale",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:category:qloo:shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "First-Person",
+            "tag_id": "urn:tag:category:qloo:first_person",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Free to Play",
+            "tag_id": "urn:tag:category:qloo:free_to_play",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:category:qloo:competitive",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:category:qloo:co_op",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Call of Duty: Black Ops 4",
+        "entity_id": "053C4A89-9D50-4140-B614-95274D4C0F4A",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "en_au",
+              "value": "Call of Duty®: Black Ops 4"
+            },
+            {
+              "language": "it",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "de",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "es",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "nl",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "es_ar",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "fr",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "ar",
+              "value": "كول أوف ديوتي: بلاك أوبس 4"
+            },
+            {
+              "language": "cs",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "et",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "fi",
+              "value": "Call of Duty: Black Ops IIII"
+            },
+            {
+              "language": "ja",
+              "value": "コール オブ デューティ ブラックオプス4"
+            },
+            {
+              "language": "ko",
+              "value": "콜 오브 듀티: 블랙 옵스 4"
+            },
+            {
+              "language": "pl",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "pt",
+              "value": "Call of Duty: Black Ops IIII"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Call of Duty: Black Ops IIII"
+            },
+            {
+              "language": "ro",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "ru",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "sv",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "th",
+              "value": "คอลล์ออฟดิวตี: แบล็กออฟส์ 4"
+            },
+            {
+              "language": "tr",
+              "value": "Call of Duty: Black Ops 4"
+            },
+            {
+              "language": "zh",
+              "value": "使命召唤：黑色行动4"
+            }
+          ],
+          "content_rating": "M",
+          "description": "Black Ops returns - in your face. Featuring gritty, grounded, fluid Multiplayer combat, a massive Zombies offering with 3 full undead adventures at launch, and Blackout, where the universe of Black Ops comes to life in one huge battle royale experience featuring the largest map in Call of Duty history, signature Black Ops combat, characters, locations and weapons from the entire Black Ops series. Soldier up for all-out combat  tailor made for the Black Ops community.",
+          "developer": "Treyarch",
+          "external": {
+            "igdb": {
+              "id": "call-of-duty-black-ops-4"
+            },
+            "metacritic": {
+              "critic_rating": 83,
+              "id": "1400539530"
+            },
+            "twitch": {
+              "id": "call of duty: black ops 4"
+            },
+            "wikidata": {
+              "id": "q50376633"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/053C4A89-9D50-4140-B614-95274D4C0F4A-420x-auto.jpg"
+          },
+          "platforms": [
+            "PlayStation 4",
+            "Xbox One",
+            "PC"
+          ],
+          "publisher": "Activision",
+          "release_date": "2018-10-12",
+          "release_year": 2018,
+          "short_description": "A multiplayer-focused Black Ops entry delivering competitive online combat, cooperative Zombies campaigns, and a large-scale Blackout battle royale experience.",
+          "short_descriptions": [
+            {
+              "language": "nl",
+              "value": "computerspel uit 2018"
+            },
+            {
+              "language": "sr",
+              "value": "пуцачка видео-игра"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2018 desenvolvido pela Treyarch"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử bắn súng góc nhìn người thứ nhất"
+            },
+            {
+              "language": "hu",
+              "value": "2018-as videójáték"
+            },
+            {
+              "language": "zh",
+              "value": "2018年電子遊戲"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2018"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2018"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de tir en vue première personne"
+            },
+            {
+              "language": "de",
+              "value": "Ego-Shooter aus dem Jahr 2018"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2018 года"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från år 2018"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa"
+            },
+            {
+              "language": "fa",
+              "value": "بازی ویدئویی ۲۰۱۸"
+            },
+            {
+              "language": "fi",
+              "value": "2018 videopeli"
+            },
+            {
+              "language": "en",
+              "value": "2018 first-person shooter video game"
+            },
+            {
+              "language": "ar",
+              "value": "هي لعبة فيديو من نوع تصويب منظور الشخص الأول، حيث تم نشرها من قبل أكتفجن سنة 2018"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2018"
+            },
+            {
+              "language": "ja",
+              "value": "『CoDシリーズ』の第15作目"
+            },
+            {
+              "language": "tr",
+              "value": "2018 video oyunu"
+            },
+            {
+              "language": "de",
+              "value": "In einer nahen Zukunft stellen sich Elite-Soldaten einer verborgenen Bedrohung, enthüllen dunkle Geheimnisse ihrer Vergangenheit und kämpfen gegen Untote."
+            },
+            {
+              "language": "es",
+              "value": "En un mundo cercano al futuro, soldados de élite enfrentan una amenaza oculta mientras descubren oscuros secretos de su pasado y luchan contra los no muertos."
+            },
+            {
+              "language": "fr",
+              "value": "Dans un futur proche, des soldats d'élite affrontent une menace cachée tout en découvrant des secrets sombres de leur passé et en combattant les morts-vivants."
+            },
+            {
+              "language": "en",
+              "value": "In a near-future world, elite soldiers confront a hidden threat while uncovering dark secrets from their past and battling against the undead."
+            }
+          ]
+        },
+        "popularity": 0.9785508948237764,
+        "disambiguation": "2018-10-12, Treyarch",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Photorealistic",
+            "tag_id": "urn:tag:art_style:qloo:photorealistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "multiplayer-focused",
+            "tag_id": "urn:tag:audience:qloo:multiplayer_focused",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "eSports",
+            "tag_id": "urn:tag:audience:qloo:esports",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "community-driven",
+            "tag_id": "urn:tag:audience:qloo:community_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "seasonal-updates",
+            "tag_id": "urn:tag:audience:qloo:seasonal_updates",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "high-skill-ceiling",
+            "tag_id": "urn:tag:audience:qloo:high_skill_ceiling",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "intense",
+            "tag_id": "urn:tag:emotional_tone:qloo:intense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "adrenaline-fueled",
+            "tag_id": "urn:tag:emotional_tone:qloo:adrenaline_fueled",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "gritty",
+            "tag_id": "urn:tag:emotional_tone:qloo:gritty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "competitive",
+            "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Battle Royale",
+            "tag_id": "urn:tag:gameplay_type:qloo:battle_royale",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:genre:qloo:shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Tactical",
+            "tag_id": "urn:tag:genre:qloo:tactical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "PlayStation 4",
+            "tag_id": "urn:tag:platform:qloo:playstation_4",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Xbox One",
+            "tag_id": "urn:tag:platform:qloo:xbox_one",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PC",
+            "tag_id": "urn:tag:platform:qloo:pc",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "multiplayer (focus on competitive multiplayer, cooperative Zombies, and Battle Royale)",
+            "tag_id": "urn:tag:player_mode:qloo:multiplayer_focus_on_competitive_multiplayer_cooperative_zombies_and_battle_royale_",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Intermediate to Hardcore",
+            "tag_id": "urn:tag:skill_level:qloo:intermediate_to_hardcore",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Battle Royale",
+            "tag_id": "urn:tag:category:qloo:battle_royale",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:category:qloo:shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "First-Person",
+            "tag_id": "urn:tag:category:qloo:first_person",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:category:qloo:co_op",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:category:qloo:competitive",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Team-Based",
+            "tag_id": "urn:tag:category:qloo:team_based",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Online",
+            "tag_id": "urn:tag:category:qloo:online",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Call of Duty: Modern Warfare 3",
+        "entity_id": "1C8F80CB-58E2-4362-A9BB-35A11FED4CAF",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "كول أوف ديوتي: مودرن وورفير 3"
+            },
+            {
+              "language": "cs",
+              "value": "Call of Duty 8: Modern Warfare 3"
+            },
+            {
+              "language": "et",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "fi",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "he",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "ja",
+              "value": "コールオブデューティモダン・ウォーフェア3"
+            },
+            {
+              "language": "ko",
+              "value": "콜 오브 듀티: 모던 워페어 3"
+            },
+            {
+              "language": "pl",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "pt",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "ro",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "ru",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "sv",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "th",
+              "value": "คอลล์ออฟดิวตี: มอเดิร์นวอร์แฟร์ 3"
+            },
+            {
+              "language": "tr",
+              "value": "Call of Duty: Modern Warfare 3"
+            },
+            {
+              "language": "zh",
+              "value": "使命召唤：现代战争3"
+            }
+          ],
+          "content_rating": "M",
+          "description": "Call of Duty: Modern Warfare 3 continues the Modern Warfare storyline as U.S. and allied forces respond to a large-scale invasion and global terrorist events; the game pairs a cinematic single-player campaign with deep multiplayer, new strike-package killstreak systems, and two-player Co-op Survival Special Ops.",
+          "developer": "Infinity Ward",
+          "external": {
+            "igdb": {
+              "id": "call-of-duty-modern-warfare-3"
+            },
+            "metacritic": {
+              "critic_rating": 88,
+              "id": "1400095457"
+            },
+            "steam": {
+              "id": "42680"
+            },
+            "twitch": {
+              "id": "call of duty: modern warfare 3"
+            },
+            "wikidata": {
+              "id": "q486233"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/1C8F80CB-58E2-4362-A9BB-35A11FED4CAF-420x-auto.jpg"
+          },
+          "platforms": [
+            "Xbox 360",
+            "PlayStation 3",
+            "Microsoft Windows",
+            "Wii",
+            "Nintendo DS"
+          ],
+          "publisher": "Activision",
+          "release_date": "2011-11-08",
+          "release_year": 2011,
+          "short_description": "U.S. and allied forces fight a global conflict after a terrorist framing triggers a Russian invasion, continuing the Modern Warfare series across cinematic military missions.",
+          "short_descriptions": [
+            {
+              "language": "lv",
+              "value": "videospēle"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche a foilsíodh sa bhliain 2011"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2011 roku"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2011 година"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "ko",
+              "value": "콜 오브 듀티 시리즈의 8번째 작품"
+            },
+            {
+              "language": "es",
+              "value": "videojuego"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2011 година"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2011"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra"
+            },
+            {
+              "language": "ja",
+              "value": "『CoDシリーズ』の第8作目"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2011"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2011"
+            },
+            {
+              "language": "fi",
+              "value": "2011 videopeli"
+            },
+            {
+              "language": "tr",
+              "value": "2011 video oyunu"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2011"
+            },
+            {
+              "language": "zh",
+              "value": "2011年電子遊戲"
+            },
+            {
+              "language": "hu",
+              "value": "2011-es videójáték"
+            },
+            {
+              "language": "vi",
+              "value": "trò chơi điện tử năm 2011"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2011 desenvolvido pela Infinity Ward e Sledgehammer Games"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2011"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2011"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel uit 2011"
+            },
+            {
+              "language": "id",
+              "value": "Permainan video 2011"
+            },
+            {
+              "language": "sq",
+              "value": "video lojë"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2011 года"
+            },
+            {
+              "language": "bs",
+              "value": "videoigra"
+            },
+            {
+              "language": "en",
+              "value": "2011 video game"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2011"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2011"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu vidīò 2011"
+            },
+            {
+              "language": "da",
+              "value": "computerspil fra 2011"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو من تطوير إنفنتي وورد"
+            },
+            {
+              "language": "az",
+              "value": "2011 video oyunu"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2011"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel aus dem Jahr 2011"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2011"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра"
+            },
+            {
+              "language": "cs",
+              "value": "videohra z roku 2011"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2011 року"
+            },
+            {
+              "language": "de",
+              "value": "US-Streitkräfte kämpfen gegen eine russische Invasion, decken eine Verschwörung auf, die die globale Sicherheit bedroht, und führen eine letzte Konfrontation mit einem berüchtigten Feind."
+            },
+            {
+              "language": "es",
+              "value": "Las fuerzas estadounidenses luchan contra una invasión rusa, descubriendo una conspiración que amenaza la seguridad global y enfrentándose a un enemigo infame."
+            },
+            {
+              "language": "fr",
+              "value": "Les forces américaines combattent une invasion russe, découvrent une conspiration menaçant la sécurité mondiale et affrontent un ennemi notoire lors d'une confrontation finale."
+            },
+            {
+              "language": "en",
+              "value": "U.S. forces battle against a Russian invasion, uncovering a conspiracy that threatens global security and leading to a final confrontation with a notorious enemy."
+            }
+          ]
+        },
+        "popularity": 0.9782337399639224,
+        "disambiguation": "2011-11-08, Infinity Ward",
+        "tags": [
+          {
+            "name": "3D",
+            "tag_id": "urn:tag:art_style:qloo:3d",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Realistic",
+            "tag_id": "urn:tag:art_style:qloo:realistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "Photorealistic",
+            "tag_id": "urn:tag:art_style:qloo:photorealistic",
+            "type": "urn:tag:art_style:qloo"
+          },
+          {
+            "name": "fast-paced",
+            "tag_id": "urn:tag:audience:qloo:fast_paced",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "competitive multiplayer",
+            "tag_id": "urn:tag:audience:qloo:competitive_multiplayer",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "campaign-driven",
+            "tag_id": "urn:tag:audience:qloo:campaign_driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "tactical",
+            "tag_id": "urn:tag:audience:qloo:tactical",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "team-focused",
+            "tag_id": "urn:tag:audience:qloo:team_focused",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "name": "intense",
+            "tag_id": "urn:tag:emotional_tone:qloo:intense",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "thrilling",
+            "tag_id": "urn:tag:emotional_tone:qloo:thrilling",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "cinematic",
+            "tag_id": "urn:tag:emotional_tone:qloo:cinematic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "suspenseful",
+            "tag_id": "urn:tag:emotional_tone:qloo:suspenseful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Single-player",
+            "tag_id": "urn:tag:gameplay_type:qloo:single_player",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:gameplay_type:qloo:multiplayer",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:gameplay_type:qloo:co_op",
+            "type": "urn:tag:gameplay_type:qloo"
+          },
+          {
+            "name": "First-Person Shooter",
+            "tag_id": "urn:tag:genre:qloo:first_person_shooter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:genre:qloo:action",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "name": "Xbox 360",
+            "tag_id": "urn:tag:platform:qloo:xbox_360",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "PlayStation 3",
+            "tag_id": "urn:tag:platform:qloo:playstation_3",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Microsoft Windows",
+            "tag_id": "urn:tag:platform:qloo:microsoft_windows",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Wii",
+            "tag_id": "urn:tag:platform:qloo:wii",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Nintendo DS",
+            "tag_id": "urn:tag:platform:qloo:nintendo_ds",
+            "type": "urn:tag:platform:qloo"
+          },
+          {
+            "name": "Single-player and Multiplayer",
+            "tag_id": "urn:tag:player_mode:qloo:single_player_and_multiplayer",
+            "type": "urn:tag:player_mode:qloo"
+          },
+          {
+            "name": "Casual to competitive multiplayer players",
+            "tag_id": "urn:tag:skill_level:qloo:casual_to_competitive_multiplayer_players",
+            "type": "urn:tag:skill_level:qloo"
+          },
+          {
+            "name": "Multiplayer",
+            "tag_id": "urn:tag:category:qloo:multiplayer",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Shooter",
+            "tag_id": "urn:tag:category:qloo:shooter",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Action",
+            "tag_id": "urn:tag:category:qloo:action",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "First-Person",
+            "tag_id": "urn:tag:category:qloo:first_person",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Military",
+            "tag_id": "urn:tag:category:qloo:military",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Co-op",
+            "tag_id": "urn:tag:category:qloo:co_op",
+            "type": "urn:tag:category:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:category:qloo:competitive",
+            "type": "urn:tag:category:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Call of Duty: Heroes",
+        "entity_id": "28603278-3EB4-40D9-A704-37310296ACB3",
+        "types": [
+          "urn:entity:videogame"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "de",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "es",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "es_ar",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "fr",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "it",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "nl",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "cs",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "et",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "fi",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "ja",
+              "value": "コール オブ デューティ ヒーローズ"
+            },
+            {
+              "language": "pl",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "pt",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "ro",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "ru",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "sv",
+              "value": "Call of Duty: Heroes"
+            },
+            {
+              "language": "tr",
+              "value": "Call of Duty: Heroes"
+            }
+          ],
+          "content_rating": "",
+          "description": "In Call of Duty: Heroes players take command of a small outpost to build and upgrade it into an impenetrable base, utilizing a number of weapons and equipment options, including sentry guns, SAM turrets, mines and more than 30 upgradeable structures.  Gamers can direct and level up five legendary Call of Duty heroes such as Capt. John Price and Sgt. John \\\"Soap\\\" MacTavish from the Modern Warfare series and Call of Duty: Black Ops II's JSOC operative Mike Harper and more.  Take them into battle while also unleashing epic killstreaks, including the UAV, care packages, drone strikes and chopper gunner as well as tactical expertise unique to each.  Gamers even have access to a broad range of hailed Call of Duty infantry and drones, including Juggernauts, Dragonfires and CLAWs.  Players can also team up with friends to form alliances, donate troops and take down opponents while earning in-game rewards.",
+          "developer": "Activision",
+          "external": {
+            "igdb": {
+              "id": "call-of-duty-heroes"
+            },
+            "metacritic": {
+              "critic_rating": 66,
+              "id": "1400403582"
+            },
+            "wikidata": {
+              "id": "q28407375"
+            }
+          },
+          "image": {
+            "url": "https://images.qloo.com/i/28603278-3EB4-40D9-A704-37310296ACB3-420x-auto.jpg"
+          },
+          "platforms": [
+            "iOS (iPhone/iPad)"
+          ],
+          "publisher": "Activision",
+          "release_date": "2014-11-12",
+          "release_year": 2014,
+          "short_description": "Players build and upgrade a base while commanding legendary heroes to battle against opponents and earn rewards.",
+          "short_descriptions": [
+            {
+              "language": "da",
+              "value": "computerspil fra 2014"
+            },
+            {
+              "language": "es",
+              "value": "videojuego de 2014"
+            },
+            {
+              "language": "sc",
+              "value": "videojòcu de 2014"
+            },
+            {
+              "language": "pt",
+              "value": "jogo eletrônico de 2014"
+            },
+            {
+              "language": "eo",
+              "value": "videoludo de 2014"
+            },
+            {
+              "language": "et",
+              "value": "2014. aastal videomäng"
+            },
+            {
+              "language": "fr",
+              "value": "jeu vidéo de 2014"
+            },
+            {
+              "language": "bg",
+              "value": "видеоигра от 2014 година"
+            },
+            {
+              "language": "cs",
+              "value": "videohra z roku 2014"
+            },
+            {
+              "language": "lb",
+              "value": "Computerspill aus dem Joer 2014"
+            },
+            {
+              "language": "sv",
+              "value": "datorspel från 2014"
+            },
+            {
+              "language": "hu",
+              "value": "2014-es videójáték"
+            },
+            {
+              "language": "ka",
+              "value": "2014 წლის ვიდეო თამაში"
+            },
+            {
+              "language": "lv",
+              "value": "2014. gadā videospēle"
+            },
+            {
+              "language": "ru",
+              "value": "компьютерная игра 2014 года, разработанная Faceroll Games"
+            },
+            {
+              "language": "en",
+              "value": "2014 free-to-play real-time strategy video game developed by Faceroll Games"
+            },
+            {
+              "language": "ar",
+              "value": "لعبة فيديو صدرت سنة 2014"
+            },
+            {
+              "language": "tr",
+              "value": "2014 video oyunu"
+            },
+            {
+              "language": "su",
+              "value": "kaulinan video"
+            },
+            {
+              "language": "it",
+              "value": "videogioco del 2014"
+            },
+            {
+              "language": "eu",
+              "value": "2014 bideo-joko"
+            },
+            {
+              "language": "hy",
+              "value": "2014 թվականի համակարգչային խաղ"
+            },
+            {
+              "language": "nb",
+              "value": "videospill fra 2014"
+            },
+            {
+              "language": "el",
+              "value": "βιντεοπαιχνίδι του 2014"
+            },
+            {
+              "language": "sl",
+              "value": "videoigra iz leta 2014"
+            },
+            {
+              "language": "mk",
+              "value": "видеоигра од 2014 година"
+            },
+            {
+              "language": "jv",
+              "value": "gim vidéo"
+            },
+            {
+              "language": "fi",
+              "value": "2014 videopeli"
+            },
+            {
+              "language": "lt",
+              "value": "2014 metų kompiuterinis žaidimas"
+            },
+            {
+              "language": "nn",
+              "value": "dataspel frå 2014"
+            },
+            {
+              "language": "sk",
+              "value": "počítačová hra z 2014"
+            },
+            {
+              "language": "nl",
+              "value": "computerspel uit 2014"
+            },
+            {
+              "language": "uk",
+              "value": "відеогра 2014 року, розроблена Faceroll Games"
+            },
+            {
+              "language": "az",
+              "value": "2014-ci ilin video oyunu"
+            },
+            {
+              "language": "sq",
+              "value": "video lojë e vitit 2014"
+            },
+            {
+              "language": "ms",
+              "value": "permainan video"
+            },
+            {
+              "language": "ig",
+              "value": "egwuregwu vidiyo atụmatụ egwuregwu 2014 n'efu nke egwuregwu Faceroll mepụtara"
+            },
+            {
+              "language": "ro",
+              "value": "joc video din 2014"
+            },
+            {
+              "language": "gl",
+              "value": "videoxogo de 2014"
+            },
+            {
+              "language": "he",
+              "value": "משחק מחשב משנת 2014"
+            },
+            {
+              "language": "ga",
+              "value": "físchluiche a foilsíodh sa bhliain 2014"
+            },
+            {
+              "language": "is",
+              "value": "2014 tölvuleikur"
+            },
+            {
+              "language": "id",
+              "value": "permainan video tahun 2014"
+            },
+            {
+              "language": "hi",
+              "value": "२०१४ वीडियो गेम"
+            },
+            {
+              "language": "be",
+              "value": "камп’ютарная гульня 2014 года"
+            },
+            {
+              "language": "pl",
+              "value": "gra komputerowa z 2014 roku"
+            },
+            {
+              "language": "de",
+              "value": "Computerspiel aus dem Jahr 2014"
+            },
+            {
+              "language": "oc",
+              "value": "videojòc de 2014"
+            },
+            {
+              "language": "bn",
+              "value": "২০১৪ ভিডিও গেম"
+            },
+            {
+              "language": "te",
+              "value": "2014 వీడియో గేమ్"
+            },
+            {
+              "language": "hr",
+              "value": "videoigra iz 2014. godine"
+            },
+            {
+              "language": "ca",
+              "value": "videojoc de 2014"
+            },
+            {
+              "language": "fa",
+              "value": "بازی رایگان ۲۰۱۴"
+            },
+            {
+              "language": "sr",
+              "value": "видео-игра из 2014. године"
+            },
+            {
+              "language": "de",
+              "value": "Spieler bauen und verbessern eine Basis, während sie legendäre Helden befehligen, um gegen Gegner zu kämpfen und Belohnungen zu verdienen."
+            },
+            {
+              "language": "es",
+              "value": "Los jugadores construyen y mejoran una base mientras dirigen héroes legendarios para luchar contra oponentes y ganar recompensas."
+            },
+            {
+              "language": "fr",
+              "value": "Les joueurs construisent et améliorent une base tout en commandant des héros légendaires pour combattre des adversaires et gagner des récompenses."
+            },
+            {
+              "language": "en",
+              "value": "Players build and upgrade a base while commanding legendary heroes to battle against opponents and earn rewards."
+            }
+          ]
+        },
+        "popularity": 0.9781627261799035,
+        "disambiguation": "2014-11-12, Activision",
+        "tags": [
+          {
+            "name": "Strategy",
+            "tag_id": "urn:tag:genre:media:strategy",
+            "type": "urn:tag:genre:media",
+            "value": "urn:tag:genre:media:strategy"
+          },
+          {
+            "name": "Android (operating System) Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:android_operating_system_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:android_operating_system_games"
+          },
+          {
+            "name": "Ios Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:ios_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:ios_games"
+          },
+          {
+            "name": "Activision Games",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:activision_games",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:activision_games"
+          },
+          {
+            "name": "Video Games Developed In The United States",
+            "tag_id": "urn:tag:wikipedia_category:wikidata:video_games_developed_in_united_states",
+            "type": "urn:tag:wikipedia_category:wikidata",
+            "value": "urn:tag:wikipedia_category:wikidata:video_games_developed_in_united_states"
+          }
+        ]
+      }
+    ]
+  }
+}

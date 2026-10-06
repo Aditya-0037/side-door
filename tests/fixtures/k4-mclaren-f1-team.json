@@ -1,0 +1,3016 @@
+{
+  "status": 200,
+  "params": {
+    "query": "McLaren F1 Team",
+    "take": 5
+  },
+  "body": {
+    "results": [
+      {
+        "name": "Mercedes AMG Petronas F1 Team",
+        "entity_id": "A0898BB0-0545-49D5-9835-489885F01374",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "zh",
+              "value": "梅赛德斯AMG车队"
+            },
+            {
+              "language": "nl",
+              "value": "Mercedes"
+            },
+            {
+              "language": "es",
+              "value": "Mercedes AMG Petronas Motorsport"
+            },
+            {
+              "language": "es_ar",
+              "value": "Mercedes AMG Petronas Motorsport"
+            },
+            {
+              "language": "ja",
+              "value": "メルセデス・F1 W04"
+            },
+            {
+              "language": "pl",
+              "value": "Mercedes F1 W04"
+            },
+            {
+              "language": "en_au",
+              "value": "Mercedes-AMG Petronas F1 Team"
+            },
+            {
+              "language": "it",
+              "value": "Mercedes AMG F1"
+            },
+            {
+              "language": "de",
+              "value": "Mercedes AMG Petronas F1 Team"
+            },
+            {
+              "language": "fr",
+              "value": "Mercedes AMG Petronas F1 Team"
+            }
+          ],
+          "description": "Mercedes-AMG PETRONAS F1 Team is a world-renowned constructor competing at the pinnacle of motorsport in the FIA Formula One World Championship. Based in the United Kingdom, the team is celebrated for its historical dominance and technical sophistication, underpinned by a culture of relentless innovation and determination. It integrates elite engineering talent and high-performance management to develop race-winning vehicles. The brand consistently sets benchmarks in both sporting achievement and sustainable operational practices within the global racing circuit.",
+          "external": {
+            "instagram": {
+              "id": "mercedesamgf1"
+            },
+            "twitter": {
+              "id": "mercedesamgf1"
+            },
+            "wikidata": {
+              "id": "Q3720392"
+            }
+          },
+          "founded_year": "2010",
+          "image": {
+            "url": "https://images.qloo.com/i/A0898BB0-0545-49D5-9835-489885F01374-420x-auto.jpg"
+          },
+          "short_description": "Mercedes-AMG PETRONAS F1 Team is a Formula 1 racing team and 8-time World Champions known for competing at the highest level of motorsport.",
+          "short_descriptions": [
+            {
+              "language": "en",
+              "value": "A premier competitive racing organization at the pinnacle of global motorsport, renowned for engineering excellence and a championship-winning legacy."
+            },
+            {
+              "language": "es",
+              "value": "Una escudería de competición de primer nivel en la cima del automovilismo mundial, reconocida por su excelencia en ingeniería y su histórico legado ganador."
+            },
+            {
+              "language": "fr",
+              "value": "Une écurie de course de premier plan au sommet du sport automobile mondial, reconnue pour son excellence en ingénierie et son héritage de champion."
+            },
+            {
+              "language": "de",
+              "value": "Ein führendes Rennteam an der Spitze des globalen Motorsports, bekannt für technische Exzellenz und eine langjährige Erfolgsbilanz bei Weltmeisterschaften."
+            }
+          ]
+        },
+        "popularity": 0.9953976030241901,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Motorsports",
+            "tag_id": "urn:tag:genre:brand:sports_organization:motorsports",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Sleek",
+            "tag_id": "urn:tag:aesthetic_property:qloo:sleek",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Technical",
+            "tag_id": "urn:tag:aesthetic_property:qloo:technical",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "High-Contrast",
+            "tag_id": "urn:tag:aesthetic_property:qloo:high_contrast",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Modern",
+            "tag_id": "urn:tag:aesthetic_property:qloo:modern",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Minimalist",
+            "tag_id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Peak Professional Performance",
+            "tag_id": "urn:tag:lifestyle:qloo:peak_professional_performance",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Pioneering Engineering",
+            "tag_id": "urn:tag:lifestyle:qloo:pioneering_engineering",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Championship Success",
+            "tag_id": "urn:tag:lifestyle:qloo:championship_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Sporting Excellence",
+            "tag_id": "urn:tag:lifestyle:qloo:global_sporting_excellence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Subscription",
+            "tag_id": "urn:tag:business_model:qloo:subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Red Bull Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:red_bull_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Scuderia Ferrari",
+            "tag_id": "urn:tag:competitor_brand:qloo:scuderia_ferrari",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "McLaren Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:mclaren_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Aston Martin Aramco Formula One Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:aston_martin_aramco_formula_one_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Alpine F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:alpine_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Passion",
+            "tag_id": "urn:tag:core_value:qloo:passion",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Respect",
+            "tag_id": "urn:tag:core_value:qloo:respect",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Innovation",
+            "tag_id": "urn:tag:core_value:qloo:innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Determination",
+            "tag_id": "urn:tag:core_value:qloo:determination",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Motorsport Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_motorsport_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "STEM Education",
+            "tag_id": "urn:tag:cultural_relevance:qloo:stem_education",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Sustainable Technology Movement",
+            "tag_id": "urn:tag:cultural_relevance:qloo:sustainable_technology_movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Motorsport Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:motorsport_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Engineering Professionals",
+            "tag_id": "urn:tag:customer_segment:qloo:engineering_professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Luxury Automotive Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:luxury_automotive_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Data Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:data_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:emotional_tone:qloo:determined",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sophisticated",
+            "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Energetic",
+            "tag_id": "urn:tag:emotional_tone:qloo:energetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Innovative",
+            "tag_id": "urn:tag:emotional_tone:qloo:innovative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Resilient",
+            "tag_id": "urn:tag:emotional_tone:qloo:resilient",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:industry:qloo:motorsport",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:industry:qloo:automotive_engineering",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Sports Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Technology Thought Leaders",
+            "tag_id": "urn:tag:influencer_appeal:qloo:technology_thought_leaders",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Designers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:automotive_designers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Professional Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Lifestyle Creators",
+            "tag_id": "urn:tag:influencer_appeal:qloo:lifestyle_creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:interest_adjacency:qloo:automotive_engineering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "High-Performance Sports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:high_performance_sports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Data Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:data_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Strategic Management",
+            "tag_id": "urn:tag:interest_adjacency:qloo:strategic_management",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Innovation Management",
+            "tag_id": "urn:tag:interest_adjacency:qloo:innovation_management",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Middle East",
+            "tag_id": "urn:tag:key_market:qloo:middle_east",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "North America",
+            "tag_id": "urn:tag:key_market:qloo:north_america",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Asia Pacific",
+            "tag_id": "urn:tag:key_market:qloo:asia_pacific",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Formula 1",
+            "tag_id": "urn:tag:keyword:qloo:formula_1",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:keyword:qloo:motorsport",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Engineering",
+            "tag_id": "urn:tag:keyword:qloo:engineering",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Racing",
+            "tag_id": "urn:tag:keyword:qloo:racing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Grand Prix",
+            "tag_id": "urn:tag:keyword:qloo:grand_prix",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Petronas",
+            "tag_id": "urn:tag:partnership:qloo:petronas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Ineos",
+            "tag_id": "urn:tag:partnership:qloo:ineos",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "TeamViewer",
+            "tag_id": "urn:tag:partnership:qloo:teamviewer",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "CrowdStrike",
+            "tag_id": "urn:tag:partnership:qloo:crowdstrike",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Hilton",
+            "tag_id": "urn:tag:partnership:qloo:hilton",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Professional Motorsport",
+            "tag_id": "urn:tag:lifestyle:qloo:professional_motorsport",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Technological Innovation",
+            "tag_id": "urn:tag:lifestyle:qloo:technological_innovation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "High-Performance Environments",
+            "tag_id": "urn:tag:lifestyle:qloo:high_performance_environments",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "null",
+            "tag_id": "urn:tag:personal_style:qloo:null",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Formula 1 Racing",
+            "tag_id": "urn:tag:product_service:qloo:formula_1_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Team Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:team_merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Esports",
+            "tag_id": "urn:tag:product_service:qloo:esports",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Technical Consulting",
+            "tag_id": "urn:tag:product_service:qloo:technical_consulting",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Corporate Hospitality",
+            "tag_id": "urn:tag:product_service:qloo:corporate_hospitality",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Porsche Motorsport",
+            "tag_id": "urn:tag:similar_brand:qloo:porsche_motorsport",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Audi Sport",
+            "tag_id": "urn:tag:similar_brand:qloo:audi_sport",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Williams Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:williams_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Haas F1 Team",
+            "tag_id": "urn:tag:similar_brand:qloo:haas_f1_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Visa Cash App RB",
+            "tag_id": "urn:tag:similar_brand:qloo:visa_cash_app_rb",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Mercedes-AMG High Performance Powertrains",
+            "tag_id": "urn:tag:subsidiary:qloo:mercedes_amg_high_performance_powertrains",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Net Zero Operations",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:net_zero_operations",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Responsible Resource Consumption",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:responsible_resource_consumption",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Carbon Neutral",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:carbon_neutral",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Social Impact",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Supply Chain Transparency",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Zero Waste",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:zero_waste",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Alpine F1 Team",
+        "entity_id": "54D8BFA3-2EBC-4D97-B6AF-CD0CD32F65B1",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "فريق ألباين"
+            },
+            {
+              "language": "gl",
+              "value": "BWT Alpine F1 Team"
+            },
+            {
+              "language": "ca",
+              "value": "BWT Alpine F1 Team"
+            },
+            {
+              "language": "sr",
+              "value": "Алпин Ф1"
+            },
+            {
+              "language": "he",
+              "value": "אלפין (קבוצת מרוצים)"
+            },
+            {
+              "language": "tr",
+              "value": "Alpine F1 takımı"
+            },
+            {
+              "language": "ko",
+              "value": "알파인 F1"
+            },
+            {
+              "language": "vi",
+              "value": "Đội đua Alpine"
+            },
+            {
+              "language": "zh",
+              "value": "阿爾派車隊"
+            },
+            {
+              "language": "es",
+              "value": "Alpine"
+            },
+            {
+              "language": "es_ar",
+              "value": "Alpine"
+            },
+            {
+              "language": "en_au",
+              "value": "Alpine"
+            },
+            {
+              "language": "hu",
+              "value": "Alpine"
+            },
+            {
+              "language": "da",
+              "value": "Alpine F1"
+            },
+            {
+              "language": "no",
+              "value": "Alpine F1"
+            },
+            {
+              "language": "bs",
+              "value": "Alpine F1"
+            },
+            {
+              "language": "nb",
+              "value": "Alpine F1"
+            },
+            {
+              "language": "sv",
+              "value": "Alpine F1"
+            },
+            {
+              "language": "ru",
+              "value": "Альпин"
+            },
+            {
+              "language": "hr",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "pt",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "cs",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "el",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "et",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "id",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "ro",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "ms",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "fi",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "eu",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "lt",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "pl",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "sk",
+              "value": "Alpine F1 Team"
+            },
+            {
+              "language": "it",
+              "value": "Renault F1"
+            },
+            {
+              "language": "uk",
+              "value": "Альпін (команда Формули-1)"
+            },
+            {
+              "language": "af",
+              "value": "Alpine F1-span"
+            },
+            {
+              "language": "ja",
+              "value": "アルピーヌF1チーム"
+            }
+          ],
+          "description": "An elite French Formula One racing team known for its commitment to technical precision and competitive excellence on the global stage. Operating under the Renault Group, it represents the intersection of advanced automotive engineering and high-speed professional athletics. The organization actively contributes to the development of next-generation racing technology while engaging a massive, international audience of motorsport enthusiasts. Its identity is defined by a pursuit of peak performance and a relentless focus on moving forward in the world of competitive racing.",
+          "external": {
+            "instagram": {
+              "id": "alpinef1team"
+            },
+            "twitter": {
+              "id": "alpinef1team"
+            },
+            "wikidata": {
+              "id": "Q98930155"
+            }
+          },
+          "founded_year": "2021",
+          "image": {
+            "url": "https://images.qloo.com/i/54D8BFA3-2EBC-4D97-B6AF-CD0CD32F65B1-420x-auto.jpg"
+          },
+          "short_description": "Alpine F1 Team is a Formula One racing team competing since 2021, known for its carbon fibre chassis and notable drivers like Esteban Ocon.",
+          "short_descriptions": [
+            {
+              "language": "fr",
+              "value": "Une écurie française de haute performance qui concourt au sommet du sport automobile international."
+            },
+            {
+              "language": "en",
+              "value": "A high-performance French motor racing organization competing at the pinnacle of international motorsport."
+            },
+            {
+              "language": "de",
+              "value": "Ein französisches Hochleistungs-Rennteam, das an der Spitze des internationalen Motorsports antritt."
+            },
+            {
+              "language": "es",
+              "value": "Una escudería francesa de alto rendimiento que compite en la cima del automovilismo internacional."
+            }
+          ]
+        },
+        "popularity": 0.9863453747181774,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Sleek",
+            "tag_id": "urn:tag:aesthetic_property:qloo:sleek",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Metallic",
+            "tag_id": "urn:tag:aesthetic_property:qloo:metallic",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Geometric",
+            "tag_id": "urn:tag:aesthetic_property:qloo:geometric",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Bold Color Contrast",
+            "tag_id": "urn:tag:aesthetic_property:qloo:bold_color_contrast",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Engineering Excellence",
+            "tag_id": "urn:tag:lifestyle:qloo:engineering_excellence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Professional Achievement",
+            "tag_id": "urn:tag:lifestyle:qloo:professional_achievement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Elite Athleticism",
+            "tag_id": "urn:tag:lifestyle:qloo:elite_athleticism",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "International Competition",
+            "tag_id": "urn:tag:lifestyle:qloo:international_competition",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Mercedes-AMG Petronas F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:mercedes_amg_petronas_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Scuderia Ferrari",
+            "tag_id": "urn:tag:competitor_brand:qloo:scuderia_ferrari",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Red Bull Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:red_bull_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "McLaren Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:mclaren_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Innovation",
+            "tag_id": "urn:tag:core_value:qloo:innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Speed",
+            "tag_id": "urn:tag:core_value:qloo:speed",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Determination",
+            "tag_id": "urn:tag:core_value:qloo:determination",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Sports Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_sports_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Automotive Innovation",
+            "tag_id": "urn:tag:cultural_relevance:qloo:automotive_innovation",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Technological Advancement",
+            "tag_id": "urn:tag:cultural_relevance:qloo:technological_advancement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Motorsport Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:motorsport_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Automotive Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:automotive_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Performance Engineering Followers",
+            "tag_id": "urn:tag:customer_segment:qloo:performance_engineering_followers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Bold",
+            "tag_id": "urn:tag:emotional_tone:qloo:bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Competitive",
+            "tag_id": "urn:tag:emotional_tone:qloo:competitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:emotional_tone:qloo:ambitious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Dynamic",
+            "tag_id": "urn:tag:emotional_tone:qloo:dynamic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Automotive",
+            "tag_id": "urn:tag:industry:qloo:automotive",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Sports",
+            "tag_id": "urn:tag:industry:qloo:professional_sports",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Technology Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:technology_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Influencers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:automotive_influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Lifestyle Vloggers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:lifestyle_vloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:interest_adjacency:qloo:automotive_engineering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Motorsport History",
+            "tag_id": "urn:tag:interest_adjacency:qloo:motorsport_history",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Performance Driving",
+            "tag_id": "urn:tag:interest_adjacency:qloo:performance_driving",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Sports Strategy",
+            "tag_id": "urn:tag:interest_adjacency:qloo:sports_strategy",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Aeroacoustics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:aeroacoustics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "France",
+            "tag_id": "urn:tag:key_market:qloo:france",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Global",
+            "tag_id": "urn:tag:key_market:qloo:global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Formula 1",
+            "tag_id": "urn:tag:keyword:qloo:formula_1",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:keyword:qloo:motorsport",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Racing",
+            "tag_id": "urn:tag:keyword:qloo:racing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Engineering",
+            "tag_id": "urn:tag:keyword:qloo:engineering",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Performance",
+            "tag_id": "urn:tag:keyword:qloo:performance",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Renault Group",
+            "tag_id": "urn:tag:partnership:qloo:renault_group",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "BP Castrol",
+            "tag_id": "urn:tag:partnership:qloo:bp_castrol",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Microsoft",
+            "tag_id": "urn:tag:partnership:qloo:microsoft",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Binance",
+            "tag_id": "urn:tag:partnership:qloo:binance",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Following Live Sports",
+            "tag_id": "urn:tag:lifestyle:qloo:following_live_sports",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Analyzing Technical Specs",
+            "tag_id": "urn:tag:lifestyle:qloo:analyzing_technical_specs",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "High-Performance Living",
+            "tag_id": "urn:tag:lifestyle:qloo:high_performance_living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Formula One Racing",
+            "tag_id": "urn:tag:product_service:qloo:formula_one_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Professional Motorsport Services",
+            "tag_id": "urn:tag:product_service:qloo:professional_motorsport_services",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Engineering Development",
+            "tag_id": "urn:tag:product_service:qloo:engineering_development",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Aston Martin Aramco Formula One Team",
+            "tag_id": "urn:tag:similar_brand:qloo:aston_martin_aramco_formula_one_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Williams Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:williams_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Haas F1 Team",
+            "tag_id": "urn:tag:similar_brand:qloo:haas_f1_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Net Zero Carbon Commitment",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:net_zero_carbon_commitment",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Reduced Carbon Emissions",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:reduced_carbon_emissions",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Male",
+            "tag_id": "urn:tag:target_gender:qloo:male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Female",
+            "tag_id": "urn:tag:target_gender:qloo:female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Non-Binary",
+            "tag_id": "urn:tag:target_gender:qloo:non_binary",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "McLaren Racing",
+        "entity_id": "40BC6A46-4A48-4235-B416-10DFAB53A904",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ru",
+              "value": "Макларен"
+            },
+            {
+              "language": "uk",
+              "value": "Макларен"
+            },
+            {
+              "language": "he",
+              "value": "מקלארן"
+            },
+            {
+              "language": "th",
+              "value": "แมคลาเรน"
+            },
+            {
+              "language": "ar",
+              "value": "ماكلارين"
+            },
+            {
+              "language": "ko",
+              "value": "맥라렌"
+            },
+            {
+              "language": "sq",
+              "value": "Team McLaren"
+            },
+            {
+              "language": "ja",
+              "value": "マクラーレン"
+            },
+            {
+              "language": "de",
+              "value": "McLaren"
+            },
+            {
+              "language": "af",
+              "value": "McLaren"
+            },
+            {
+              "language": "es",
+              "value": "McLaren"
+            },
+            {
+              "language": "bs",
+              "value": "McLaren"
+            },
+            {
+              "language": "hr",
+              "value": "McLaren"
+            },
+            {
+              "language": "et",
+              "value": "McLaren"
+            },
+            {
+              "language": "nn",
+              "value": "McLaren"
+            },
+            {
+              "language": "es_ar",
+              "value": "McLaren"
+            },
+            {
+              "language": "id",
+              "value": "McLaren"
+            },
+            {
+              "language": "vi",
+              "value": "McLaren"
+            },
+            {
+              "language": "az",
+              "value": "McLaren"
+            },
+            {
+              "language": "fr",
+              "value": "McLaren"
+            },
+            {
+              "language": "lt",
+              "value": "McLaren"
+            },
+            {
+              "language": "lv",
+              "value": "McLaren"
+            },
+            {
+              "language": "en_au",
+              "value": "McLaren"
+            },
+            {
+              "language": "pt",
+              "value": "McLaren"
+            },
+            {
+              "language": "ms",
+              "value": "McLaren"
+            },
+            {
+              "language": "no",
+              "value": "McLaren"
+            },
+            {
+              "language": "fi",
+              "value": "McLaren"
+            },
+            {
+              "language": "eu",
+              "value": "McLaren"
+            },
+            {
+              "language": "gl",
+              "value": "McLaren"
+            },
+            {
+              "language": "sl",
+              "value": "McLaren"
+            },
+            {
+              "language": "pt_pt",
+              "value": "McLaren"
+            },
+            {
+              "language": "sk",
+              "value": "McLaren"
+            },
+            {
+              "language": "nb",
+              "value": "McLaren"
+            },
+            {
+              "language": "hu",
+              "value": "McLaren"
+            },
+            {
+              "language": "tr",
+              "value": "McLaren"
+            },
+            {
+              "language": "sv",
+              "value": "McLaren"
+            },
+            {
+              "language": "zh",
+              "value": "邁凱倫"
+            },
+            {
+              "language": "el",
+              "value": "Μακλάρεν"
+            },
+            {
+              "language": "it",
+              "value": "Scuderia McLaren"
+            },
+            {
+              "language": "nl",
+              "value": "McLaren (Formule 1-team)"
+            },
+            {
+              "language": "bg",
+              "value": "Макларън"
+            },
+            {
+              "language": "cs",
+              "value": "McLaren Formula 1 (tým)"
+            },
+            {
+              "language": "da",
+              "value": "McLaren Racing"
+            },
+            {
+              "language": "pl",
+              "value": "McLaren Racing"
+            },
+            {
+              "language": "ro",
+              "value": "McLaren Racing Limited"
+            },
+            {
+              "language": "ca",
+              "value": "McLaren Racing Limited"
+            },
+            {
+              "language": "sr",
+              "value": "Мекларен"
+            },
+            {
+              "language": "mk",
+              "value": "Мекларен"
+            }
+          ],
+          "description": "Established in 1963, this iconic organization is a powerhouse in international motorsport, primarily recognized for its long-standing participation in Formula One. The team combines rigorous engineering expertise with a commitment to high-performance technology to maintain its competitive edge on the track. Beyond racing, it has expanded its footprint into Formula E and professional sim racing, creating a multi-faceted entertainment brand. With a dedicated global fanbase, it continues to define its legacy through both historical achievements and a forward-looking focus on innovation and sustainability.",
+          "external": {
+            "instagram": {
+              "id": "mclaren"
+            },
+            "twitter": {
+              "id": "mclaren"
+            },
+            "wikidata": {
+              "id": "Q172030"
+            }
+          },
+          "founded_year": "1963",
+          "image": {
+            "url": "https://images.qloo.com/i/40BC6A46-4A48-4235-B416-10DFAB53A904-420x-auto.jpg"
+          },
+          "short_description": "McLaren Racing is a British motorsport brand known for its Formula One team and high-performance automotive engineering.",
+          "short_descriptions": [
+            {
+              "language": "es",
+              "value": "Una legendaria escudería británica, sinónimo de innovación, velocidad y excelencia competitiva en el automovilismo mundial y la ingeniería."
+            },
+            {
+              "language": "de",
+              "value": "Ein legendärer britischer Rennstall, der für Innovation, Geschwindigkeit und sportliche Spitzenleistung im weltweiten Motorsport und in der Ingenieurskunst steht."
+            },
+            {
+              "language": "fr",
+              "value": "Une légendaire écurie britannique synonyme d'innovation, de vitesse et d'excellence compétitive dans le sport automobile mondial et l'ingénierie."
+            },
+            {
+              "language": "en",
+              "value": "A legendary British racing organization synonymous with innovation, speed, and competitive excellence in global motorsport and engineering."
+            }
+          ]
+        },
+        "popularity": 0.9966859351426489,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Car & SUV",
+            "tag_id": "urn:tag:genre:brand:automotive:car_and_suv",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Motorsports",
+            "tag_id": "urn:tag:genre:brand:sports_organization:motorsports",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Automotive",
+            "tag_id": "urn:tag:genre:brand:automotive",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Papaya Orange Accent",
+            "tag_id": "urn:tag:aesthetic_property:qloo:papaya_orange_accent",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Sleek Aerodynamic Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:sleek_aerodynamic_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Modern Industrial Minimalism",
+            "tag_id": "urn:tag:aesthetic_property:qloo:modern_industrial_minimalism",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "High-Tech Graphics",
+            "tag_id": "urn:tag:aesthetic_property:qloo:high_tech_graphics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Precision Engineering",
+            "tag_id": "urn:tag:lifestyle:qloo:precision_engineering",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Peak Human Performance",
+            "tag_id": "urn:tag:lifestyle:qloo:peak_human_performance",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Engineering Innovation",
+            "tag_id": "urn:tag:lifestyle:qloo:engineering_innovation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Elite Athletic Success",
+            "tag_id": "urn:tag:lifestyle:qloo:elite_athletic_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Licensing",
+            "tag_id": "urn:tag:business_model:qloo:licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Red Bull Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:red_bull_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Ferrari",
+            "tag_id": "urn:tag:competitor_brand:qloo:ferrari",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Mercedes-AMG Petronas F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:mercedes_amg_petronas_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Innovation",
+            "tag_id": "urn:tag:core_value:qloo:innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Performance",
+            "tag_id": "urn:tag:core_value:qloo:performance",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Excellence",
+            "tag_id": "urn:tag:core_value:qloo:excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:core_value:qloo:heritage",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Motorsport Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:motorsport_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "High-Performance Technology",
+            "tag_id": "urn:tag:cultural_relevance:qloo:high_performance_technology",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Gaming Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:gaming_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Motorsport Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:motorsport_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Formula One Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:formula_one_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Gaming Community",
+            "tag_id": "urn:tag:customer_segment:qloo:gaming_community",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Automotive Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:automotive_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Bold",
+            "tag_id": "urn:tag:emotional_tone:qloo:bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:emotional_tone:qloo:ambitious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Technological",
+            "tag_id": "urn:tag:emotional_tone:qloo:technological",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:industry:qloo:automotive_engineering",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Technology Analysts",
+            "tag_id": "urn:tag:influencer_appeal:qloo:technology_analysts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Motorsport Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:motorsport_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Esports Competitors",
+            "tag_id": "urn:tag:influencer_appeal:qloo:esports_competitors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:interest_adjacency:qloo:automotive_engineering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:interest_adjacency:qloo:motorsport",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Esports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:esports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Formula One",
+            "tag_id": "urn:tag:interest_adjacency:qloo:formula_one",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Performance Technology",
+            "tag_id": "urn:tag:interest_adjacency:qloo:performance_technology",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Global",
+            "tag_id": "urn:tag:key_market:qloo:global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Formula One",
+            "tag_id": "urn:tag:keyword:qloo:formula_one",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Papaya",
+            "tag_id": "urn:tag:keyword:qloo:papaya",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:keyword:qloo:motorsport",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Engineering",
+            "tag_id": "urn:tag:keyword:qloo:engineering",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Innovation",
+            "tag_id": "urn:tag:keyword:qloo:innovation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "K-Swiss",
+            "tag_id": "urn:tag:partnership:qloo:k_swiss",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "New Era",
+            "tag_id": "urn:tag:partnership:qloo:new_era",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Salesforce",
+            "tag_id": "urn:tag:partnership:qloo:salesforce",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "High-Octane Experiences",
+            "tag_id": "urn:tag:lifestyle:qloo:high_octane_experiences",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Technological Exploration",
+            "tag_id": "urn:tag:lifestyle:qloo:technological_exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Digital Gaming",
+            "tag_id": "urn:tag:lifestyle:qloo:digital_gaming",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Heritage",
+            "tag_id": "urn:tag:market_archetype:qloo:heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Mainstream",
+            "tag_id": "urn:tag:market_archetype:qloo:mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "sporty",
+            "tag_id": "urn:tag:personal_style:qloo:sporty",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "technical",
+            "tag_id": "urn:tag:personal_style:qloo:technical",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "casual-luxury",
+            "tag_id": "urn:tag:personal_style:qloo:casual_luxury",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "athleisure",
+            "tag_id": "urn:tag:personal_style:qloo:athleisure",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "branded motorsport apparel",
+            "tag_id": "urn:tag:personal_style:qloo:branded_motorsport_apparel",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Formula One Racing",
+            "tag_id": "urn:tag:product_service:qloo:formula_one_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Formula E Racing",
+            "tag_id": "urn:tag:product_service:qloo:formula_e_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Sim Racing",
+            "tag_id": "urn:tag:product_service:qloo:sim_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Team Apparel",
+            "tag_id": "urn:tag:product_service:qloo:team_apparel",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Williams Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:williams_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Aston Martin Aramco F1 Team",
+            "tag_id": "urn:tag:similar_brand:qloo:aston_martin_aramco_f1_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "NEOM McLaren Formula E Team",
+            "tag_id": "urn:tag:subsidiary:qloo:neom_mclaren_formula_e_team",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "McLaren F1 Sim Racing Team",
+            "tag_id": "urn:tag:subsidiary:qloo:mclaren_f1_sim_racing_team",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "name": "Net Zero Carbon Roadmap",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:net_zero_carbon_roadmap",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Reduced Carbon Emissions",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:reduced_carbon_emissions",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "name": "Teens",
+            "tag_id": "urn:tag:target_age_group:qloo:teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Haas F1 Team",
+        "entity_id": "50697CEC-2A01-4BA3-997D-9CEA5E8548E7",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "ar",
+              "value": "فريق هاس اف ون"
+            },
+            {
+              "language": "az",
+              "value": "Haas (Formula-1 komandası)"
+            },
+            {
+              "language": "tr",
+              "value": "Haas F1 Takımı"
+            },
+            {
+              "language": "ko",
+              "value": "하스 F1"
+            },
+            {
+              "language": "af",
+              "value": "Haas F1-span"
+            },
+            {
+              "language": "ru",
+              "value": "Хаас"
+            },
+            {
+              "language": "ja",
+              "value": "ハースF1チーム"
+            },
+            {
+              "language": "uk",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "pt",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "et",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "da",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "nn",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "ro",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "no",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "fi",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "eu",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "gl",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "sl",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "ca",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "lt",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "pl",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "nb",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "hu",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "sv",
+              "value": "Haas F1 Team"
+            },
+            {
+              "language": "de",
+              "value": "Haas F1"
+            },
+            {
+              "language": "nl",
+              "value": "Haas F1"
+            },
+            {
+              "language": "es",
+              "value": "Haas F1"
+            },
+            {
+              "language": "es_ar",
+              "value": "Haas F1"
+            },
+            {
+              "language": "id",
+              "value": "Haas F1"
+            },
+            {
+              "language": "lv",
+              "value": "Haas F1"
+            },
+            {
+              "language": "bs",
+              "value": "Haas F1"
+            },
+            {
+              "language": "hr",
+              "value": "Haas F1"
+            },
+            {
+              "language": "en_au",
+              "value": "Haas F1"
+            },
+            {
+              "language": "fr",
+              "value": "Haas F1"
+            },
+            {
+              "language": "sk",
+              "value": "Haas F1"
+            },
+            {
+              "language": "cs",
+              "value": "Haas F1"
+            },
+            {
+              "language": "el",
+              "value": "Χάας Φόρμουλα 1"
+            },
+            {
+              "language": "zh",
+              "value": "哈斯車隊"
+            },
+            {
+              "language": "vi",
+              "value": "Đội đua Haas"
+            },
+            {
+              "language": "he",
+              "value": "האס"
+            },
+            {
+              "language": "sr",
+              "value": "Хас Ф1"
+            }
+          ],
+          "description": "An American professional racing organization that competes at the highest level of international open-wheel motorsport. Founded by Gene Haas, the team leverages sophisticated engineering and data-driven development to compete in a technically demanding, global environment. Its presence in the sport serves to showcase industrial technological innovation while engaging a massive, international fanbase through consistent performance and tactical evolution.",
+          "external": {
+            "instagram": {
+              "id": "haasf1team"
+            },
+            "twitter": {
+              "id": "haasf1team"
+            },
+            "wikidata": {
+              "id": "Q16300222"
+            }
+          },
+          "founded_year": "2014",
+          "image": {
+            "url": "https://images.qloo.com/i/50697CEC-2A01-4BA3-997D-9CEA5E8548E7-420x-auto.jpg"
+          },
+          "short_description": "Haas F1 Team is an American Formula 1 racing team competing in the F1 World Championship, known for drivers like Esteban Ocon and Oliver Bearman.",
+          "short_descriptions": [
+            {
+              "language": "fr",
+              "value": "Une écurie américaine qui concourt au sommet du sport automobile international grâce à l'ingénierie de précision et l'innovation tactique."
+            },
+            {
+              "language": "es",
+              "value": "Una escudería estadounidense que compite en la cima del automovilismo internacional a través de la ingeniería de precisión y la innovación táctica."
+            },
+            {
+              "language": "en",
+              "value": "An American racing organization competing at the pinnacle of international motorsport through precision engineering and tactical innovation."
+            },
+            {
+              "language": "de",
+              "value": "Ein amerikanisches Rennteam, das durch Präzisionstechnik und taktische Innovation an der Spitze des internationalen Motorsports antritt."
+            }
+          ]
+        },
+        "popularity": 0.9720889627231273,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Sports Organization",
+            "tag_id": "urn:tag:genre:brand:sports_organization",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Motorsports",
+            "tag_id": "urn:tag:genre:brand:sports_organization:motorsports",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "name": "Industrial Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:industrial_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Precision Graphics",
+            "tag_id": "urn:tag:aesthetic_property:qloo:precision_graphics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Metallic Color Palette",
+            "tag_id": "urn:tag:aesthetic_property:qloo:metallic_color_palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Minimalist Branding",
+            "tag_id": "urn:tag:aesthetic_property:qloo:minimalist_branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "High-Performance Living",
+            "tag_id": "urn:tag:lifestyle:qloo:high_performance_living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Global Competitive Success",
+            "tag_id": "urn:tag:lifestyle:qloo:global_competitive_success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Technological Mastery",
+            "tag_id": "urn:tag:lifestyle:qloo:technological_mastery",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Subscription",
+            "tag_id": "urn:tag:business_model:qloo:subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Williams Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:williams_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Sauber",
+            "tag_id": "urn:tag:competitor_brand:qloo:sauber",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Visa Cash App RB",
+            "tag_id": "urn:tag:competitor_brand:qloo:visa_cash_app_rb",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Innovation",
+            "tag_id": "urn:tag:core_value:qloo:innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Precision",
+            "tag_id": "urn:tag:core_value:qloo:precision",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Efficiency",
+            "tag_id": "urn:tag:core_value:qloo:efficiency",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Determination",
+            "tag_id": "urn:tag:core_value:qloo:determination",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Motorsport Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_motorsport_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Stem Advocacy",
+            "tag_id": "urn:tag:cultural_relevance:qloo:stem_advocacy",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Motorsport Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:motorsport_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Engineering Professionals",
+            "tag_id": "urn:tag:customer_segment:qloo:engineering_professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Automotive Industry Stakeholders",
+            "tag_id": "urn:tag:customer_segment:qloo:automotive_industry_stakeholders",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Technical",
+            "tag_id": "urn:tag:emotional_tone:qloo:technical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Determined",
+            "tag_id": "urn:tag:emotional_tone:qloo:determined",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Precise",
+            "tag_id": "urn:tag:emotional_tone:qloo:precise",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:emotional_tone:qloo:ambitious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Sports & Fitness",
+            "tag_id": "urn:tag:industry:qloo:sports_fitness",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Automotive",
+            "tag_id": "urn:tag:industry:qloo:automotive",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Technology",
+            "tag_id": "urn:tag:industry:qloo:technology",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Tech Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:tech_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:automotive_engineers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Broadcasters",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_broadcasters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:interest_adjacency:qloo:automotive_engineering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:interest_adjacency:qloo:motorsport",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Data Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:data_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Aerodynamics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:aerodynamics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Strategy",
+            "tag_id": "urn:tag:interest_adjacency:qloo:strategy",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United States",
+            "tag_id": "urn:tag:key_market:qloo:united_states",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Italy",
+            "tag_id": "urn:tag:key_market:qloo:italy",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Grand Prix",
+            "tag_id": "urn:tag:keyword:qloo:grand_prix",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Motorsport Engineering",
+            "tag_id": "urn:tag:keyword:qloo:motorsport_engineering",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Formula 1",
+            "tag_id": "urn:tag:keyword:qloo:formula_1",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Aerodynamics",
+            "tag_id": "urn:tag:keyword:qloo:aerodynamics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "MoneyGram",
+            "tag_id": "urn:tag:partnership:qloo:moneygram",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Haas Automation",
+            "tag_id": "urn:tag:partnership:qloo:haas_automation",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Global Travel",
+            "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Watching Live Sports",
+            "tag_id": "urn:tag:lifestyle:qloo:watching_live_sports",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Technological Engagement",
+            "tag_id": "urn:tag:lifestyle:qloo:technological_engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Challenger",
+            "tag_id": "urn:tag:market_archetype:qloo:challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "null",
+            "tag_id": "urn:tag:personal_style:qloo:null",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "name": "Formula 1 Racing",
+            "tag_id": "urn:tag:product_service:qloo:formula_1_racing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Technical Partnerships",
+            "tag_id": "urn:tag:product_service:qloo:technical_partnerships",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Motorsport Content",
+            "tag_id": "urn:tag:product_service:qloo:motorsport_content",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Fan Membership Programs",
+            "tag_id": "urn:tag:product_service:qloo:fan_membership_programs",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "McLaren Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:mclaren_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Aston Martin Aramco",
+            "tag_id": "urn:tag:similar_brand:qloo:aston_martin_aramco",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Alpine F1 Team",
+            "tag_id": "urn:tag:similar_brand:qloo:alpine_f1_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Young Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Adults",
+            "tag_id": "urn:tag:target_age_group:qloo:adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Middle-Aged",
+            "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "name": "Gender-Neutral",
+            "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "name": "Medium",
+            "tag_id": "urn:tag:target_income_level:qloo:medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "Medium to High",
+            "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "name": "High",
+            "tag_id": "urn:tag:target_income_level:qloo:high",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ]
+      },
+      {
+        "name": "Racing Point F1 Team",
+        "entity_id": "437A7142-7EEC-40AD-AA3F-F317E485D088",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "properties": {
+          "akas": [
+            {
+              "language": "it",
+              "value": "Racing Point"
+            },
+            {
+              "language": "de",
+              "value": "Racing Point"
+            },
+            {
+              "language": "nl",
+              "value": "Racing Point"
+            },
+            {
+              "language": "es",
+              "value": "Racing Point"
+            },
+            {
+              "language": "es_ar",
+              "value": "Racing Point"
+            },
+            {
+              "language": "en_au",
+              "value": "Racing Point"
+            },
+            {
+              "language": "fr",
+              "value": "Racing Point"
+            },
+            {
+              "language": "el",
+              "value": "Racing Point F1"
+            },
+            {
+              "language": "ko",
+              "value": "레이싱 포인트 F1 팀"
+            },
+            {
+              "language": "ru",
+              "value": "Рейсинг Пойнт (команда Формулы-1)"
+            },
+            {
+              "language": "uk",
+              "value": "Racing Point Force India"
+            },
+            {
+              "language": "ja",
+              "value": "レーシング・ポイント・F1チーム"
+            },
+            {
+              "language": "af",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "bs",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "hr",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "cs",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "et",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "nn",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "id",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "vi",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "lt",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "pl",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "he",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "sq",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "lv",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "pt",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "da",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "ro",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "ms",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "no",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "fi",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "eu",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "gl",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "sl",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "ca",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "pt_pt",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "sk",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "nb",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "hu",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "tr",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "sv",
+              "value": "Racing Point F1 Team"
+            },
+            {
+              "language": "zh",
+              "value": "赛点车队"
+            },
+            {
+              "language": "sr",
+              "value": "Рејсинг појнт Ф1 тим"
+            }
+          ],
+          "description": "An ambitious Formula One racing team based at the heart of the sport in Silverstone, known for its challenger spirit and engineering prowess. The team combines technical expertise with a dedicated workforce to compete at the highest level of global motorsport. Beyond on-track performance, the brand engages a global fan base through digital content, esports, and strategic partnerships. It operates as a high-performance entity driven by innovation, ambition, and a relentless commitment to competitive success.",
+          "external": {
+            "instagram": {
+              "id": "racingpointf1"
+            },
+            "twitter": {
+              "id": "racingpointf1"
+            },
+            "wikidata": {
+              "id": "Q56245286"
+            }
+          },
+          "founded_year": "2018",
+          "short_description": "Racing Point F1 Team was a British Formula One motor racing team and constructor competing in the Formula One World Championship.",
+          "short_descriptions": [
+            {
+              "language": "fr",
+              "value": "Une écurie de course ambitieuse qui concourt au sommet du sport automobile grâce à une ingénierie de précision et un esprit de compétition acharné."
+            },
+            {
+              "language": "en",
+              "value": "An ambitious racing team competing at the pinnacle of motorsport through precise engineering and a relentless competitive spirit."
+            },
+            {
+              "language": "de",
+              "value": "Ein ehrgeiziges Rennteam, das an der Spitze des Motorsports durch präzise Technik und unnachgiebigen Wettbewerbsgeist überzeugt."
+            },
+            {
+              "language": "es",
+              "value": "Un equipo de carreras ambicioso que compite en la cima del automovilismo mediante una ingeniería precisa y un espíritu competitivo incesante."
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/437A7142-7EEC-40AD-AA3F-F317E485D088-420x-auto.jpg"
+          }
+        },
+        "popularity": 0.9584173857029038,
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "Dynamic Racing Livery",
+            "tag_id": "urn:tag:aesthetic_property:qloo:dynamic_racing_livery",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "High-Visibility Branding",
+            "tag_id": "urn:tag:aesthetic_property:qloo:high_visibility_branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Industrial Design",
+            "tag_id": "urn:tag:aesthetic_property:qloo:industrial_design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Technical Precision",
+            "tag_id": "urn:tag:aesthetic_property:qloo:technical_precision",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "name": "Achieving High-Performance Excellence",
+            "tag_id": "urn:tag:lifestyle:qloo:achieving_high_performance_excellence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Participating In Global Competitive Arenas",
+            "tag_id": "urn:tag:lifestyle:qloo:participating_in_global_competitive_arenas",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Mastering Technical Complexity",
+            "tag_id": "urn:tag:lifestyle:qloo:mastering_technical_complexity",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Other",
+            "tag_id": "urn:tag:brand_subtype:qloo:other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "name": "Entertainment Brand",
+            "tag_id": "urn:tag:brand_type:qloo:entertainment_brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "name": "B2C",
+            "tag_id": "urn:tag:business_model:qloo:b2c",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "B2B",
+            "tag_id": "urn:tag:business_model:qloo:b2b",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Advertising",
+            "tag_id": "urn:tag:business_model:qloo:advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Subscription",
+            "tag_id": "urn:tag:business_model:qloo:subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "name": "Mercedes-AMG Petronas F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:mercedes_amg_petronas_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Red Bull Racing",
+            "tag_id": "urn:tag:competitor_brand:qloo:red_bull_racing",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Scuderia Ferrari",
+            "tag_id": "urn:tag:competitor_brand:qloo:scuderia_ferrari",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "McLaren F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:mclaren_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Renault F1 Team",
+            "tag_id": "urn:tag:competitor_brand:qloo:renault_f1_team",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "name": "Ambition",
+            "tag_id": "urn:tag:core_value:qloo:ambition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Teamwork",
+            "tag_id": "urn:tag:core_value:qloo:teamwork",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Precision",
+            "tag_id": "urn:tag:core_value:qloo:precision",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Resilience",
+            "tag_id": "urn:tag:core_value:qloo:resilience",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "name": "Global Sports Culture",
+            "tag_id": "urn:tag:cultural_relevance:qloo:global_sports_culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Engineering Innovation",
+            "tag_id": "urn:tag:cultural_relevance:qloo:engineering_innovation",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Premium Sports Entertainment",
+            "tag_id": "urn:tag:cultural_relevance:qloo:premium_sports_entertainment",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "name": "Motorsport Enthusiasts",
+            "tag_id": "urn:tag:customer_segment:qloo:motorsport_enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Global Sports Fans",
+            "tag_id": "urn:tag:customer_segment:qloo:global_sports_fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Tech And Engineering Professionals",
+            "tag_id": "urn:tag:customer_segment:qloo:tech_and_engineering_professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "name": "Ambitious",
+            "tag_id": "urn:tag:emotional_tone:qloo:ambitious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Driven",
+            "tag_id": "urn:tag:emotional_tone:qloo:driven",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Passionate",
+            "tag_id": "urn:tag:emotional_tone:qloo:passionate",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Technically-Minded",
+            "tag_id": "urn:tag:emotional_tone:qloo:technically_minded",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "name": "Media & Entertainment",
+            "tag_id": "urn:tag:industry:qloo:media_entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:industry:qloo:motorsport",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Automotive",
+            "tag_id": "urn:tag:industry:qloo:automotive",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "name": "Professional Athletes",
+            "tag_id": "urn:tag:influencer_appeal:qloo:professional_athletes",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Motorsport Journalists",
+            "tag_id": "urn:tag:influencer_appeal:qloo:motorsport_journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Technical Experts",
+            "tag_id": "urn:tag:influencer_appeal:qloo:technical_experts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Sports Broadcasters",
+            "tag_id": "urn:tag:influencer_appeal:qloo:sports_broadcasters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Performance Lifestyle Influencers",
+            "tag_id": "urn:tag:influencer_appeal:qloo:performance_lifestyle_influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "name": "Automotive Engineering",
+            "tag_id": "urn:tag:interest_adjacency:qloo:automotive_engineering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Data Analytics",
+            "tag_id": "urn:tag:interest_adjacency:qloo:data_analytics",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "High-Performance Sports",
+            "tag_id": "urn:tag:interest_adjacency:qloo:high_performance_sports",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Strategic Gaming",
+            "tag_id": "urn:tag:interest_adjacency:qloo:strategic_gaming",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "Luxury Technology",
+            "tag_id": "urn:tag:interest_adjacency:qloo:luxury_technology",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "name": "United Kingdom",
+            "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Europe",
+            "tag_id": "urn:tag:key_market:qloo:europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Global",
+            "tag_id": "urn:tag:key_market:qloo:global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "name": "Formula One",
+            "tag_id": "urn:tag:keyword:qloo:formula_one",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Motorsport",
+            "tag_id": "urn:tag:keyword:qloo:motorsport",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Race Engineering",
+            "tag_id": "urn:tag:keyword:qloo:race_engineering",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Grand Prix",
+            "tag_id": "urn:tag:keyword:qloo:grand_prix",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "Racing Team",
+            "tag_id": "urn:tag:keyword:qloo:racing_team",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "name": "BWT",
+            "tag_id": "urn:tag:partnership:qloo:bwt",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "name": "Weekend Sports Viewing",
+            "tag_id": "urn:tag:lifestyle:qloo:weekend_sports_viewing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Following Global Sporting Events",
+            "tag_id": "urn:tag:lifestyle:qloo:following_global_sporting_events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Technology And Innovation Monitoring",
+            "tag_id": "urn:tag:lifestyle:qloo:technology_and_innovation_monitoring",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "name": "Challenger",
+            "tag_id": "urn:tag:market_archetype:qloo:challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "name": "Professional Racing Team",
+            "tag_id": "urn:tag:product_service:qloo:professional_racing_team",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Formula One Participation",
+            "tag_id": "urn:tag:product_service:qloo:formula_one_participation",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Esports Competitions",
+            "tag_id": "urn:tag:product_service:qloo:esports_competitions",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Team Merchandise",
+            "tag_id": "urn:tag:product_service:qloo:team_merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Fan Experiences",
+            "tag_id": "urn:tag:product_service:qloo:fan_experiences",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "name": "Williams Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:williams_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Haas F1 Team",
+            "tag_id": "urn:tag:similar_brand:qloo:haas_f1_team",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Alfa Romeo Racing",
+            "tag_id": "urn:tag:similar_brand:qloo:alfa_romeo_racing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "name": "Water Technology Awareness",
+            "tag_id": "urn:tag:sustainability_initiative:qloo:water_technology_awareness",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          }
+        ]
+      }
+    ]
+  }
+}
