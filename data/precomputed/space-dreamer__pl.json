@@ -1,0 +1,159 @@
+{
+ "sport": "pl",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "057DA9D9-399B-437E-8BCA-A80E499125EF",
+   "name": "Interstellar"
+  },
+  {
+   "entity_id": "B6FA456F-B729-4700-B01F-E82AD3AC8ADA",
+   "name": "Coldplay"
+  },
+  {
+   "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+   "name": "Minecraft"
+  }
+ ],
+ "featured": {
+  "entity_id": "92192CE5-8276-4965-A321-B323D0BB73F8",
+  "name": "Virgil van Dijk",
+  "team": "Liverpool",
+  "crowd_rank": 1,
+  "personal_rank": 1,
+  "lift": 0,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Virgil van Dijk #1 of 17; the crowd ranks them #1.",
+  "distinctive_seed": "Coldplay",
+  "seed_shares_pct": [
+   {
+    "seed": "Minecraft",
+    "pct": 36
+   },
+   {
+    "seed": "Coldplay",
+    "pct": 32
+   },
+   {
+    "seed": "Interstellar",
+    "pct": 32
+   }
+  ],
+  "next_event": null,
+  "clips": [],
+  "debug": {
+   "final": 0.85,
+   "pct_personal": 1.0,
+   "crowd_pct": 1.0,
+   "distinctive_ratio": 1.0734385267841353
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "966AD5FA-BE7B-48C7-8FA3-54B9584F4FCE",
+   "name": "Phil Foden",
+   "team": "Manchester City",
+   "crowd_rank": 4,
+   "personal_rank": 2,
+   "lift": 2,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Phil Foden #2 of 17; the crowd ranks them #4.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Minecraft",
+     "pct": 37
+    },
+    {
+     "seed": "Interstellar",
+     "pct": 32
+    },
+    {
+     "seed": "Coldplay",
+     "pct": 30
+    }
+   ],
+   "next_event": null,
+   "clips": [],
+   "debug": {
+    "final": 0.8332720588235295,
+    "pct_personal": 0.9375,
+    "crowd_pct": 0.8125,
+    "distinctive_ratio": 1.0210060375426107
+   }
+  },
+  {
+   "entity_id": "906531C2-AD85-4B10-92B4-F898184AB213",
+   "name": "Bruno Fernandes",
+   "team": "Manchester United",
+   "crowd_rank": 2,
+   "personal_rank": 3,
+   "lift": -1,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Bruno Fernandes #3 of 17; the crowd ranks them #2.",
+   "distinctive_seed": "Coldplay",
+   "seed_shares_pct": [
+    {
+     "seed": "Minecraft",
+     "pct": 37
+    },
+    {
+     "seed": "Interstellar",
+     "pct": 32
+    },
+    {
+     "seed": "Coldplay",
+     "pct": 31
+    }
+   ],
+   "next_event": null,
+   "clips": [],
+   "debug": {
+    "final": 0.7255514705882353,
+    "pct_personal": 0.875,
+    "crowd_pct": 0.9375,
+    "distinctive_ratio": 1.054923098716899
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "1C51CBC9-9561-4BC6-A991-BB91A94C3FA6",
+    "name": "Elliot Anderson",
+    "team": "Manchester City"
+   },
+   {
+    "entity_id": "35DF0104-88E9-436D-A648-8C75F26A42FA",
+    "name": "Alexander Isak",
+    "team": "Liverpool"
+   },
+   {
+    "entity_id": "55DC8D55-BE74-450F-8424-0709DCF3D759",
+    "name": "Bradley Barcola",
+    "team": "Liverpool"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": false,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 20 athletes, qloo_calls=1",
+   "ms": 355,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 4,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": false,
+ "precomputed": false
+}

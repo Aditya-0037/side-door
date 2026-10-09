@@ -1,6 +1,10 @@
 httpx
 pydantic>=2
 python-dotenv
+fastapi
+uvicorn
+google-adk
+google-genai
 # dev / tests
 pytest
 respx

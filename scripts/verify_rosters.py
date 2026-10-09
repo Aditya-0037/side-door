@@ -21,7 +21,7 @@ from typing import Any
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from backend.inventory.rosters import (  # noqa: E402
-    ROOT, ROSTERS_PATH, Expected, Pick, candidate_summary, load_f1_grid, load_overrides, load_pl_seed,
+    ROOT, ROSTERS_PATH, Expected, Pick, candidate_dob, candidate_summary, load_f1_grid, load_overrides, load_pl_seed,
     pick_candidate, tier_evidence,
 )
 from backend.qloo.cache import prime_from_fixtures  # noqa: E402
@@ -37,7 +37,7 @@ def verify(entry: dict[str, Any], sport: str, client: QlooClient,
     expected = Expected(names=entry["queries"], team=entry["team"],
                         nationality=entry.get("nationality"), dob=entry.get("dob"))
     row: dict[str, Any] = {"sport": sport, "name": entry["name"], "team": entry["team"], "qloo_id": None,
-                           "verified": "needs_review", "tier": None, "evidence": None, "qloo_name": None,
+                           "verified": "needs_review", "tier": None, "evidence": None, "qloo_name": None, "dob": None,
                            "source": entry["source"], "candidates": []}
     seen: dict[str, SearchResult] = {}
     pick = Pick("none")
@@ -53,13 +53,13 @@ def verify(entry: dict[str, Any], sport: str, client: QlooClient,
         chosen = seen.get(override["qloo_id"])
         ev = tier_evidence(chosen, expected, sport) if chosen else None
         row.update(qloo_id=override["qloo_id"], verified="manual", tier=ev[0] if ev else None,
-                   qloo_name=chosen.name if chosen else None,
+                   qloo_name=chosen.name if chosen else None, dob=candidate_dob(chosen) if chosen else None,
                    evidence=f"manual: {override['reason']}" + (f" | tier {ev[0]}: {ev[1]}" if ev else ""))
         if pick.status == "auto" and pick.result and pick.result.entity_id != override["qloo_id"]:
             print(f"  !!  {entry['name']}: manual pick differs from the auto pick {pick.result.entity_id}")
     elif pick.status == "auto" and pick.result:
         row.update(qloo_id=pick.result.entity_id, verified="auto", tier=pick.tier, evidence=pick.evidence,
-                   qloo_name=pick.result.name)
+                   qloo_name=pick.result.name, dob=candidate_dob(pick.result))
     else:
         row["candidates"] = [candidate_summary(r) for r in list(seen.values())[:10]]
     return row

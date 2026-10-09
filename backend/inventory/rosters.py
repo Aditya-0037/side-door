@@ -66,6 +66,7 @@ class RosterAthlete:
     tier: int | None = None  # evidence tier of qloo_id (1 or 2), None if no tier passed
     evidence: str | None = None
     qloo_name: str | None = None
+    dob: str | None = None  # date of birth of the chosen Qloo entity (used to match Wikidata safely)
     source: str | None = None
     candidates: list[dict[str, Any]] = field(default_factory=list)
 

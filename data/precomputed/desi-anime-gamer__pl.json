@@ -1,0 +1,159 @@
+{
+ "sport": "pl",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595",
+   "name": "Spirited Away"
+  },
+  {
+   "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+   "name": "Arijit Singh"
+  },
+  {
+   "entity_id": "38AE774E-F217-4C96-BE77-B3B40A6344E4",
+   "name": "Valorant"
+  }
+ ],
+ "featured": {
+  "entity_id": "906531C2-AD85-4B10-92B4-F898184AB213",
+  "name": "Bruno Fernandes",
+  "team": "Manchester United",
+  "crowd_rank": 2,
+  "personal_rank": 1,
+  "lift": 1,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Bruno Fernandes #1 of 17; the crowd ranks them #2.",
+  "distinctive_seed": "Arijit Singh",
+  "seed_shares_pct": [
+   {
+    "seed": "Valorant",
+    "pct": 37
+   },
+   {
+    "seed": "Arijit Singh",
+    "pct": 33
+   },
+   {
+    "seed": "Spirited Away",
+    "pct": 30
+   }
+  ],
+  "next_event": null,
+  "clips": [],
+  "debug": {
+   "final": 0.8681985294117647,
+   "pct_personal": 1.0,
+   "crowd_pct": 0.9375,
+   "distinctive_ratio": 1.0605270248841314
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "AF1E99D1-1541-4331-8BD0-8A8B297E754B",
+   "name": "Bukayo Saka",
+   "team": "Arsenal",
+   "crowd_rank": 6,
+   "personal_rank": 3,
+   "lift": 3,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Bukayo Saka #3 of 17; the crowd ranks them #6.",
+   "distinctive_seed": "Spirited Away",
+   "seed_shares_pct": [
+    {
+     "seed": "Valorant",
+     "pct": 36
+    },
+    {
+     "seed": "Spirited Away",
+     "pct": 34
+    },
+    {
+     "seed": "Arijit Singh",
+     "pct": 30
+    }
+   ],
+   "next_event": null,
+   "clips": [],
+   "debug": {
+    "final": 0.7983455882352941,
+    "pct_personal": 0.875,
+    "crowd_pct": 0.6875,
+    "distinctive_ratio": 1.0549094718359804
+   }
+  },
+  {
+   "entity_id": "92192CE5-8276-4965-A321-B323D0BB73F8",
+   "name": "Virgil van Dijk",
+   "team": "Liverpool",
+   "crowd_rank": 1,
+   "personal_rank": 2,
+   "lift": -1,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Virgil van Dijk #2 of 17; the crowd ranks them #1.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Valorant",
+     "pct": 37
+    },
+    {
+     "seed": "Spirited Away",
+     "pct": 32
+    },
+    {
+     "seed": "Arijit Singh",
+     "pct": 32
+    }
+   ],
+   "next_event": null,
+   "clips": [],
+   "debug": {
+    "final": 0.7786764705882353,
+    "pct_personal": 0.9375,
+    "crowd_pct": 1.0,
+    "distinctive_ratio": 1.019112066131902
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "1C51CBC9-9561-4BC6-A991-BB91A94C3FA6",
+    "name": "Elliot Anderson",
+    "team": "Manchester City"
+   },
+   {
+    "entity_id": "35DF0104-88E9-436D-A648-8C75F26A42FA",
+    "name": "Alexander Isak",
+    "team": "Liverpool"
+   },
+   {
+    "entity_id": "55DC8D55-BE74-450F-8424-0709DCF3D759",
+    "name": "Bradley Barcola",
+    "team": "Liverpool"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": false,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 20 athletes, qloo_calls=2",
+   "ms": 781,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 4,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": false,
+ "precomputed": false
+}

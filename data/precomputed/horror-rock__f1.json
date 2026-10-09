@@ -1,0 +1,199 @@
+{
+ "sport": "f1",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "9D0B5ADD-CDFB-489A-A8C9-093DA1244CCD",
+   "name": "The Conjuring"
+  },
+  {
+   "entity_id": "4C4C1DF8-36F0-4210-B4E8-8CF966A93262",
+   "name": "AC/DC"
+  },
+  {
+   "entity_id": "FEFD4E0D-D8F2-4BF9-86C9-06949DE82BCD",
+   "name": "Grand Theft Auto V"
+  }
+ ],
+ "featured": {
+  "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+  "name": "Carlos Sainz Jr.",
+  "team": "Williams",
+  "crowd_rank": 9,
+  "personal_rank": 1,
+  "lift": 8,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (The Conjuring, AC/DC, Grand Theft Auto V) rank Carlos Sainz Jr. #1 of 17; the crowd ranks them #9.",
+  "distinctive_seed": null,
+  "seed_shares_pct": [
+   {
+    "seed": "Grand Theft Auto V",
+    "pct": 37
+   },
+   {
+    "seed": "AC/DC",
+    "pct": 32
+   },
+   {
+    "seed": "The Conjuring",
+    "pct": 31
+   }
+  ],
+  "next_event": {
+   "sport": "f1",
+   "kind": "race",
+   "title": "Singapore Grand Prix — Race",
+   "start_utc": "2026-10-11T12:00:00+00:00",
+   "start_ist": "2026-10-11T17:30:00+05:30",
+   "label_ist": "Sun 11 Oct, 17:30 IST",
+   "window": "evenings",
+   "fits_window": true,
+   "suggestion": null
+  },
+  "clips": [],
+  "debug": {
+   "final": 0.9955882352941177,
+   "pct_personal": 1.0,
+   "crowd_pct": 0.5,
+   "distinctive_ratio": 1.0108907046721713
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+   "name": "Valtteri Bottas",
+   "team": "Cadillac F1 Team",
+   "crowd_rank": 10,
+   "personal_rank": 2,
+   "lift": 8,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (The Conjuring, AC/DC, Grand Theft Auto V) rank Valtteri Bottas #2 of 17; the crowd ranks them #10.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Grand Theft Auto V",
+     "pct": 36
+    },
+    {
+     "seed": "AC/DC",
+     "pct": 33
+    },
+    {
+     "seed": "The Conjuring",
+     "pct": 31
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.9424632352941176,
+    "pct_personal": 0.9375,
+    "crowd_pct": 0.4375,
+    "distinctive_ratio": 1.0352326475550837
+   }
+  },
+  {
+   "entity_id": "D9B34D35-4ADE-4AAB-A19A-A739F8E049CB",
+   "name": "Charles Leclerc",
+   "team": "Ferrari",
+   "crowd_rank": 5,
+   "personal_rank": 3,
+   "lift": 2,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (The Conjuring, AC/DC, Grand Theft Auto V) rank Charles Leclerc #3 of 17; the crowd ranks them #5.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Grand Theft Auto V",
+     "pct": 36
+    },
+    {
+     "seed": "The Conjuring",
+     "pct": 32
+    },
+    {
+     "seed": "AC/DC",
+     "pct": 31
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.7801470588235295,
+    "pct_personal": 0.875,
+    "crowd_pct": 0.75,
+    "distinctive_ratio": 1.0149819183654105
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+    "name": "Oliver Bearman",
+    "team": "Haas F1 Team"
+   },
+   {
+    "entity_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
+    "name": "Andrea Kimi Antonelli",
+    "team": "Mercedes"
+   },
+   {
+    "entity_id": "7C71E983-52BB-4273-91A1-570068448979",
+    "name": "Arvid Lindblad",
+    "team": "RB F1 Team"
+   },
+   {
+    "entity_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
+    "name": "Franco Colapinto",
+    "team": "Alpine F1 Team"
+   },
+   {
+    "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+    "name": "Isack Hadjar",
+    "team": "Red Bull"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": true,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 22 athletes, qloo_calls=0",
+   "ms": 22,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 6,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": true,
+ "precomputed": false
+}

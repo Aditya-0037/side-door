@@ -4,6 +4,8 @@
     {"sport": "pl", "name": "Enzo Fernández", "qloo_id": "5592F57C-1E99-42D0-BB2F-DD452736A212",
      "reason": "Argentine midfielder, born 2001-01-17"},
     {"sport": "pl", "name": "Bruno Fernandes", "qloo_id": "906531C2-AD85-4B10-92B4-F898184AB213",
-     "reason": "Portuguese, born 1994-09-08; Manchester United F.C. in team list"}
+     "reason": "Portuguese, born 1994-09-08; Manchester United F.C. in team list"},
+    {"sport": "pl", "name": "Morgan Rogers", "qloo_id": "776CB742-FA7C-4084-A8DA-12B9990EEFD3",
+     "reason": "English, born 2002-07-26, West Bromwich Albion history (the namesake is a Welsh women's international)"}
   ]
 }

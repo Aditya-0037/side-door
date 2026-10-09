@@ -1,0 +1,199 @@
+{
+ "sport": "f1",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "057DA9D9-399B-437E-8BCA-A80E499125EF",
+   "name": "Interstellar"
+  },
+  {
+   "entity_id": "B6FA456F-B729-4700-B01F-E82AD3AC8ADA",
+   "name": "Coldplay"
+  },
+  {
+   "entity_id": "CDBDE254-71F0-4640-8D04-5373BEAE5278",
+   "name": "Minecraft"
+  }
+ ],
+ "featured": {
+  "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+  "name": "Lando Norris",
+  "team": "McLaren",
+  "crowd_rank": 6,
+  "personal_rank": 2,
+  "lift": 4,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Lando Norris #2 of 17; the crowd ranks them #6.",
+  "distinctive_seed": null,
+  "seed_shares_pct": [
+   {
+    "seed": "Minecraft",
+    "pct": 38
+   },
+   {
+    "seed": "Interstellar",
+    "pct": 33
+   },
+   {
+    "seed": "Coldplay",
+    "pct": 29
+   }
+  ],
+  "next_event": {
+   "sport": "f1",
+   "kind": "race",
+   "title": "Singapore Grand Prix — Race",
+   "start_utc": "2026-10-11T12:00:00+00:00",
+   "start_ist": "2026-10-11T17:30:00+05:30",
+   "label_ist": "Sun 11 Oct, 17:30 IST",
+   "window": "evenings",
+   "fits_window": true,
+   "suggestion": null
+  },
+  "clips": [],
+  "debug": {
+   "final": 0.8696691176470588,
+   "pct_personal": 0.9375,
+   "crowd_pct": 0.6875,
+   "distinctive_ratio": 1.032714192027172
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+   "name": "Lewis Hamilton",
+   "team": "Ferrari",
+   "crowd_rank": 1,
+   "personal_rank": 1,
+   "lift": 0,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Lewis Hamilton #1 of 17; the crowd ranks them #1.",
+   "distinctive_seed": "Coldplay",
+   "seed_shares_pct": [
+    {
+     "seed": "Coldplay",
+     "pct": 34
+    },
+    {
+     "seed": "Minecraft",
+     "pct": 34
+    },
+    {
+     "seed": "Interstellar",
+     "pct": 32
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.85,
+    "pct_personal": 1.0,
+    "crowd_pct": 1.0,
+    "distinctive_ratio": 1.1324405934942106
+   }
+  },
+  {
+   "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+   "name": "Nico Hülkenberg",
+   "team": "Audi",
+   "crowd_rank": 11,
+   "personal_rank": 5,
+   "lift": 6,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Interstellar, Coldplay, Minecraft) rank Nico Hülkenberg #5 of 17; the crowd ranks them #11.",
+   "distinctive_seed": "Coldplay",
+   "seed_shares_pct": [
+    {
+     "seed": "Minecraft",
+     "pct": 36
+    },
+    {
+     "seed": "Interstellar",
+     "pct": 32
+    },
+    {
+     "seed": "Coldplay",
+     "pct": 32
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.7466911764705882,
+    "pct_personal": 0.75,
+    "crowd_pct": 0.375,
+    "distinctive_ratio": 1.0581461061412767
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+    "name": "Oliver Bearman",
+    "team": "Haas F1 Team"
+   },
+   {
+    "entity_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
+    "name": "Andrea Kimi Antonelli",
+    "team": "Mercedes"
+   },
+   {
+    "entity_id": "7C71E983-52BB-4273-91A1-570068448979",
+    "name": "Arvid Lindblad",
+    "team": "RB F1 Team"
+   },
+   {
+    "entity_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
+    "name": "Franco Colapinto",
+    "team": "Alpine F1 Team"
+   },
+   {
+    "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+    "name": "Isack Hadjar",
+    "team": "Red Bull"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": true,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 22 athletes, qloo_calls=0",
+   "ms": 22,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 5,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": true,
+ "precomputed": false
+}

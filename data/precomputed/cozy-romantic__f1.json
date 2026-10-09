@@ -1,0 +1,199 @@
+{
+ "sport": "f1",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "A1407445-5676-4874-B796-3D81FDA62468",
+   "name": "Pride & Prejudice"
+  },
+  {
+   "entity_id": "4BBEF799-A0C4-4110-AB01-39216993C312",
+   "name": "Taylor Swift"
+  },
+  {
+   "entity_id": "2225FC45-A2BE-454C-8527-6EAF3F4BF3DB",
+   "name": "The Sims 4"
+  }
+ ],
+ "featured": {
+  "entity_id": "1A6309AB-011E-4835-AAB1-A25F4B67CCC2",
+  "name": "Carlos Sainz Jr.",
+  "team": "Williams",
+  "crowd_rank": 9,
+  "personal_rank": 3,
+  "lift": 6,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (Pride & Prejudice, Taylor Swift, The Sims 4) rank Carlos Sainz Jr. #3 of 17; the crowd ranks them #9.",
+  "distinctive_seed": null,
+  "seed_shares_pct": [
+   {
+    "seed": "Pride & Prejudice",
+    "pct": 34
+   },
+   {
+    "seed": "The Sims 4",
+    "pct": 33
+   },
+   {
+    "seed": "Taylor Swift",
+    "pct": 33
+   }
+  ],
+  "next_event": {
+   "sport": "f1",
+   "kind": "race",
+   "title": "Singapore Grand Prix — Race",
+   "start_utc": "2026-10-11T12:00:00+00:00",
+   "start_ist": "2026-10-11T17:30:00+05:30",
+   "label_ist": "Sun 11 Oct, 17:30 IST",
+   "window": "evenings",
+   "fits_window": true,
+   "suggestion": null
+  },
+  "clips": [],
+  "debug": {
+   "final": 0.8529411764705883,
+   "pct_personal": 0.875,
+   "crowd_pct": 0.5,
+   "distinctive_ratio": 1.016157456352969
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "FD681F02-1EA5-4E8F-B036-3C93D80B81E7",
+   "name": "Lewis Hamilton",
+   "team": "Ferrari",
+   "crowd_rank": 1,
+   "personal_rank": 1,
+   "lift": 0,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Pride & Prejudice, Taylor Swift, The Sims 4) rank Lewis Hamilton #1 of 17; the crowd ranks them #1.",
+   "distinctive_seed": "Taylor Swift",
+   "seed_shares_pct": [
+    {
+     "seed": "Taylor Swift",
+     "pct": 38
+    },
+    {
+     "seed": "The Sims 4",
+     "pct": 32
+    },
+    {
+     "seed": "Pride & Prejudice",
+     "pct": 30
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.85,
+    "pct_personal": 1.0,
+    "crowd_pct": 1.0,
+    "distinctive_ratio": 1.1473619053421742
+   }
+  },
+  {
+   "entity_id": "B54EAEF7-66C6-498D-8733-164F90A25D0B",
+   "name": "Nico Hülkenberg",
+   "team": "Audi",
+   "crowd_rank": 11,
+   "personal_rank": 4,
+   "lift": 7,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Pride & Prejudice, Taylor Swift, The Sims 4) rank Nico Hülkenberg #4 of 17; the crowd ranks them #11.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Taylor Swift",
+     "pct": 34
+    },
+    {
+     "seed": "The Sims 4",
+     "pct": 33
+    },
+    {
+     "seed": "Pride & Prejudice",
+     "pct": 32
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.8180147058823529,
+    "pct_personal": 0.8125,
+    "crowd_pct": 0.375,
+    "distinctive_ratio": 1.035696884464874
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+    "name": "Oliver Bearman",
+    "team": "Haas F1 Team"
+   },
+   {
+    "entity_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
+    "name": "Andrea Kimi Antonelli",
+    "team": "Mercedes"
+   },
+   {
+    "entity_id": "7C71E983-52BB-4273-91A1-570068448979",
+    "name": "Arvid Lindblad",
+    "team": "RB F1 Team"
+   },
+   {
+    "entity_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
+    "name": "Franco Colapinto",
+    "team": "Alpine F1 Team"
+   },
+   {
+    "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+    "name": "Isack Hadjar",
+    "team": "Red Bull"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": true,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 22 athletes, qloo_calls=1",
+   "ms": 404,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 6,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": false,
+ "precomputed": false
+}

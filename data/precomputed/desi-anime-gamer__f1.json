@@ -1,0 +1,199 @@
+{
+ "sport": "f1",
+ "window": "evenings",
+ "seeds": [
+  {
+   "entity_id": "9B33A620-68CA-49B3-BFCF-F09CCF8AD595",
+   "name": "Spirited Away"
+  },
+  {
+   "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+   "name": "Arijit Singh"
+  },
+  {
+   "entity_id": "38AE774E-F217-4C96-BE77-B3B40A6344E4",
+   "name": "Valorant"
+  }
+ ],
+ "featured": {
+  "entity_id": "7248B65E-719E-49E2-AECC-B6972E9A8FF4",
+  "name": "Alexander Albon",
+  "team": "Williams",
+  "crowd_rank": 13,
+  "personal_rank": 1,
+  "lift": 12,
+  "n_scored": 17,
+  "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Alexander Albon #1 of 17; the crowd ranks them #13.",
+  "distinctive_seed": null,
+  "seed_shares_pct": [
+   {
+    "seed": "Valorant",
+    "pct": 37
+   },
+   {
+    "seed": "Spirited Away",
+    "pct": 34
+   },
+   {
+    "seed": "Arijit Singh",
+    "pct": 29
+   }
+  ],
+  "next_event": {
+   "sport": "f1",
+   "kind": "race",
+   "title": "Singapore Grand Prix — Race",
+   "start_utc": "2026-10-11T12:00:00+00:00",
+   "start_ist": "2026-10-11T17:30:00+05:30",
+   "label_ist": "Sun 11 Oct, 17:30 IST",
+   "window": "evenings",
+   "fits_window": true,
+   "suggestion": null
+  },
+  "clips": [],
+  "debug": {
+   "final": 1.0683823529411764,
+   "pct_personal": 1.0,
+   "crowd_pct": 0.25,
+   "distinctive_ratio": 1.0067816740704312
+  }
+ },
+ "alternates": [
+  {
+   "entity_id": "2E398BAD-AD97-4926-B4B5-DABA15844741",
+   "name": "Lando Norris",
+   "team": "McLaren",
+   "crowd_rank": 6,
+   "personal_rank": 2,
+   "lift": 4,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Lando Norris #2 of 17; the crowd ranks them #6.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Valorant",
+     "pct": 38
+    },
+    {
+     "seed": "Spirited Away",
+     "pct": 34
+    },
+    {
+     "seed": "Arijit Singh",
+     "pct": 28
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.8696691176470588,
+    "pct_personal": 0.9375,
+    "crowd_pct": 0.6875,
+    "distinctive_ratio": 1.0364957370452226
+   }
+  },
+  {
+   "entity_id": "83C2E24B-1E94-4C62-BF09-5C0F9FA38450",
+   "name": "Valtteri Bottas",
+   "team": "Cadillac F1 Team",
+   "crowd_rank": 10,
+   "personal_rank": 4,
+   "lift": 6,
+   "n_scored": 17,
+   "why_line": "People whose taste overlaps yours (Spirited Away, Arijit Singh, Valorant) rank Valtteri Bottas #4 of 17; the crowd ranks them #10.",
+   "distinctive_seed": null,
+   "seed_shares_pct": [
+    {
+     "seed": "Valorant",
+     "pct": 36
+    },
+    {
+     "seed": "Spirited Away",
+     "pct": 35
+    },
+    {
+     "seed": "Arijit Singh",
+     "pct": 29
+    }
+   ],
+   "next_event": {
+    "sport": "f1",
+    "kind": "race",
+    "title": "Singapore Grand Prix — Race",
+    "start_utc": "2026-10-11T12:00:00+00:00",
+    "start_ist": "2026-10-11T17:30:00+05:30",
+    "label_ist": "Sun 11 Oct, 17:30 IST",
+    "window": "evenings",
+    "fits_window": true,
+    "suggestion": null
+   },
+   "clips": [],
+   "debug": {
+    "final": 0.7998161764705882,
+    "pct_personal": 0.8125,
+    "crowd_pct": 0.4375,
+    "distinctive_ratio": 1.017518684529
+   }
+  }
+ ],
+ "unknown": {
+  "title": "New on the grid — not enough taste data yet",
+  "athletes": [
+   {
+    "entity_id": "156A597A-0CBD-4FD8-997B-5D06D4824D84",
+    "name": "Oliver Bearman",
+    "team": "Haas F1 Team"
+   },
+   {
+    "entity_id": "462EA7AC-0A8E-44D4-A062-1828F55D2B8F",
+    "name": "Andrea Kimi Antonelli",
+    "team": "Mercedes"
+   },
+   {
+    "entity_id": "7C71E983-52BB-4273-91A1-570068448979",
+    "name": "Arvid Lindblad",
+    "team": "RB F1 Team"
+   },
+   {
+    "entity_id": "DFFEFED2-202D-484C-AB77-734F3EF3F4DA",
+    "name": "Franco Colapinto",
+    "team": "Alpine F1 Team"
+   },
+   {
+    "entity_id": "F46BBACD-A50F-4DBA-A3A6-75C22C891A3B",
+    "name": "Isack Hadjar",
+    "team": "Red Bull"
+   }
+  ]
+ },
+ "n_scored": 17,
+ "events_available": true,
+ "trace": [
+  {
+   "step": "rank (qloo insights + taste lift)",
+   "detail": "3 seeds x 22 athletes, qloo_calls=1",
+   "ms": 1486,
+   "ok": true,
+   "error": null
+  },
+  {
+   "step": "why+events+clips",
+   "detail": "3 cards",
+   "ms": 1005,
+   "ok": true,
+   "error": null
+  }
+ ],
+ "cached": false,
+ "precomputed": false
+}
